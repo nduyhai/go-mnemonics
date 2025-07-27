@@ -1,0 +1,31 @@
+name: Update Starred Repos
+
+on:
+  schedule:
+    - cron: "0 2 * * 1" # Every Monday at 2AM UTC
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: ${{ matrix.go-version }}
+
+      - name: Run Go Script
+        env:
+          GITHUB_USERNAME: nduyhai
+          GITHUB_TOKEN: ${{ secrets.GH_STAR_TOKEN }}
+        run: go run .github/scripts/fetch_starred.go
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "nduyhai@users.noreply.github.com"
+          git add starred.* stars/
+          git commit -m "update starred repos via Go script" || echo "No changes"
+          git push
