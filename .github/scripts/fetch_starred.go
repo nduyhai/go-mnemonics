@@ -13,18 +13,19 @@ import (
 )
 
 type Repo struct {
-	FullName    string `json:"full_name"`
-	HTMLURL     string `json:"html_url"`
-	Description string `json:"description"`
-	Language    string `json:"language"`
+	FullName    string   `json:"full_name"`
+	HTMLURL     string   `json:"html_url"`
+	Description string   `json:"description"`
+	Language    string   `json:"language"`
+	Topics      []string `json:"topics"`
 }
 
 type SimpleRepo struct {
-	Name        string `json:"name"`
-	URL         string `json:"url"`
-	Description string `json:"description"`
-	Language    string `json:"language"`
-	Category    string `json:"category"`
+	Name        string   `json:"name"`
+	URL         string   `json:"url"`
+	Description string   `json:"description"`
+	Language    string   `json:"language"`
+	Topics      []string `json:"topics"`
 }
 
 func fetchStarred(username, token string) ([]SimpleRepo, error) {
@@ -57,7 +58,7 @@ func fetchStarred(username, token string) ([]SimpleRepo, error) {
 		}
 
 		for _, r := range repos {
-			// Default to "Unknown" if language is not specified
+			// Default to "Unknown" if the language is not specified
 			language := r.Language
 			if language == "" {
 				language = "Unknown"
@@ -68,7 +69,7 @@ func fetchStarred(username, token string) ([]SimpleRepo, error) {
 				URL:         r.HTMLURL,
 				Description: r.Description,
 				Language:    language,
-				Category:    "Uncategorized",
+				Topics:      r.Topics,
 			})
 		}
 		page++
@@ -141,14 +142,22 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 
 		// Build markdown content
 		var sb strings.Builder
-		sb.WriteString(fmt.Sprintf("# 🌟 %s Repositories Starred by @%s\n\n", language, username))
+		sb.WriteString(fmt.Sprintf("# 🌟 %s Repositories Starred by [@%s](https://github.com/%s)\n\n", language, username, username))
 		sb.WriteString(fmt.Sprintf("Auto-generated on %s\n\n", timestamp))
-		sb.WriteString("| Name | Description |\n|------|-------------|\n")
+		sb.WriteString("| Name | Description | Topics |\n|------|-------------|-------|\n")
 
-		// Add each repository to the markdown
+		// Add each repository to the Markdown
 		for _, r := range langRepos {
 			desc := strings.ReplaceAll(r.Description, "\n", " ")
-			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s |\n", r.Name, r.URL, desc))
+			
+			// Format topics as clickable links to GitHub topic pages
+			var topicLinks []string
+			for _, topic := range r.Topics {
+				topicLinks = append(topicLinks, fmt.Sprintf("[%s](https://github.com/topics/%s)", topic, topic))
+			}
+			topicsFormatted := strings.Join(topicLinks, ", ")
+			
+			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s |\n", r.Name, r.URL, desc, topicsFormatted))
 		}
 
 		// Write the Markdown file
