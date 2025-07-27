@@ -150,9 +150,14 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 		for _, r := range langRepos {
 			desc := strings.ReplaceAll(r.Description, "\n", " ")
 			
-			// Format topics as clickable links to GitHub topic pages
+			// Format topics as clickable links to GitHub topic pages (max 3)
 			var topicLinks []string
-			for _, topic := range r.Topics {
+			// Limit to maximum 3 topics
+			topicsToShow := r.Topics
+			if len(topicsToShow) > 3 {
+				topicsToShow = topicsToShow[:3]
+			}
+			for _, topic := range topicsToShow {
 				topicLinks = append(topicLinks, fmt.Sprintf("[%s](https://github.com/topics/%s)", topic, topic))
 			}
 			topicsFormatted := strings.Join(topicLinks, ", ")
