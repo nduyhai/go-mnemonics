@@ -1,7 +1,7 @@
-# 🌟 Cuda Repositories Starred by @nduyhai
+# 🌟 Cuda Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-07-27T13:18:26Z
+Auto-generated on 2025-07-27T13:36:26Z
 
-| Name | Description |
-|------|-------------|
-| [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) | Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189 |
+| Name | Description | Topics |
+|------|-------------|-------|
+| [luanfujun/deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization) | Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189 |  |

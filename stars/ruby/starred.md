@@ -1,13 +1,13 @@
-# 🌟 Ruby Repositories Starred by @nduyhai
+# 🌟 Ruby Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-07-27T13:18:26Z
+Auto-generated on 2025-07-27T13:36:26Z
 
-| Name | Description |
-|------|-------------|
-| [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS (or Linux) |
-| [chef/chef](https://github.com/chef/chef) | Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale |
-| [forem/forem](https://github.com/forem/forem) | For empowering community 🌱 |
-| [hashicorp/vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. |
-| [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | A curated list of engineering blogs |
-| [puppetlabs/puppet](https://github.com/puppetlabs/puppet) | Server automation framework and application |
-| [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) | Puppet module for Foreman |
+| Name | Description | Topics |
+|------|-------------|-------|
+| [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS (or Linux) | [core](https://github.com/topics/core), [formulae](https://github.com/topics/formulae), [hacktoberfest](https://github.com/topics/hacktoberfest), [homebrew](https://github.com/topics/homebrew), [ruby](https://github.com/topics/ruby), [tap](https://github.com/topics/tap) |
+| [chef/chef](https://github.com/chef/chef) | Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale | [automation](https://github.com/topics/automation), [cfgmgt](https://github.com/topics/cfgmgt), [chef](https://github.com/topics/chef), [deployment](https://github.com/topics/deployment), [devops](https://github.com/topics/devops), [hacktoberfest](https://github.com/topics/hacktoberfest), [infrastructure](https://github.com/topics/infrastructure) |
+| [forem/forem](https://github.com/forem/forem) | For empowering community 🌱 | [community](https://github.com/topics/community), [discussion](https://github.com/topics/discussion), [feedback](https://github.com/topics/feedback), [hacktoberfest](https://github.com/topics/hacktoberfest), [open-source](https://github.com/topics/open-source), [rails](https://github.com/topics/rails), [ruby](https://github.com/topics/ruby) |
+| [hashicorp/vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. | [automation](https://github.com/topics/automation), [ruby](https://github.com/topics/ruby), [vagrant](https://github.com/topics/vagrant), [virtualization](https://github.com/topics/virtualization) |
+| [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | A curated list of engineering blogs | [engineering-blogs](https://github.com/topics/engineering-blogs), [lists](https://github.com/topics/lists), [programming-blogs](https://github.com/topics/programming-blogs), [software-development](https://github.com/topics/software-development), [tech](https://github.com/topics/tech) |
+| [puppetlabs/puppet](https://github.com/puppetlabs/puppet) | Server automation framework and application |  |
+| [theforeman/puppet-foreman](https://github.com/theforeman/puppet-foreman) | Puppet module for Foreman | [hacktoberfest](https://github.com/topics/hacktoberfest) |
