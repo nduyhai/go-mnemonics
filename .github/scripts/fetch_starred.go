@@ -151,7 +151,7 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s |\n", r.Name, r.URL, desc))
 		}
 
-		// Write the markdown file
+		// Write the Markdown file
 		mdFilePath := filepath.Join(langDir, "starred.md")
 		if err := os.WriteFile(mdFilePath, []byte(sb.String()), 0644); err != nil {
 			return err

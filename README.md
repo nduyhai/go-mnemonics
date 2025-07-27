@@ -54,7 +54,19 @@ This project uses a GitHub Actions workflow to:
 
    Add your GitHub personal access token as a repository secret named `GH_STAR_TOKEN`.
 
-4. **Run manually or wait for scheduled run**
+4. **Grant Write Permissions to GITHUB_TOKEN**
+
+   Go to your repository settings:
+   ```
+   https://github.com/YOUR_USERNAME/go-mnemonics/settings/actions
+   ```
+   Scroll down to Workflow permissions and select:
+   - ✅ Read and write permissions
+   - ✅ Allow GitHub Actions to create and approve pull requests (optional)
+   
+   Click Save.
+
+5. **Run manually or wait for scheduled run**
 
    You can manually trigger the workflow from the Actions tab in your repository, or wait for the scheduled run.
 
