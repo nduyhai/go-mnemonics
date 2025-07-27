@@ -1,5 +1,76 @@
 [
   {
+    "name": "cloudflare/cloudflared",
+    "url": "https://github.com/cloudflare/cloudflared",
+    "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "language": "Go",
+    "topics": [
+      "argo-tunnel",
+      "cloudflare",
+      "cloudflare-tunnel",
+      "reverse-proxy",
+      "zero-trust-network-access"
+    ]
+  },
+  {
+    "name": "cloudflare/quiche",
+    "url": "https://github.com/cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "topics": [
+      "http3",
+      "network-programming",
+      "protocol",
+      "quic",
+      "rust"
+    ]
+  },
+  {
+    "name": "cloudflare/workers-rs",
+    "url": "https://github.com/cloudflare/workers-rs",
+    "description": "Write Cloudflare Workers in 100% Rust via WebAssembly",
+    "language": "Rust",
+    "topics": [
+      "cloudflare",
+      "ffi",
+      "rust",
+      "serverless",
+      "webassembly",
+      "workers",
+      "workers-rs"
+    ]
+  },
+  {
+    "name": "m1k1o/neko",
+    "url": "https://github.com/m1k1o/neko",
+    "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+    "language": "Go",
+    "topics": [
+      "docker",
+      "golang",
+      "media-streaming",
+      "remote-control",
+      "remote-desktop",
+      "self-hosted",
+      "virtual-browser",
+      "vue",
+      "webrtc"
+    ]
+  },
+  {
+    "name": "uber/h3",
+    "url": "https://github.com/uber/h3",
+    "description": "Hexagonal hierarchical geospatial indexing system",
+    "language": "C",
+    "topics": [
+      "geospatial",
+      "h3",
+      "hexagon",
+      "spatial-indexing",
+      "uber"
+    ]
+  },
+  {
     "name": "gosom/google-maps-scraper",
     "url": "https://github.com/gosom/google-maps-scraper",
     "description": "scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
@@ -12247,6 +12318,7 @@
       "agentops",
       "agents",
       "ai",
+      "ai-governance",
       "apache-spark",
       "evaluation",
       "langchain",
@@ -12255,6 +12327,7 @@
       "machine-learning",
       "ml",
       "mlflow",
+      "mlops",
       "model-management",
       "observability",
       "open-source",
