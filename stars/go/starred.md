@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-07-27T14:45:47Z
+Auto-generated on 2025-07-28T02:52:24Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -204,6 +204,7 @@ Auto-generated on 2025-07-27T14:45:47Z
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | A community driven registry service for Model Context Protocol (MCP) servers. | [mcp](https://github.com/topics/mcp), [mcp-servers](https://github.com/topics/mcp-servers) |
 | [motiv-labs/janus](https://github.com/motiv-labs/janus) | An API Gateway written in Go | [api](https://github.com/topics/api), [api-gateway](https://github.com/topics/api-gateway), [engineering-experience-squad](https://github.com/topics/engineering-experience-squad) |
 | [muesli/duf](https://github.com/muesli/duf) | Disk Usage/Free Utility - a better 'df' alternative | [cli](https://github.com/topics/cli), [df](https://github.com/topics/df), [disk-space](https://github.com/topics/disk-space) |
+| [mwitkow/go-proto-validators](https://github.com/mwitkow/go-proto-validators) | Generate message validators from .proto annotations. | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [proto](https://github.com/topics/proto) |
 | [nats-io/nats-server](https://github.com/nats-io/nats-server) | High-Performance server for NATS.io, the cloud and edge native messaging system. | [cloud](https://github.com/topics/cloud), [cloud-computing](https://github.com/topics/cloud-computing), [cloud-native](https://github.com/topics/cloud-native) |
 | [nduyhai/gopulse](https://github.com/nduyhai/gopulse) | Lightweight health and readiness checks for Go services |  |
 | [nduyhai/passforge](https://github.com/nduyhai/passforge) | PassForge is a Go library for secure password encoding and verification | [encryption-decryption](https://github.com/topics/encryption-decryption), [golang](https://github.com/topics/golang), [password](https://github.com/topics/password) |
