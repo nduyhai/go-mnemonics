@@ -119,7 +119,51 @@ func writeJSON(repos []SimpleRepo) error {
 	return encoder.Encode(repos)
 }
 
-func writeMarkdown(repos []SimpleRepo, username string) error {
+// formatTopics formats repository topics as clickable links (limited to 3)
+func formatTopics(topics []string) string {
+	var topicLinks []string
+	// Limit to maximum 3 topics
+	topicsToShow := topics
+	if len(topicsToShow) > 3 {
+		topicsToShow = topicsToShow[:3]
+	}
+	for _, topic := range topicsToShow {
+		topicLinks = append(topicLinks, fmt.Sprintf("[%s](https://github.com/topics/%s)", topic, topic))
+	}
+	return strings.Join(topicLinks, ", ")
+}
+
+// generateMarkdownContent creates markdown content for a list of repositories
+func generateMarkdownContent(repos []SimpleRepo, title string, username string, timestamp string, includeLanguage bool) string {
+	var sb strings.Builder
+
+	// Add header
+	sb.WriteString(fmt.Sprintf("# 🌟 %s Repositories Starred by [@%s](https://github.com/%s)\n\n", title, username, username))
+	sb.WriteString(fmt.Sprintf("Auto-generated on %s\n\n", timestamp))
+
+	// Add a table header based on whether a language column is included
+	if includeLanguage {
+		sb.WriteString("| Name | Description | Language | Topics |\n|------|-------------|----------|-------|\n")
+	} else {
+		sb.WriteString("| Name | Description | Topics |\n|------|-------------|-------|\n")
+	}
+
+	// Add each repository to the markdown
+	for _, r := range repos {
+		desc := strings.ReplaceAll(r.Description, "\n", " ")
+		topicsFormatted := formatTopics(r.Topics)
+
+		if includeLanguage {
+			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s | %s |\n", r.Name, r.URL, desc, r.Language, topicsFormatted))
+		} else {
+			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s |\n", r.Name, r.URL, desc, topicsFormatted))
+		}
+	}
+
+	return sb.String()
+}
+
+func writeMarkdown(repos []SimpleRepo, username string, defaultLangs map[string]bool) error {
 	// Organize repositories by language
 	reposByLanguage := organizeReposByLanguage(repos)
 
@@ -131,18 +175,6 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 
 	// Generate timestamp for all files
 	timestamp := time.Now().Format(time.RFC3339)
-
-	// Get default languages from environment variable
-	defaultLangsStr := os.Getenv("DEFAULT_LANGUAGES")
-	if defaultLangsStr == "" {
-		defaultLangsStr = "go,rust,java" // Default if isn't specified
-	}
-
-	// Parse default languages
-	defaultLangs := make(map[string]bool)
-	for _, lang := range strings.Split(defaultLangsStr, ",") {
-		defaultLangs[strings.ToLower(strings.TrimSpace(lang))] = true
-	}
 
 	// Create a map to hold repositories for the "unknown" category
 	unknownRepos := make([]SimpleRepo, 0)
@@ -163,34 +195,10 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 			return err
 		}
 
-		// Build markdown content
-		var sb strings.Builder
-		sb.WriteString(fmt.Sprintf("# 🌟 %s Repositories Starred by [@%s](https://github.com/%s)\n\n", language, username, username))
-		sb.WriteString(fmt.Sprintf("Auto-generated on %s\n\n", timestamp))
-		sb.WriteString("| Name | Description | Topics |\n|------|-------------|-------|\n")
-
-		// Add each repository to the Markdown
-		for _, r := range langRepos {
-			desc := strings.ReplaceAll(r.Description, "\n", " ")
-
-			// Format topics as clickable links to GitHub topic pages (max 3)
-			var topicLinks []string
-			// Limit to maximum 3 topics
-			topicsToShow := r.Topics
-			if len(topicsToShow) > 3 {
-				topicsToShow = topicsToShow[:3]
-			}
-			for _, topic := range topicsToShow {
-				topicLinks = append(topicLinks, fmt.Sprintf("[%s](https://github.com/topics/%s)", topic, topic))
-			}
-			topicsFormatted := strings.Join(topicLinks, ", ")
-
-			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s |\n", r.Name, r.URL, desc, topicsFormatted))
-		}
-
-		// Write the Markdown file
+		// Generate markdown content and write to a file
+		mdContent := generateMarkdownContent(langRepos, language, username, timestamp, false)
 		mdFilePath := filepath.Join(langDir, "starred.md")
-		if err := os.WriteFile(mdFilePath, []byte(sb.String()), 0644); err != nil {
+		if err := os.WriteFile(mdFilePath, []byte(mdContent), 0644); err != nil {
 			return err
 		}
 	}
@@ -212,35 +220,10 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 			return err
 		}
 
-		// Build markdown content for unknown
-		var sb strings.Builder
-		sb.WriteString(fmt.Sprintf("# 🌟 Unknown Repositories Starred by [@%s](https://github.com/%s)\n\n", username, username))
-		sb.WriteString(fmt.Sprintf("Auto-generated on %s\n\n", timestamp))
-		sb.WriteString("| Name | Description | Language | Topics |\n|------|-------------|----------|-------|\n")
-
-		// Add each repository to the Markdown with language information
-		for _, r := range unknownRepos {
-			desc := strings.ReplaceAll(r.Description, "\n", " ")
-
-			// Format topics as clickable links to GitHub topic pages (max 3)
-			var topicLinks []string
-			// Limit to maximum 3 topics
-			topicsToShow := r.Topics
-			if len(topicsToShow) > 3 {
-				topicsToShow = topicsToShow[:3]
-			}
-			for _, topic := range topicsToShow {
-				topicLinks = append(topicLinks, fmt.Sprintf("[%s](https://github.com/topics/%s)", topic, topic))
-			}
-			topicsFormatted := strings.Join(topicLinks, ", ")
-
-			// Include language in the table for unknown repos
-			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s | %s |\n", r.Name, r.URL, desc, r.Language, topicsFormatted))
-		}
-
-		// Write the Markdown file
+		// Generate markdown content and write to a file
+		mdContent := generateMarkdownContent(unknownRepos, "Unknown", username, timestamp, true)
 		mdFilePath := filepath.Join(unknownDir, "starred.md")
-		if err := os.WriteFile(mdFilePath, []byte(sb.String()), 0644); err != nil {
+		if err := os.WriteFile(mdFilePath, []byte(mdContent), 0644); err != nil {
 			return err
 		}
 	}
@@ -257,6 +240,18 @@ func main() {
 		os.Exit(1)
 	}
 
+	// Get default languages from environment variable
+	defaultLangsStr := os.Getenv("DEFAULT_LANGUAGES")
+	if defaultLangsStr == "" {
+		defaultLangsStr = "go,rust,java" // Default if isn't specified
+	}
+
+	// Parse default languages
+	defaultLangs := make(map[string]bool)
+	for _, lang := range strings.Split(defaultLangsStr, ",") {
+		defaultLangs[strings.ToLower(strings.TrimSpace(lang))] = true
+	}
+
 	repos, err := fetchStarred(username, token)
 	if err != nil {
 		panic(err)
@@ -266,7 +261,7 @@ func main() {
 		panic(err)
 	}
 
-	if err := writeMarkdown(repos, username); err != nil {
+	if err := writeMarkdown(repos, username, defaultLangs); err != nil {
 		panic(err)
 	}
 }
