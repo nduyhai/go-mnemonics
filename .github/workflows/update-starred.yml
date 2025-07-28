@@ -20,6 +20,7 @@ jobs:
         env:
           GITHUB_USERNAME: nduyhai
           GITHUB_TOKEN: ${{ secrets.GH_STAR_TOKEN }}
+          DEFAULT_LANGUAGES: "go,rust,java"
         run: go run .github/scripts/fetch_starred.go
 
       - name: Commit changes

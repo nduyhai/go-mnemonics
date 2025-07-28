@@ -132,10 +132,33 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 	// Generate timestamp for all files
 	timestamp := time.Now().Format(time.RFC3339)
 
-	// Create a Markdown file for each language
+	// Get default languages from environment variable
+	defaultLangsStr := os.Getenv("DEFAULT_LANGUAGES")
+	if defaultLangsStr == "" {
+		defaultLangsStr = "go,rust,java" // Default if isn't specified
+	}
+
+	// Parse default languages
+	defaultLangs := make(map[string]bool)
+	for _, lang := range strings.Split(defaultLangsStr, ",") {
+		defaultLangs[strings.ToLower(strings.TrimSpace(lang))] = true
+	}
+
+	// Create a map to hold repositories for the "unknown" category
+	unknownRepos := make([]SimpleRepo, 0)
+
+	// Create a Markdown file for each default language
 	for language, langRepos := range reposByLanguage {
+		lowerLang := strings.ToLower(language)
+
+		// If not a default language, add to unknown
+		if !defaultLangs[lowerLang] && lowerLang != "unknown" {
+			unknownRepos = append(unknownRepos, langRepos...)
+			continue
+		}
+
 		// Create a language directory
-		langDir := filepath.Join(starsDir, strings.ToLower(language))
+		langDir := filepath.Join(starsDir, lowerLang)
 		if err := ensureDirectoryExists(langDir); err != nil {
 			return err
 		}
@@ -149,7 +172,7 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 		// Add each repository to the Markdown
 		for _, r := range langRepos {
 			desc := strings.ReplaceAll(r.Description, "\n", " ")
-			
+
 			// Format topics as clickable links to GitHub topic pages (max 3)
 			var topicLinks []string
 			// Limit to maximum 3 topics
@@ -161,12 +184,62 @@ func writeMarkdown(repos []SimpleRepo, username string) error {
 				topicLinks = append(topicLinks, fmt.Sprintf("[%s](https://github.com/topics/%s)", topic, topic))
 			}
 			topicsFormatted := strings.Join(topicLinks, ", ")
-			
+
 			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s |\n", r.Name, r.URL, desc, topicsFormatted))
 		}
 
 		// Write the Markdown file
 		mdFilePath := filepath.Join(langDir, "starred.md")
+		if err := os.WriteFile(mdFilePath, []byte(sb.String()), 0644); err != nil {
+			return err
+		}
+	}
+
+	// Add existing "unknown" repositories to our collected non-default language repos
+	if unknownLangRepos, exists := reposByLanguage["Unknown"]; exists {
+		unknownRepos = append(unknownRepos, unknownLangRepos...)
+	}
+
+	// Sort unknown repos by name
+	sort.Slice(unknownRepos, func(i, j int) bool {
+		return unknownRepos[i].Name < unknownRepos[j].Name
+	})
+
+	// If we have any unknown repos, create the unknown directory and markdown file
+	if len(unknownRepos) > 0 {
+		unknownDir := filepath.Join(starsDir, "unknown")
+		if err := ensureDirectoryExists(unknownDir); err != nil {
+			return err
+		}
+
+		// Build markdown content for unknown
+		var sb strings.Builder
+		sb.WriteString(fmt.Sprintf("# 🌟 Unknown Repositories Starred by [@%s](https://github.com/%s)\n\n", username, username))
+		sb.WriteString(fmt.Sprintf("Auto-generated on %s\n\n", timestamp))
+		sb.WriteString("| Name | Description | Language | Topics |\n|------|-------------|----------|-------|\n")
+
+		// Add each repository to the Markdown with language information
+		for _, r := range unknownRepos {
+			desc := strings.ReplaceAll(r.Description, "\n", " ")
+
+			// Format topics as clickable links to GitHub topic pages (max 3)
+			var topicLinks []string
+			// Limit to maximum 3 topics
+			topicsToShow := r.Topics
+			if len(topicsToShow) > 3 {
+				topicsToShow = topicsToShow[:3]
+			}
+			for _, topic := range topicsToShow {
+				topicLinks = append(topicLinks, fmt.Sprintf("[%s](https://github.com/topics/%s)", topic, topic))
+			}
+			topicsFormatted := strings.Join(topicLinks, ", ")
+
+			// Include language in the table for unknown repos
+			sb.WriteString(fmt.Sprintf("| [%s](%s) | %s | %s | %s |\n", r.Name, r.URL, desc, r.Language, topicsFormatted))
+		}
+
+		// Write the Markdown file
+		mdFilePath := filepath.Join(unknownDir, "starred.md")
 		if err := os.WriteFile(mdFilePath, []byte(sb.String()), 0644); err != nil {
 			return err
 		}
