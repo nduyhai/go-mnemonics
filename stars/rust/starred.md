@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-07-28T12:03:19Z
+Auto-generated on 2025-08-04T02:55:58Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -20,6 +20,7 @@ Auto-generated on 2025-07-28T12:03:19Z
 | [hatoo/oha](https://github.com/hatoo/oha) | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. | [benchmark](https://github.com/topics/benchmark), [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line) |
 | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | [async](https://github.com/topics/async), [grpc](https://github.com/topics/grpc), [proto](https://github.com/topics/proto) |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
+| [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
 | [openobserve/openobserve](https://github.com/openobserve/openobserve) | 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). | [analytics](https://github.com/topics/analytics), [apm](https://github.com/topics/apm), [datadog](https://github.com/topics/datadog) |
 | [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) | The Parity Polkadot Blockchain SDK | [blockchain](https://github.com/topics/blockchain), [cumulus](https://github.com/topics/cumulus), [polkadot](https://github.com/topics/polkadot) |

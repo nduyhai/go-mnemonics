@@ -1,5 +1,168 @@
 [
   {
+    "name": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "description": "Declarative Continuous Deployment for Kubernetes",
+    "language": "Go",
+    "topics": [
+      "argo",
+      "argo-cd",
+      "cd",
+      "ci-cd",
+      "cicd",
+      "continuous-delivery",
+      "continuous-deployment",
+      "devops",
+      "docker",
+      "gitops",
+      "hacktoberfest",
+      "helm",
+      "jsonnet",
+      "kubernetes",
+      "kustomize",
+      "pipeline"
+    ]
+  },
+  {
+    "name": "fluxcd/flux2",
+    "url": "https://github.com/fluxcd/flux2",
+    "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+    "language": "Go",
+    "topics": [
+      "continuous-delivery",
+      "gitops",
+      "gitops-toolkit",
+      "helm",
+      "kubernetes",
+      "kustomize"
+    ]
+  },
+  {
+    "name": "modelcontextprotocol/java-sdk",
+    "url": "https://github.com/modelcontextprotocol/java-sdk",
+    "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+    "language": "Java",
+    "topics": []
+  },
+  {
+    "name": "rtyley/bfg-repo-cleaner",
+    "url": "https://github.com/rtyley/bfg-repo-cleaner",
+    "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+    "language": "Scala",
+    "topics": [
+      "git"
+    ]
+  },
+  {
+    "name": "samber/slog-sampling",
+    "url": "https://github.com/samber/slog-sampling",
+    "description": "🚨 slog sampling: drop repetitive log records",
+    "language": "Go",
+    "topics": [
+      "go",
+      "golang",
+      "handler",
+      "log-level",
+      "logger",
+      "logging",
+      "middleware",
+      "rate-limiting",
+      "sampling",
+      "slog",
+      "structured-logging",
+      "throughput"
+    ]
+  },
+  {
+    "name": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "topics": [
+      "code-editor",
+      "developer-tools",
+      "rust",
+      "text-editor",
+      "vim"
+    ]
+  },
+  {
+    "name": "nduyhai/go-module",
+    "url": "https://github.com/nduyhai/go-module",
+    "description": "go-module template",
+    "language": "Makefile",
+    "topics": []
+  },
+  {
+    "name": "HandBrake/HandBrake",
+    "url": "https://github.com/HandBrake/HandBrake",
+    "description": "HandBrake's main development repository ",
+    "language": "C",
+    "topics": [
+      "gplv2",
+      "multi-platform",
+      "video-transcoding"
+    ]
+  },
+  {
+    "name": "squidfunk/mkdocs-material",
+    "url": "https://github.com/squidfunk/mkdocs-material",
+    "description": "Documentation that simply works",
+    "language": "Python",
+    "topics": [
+      "documentation",
+      "framework",
+      "material-design",
+      "mkdocs",
+      "plugins",
+      "theme"
+    ]
+  },
+  {
+    "name": "JetBrains/koog",
+    "url": "https://github.com/JetBrains/koog",
+    "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "language": "Kotlin",
+    "topics": [
+      "agentframework",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "aiagentframework",
+      "android-ai",
+      "anthropic",
+      "generative-ai",
+      "java",
+      "jvm",
+      "kotlin",
+      "ktor",
+      "llm",
+      "mcp",
+      "ollama",
+      "openai",
+      "spring"
+    ]
+  },
+  {
+    "name": "open-policy-agent/gatekeeper",
+    "url": "https://github.com/open-policy-agent/gatekeeper",
+    "description": "🐊 Policy Controller for Kubernetes",
+    "language": "Go",
+    "topics": [
+      "admission",
+      "cncf",
+      "gatekeeper",
+      "hacktoberfest",
+      "kubernetes",
+      "mutation",
+      "opa",
+      "policy",
+      "policy-engine",
+      "security",
+      "validation"
+    ]
+  },
+  {
     "name": "shopspring/decimal",
     "url": "https://github.com/shopspring/decimal",
     "description": "Arbitrary-precision fixed-point decimal numbers in Go",
@@ -967,13 +1130,6 @@
       "java",
       "spring-boot"
     ]
-  },
-  {
-    "name": "nduyhai/go-module",
-    "url": "https://github.com/nduyhai/go-module",
-    "description": "go-module template",
-    "language": "Makefile",
-    "topics": []
   },
   {
     "name": "cloudevents/sdk-go",
@@ -2993,16 +3149,15 @@
     ]
   },
   {
-    "name": "jhipster/jhipster-lite",
-    "url": "https://github.com/jhipster/jhipster-lite",
-    "description": "JHipster Lite ⚡ is a development platform to generate, develop \u0026 deploy modern web applications \u0026 microservices architecture, step by step - using Hexagonal Architecture :gem:",
+    "name": "seed4j/seed4j",
+    "url": "https://github.com/seed4j/seed4j",
+    "description": "Seed4J 🌱 is a development platform to generate, develop \u0026 deploy modern web applications \u0026 microservices architecture, step by step - using Hexagonal Architecture :gem:",
     "language": "Java",
     "topics": [
       "generator",
       "hacktoberfest",
       "hexagonal-architecture",
       "java",
-      "jhipster",
       "spring-boot",
       "typescript",
       "vuejs"
@@ -10498,7 +10653,7 @@
   {
     "name": "JetBrains/intellij-community",
     "url": "https://github.com/JetBrains/intellij-community",
-    "description": "IntelliJ IDEA Community Edition \u0026 IntelliJ Platform",
+    "description": "IntelliJ IDEA \u0026 IntelliJ Platform",
     "language": "Java",
     "topics": [
       "code-editor",
