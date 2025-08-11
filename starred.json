@@ -1,5 +1,229 @@
 [
   {
+    "name": "axiomatic-systems/Bento4",
+    "url": "https://github.com/axiomatic-systems/Bento4",
+    "description": "Full-featured MP4 format, MPEG DASH, HLS, CMAF SDK and tools",
+    "language": "C++",
+    "topics": [
+      "aac",
+      "ac-3",
+      "ac-4",
+      "audio",
+      "av1",
+      "avc",
+      "cmaf",
+      "codec",
+      "dash",
+      "hevc",
+      "hls",
+      "mp4",
+      "streaming",
+      "video"
+    ]
+  },
+  {
+    "name": "go-gorm/gen",
+    "url": "https://github.com/go-gorm/gen",
+    "description": "Gen:  Friendly \u0026 Safer GORM powered by Code Generation",
+    "language": "Go",
+    "topics": [
+      "generator",
+      "golang",
+      "gorm"
+    ]
+  },
+  {
+    "name": "keycloakify/keycloakify-starter",
+    "url": "https://github.com/keycloakify/keycloakify-starter",
+    "description": "🔑  Keycloakify Projects Starter Template",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "sqlc-dev/sqlc",
+    "url": "https://github.com/sqlc-dev/sqlc",
+    "description": "Generate type-safe code from SQL",
+    "language": "Go",
+    "topics": [
+      "code-generator",
+      "go",
+      "kotlin",
+      "mysql",
+      "orm",
+      "postgresql",
+      "python",
+      "sql",
+      "sqlite"
+    ]
+  },
+  {
+    "name": "zed-industries/zed",
+    "url": "https://github.com/zed-industries/zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "topics": [
+      "gpui",
+      "rust-lang",
+      "text-editor",
+      "zed"
+    ]
+  },
+  {
+    "name": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "zitadel/zitadel",
+    "url": "https://github.com/zitadel/zitadel",
+    "description": "ZITADEL - Identity infrastructure, simplified for you.",
+    "language": "Go",
+    "topics": [
+      "2fa",
+      "authentication",
+      "authorization",
+      "fido2",
+      "identity",
+      "login",
+      "mfa",
+      "multitenancy",
+      "oauth2",
+      "oidc",
+      "openid-connect",
+      "passkeys",
+      "saml",
+      "scim",
+      "sso",
+      "user"
+    ]
+  },
+  {
+    "name": "typicode/husky",
+    "url": "https://github.com/typicode/husky",
+    "description": "Git hooks made easy 🐶 woof!",
+    "language": "JavaScript",
+    "topics": [
+      "commit",
+      "git",
+      "hooks",
+      "pre-commit"
+    ]
+  },
+  {
+    "name": "commitizen/cz-cli",
+    "url": "https://github.com/commitizen/cz-cli",
+    "description": "The commitizen command line utility. #BlackLivesMatter",
+    "language": "JavaScript",
+    "topics": [
+      "command-line",
+      "commit-hooks",
+      "commitizen",
+      "commitizen-adapter",
+      "git",
+      "javascript",
+      "node",
+      "semantic-release",
+      "semantic-versioning",
+      "utilities"
+    ]
+  },
+  {
+    "name": "grafana/grafonnet",
+    "url": "https://github.com/grafana/grafonnet",
+    "description": "Jsonnet library for generating Grafana dashboards.",
+    "language": "Jsonnet",
+    "topics": [
+      "grafana",
+      "jsonnet",
+      "jsonnet-lib"
+    ]
+  },
+  {
+    "name": "semantic-release/semantic-release",
+    "url": "https://github.com/semantic-release/semantic-release",
+    "description": ":package::rocket: Fully automated version management and package publishing",
+    "language": "JavaScript",
+    "topics": [
+      "automation",
+      "changelog",
+      "package",
+      "publish",
+      "release",
+      "release-automation",
+      "release-workflow",
+      "semantic-release",
+      "semantic-version",
+      "semver",
+      "semver-release",
+      "version"
+    ]
+  },
+  {
+    "name": "pre-commit/pre-commit",
+    "url": "https://github.com/pre-commit/pre-commit",
+    "description": "A framework for managing and maintaining multi-language pre-commit hooks.",
+    "language": "Python",
+    "topics": [
+      "git",
+      "linter",
+      "pre-commit",
+      "python",
+      "refactoring"
+    ]
+  },
+  {
+    "name": "rustfs/rustfs",
+    "url": "https://github.com/rustfs/rustfs",
+    "description": "🚀 High-performance distributed object storage for MinIO  alternative.",
+    "language": "Rust",
+    "topics": [
+      "bigdata",
+      "cloud-native",
+      "distributed-systems",
+      "filesystem",
+      "minio",
+      "object-storage",
+      "oss",
+      "rust",
+      "s3"
+    ]
+  },
+  {
+    "name": "joho/godotenv",
+    "url": "https://github.com/joho/godotenv",
+    "description": "A Go port of Ruby's dotenv library (Loads environment variables from .env files)",
+    "language": "Go",
+    "topics": [
+      "dotenv",
+      "environment-variables",
+      "go",
+      "golang"
+    ]
+  },
+  {
+    "name": "reviewdog/reviewdog",
+    "url": "https://github.com/reviewdog/reviewdog",
+    "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+    "language": "Go",
+    "topics": [
+      "bitbucket",
+      "ci",
+      "cli",
+      "code-quality",
+      "code-review",
+      "codereview",
+      "github",
+      "gitlab",
+      "go",
+      "lint",
+      "linter",
+      "static-analysis",
+      "static-code-analysis"
+    ]
+  },
+  {
     "name": "argoproj/argo-cd",
     "url": "https://github.com/argoproj/argo-cd",
     "description": "Declarative Continuous Deployment for Kubernetes",
@@ -2435,7 +2659,7 @@
     "name": "ashishps1/awesome-low-level-design",
     "url": "https://github.com/ashishps1/awesome-low-level-design",
     "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
-    "language": "C++",
+    "language": "Java",
     "topics": [
       "awesome",
       "design-patterns",
@@ -3151,7 +3375,7 @@
   {
     "name": "seed4j/seed4j",
     "url": "https://github.com/seed4j/seed4j",
-    "description": "Seed4J 🌱 is a development platform to generate, develop \u0026 deploy modern web applications \u0026 microservices architecture, step by step - using Hexagonal Architecture :gem:",
+    "description": "Seed4J 🌱 is a modular code generator with clean architecture :gem:",
     "language": "Java",
     "topics": [
       "generator",
@@ -3968,7 +4192,7 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.",
+    "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
     "language": "Go",
     "topics": [
       "deepseek",
@@ -3977,6 +4201,7 @@
       "gemma3n",
       "go",
       "golang",
+      "gpt-oss",
       "llama",
       "llama2",
       "llama3",

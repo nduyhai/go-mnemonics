@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-08-04T02:55:58Z
+Auto-generated on 2025-08-11T02:50:31Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -107,6 +107,7 @@ Auto-generated on 2025-08-04T02:55:58Z
 | [go-co-op/gocron](https://github.com/go-co-op/gocron) | Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron | [clockwork](https://github.com/topics/clockwork), [cron](https://github.com/topics/cron), [gocron](https://github.com/topics/gocron) |
 | [go-co-op/gocron-redis-lock](https://github.com/go-co-op/gocron-redis-lock) |  |  |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | [bitbucket](https://github.com/topics/bitbucket), [cicd](https://github.com/topics/cicd), [devops](https://github.com/topics/devops) |
+| [go-gorm/gen](https://github.com/go-gorm/gen) | Gen:  Friendly & Safer GORM powered by Code Generation | [generator](https://github.com/topics/generator), [golang](https://github.com/topics/golang), [gorm](https://github.com/topics/gorm) |
 | [go-gorm/gorm](https://github.com/go-gorm/gorm) | The fantastic ORM library for Golang, aims to be developer friendly | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [gorm](https://github.com/topics/gorm) |
 | [go-kit/kit](https://github.com/go-kit/kit) | A standard library for microservices. | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [metallica](https://github.com/topics/metallica) |
 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | Your ultimate Go microservices framework for the cloud-native era. | [ai](https://github.com/topics/ai), [architecture](https://github.com/topics/architecture), [cloud-native](https://github.com/topics/cloud-native) |
@@ -167,6 +168,7 @@ Auto-generated on 2025-08-04T02:55:58Z
 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | [cli](https://github.com/topics/cli), [git](https://github.com/topics/git), [terminal](https://github.com/topics/terminal) |
 | [jmattheis/goverter](https://github.com/jmattheis/goverter) | Generate type-safe Go converters by defining function signatures. | [code-generation](https://github.com/topics/code-generation), [converter](https://github.com/topics/converter), [copy](https://github.com/topics/copy) |
 | [joewalnes/websocketd](https://github.com/joewalnes/websocketd) | Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.  | [proxy](https://github.com/topics/proxy), [websocket-server](https://github.com/topics/websocket-server), [websockets](https://github.com/topics/websockets) |
+| [joho/godotenv](https://github.com/joho/godotenv) | A Go port of Ruby's dotenv library (Loads environment variables from .env files) | [dotenv](https://github.com/topics/dotenv), [environment-variables](https://github.com/topics/environment-variables), [go](https://github.com/topics/go) |
 | [josephburnett/jd](https://github.com/josephburnett/jd) | JSON diff and patch | [diff](https://github.com/topics/diff), [json](https://github.com/topics/json), [patch](https://github.com/topics/patch) |
 | [justinas/alice](https://github.com/justinas/alice) | Painless middleware chaining for Go | [go](https://github.com/topics/go), [handler](https://github.com/topics/handler), [middleware](https://github.com/topics/middleware) |
 | [k0kubun/pp](https://github.com/k0kubun/pp) | Colored pretty printer for Go language | [go](https://github.com/topics/go), [pretty-printer](https://github.com/topics/pretty-printer) |
@@ -218,7 +220,7 @@ Auto-generated on 2025-08-04T02:55:58Z
 | [nduyhai/gopulse](https://github.com/nduyhai/gopulse) | Lightweight health and readiness checks for Go services |  |
 | [nduyhai/passforge](https://github.com/nduyhai/passforge) | PassForge is a Go library for secure password encoding and verification | [encryption-decryption](https://github.com/topics/encryption-decryption), [golang](https://github.com/topics/golang), [password](https://github.com/topics/password) |
 | [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) | Generate Go client and server boilerplate from OpenAPI 3 specifications | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [openapi](https://github.com/topics/openapi) |
-| [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. | [deepseek](https://github.com/topics/deepseek), [gemma](https://github.com/topics/gemma), [gemma3](https://github.com/topics/gemma3) |
+| [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. | [deepseek](https://github.com/topics/deepseek), [gemma](https://github.com/topics/gemma), [gemma3](https://github.com/topics/gemma3) |
 | [onsi/ginkgo](https://github.com/onsi/ginkgo) | A Modern Testing Framework for Go | [bdd](https://github.com/topics/bdd), [bdd-framework](https://github.com/topics/bdd-framework), [go](https://github.com/topics/go) |
 | [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) | 🐊 Policy Controller for Kubernetes | [admission](https://github.com/topics/admission), [cncf](https://github.com/topics/cncf), [gatekeeper](https://github.com/topics/gatekeeper) |
 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | Open Policy Agent (OPA) is an open source, general-purpose policy engine. | [authorization](https://github.com/topics/authorization), [cloud-native](https://github.com/topics/cloud-native), [compliance](https://github.com/topics/compliance) |
@@ -252,6 +254,7 @@ Auto-generated on 2025-08-04T02:55:58Z
 | [redis/rueidis](https://github.com/redis/rueidis) | A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. | [cache](https://github.com/topics/cache), [client-side-caching](https://github.com/topics/client-side-caching), [distributed](https://github.com/topics/distributed) |
 | [redpanda-data/connect](https://github.com/redpanda-data/connect) | Fancy stream processing made operationally mundane | [amqp](https://github.com/topics/amqp), [cqrs](https://github.com/topics/cqrs), [data-engineering](https://github.com/topics/data-engineering) |
 | [revel/revel](https://github.com/revel/revel) | A high productivity, full-stack web framework for the Go language. | [hacktoberfest](https://github.com/topics/hacktoberfest), [revel](https://github.com/topics/revel), [web-application](https://github.com/topics/web-application) |
+| [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) | 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language | [bitbucket](https://github.com/topics/bitbucket), [ci](https://github.com/topics/ci), [cli](https://github.com/topics/cli) |
 | [rook/rook](https://github.com/rook/rook) | Storage Orchestration for Kubernetes | [ceph](https://github.com/topics/ceph), [cloud-native](https://github.com/topics/cloud-native), [cncf](https://github.com/topics/cncf) |
 | [rs/zerolog](https://github.com/rs/zerolog) | Zero Allocation JSON Logger | [golang](https://github.com/topics/golang), [json](https://github.com/topics/json), [logging](https://github.com/topics/logging) |
 | [safing/portmaster](https://github.com/safing/portmaster) | 🏔 Love Freedom - ❌ Block Mass Surveillance | [application-firewall](https://github.com/topics/application-firewall), [dns](https://github.com/topics/dns), [firewall](https://github.com/topics/firewall) |
@@ -268,6 +271,7 @@ Auto-generated on 2025-08-04T02:55:58Z
 | [sourcegraph/conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go | [concurrency](https://github.com/topics/concurrency), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) | Code AI platform with Code Search & Cody | [code-intelligence](https://github.com/topics/code-intelligence), [code-search](https://github.com/topics/code-search), [cody](https://github.com/topics/cody) |
 | [spf13/viper](https://github.com/spf13/viper) | Go configuration with fangs |  |
+| [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) | Generate type-safe code from SQL | [code-generator](https://github.com/topics/code-generator), [go](https://github.com/topics/go), [kotlin](https://github.com/topics/kotlin) |
 | [stern/stern](https://github.com/stern/stern) | ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern | [debugging](https://github.com/topics/debugging), [devops](https://github.com/topics/devops), [kubernetes](https://github.com/topics/kubernetes) |
 | [stianst/keycloak-operator](https://github.com/stianst/keycloak-operator) | A Kubernetes Operator based on the Operator SDK for syncing resources in Keycloak |  |
 | [streadway/handy](https://github.com/streadway/handy) | net/http handler filters |  |
@@ -314,3 +318,4 @@ Auto-generated on 2025-08-04T02:55:58Z
 | [youtube/doorman](https://github.com/youtube/doorman) | Doorman: Global Distributed Client Side Rate Limiting. |  |
 | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. | [cloud-native](https://github.com/topics/cloud-native), [code-generation](https://github.com/topics/code-generation), [framework](https://github.com/topics/framework) |
 | [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) | ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go. | [elasticsearch](https://github.com/topics/elasticsearch), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
+| [zitadel/zitadel](https://github.com/zitadel/zitadel) | ZITADEL - Identity infrastructure, simplified for you. | [2fa](https://github.com/topics/2fa), [authentication](https://github.com/topics/authentication), [authorization](https://github.com/topics/authorization) |

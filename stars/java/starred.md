@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-08-04T02:55:58Z
+Auto-generated on 2025-08-11T02:50:31Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -87,6 +87,7 @@ Auto-generated on 2025-08-04T02:55:58Z
 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | [config-management](https://github.com/topics/config-management), [configuration-management](https://github.com/topics/configuration-management), [distributed-configuration](https://github.com/topics/distributed-configuration) |
 | [apollographql/federation-jvm](https://github.com/apollographql/federation-jvm) | JVM support for Apollo Federation | [federation](https://github.com/topics/federation), [graphql](https://github.com/topics/graphql), [java](https://github.com/topics/java) |
 | [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) | Small set of tools for JVM troublshooting, monitoring and profiling. |  |
+| [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | Learn Low Level Design (LLD) and prepare for interviews using free resources. | [awesome](https://github.com/topics/awesome), [design-patterns](https://github.com/topics/design-patterns), [interview](https://github.com/topics/interview) |
 | [awaitility/awaitility](https://github.com/awaitility/awaitility) | Awaitility is a small Java DSL for synchronizing asynchronous operations | [asynchronous](https://github.com/topics/asynchronous), [awaitility](https://github.com/topics/awaitility), [java](https://github.com/topics/java) |
 | [aws/smithy-go](https://github.com/aws/smithy-go) | Smithy code generators for Go (in development) | [golang](https://github.com/topics/golang), [smithy](https://github.com/topics/smithy) |
 | [awslabs/aws-java-nio-spi-for-s3](https://github.com/awslabs/aws-java-nio-spi-for-s3) | A Java NIO.2 service provider for Amazon S3 | [aws-sdk](https://github.com/topics/aws-sdk), [java](https://github.com/topics/java), [s3](https://github.com/topics/s3) |
@@ -250,7 +251,7 @@ Auto-generated on 2025-08-04T02:55:58Z
 | [salesforce/grpc-java-contrib](https://github.com/salesforce/grpc-java-contrib) | Useful extensions for the grpc-java library | [contrib](https://github.com/topics/contrib), [grpc](https://github.com/topics/grpc), [grpc-java](https://github.com/topics/grpc-java) |
 | [salesforce/reactive-grpc](https://github.com/salesforce/reactive-grpc) | Reactive stubs for gRPC | [grpc-java](https://github.com/topics/grpc-java), [reactor](https://github.com/topics/reactor), [rxjava2](https://github.com/topics/rxjava2) |
 | [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) | Spring源码阅读 | [notes](https://github.com/topics/notes), [source-code-analysis](https://github.com/topics/source-code-analysis), [spring](https://github.com/topics/spring) |
-| [seed4j/seed4j](https://github.com/seed4j/seed4j) | Seed4J 🌱 is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture :gem: | [generator](https://github.com/topics/generator), [hacktoberfest](https://github.com/topics/hacktoberfest), [hexagonal-architecture](https://github.com/topics/hexagonal-architecture) |
+| [seed4j/seed4j](https://github.com/seed4j/seed4j) | Seed4J 🌱 is a modular code generator with clean architecture :gem: | [generator](https://github.com/topics/generator), [hacktoberfest](https://github.com/topics/hacktoberfest), [hexagonal-architecture](https://github.com/topics/hexagonal-architecture) |
 | [sephera/multi-data](https://github.com/sephera/multi-data) | Multiple DataSource Spring Data JPA | [jpa](https://github.com/topics/jpa), [postgresql](https://github.com/topics/postgresql), [spring-boot](https://github.com/topics/spring-boot) |
 | [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |  |
 | [siom79/japicmp](https://github.com/siom79/japicmp) | Comparison of two versions of a jar archive | [api-documentation](https://github.com/topics/api-documentation), [api-management](https://github.com/topics/api-management), [change-management](https://github.com/topics/change-management) |
