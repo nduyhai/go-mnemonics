@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-08-11T02:50:31Z
+Auto-generated on 2025-08-25T02:40:03Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -12,6 +12,7 @@ Auto-generated on 2025-08-11T02:50:31Z
 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust | [apache2](https://github.com/topics/apache2), [bm25](https://github.com/topics/bm25), [enterprise-search](https://github.com/topics/enterprise-search) |
 | [actix/actix-web](https://github.com/actix/actix-web) | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. | [actix](https://github.com/topics/actix), [actix-web](https://github.com/topics/actix-web), [async](https://github.com/topics/async) |
 | [ankitects/anki](https://github.com/ankitects/anki) | Anki is a smart spaced repetition flashcard program |  |
+| [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. | [aws](https://github.com/topics/aws), [filesystem](https://github.com/topics/filesystem), [fuse](https://github.com/topics/fuse) |
 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |  |
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | [http3](https://github.com/topics/http3), [network-programming](https://github.com/topics/network-programming), [protocol](https://github.com/topics/protocol) |
 | [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) | Write Cloudflare Workers in 100% Rust via WebAssembly | [cloudflare](https://github.com/topics/cloudflare), [ffi](https://github.com/topics/ffi), [rust](https://github.com/topics/rust) |

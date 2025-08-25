@@ -1,5 +1,293 @@
 [
   {
+    "name": "oauth2-proxy/oauth2-proxy",
+    "url": "https://github.com/oauth2-proxy/oauth2-proxy",
+    "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
+    "language": "Go",
+    "topics": [
+      "cloud-infrastructure",
+      "hacktoberfest",
+      "oauth2-proxy",
+      "ssl",
+      "sso"
+    ]
+  },
+  {
+    "name": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "description": "Create beautiful applications using Go",
+    "language": "Go",
+    "topics": [
+      "angular",
+      "desktop-application",
+      "go",
+      "golang",
+      "javascript",
+      "linux",
+      "macos",
+      "react",
+      "svelte",
+      "vuejs",
+      "windows"
+    ]
+  },
+  {
+    "name": "samber/awesome-prometheus-alerts",
+    "url": "https://github.com/samber/awesome-prometheus-alerts",
+    "description": "🚨 Collection of Prometheus alerting rules",
+    "language": "HTML",
+    "topics": [
+      "alert",
+      "alerting",
+      "alerting-rules",
+      "alertmanager",
+      "awesome",
+      "collection",
+      "exporter",
+      "grafana",
+      "monitoring",
+      "prometheus",
+      "prometheus-alerting-rules",
+      "promql",
+      "query",
+      "rule",
+      "supervision"
+    ]
+  },
+  {
+    "name": "GoogleContainerTools/distroless",
+    "url": "https://github.com/GoogleContainerTools/distroless",
+    "description": "🥑  Language focused docker images, minus the operating system.  ",
+    "language": "Starlark",
+    "topics": [
+      "bazel",
+      "docker"
+    ]
+  },
+  {
+    "name": "anchore/grype",
+    "url": "https://github.com/anchore/grype",
+    "description": "A vulnerability scanner for container images and filesystems",
+    "language": "Go",
+    "topics": [
+      "container-image",
+      "containers",
+      "cyclonedx",
+      "docker",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "oci",
+      "openvex",
+      "security",
+      "static-analysis",
+      "tool",
+      "vex",
+      "vulnerabilities",
+      "vulnerability"
+    ]
+  },
+  {
+    "name": "Netflix/maestro",
+    "url": "https://github.com/Netflix/maestro",
+    "description": "Maestro: Netflix’s Workflow Orchestrator",
+    "language": "Java",
+    "topics": [
+      "analytics",
+      "automation",
+      "batch-processing",
+      "dag",
+      "data-engineering",
+      "data-ops",
+      "data-orchestrator",
+      "data-pipelines",
+      "data-science",
+      "elt",
+      "etl",
+      "java",
+      "machine-learning",
+      "maestro",
+      "mlops",
+      "orchestration",
+      "scheduler",
+      "workflow",
+      "workflow-engine",
+      "workflow-orchestration"
+    ]
+  },
+  {
+    "name": "backstage/backstage",
+    "url": "https://github.com/backstage/backstage",
+    "description": "Backstage is an open framework for building developer portals",
+    "language": "TypeScript",
+    "topics": [
+      "backstage",
+      "cncf",
+      "developer-experience",
+      "developer-portal",
+      "dx",
+      "infrastructure",
+      "microservices",
+      "self-service-portal"
+    ]
+  },
+  {
+    "name": "kubernetes/ingress-nginx",
+    "url": "https://github.com/kubernetes/ingress-nginx",
+    "description": "Ingress NGINX Controller for Kubernetes",
+    "language": "Go",
+    "topics": [
+      "ingress-controller",
+      "kubernetes",
+      "nginx"
+    ]
+  },
+  {
+    "name": "infiniflow/ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-search",
+      "deep-learning",
+      "deep-research",
+      "deepseek",
+      "deepseek-r1",
+      "document-parser",
+      "document-understanding",
+      "graphrag",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "ollama",
+      "openai",
+      "rag",
+      "retrieval-augmented-generation"
+    ]
+  },
+  {
+    "name": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+    "language": "TypeScript",
+    "topics": [
+      "diagrams",
+      "diagrams-as-code",
+      "documentation",
+      "flowchart",
+      "javascript",
+      "mindmap",
+      "typescript",
+      "uml-diagrams"
+    ]
+  },
+  {
+    "name": "awslabs/git-secrets",
+    "url": "https://github.com/awslabs/git-secrets",
+    "description": "Prevents you from committing secrets and credentials into git repositories",
+    "language": "Shell",
+    "topics": []
+  },
+  {
+    "name": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr",
+    "description": "📚 Collaborative cheatsheets for console commands",
+    "language": "Markdown",
+    "topics": [
+      "android",
+      "bsd",
+      "cheatsheet",
+      "cheatsheets",
+      "command-line",
+      "console",
+      "documentation",
+      "examples",
+      "hacktoberfest",
+      "help",
+      "linux",
+      "macos",
+      "man-page",
+      "manpages",
+      "manual",
+      "osx",
+      "shell",
+      "terminal",
+      "tldr",
+      "windows"
+    ]
+  },
+  {
+    "name": "getsops/sops",
+    "url": "https://github.com/getsops/sops",
+    "description": "Simple and flexible tool for managing secrets",
+    "language": "Go",
+    "topics": [
+      "aws",
+      "azure",
+      "devops",
+      "gcp",
+      "pgp",
+      "secret-distribution",
+      "secret-management",
+      "security",
+      "sops"
+    ]
+  },
+  {
+    "name": "awslabs/mountpoint-s3",
+    "url": "https://github.com/awslabs/mountpoint-s3",
+    "description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+    "language": "Rust",
+    "topics": [
+      "aws",
+      "filesystem",
+      "fuse",
+      "object-storage",
+      "s3"
+    ]
+  },
+  {
+    "name": "obsidiandynamics/kafdrop",
+    "url": "https://github.com/obsidiandynamics/kafdrop",
+    "description": "Kafka Web UI",
+    "language": "Java",
+    "topics": [
+      "consumer-group",
+      "consumer-producer",
+      "docker",
+      "event-sourcing",
+      "event-streaming",
+      "kafka",
+      "kafka-tools",
+      "kafka-ui",
+      "kafka-utils",
+      "kubernetes",
+      "pub-sub",
+      "topic",
+      "web-ui",
+      "zookeeper"
+    ]
+  },
+  {
+    "name": "awslabs/aws-go-multi-module-repository-tools",
+    "url": "https://github.com/awslabs/aws-go-multi-module-repository-tools",
+    "description": "",
+    "language": "Go",
+    "topics": []
+  },
+  {
     "name": "axiomatic-systems/Bento4",
     "url": "https://github.com/axiomatic-systems/Bento4",
     "description": "Full-featured MP4 format, MPEG DASH, HLS, CMAF SDK and tools",
@@ -3116,6 +3404,8 @@
     "description": "Free universal database tool and SQL client",
     "language": "Java",
     "topics": [
+      "ai",
+      "copilot",
       "database",
       "db2",
       "dbeaver",
@@ -3125,6 +3415,7 @@
       "jdbc",
       "mysql",
       "nosql",
+      "openai",
       "oracle",
       "postgresql",
       "redshift",
@@ -4493,28 +4784,24 @@
   {
     "name": "coroot/coroot",
     "url": "https://github.com/coroot/coroot",
-    "description": "Coroot is an open-source APM \u0026 Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.",
+    "description": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.",
     "language": "Go",
     "topics": [
+      "ai",
       "alerting",
       "apm",
       "dashboard",
       "database-monitoring",
-      "devops",
       "distributed-tracing",
       "ebpf",
-      "k8s",
-      "kubernetes",
-      "log-analysis",
       "metrics",
       "microservice",
       "monitoring",
-      "network-monitoring",
       "observability",
-      "postgresql-monitoring",
       "prometheus",
       "service-map",
       "slo",
+      "sre",
       "tracing"
     ]
   },
@@ -4800,7 +5087,7 @@
   {
     "name": "apache/hertzbeat",
     "url": "https://github.com/apache/hertzbeat",
-    "description": "Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.",
+    "description": "Real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.",
     "language": "Java",
     "topics": [
       "alerting",
@@ -6085,7 +6372,7 @@
   {
     "name": "arl/statsviz",
     "url": "https://github.com/arl/statsviz",
-    "description": "🚀 Visualise your Go program runtime metrics in real time in the browser",
+    "description": "🚀 Visualise Go runtime metrics in real time",
     "language": "Go",
     "topics": [
       "garbage-collector",
@@ -7284,12 +7571,12 @@
       "data-profiling",
       "data-quality",
       "data-quality-checks",
-      "data-science",
       "data-validation",
       "datadiscovery",
       "dataengineering",
       "dataquality",
-      "dbt",
+      "mcp",
+      "mcp-server",
       "metadata",
       "metadata-management",
       "snowflake"
@@ -14779,7 +15066,7 @@
   {
     "name": "jetty/jetty.project",
     "url": "https://github.com/jetty/jetty.project",
-    "description": "Eclipse Jetty® - Web Container \u0026 Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more",
+    "description": "Eclipse Jetty® - Web Container \u0026 Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more",
     "language": "Java",
     "topics": [
       "eclipse",
@@ -14789,12 +15076,12 @@
       "http-client",
       "http-server",
       "http2",
-      "http2-push",
       "http3",
       "https",
       "jakartaee",
       "java",
       "jetty",
+      "jpms",
       "jsp",
       "osgi",
       "servlet",
