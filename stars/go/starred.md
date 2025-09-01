@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-08-25T02:40:03Z
+Auto-generated on 2025-09-01T02:43:43Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -34,6 +34,7 @@ Auto-generated on 2025-08-25T02:40:03Z
 | [apache/dubbo-go](https://github.com/apache/dubbo-go) | Go Implementation For Apache Dubbo . | [go](https://github.com/topics/go), [http2](https://github.com/topics/http2), [microservices](https://github.com/topics/microservices) |
 | [apache/incubator-seata-go](https://github.com/apache/incubator-seata-go) | Go Implementation For Seata | [at](https://github.com/topics/at), [saga](https://github.com/topics/saga), [tcc](https://github.com/topics/tcc) |
 | [apache/trafficcontrol](https://github.com/apache/trafficcontrol) | Apache Traffic Control is an Open Source implementation of a Content Delivery Network | [apache](https://github.com/topics/apache), [cdn](https://github.com/topics/cdn), [contentdelivery](https://github.com/topics/contentdelivery) |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | [containers](https://github.com/topics/containers), [devsecops](https://github.com/topics/devsecops), [docker](https://github.com/topics/docker) |
 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Declarative Continuous Deployment for Kubernetes | [argo](https://github.com/topics/argo), [argo-cd](https://github.com/topics/argo-cd), [cd](https://github.com/topics/cd) |
 | [ariga/atlas](https://github.com/ariga/atlas) | Manage your database schema as code |  |
 | [arl/statsviz](https://github.com/arl/statsviz) | 🚀 Visualise Go runtime metrics in real time | [garbage-collector](https://github.com/topics/garbage-collector), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
@@ -103,6 +104,7 @@ Auto-generated on 2025-08-25T02:40:03Z
 | [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | [golang](https://github.com/topics/golang), [grpc](https://github.com/topics/grpc), [protobuf](https://github.com/topics/protobuf) |
 | [gabrielmellooliveira/go-spec](https://github.com/gabrielmellooliveira/go-spec) | Lib to golang Specification Pattern | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [specification-pattern](https://github.com/topics/specification-pattern) |
 | [gammazero/workerpool](https://github.com/gammazero/workerpool) | Concurrency limiting goroutine pool | [concurrency](https://github.com/topics/concurrency), [worker-pool](https://github.com/topics/worker-pool) |
+| [getlago/lago](https://github.com/getlago/lago) | Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics | [analytics](https://github.com/topics/analytics), [billing](https://github.com/topics/billing), [clickhouse](https://github.com/topics/clickhouse) |
 | [getsops/sops](https://github.com/getsops/sops) | Simple and flexible tool for managing secrets | [aws](https://github.com/topics/aws), [azure](https://github.com/topics/azure), [devops](https://github.com/topics/devops) |
 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | [framework](https://github.com/topics/framework), [gin](https://github.com/topics/gin), [go](https://github.com/topics/go) |
 | [github/gh-ost](https://github.com/github/gh-ost) | GitHub's Online Schema-migration Tool for MySQL | [mysql](https://github.com/topics/mysql), [schema-migrations](https://github.com/topics/schema-migrations) |
@@ -115,6 +117,7 @@ Auto-generated on 2025-08-25T02:40:03Z
 | [go-kit/kit](https://github.com/go-kit/kit) | A standard library for microservices. | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [metallica](https://github.com/topics/metallica) |
 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | Your ultimate Go microservices framework for the cloud-native era. | [ai](https://github.com/topics/ai), [architecture](https://github.com/topics/architecture), [cloud-native](https://github.com/topics/cloud-native) |
 | [go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql) | a powerful mysql toolset with Go |  |
+| [go-pay/gopay](https://github.com/go-pay/gopay) | 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】 | [alipay](https://github.com/topics/alipay), [allinpay](https://github.com/topics/allinpay), [apple](https://github.com/topics/apple) |
 | [go-playground/validator](https://github.com/go-playground/validator) | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | [error-handling](https://github.com/topics/error-handling), [translation](https://github.com/topics/translation), [validation](https://github.com/topics/validation) |
 | [go-redis/redis_rate](https://github.com/go-redis/redis_rate) | Rate limiting for go-redis | [gcra](https://github.com/topics/gcra), [leaky-bucket](https://github.com/topics/leaky-bucket), [rate-limiting](https://github.com/topics/rate-limiting) |
 | [go-redsync/redsync](https://github.com/go-redsync/redsync) | Distributed mutual exclusion lock using Redis for Go |  |
@@ -253,7 +256,7 @@ Auto-generated on 2025-08-25T02:40:03Z
 | [prometheus/OpenMetrics](https://github.com/prometheus/OpenMetrics) | Evolving the Prometheus exposition format into a standard. |  |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | [alerting](https://github.com/topics/alerting), [graphing](https://github.com/topics/graphing), [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) | Concurrent data structures for Go |  |
-| [quic-go/quic-go](https://github.com/quic-go/quic-go) | A QUIC implementation in pure Go | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [http3](https://github.com/topics/http3) |
+| [quic-go/quic-go](https://github.com/quic-go/quic-go) | A production-ready QUIC implementation in pure Go | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [http3](https://github.com/topics/http3) |
 | [rancher/rancher](https://github.com/rancher/rancher) | Complete container management platform | [cattle](https://github.com/topics/cattle), [containers](https://github.com/topics/containers), [docker](https://github.com/topics/docker) |
 | [rclone/rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | [azure-blob](https://github.com/topics/azure-blob), [azure-blob-storage](https://github.com/topics/azure-blob-storage), [azure-files](https://github.com/topics/azure-files) |
 | [redis/rueidis](https://github.com/redis/rueidis) | A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. | [cache](https://github.com/topics/cache), [client-side-caching](https://github.com/topics/client-side-caching), [distributed](https://github.com/topics/distributed) |
@@ -273,6 +276,7 @@ Auto-generated on 2025-08-25T02:40:03Z
 | [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) | Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. | [ansible](https://github.com/topics/ansible), [awx](https://github.com/topics/awx), [ci](https://github.com/topics/ci) |
 | [sercand/kuberesolver](https://github.com/sercand/kuberesolver) | Grpc Load Balancer with Kubernetes resolver | [grpc](https://github.com/topics/grpc), [kubernetes](https://github.com/topics/kubernetes), [resolver](https://github.com/topics/resolver) |
 | [shopspring/decimal](https://github.com/shopspring/decimal) | Arbitrary-precision fixed-point decimal numbers in Go | [bignumber](https://github.com/topics/bignumber), [decimals](https://github.com/topics/decimals), [go](https://github.com/topics/go) |
+| [sony/gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | [circuit-breaker](https://github.com/topics/circuit-breaker), [golang](https://github.com/topics/golang), [microservice](https://github.com/topics/microservice) |
 | [sourcegraph/conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go | [concurrency](https://github.com/topics/concurrency), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) | Code AI platform with Code Search & Cody | [code-intelligence](https://github.com/topics/code-intelligence), [code-search](https://github.com/topics/code-search), [cody](https://github.com/topics/cody) |
 | [spf13/viper](https://github.com/spf13/viper) | Go configuration with fangs |  |

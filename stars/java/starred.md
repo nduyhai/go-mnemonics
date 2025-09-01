@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-08-25T02:40:03Z
+Auto-generated on 2025-09-01T02:43:43Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -67,7 +67,7 @@ Auto-generated on 2025-08-25T02:40:03Z
 | [apache/fineract](https://github.com/apache/fineract) | Apache Fineract | [apache](https://github.com/topics/apache), [banking](https://github.com/topics/banking), [finance](https://github.com/topics/finance) |
 | [apache/fory](https://github.com/apache/fory) | A blazingly fast multi-language serialization framework powered by JIT and zero-copy. | [compression](https://github.com/topics/compression), [cpp](https://github.com/topics/cpp), [cross-language](https://github.com/topics/cross-language) |
 | [apache/geode](https://github.com/apache/geode) | Apache Geode | [apache](https://github.com/topics/apache), [datagrid](https://github.com/topics/datagrid), [geode](https://github.com/topics/geode) |
-| [apache/hertzbeat](https://github.com/apache/hertzbeat) | Real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities. | [alerting](https://github.com/topics/alerting), [cloud](https://github.com/topics/cloud), [database](https://github.com/topics/database) |
+| [apache/hertzbeat](https://github.com/apache/hertzbeat) | Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities. | [alerting](https://github.com/topics/alerting), [cloud](https://github.com/topics/cloud), [database](https://github.com/topics/database) |
 | [apache/hudi](https://github.com/apache/hudi) | Upserts, Deletes And Incremental Processing on Big Data. | [apacheflink](https://github.com/topics/apacheflink), [apachehudi](https://github.com/topics/apachehudi), [apachespark](https://github.com/topics/apachespark) |
 | [apache/iceberg](https://github.com/apache/iceberg) | Apache Iceberg | [apache](https://github.com/topics/apache), [hacktoberfest](https://github.com/topics/hacktoberfest), [iceberg](https://github.com/topics/iceberg) |
 | [apache/incubator-seata](https://github.com/apache/incubator-seata) | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | [at](https://github.com/topics/at), [consistency](https://github.com/topics/consistency), [distributed-transaction](https://github.com/topics/distributed-transaction) |

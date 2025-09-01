@@ -1,5 +1,105 @@
 [
   {
+    "name": "sony/gobreaker",
+    "url": "https://github.com/sony/gobreaker",
+    "description": "Circuit Breaker implemented in Go",
+    "language": "Go",
+    "topics": [
+      "circuit-breaker",
+      "golang",
+      "microservice"
+    ]
+  },
+  {
+    "name": "go-pay/gopay",
+    "url": "https://github.com/go-pay/gopay",
+    "description": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】",
+    "language": "Go",
+    "topics": [
+      "alipay",
+      "allinpay",
+      "apple",
+      "golang",
+      "gopay",
+      "lakala",
+      "pay",
+      "paypal",
+      "saobei",
+      "wechat",
+      "weixin"
+    ]
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "topics": [
+      "containers",
+      "devsecops",
+      "docker",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "iac",
+      "infrastructure-as-code",
+      "kubernetes",
+      "misconfiguration",
+      "security",
+      "security-tools",
+      "vulnerability",
+      "vulnerability-detection",
+      "vulnerability-scanners"
+    ]
+  },
+  {
+    "name": "juspay/connector-service",
+    "url": "https://github.com/juspay/connector-service",
+    "description": "Open-Source Payments Connector Service",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "juspay/decision-engine",
+    "url": "https://github.com/juspay/decision-engine",
+    "description": "open-source routing system designed for payment processing",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "getlago/lago",
+    "url": "https://github.com/getlago/lago",
+    "description": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration \u0026 Revenue analytics",
+    "language": "Go",
+    "topics": [
+      "analytics",
+      "billing",
+      "clickhouse",
+      "events",
+      "fintech",
+      "go",
+      "ingestion",
+      "invoices",
+      "metering",
+      "open-source",
+      "payments",
+      "pricing",
+      "pricing-data-science",
+      "react",
+      "ruby",
+      "self-hosted",
+      "subscriptions",
+      "usage-based-billing"
+    ]
+  },
+  {
+    "name": "w3c/webappsec-dbsc",
+    "url": "https://github.com/w3c/webappsec-dbsc",
+    "description": "Device Bound Session Credentials: A Protocol for Protecting From Cookie Theft",
+    "language": "Bikeshed",
+    "topics": []
+  },
+  {
     "name": "oauth2-proxy/oauth2-proxy",
     "url": "https://github.com/oauth2-proxy/oauth2-proxy",
     "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
@@ -145,7 +245,7 @@
   {
     "name": "infiniflow/ragflow",
     "url": "https://github.com/infiniflow/ragflow",
-    "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+    "description": "RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.",
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -633,7 +733,7 @@
   {
     "name": "JetBrains/koog",
     "url": "https://github.com/JetBrains/koog",
-    "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
     "language": "Kotlin",
     "topics": [
       "agentframework",
@@ -1811,9 +1911,7 @@
       "cloud-native",
       "compliance",
       "declarative",
-      "doge",
       "json",
-      "lolcat",
       "opa",
       "open-policy-agent",
       "policy"
@@ -5087,7 +5185,7 @@
   {
     "name": "apache/hertzbeat",
     "url": "https://github.com/apache/hertzbeat",
-    "description": "Real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.",
+    "description": "Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.",
     "language": "Java",
     "topics": [
       "alerting",
@@ -9161,7 +9259,7 @@
   {
     "name": "quic-go/quic-go",
     "url": "https://github.com/quic-go/quic-go",
-    "description": "A QUIC implementation in pure Go",
+    "description": "A production-ready QUIC implementation in pure Go",
     "language": "Go",
     "topics": [
       "go",
@@ -15191,8 +15289,8 @@
     ]
   },
   {
-    "name": "ethereum/solidity",
-    "url": "https://github.com/ethereum/solidity",
+    "name": "argotorg/solidity",
+    "url": "https://github.com/argotorg/solidity",
     "description": "Solidity, the Smart Contract Programming Language",
     "language": "C++",
     "topics": [

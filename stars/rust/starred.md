@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-08-25T02:40:03Z
+Auto-generated on 2025-09-01T02:43:43Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -20,6 +20,8 @@ Auto-generated on 2025-08-25T02:40:03Z
 | [habitat-sh/habitat](https://github.com/habitat-sh/habitat) | Modern applications with built-in automation | [automation](https://github.com/topics/automation), [choreographer](https://github.com/topics/choreographer), [configuration-management](https://github.com/topics/configuration-management) |
 | [hatoo/oha](https://github.com/hatoo/oha) | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. | [benchmark](https://github.com/topics/benchmark), [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line) |
 | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | [async](https://github.com/topics/async), [grpc](https://github.com/topics/grpc), [proto](https://github.com/topics/proto) |
+| [juspay/connector-service](https://github.com/juspay/connector-service) | Open-Source Payments Connector Service |  |
+| [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing |  |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
