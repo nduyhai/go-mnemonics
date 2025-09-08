@@ -1,5 +1,266 @@
 [
   {
+    "name": "avito-tech/go-transaction-manager",
+    "url": "https://github.com/avito-tech/go-transaction-manager",
+    "description": "Transaction manager for GoLang",
+    "language": "Go",
+    "topics": [
+      "database",
+      "go",
+      "go-trm",
+      "golang",
+      "golang-library",
+      "nested-transactions",
+      "repository-pattern",
+      "sql",
+      "sqlx",
+      "transaction",
+      "transaction-manager",
+      "trm"
+    ]
+  },
+  {
+    "name": "func25/go-practical-tips",
+    "url": "https://github.com/func25/go-practical-tips",
+    "description": "Go Practical Tips",
+    "language": "Unknown",
+    "topics": [
+      "go",
+      "golang",
+      "guide"
+    ]
+  },
+  {
+    "name": "gravitational/teleport",
+    "url": "https://github.com/gravitational/teleport",
+    "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+    "language": "Go",
+    "topics": [
+      "audit",
+      "bastion",
+      "certificate",
+      "cluster",
+      "database-access",
+      "firewall",
+      "firewalls",
+      "go",
+      "golang",
+      "jumpserver",
+      "kubernetes",
+      "kubernetes-access",
+      "pam",
+      "postgres",
+      "rbac",
+      "rdp",
+      "security",
+      "ssh",
+      "teleport",
+      "teleport-binaries"
+    ]
+  },
+  {
+    "name": "bufbuild/hyperpb-go",
+    "url": "https://github.com/bufbuild/hyperpb-go",
+    "description": "10x faster dynamic Protobuf parsing in Go that’s even 3x faster than generated code.",
+    "language": "Go",
+    "topics": [
+      "grpc",
+      "protobuf",
+      "protoc",
+      "protocol-buffers"
+    ]
+  },
+  {
+    "name": "github/spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ]
+  },
+  {
+    "name": "open-telemetry/opentelemetry-collector-contrib",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "description": "Contrib repository for the OpenTelemetry Collector",
+    "language": "Go",
+    "topics": [
+      "open-telemetry",
+      "opentelemetry"
+    ]
+  },
+  {
+    "name": "bluenviron/mediamtx",
+    "url": "https://github.com/bluenviron/mediamtx",
+    "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "language": "Go",
+    "topics": [
+      "go",
+      "golang",
+      "hls",
+      "media-server",
+      "obs-studio",
+      "rtcp",
+      "rtmp",
+      "rtmp-proxy",
+      "rtmp-server",
+      "rtp",
+      "rtsp",
+      "rtsp-proxy",
+      "rtsp-relay",
+      "rtsp-server",
+      "srt",
+      "streaming",
+      "webrtc",
+      "webrtc-proxy"
+    ]
+  },
+  {
+    "name": "mayswind/ezbookkeeping",
+    "url": "https://github.com/mayswind/ezbookkeeping",
+    "description": "A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.",
+    "language": "Go",
+    "topics": [
+      "accounting",
+      "app",
+      "bookkeeping",
+      "docker",
+      "expense-manager",
+      "expense-tracker",
+      "expenses",
+      "finance",
+      "finance-management",
+      "finances",
+      "financial",
+      "golang",
+      "homelab",
+      "mobile",
+      "money",
+      "money-manager",
+      "personal-finance",
+      "self-hosted",
+      "typescript",
+      "vue"
+    ]
+  },
+  {
+    "name": "knadh/koanf",
+    "url": "https://github.com/knadh/koanf",
+    "description": "Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.",
+    "language": "Go",
+    "topics": [
+      "config",
+      "config-loader",
+      "configuration",
+      "configuration-file",
+      "configuration-management",
+      "etcd-client",
+      "go",
+      "golang",
+      "golang-package",
+      "s3-bucket",
+      "toml",
+      "viper",
+      "yaml"
+    ]
+  },
+  {
+    "name": "sunface/rust-by-practice",
+    "url": "https://github.com/sunface/rust-by-practice",
+    "description": "Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",
+    "language": "Rust",
+    "topics": [
+      "example",
+      "examples",
+      "exercise",
+      "exercises",
+      "learning",
+      "practice",
+      "rust",
+      "study"
+    ]
+  },
+  {
+    "name": "aome510/spotify-player",
+    "url": "https://github.com/aome510/spotify-player",
+    "description": "A Spotify player in the terminal with full feature parity",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "music",
+      "music-player",
+      "player",
+      "rust",
+      "spotify",
+      "spotify-api",
+      "spotify-tui",
+      "terminal",
+      "terminal-based",
+      "tui",
+      "vim"
+    ]
+  },
+  {
+    "name": "zama-ai/fhevm",
+    "url": "https://github.com/zama-ai/fhevm",
+    "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+    "language": "Rust",
+    "topics": [
+      "blockchain",
+      "fhe",
+      "privacy"
+    ]
+  },
+  {
+    "name": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "language": "Rust",
+    "topics": [
+      "android",
+      "classroom",
+      "course",
+      "google",
+      "guide",
+      "rust",
+      "training",
+      "training-materials"
+    ]
+  },
+  {
+    "name": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "topics": [
+      "android",
+      "anydesk",
+      "dart",
+      "flatpak",
+      "flutter",
+      "flutter-apps",
+      "ios",
+      "linux",
+      "macos",
+      "p2p",
+      "rdp",
+      "remote-control",
+      "remote-desktop",
+      "rust",
+      "rust-lang",
+      "teamviewer",
+      "vnc",
+      "wayland",
+      "windows"
+    ]
+  },
+  {
     "name": "sony/gobreaker",
     "url": "https://github.com/sony/gobreaker",
     "description": "Circuit Breaker implemented in Go",
@@ -245,7 +506,7 @@
   {
     "name": "infiniflow/ragflow",
     "url": "https://github.com/infiniflow/ragflow",
-    "description": "RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -733,16 +994,18 @@
   {
     "name": "JetBrains/koog",
     "url": "https://github.com/JetBrains/koog",
-    "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
     "language": "Kotlin",
     "topics": [
       "agentframework",
       "agentic-ai",
       "agents",
       "ai",
+      "ai-agents-framework",
       "aiagentframework",
       "android-ai",
       "anthropic",
+      "genai",
       "generative-ai",
       "java",
       "jvm",
@@ -750,6 +1013,7 @@
       "ktor",
       "llm",
       "mcp",
+      "multi-agent-systems",
       "ollama",
       "openai",
       "spring"
@@ -1811,7 +2075,8 @@
       "golang-library",
       "kubernetes",
       "microservice",
-      "open-source"
+      "open-source",
+      "wiz-productivity-platform-engineering-productivity"
     ]
   },
   {
@@ -1980,7 +2245,6 @@
       "embedders",
       "genkit",
       "llm",
-      "machine-learning",
       "multimodal",
       "rag",
       "vector-database"
@@ -7106,6 +7370,7 @@
       "automation",
       "data-orchestration",
       "devops",
+      "hacktoberfest",
       "high-availability",
       "infrastructure-as-code",
       "java",
