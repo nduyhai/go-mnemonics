@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-09-08T02:38:18Z
+Auto-generated on 2025-09-15T02:38:14Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -182,11 +182,11 @@ Auto-generated on 2025-09-08T02:38:18Z
 | [jspecify/jspecify](https://github.com/jspecify/jspecify) | An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. | [android](https://github.com/topics/android), [annotations](https://github.com/topics/annotations), [bugfinding](https://github.com/topics/bugfinding) |
 | [junit-team/junit-framework](https://github.com/junit-team/junit-framework) | ✅ The programmer-friendly testing framework for Java and the JVM | [java](https://github.com/topics/java), [junit](https://github.com/topics/junit), [junit-jupiter](https://github.com/topics/junit-jupiter) |
 | [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. |  |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation. | [automation](https://github.com/topics/automation), [data-orchestration](https://github.com/topics/data-orchestration), [devops](https://github.com/topics/devops) |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation. | [automation](https://github.com/topics/automation), [data-orchestration](https://github.com/topics/data-orchestration), [devops](https://github.com/topics/devops) |
 | [keva-dev/keva-ioc](https://github.com/keva-dev/keva-ioc) | Fast, lightweight, Spring like, annotation driven IoC framework | [dependency-injection](https://github.com/topics/dependency-injection), [ioc-framework](https://github.com/topics/ioc-framework) |
 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applications and Services | [keycloak](https://github.com/topics/keycloak), [oidc](https://github.com/topics/oidc), [saml](https://github.com/topics/saml) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | Kroxylicious, the snappy open source proxy for Apache Kafka® | [apache-kafka](https://github.com/topics/apache-kafka), [java](https://github.com/topics/java), [kafka](https://github.com/topics/kafka) |
-| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | Java version of LangChain | [anthropic](https://github.com/topics/anthropic), [chatgpt](https://github.com/topics/chatgpt), [chroma](https://github.com/topics/chroma) |
+| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks. | [anthropic](https://github.com/topics/anthropic), [chatgpt](https://github.com/topics/chatgpt), [chroma](https://github.com/topics/chroma) |
 | [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) | Style and Grammar Checker for 25+ Languages | [grammar](https://github.com/topics/grammar), [natural-language](https://github.com/topics/natural-language), [natural-language-processing](https://github.com/topics/natural-language-processing) |
 | [lemire/externalsortinginjava](https://github.com/lemire/externalsortinginjava) | External-Memory Sorting in Java | [external-memory](https://github.com/topics/external-memory), [java](https://github.com/topics/java), [sort](https://github.com/topics/sort) |
 | [lets-blade/blade](https://github.com/lets-blade/blade) | :rocket: Lightning fast and elegant mvc framework for Java8 | [blade](https://github.com/topics/blade), [java8](https://github.com/topics/java8), [mvc-framework](https://github.com/topics/mvc-framework) |
@@ -233,6 +233,7 @@ Auto-generated on 2025-09-08T02:38:18Z
 | [poetix/protonpack](https://github.com/poetix/protonpack) | Stream utilities for Java 8 |  |
 | [pramoth/specification-with-projection](https://github.com/pramoth/specification-with-projection) | Support projections with JpaSpecificationExecutor.findAll(Specification,Pageable) for Spring Data JPA |  |
 | [prestodb/presto](https://github.com/prestodb/presto) | The official home of the Presto distributed SQL query engine for big data | [big-data](https://github.com/topics/big-data), [data](https://github.com/topics/data), [hadoop](https://github.com/topics/hadoop) |
+| [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes) | A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters | [kubernetes](https://github.com/topics/kubernetes), [nodejs](https://github.com/topics/nodejs), [pulumi](https://github.com/topics/pulumi) |
 | [puniverse/quasar](https://github.com/puniverse/quasar) | Fibers, Channels and Actors for the JVM | [actors](https://github.com/topics/actors), [concurrency](https://github.com/topics/concurrency), [fibers](https://github.com/topics/fibers) |
 | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | Tools to work with android .dex and java .class files |  |
 | [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | Quarkus: Supersonic Subatomic Java.  | [cloud-native](https://github.com/topics/cloud-native), [hacktoberfest](https://github.com/topics/hacktoberfest), [java](https://github.com/topics/java) |

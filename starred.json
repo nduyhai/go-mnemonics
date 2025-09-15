@@ -1,5 +1,138 @@
 [
   {
+    "name": "alibaba/tengine",
+    "url": "https://github.com/alibaba/tengine",
+    "description": "A distribution of Nginx with some advanced features",
+    "language": "C",
+    "topics": [
+      "http3",
+      "ingress",
+      "nginx",
+      "quic",
+      "tengine"
+    ]
+  },
+  {
+    "name": "pulumi/pulumi-kubernetes",
+    "url": "https://github.com/pulumi/pulumi-kubernetes",
+    "description": "A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters",
+    "language": "Java",
+    "topics": [
+      "kubernetes",
+      "nodejs",
+      "pulumi",
+      "python",
+      "typescript"
+    ]
+  },
+  {
+    "name": "cloudnative-pg/cloudnative-pg",
+    "url": "https://github.com/cloudnative-pg/cloudnative-pg",
+    "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "language": "Go",
+    "topics": [
+      "automated-failover",
+      "business-continuity",
+      "database",
+      "database-management",
+      "devops",
+      "disaster-recovery",
+      "failover",
+      "high-availability",
+      "json-logging",
+      "k8s",
+      "kubectl-plugin",
+      "kubernetes",
+      "operator",
+      "postgres",
+      "postgresql",
+      "prometheus-exporter",
+      "replication",
+      "self-healing",
+      "sql",
+      "switchover"
+    ]
+  },
+  {
+    "name": "danielgtaylor/huma",
+    "url": "https://github.com/danielgtaylor/huma",
+    "description": "Huma REST/HTTP API Framework for Golang with OpenAPI 3.1",
+    "language": "Go",
+    "topics": [
+      "api",
+      "documentation",
+      "fastapi",
+      "framework",
+      "golang",
+      "golang-library",
+      "hacktoberfest",
+      "huma",
+      "json-schema",
+      "openapi",
+      "openapi-server",
+      "openapi3",
+      "openapi31",
+      "rest",
+      "rest-api",
+      "swagger-ui",
+      "web"
+    ]
+  },
+  {
+    "name": "caarlos0/env",
+    "url": "https://github.com/caarlos0/env",
+    "description": "A simple, zero-dependencies library to parse environment variables into structs",
+    "language": "Go",
+    "topics": [
+      "config",
+      "configuration",
+      "environment",
+      "environment-variables",
+      "go",
+      "golang",
+      "hacktoberfest"
+    ]
+  },
+  {
+    "name": "bytedance/sonic",
+    "url": "https://github.com/bytedance/sonic",
+    "description": "A blazingly fast JSON serializing \u0026 deserializing library",
+    "language": "Go",
+    "topics": [
+      "high-performance",
+      "jit",
+      "json",
+      "simd"
+    ]
+  },
+  {
+    "name": "centralci/go-benchmarks",
+    "url": "https://github.com/centralci/go-benchmarks",
+    "description": "",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "nicksnyder/go-i18n",
+    "url": "https://github.com/nicksnyder/go-i18n",
+    "description": "Translate your Go program into multiple languages.",
+    "language": "Go",
+    "topics": [
+      "cldr",
+      "go",
+      "i18n",
+      "translation",
+      "translation-files"
+    ]
+  },
+  {
+    "name": "uber-go/goleak",
+    "url": "https://github.com/uber-go/goleak",
+    "description": "Goroutine leak detector",
+    "language": "Go",
+    "topics": []
+  },
+  {
     "name": "avito-tech/go-transaction-manager",
     "url": "https://github.com/avito-tech/go-transaction-manager",
     "description": "Transaction manager for GoLang",
@@ -2237,7 +2370,7 @@
   {
     "name": "firebase/genkit",
     "url": "https://github.com/firebase/genkit",
-    "description": "An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.",
+    "description": "Google's multi-model AI framework in Javascript, Go and Python",
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -3169,7 +3302,7 @@
   {
     "name": "langchain4j/langchain4j",
     "url": "https://github.com/langchain4j/langchain4j",
-    "description": "Java version of LangChain",
+    "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
     "language": "Java",
     "topics": [
       "anthropic",
@@ -3182,6 +3315,8 @@
       "java",
       "langchain",
       "llama",
+      "llm",
+      "llms",
       "milvus",
       "ollama",
       "onnx",
@@ -3189,8 +3324,7 @@
       "openai-api",
       "pgvector",
       "pinecone",
-      "vector-database",
-      "weaviate"
+      "vector-database"
     ]
   },
   {
@@ -4481,19 +4615,17 @@
     "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
     "language": "Go",
     "topics": [
-      "cluster",
       "database",
       "grafana",
       "graphite",
       "influxdb",
-      "k8s",
       "kubernetes",
       "monitoring",
       "observability",
+      "opentelemetry",
       "opentsdb",
       "prometheus",
       "promql",
-      "scalability",
       "thanos",
       "tsdb"
     ]
@@ -7364,7 +7496,7 @@
   {
     "name": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
-    "description": ":zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.",
+    "description": ":zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.",
     "language": "Java",
     "topics": [
       "automation",
@@ -9148,6 +9280,7 @@
       "database",
       "debezium",
       "event-streaming",
+      "hacktoberfest",
       "kafka",
       "kafka-connect",
       "kafka-producer"
@@ -11272,7 +11405,7 @@
   {
     "name": "0xInfection/Awesome-WAF",
     "url": "https://github.com/0xInfection/Awesome-WAF",
-    "description": "🔥 Web-application firewalls (WAFs) from security standpoint.",
+    "description": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
     "language": "Python",
     "topics": [
       "awesome",
