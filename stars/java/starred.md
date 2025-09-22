@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-09-15T02:38:14Z
+Auto-generated on 2025-09-22T02:38:31Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -226,7 +226,7 @@ Auto-generated on 2025-09-15T02:38:14Z
 | [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation) | OpenTelemetry auto-instrumentation and instrumentation libraries for Java |  |
 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | [analytics](https://github.com/topics/analytics), [apache2](https://github.com/topics/apache2), [foss](https://github.com/topics/foss) |
 | [openzipkin/zipkin](https://github.com/openzipkin/zipkin) | Zipkin is a distributed tracing system | [distributed-tracing](https://github.com/topics/distributed-tracing), [observability](https://github.com/topics/observability), [openzipkin](https://github.com/topics/openzipkin) |
-| [oracle/graal](https://github.com/oracle/graal) | GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | [aot](https://github.com/topics/aot), [compiler](https://github.com/topics/compiler), [graalvm](https://github.com/topics/graalvm) |
+| [oracle/graal](https://github.com/oracle/graal) | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀 | [aot](https://github.com/topics/aot), [compiler](https://github.com/topics/compiler), [graalvm](https://github.com/topics/graalvm) |
 | [oracle/tribuo](https://github.com/oracle/tribuo) | Tribuo - A Java machine learning library | [classification](https://github.com/topics/classification), [clustering](https://github.com/topics/clustering), [deep-learning](https://github.com/topics/deep-learning) |
 | [p6spy/p6spy](https://github.com/p6spy/p6spy) | P6Spy is a framework that enables database data to be seamlessly intercepted and logged with no code changes to the application. | [java](https://github.com/topics/java), [jdbc](https://github.com/topics/jdbc), [jdbc-logging](https://github.com/topics/jdbc-logging) |
 | [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) | APM, (Application Performance Management) tool for large-scale distributed systems.  | [agent](https://github.com/topics/agent), [apm](https://github.com/topics/apm), [distributed-tracing](https://github.com/topics/distributed-tracing) |
@@ -261,6 +261,7 @@ Auto-generated on 2025-09-15T02:38:14Z
 | [skyscreamer/JSONassert](https://github.com/skyscreamer/JSONassert) | Write JSON unit tests in less code. Great for testing REST interfaces. |  |
 | [snicoll/demo-multi-entity-managers](https://github.com/snicoll/demo-multi-entity-managers) | Demo how to use several entity managers with Spring Boot |  |
 | [sofastack/sofa-jarslink](https://github.com/sofastack/sofa-jarslink) | Jarslink is a sofa ark plugin used to manage multi-application deployment  | [ark-plugin](https://github.com/topics/ark-plugin), [multi-application-deployment](https://github.com/topics/multi-application-deployment), [sofaark](https://github.com/topics/sofaark) |
+| [sofastack/sofa-rpc](https://github.com/sofastack/sofa-rpc) | SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework. | [hessian](https://github.com/topics/hessian), [http2](https://github.com/topics/http2), [protobuf](https://github.com/topics/protobuf) |
 | [soot-oss/soot](https://github.com/soot-oss/soot) | Soot - A Java optimization framework | [analysis-framework](https://github.com/topics/analysis-framework), [bytecode](https://github.com/topics/bytecode), [java](https://github.com/topics/java) |
 | [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) | SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code. | [code-analysis](https://github.com/topics/code-analysis), [findbugs](https://github.com/topics/findbugs), [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [spotify/dns-java](https://github.com/spotify/dns-java) | DNS wrapper library that provides SRV lookup functionality | [dns](https://github.com/topics/dns), [dnsjava](https://github.com/topics/dnsjava), [srv](https://github.com/topics/srv) |

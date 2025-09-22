@@ -1,5 +1,63 @@
 [
   {
+    "name": "samber/oops",
+    "url": "https://github.com/samber/oops",
+    "description": "🔥 Error handling library with context, assertion, stack trace and source fragments",
+    "language": "Go",
+    "topics": [
+      "assert",
+      "assertion",
+      "attributes",
+      "context",
+      "error",
+      "exception",
+      "go",
+      "handling",
+      "logger",
+      "logrus",
+      "logrus-fomatter",
+      "slog",
+      "stacktrace",
+      "structured-logging",
+      "zap",
+      "zerolog"
+    ]
+  },
+  {
+    "name": "sofastack/sofa-rpc",
+    "url": "https://github.com/sofastack/sofa-rpc",
+    "description": "SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework.",
+    "language": "Java",
+    "topics": [
+      "hessian",
+      "http2",
+      "protobuf",
+      "restful",
+      "rpc-framework",
+      "sofa-bolt",
+      "sofa-rpc",
+      "sofastack"
+    ]
+  },
+  {
+    "name": "gofrs/uuid",
+    "url": "https://github.com/gofrs/uuid",
+    "description": "A UUID package for Go",
+    "language": "Go",
+    "topics": [
+      "forked-repo",
+      "go",
+      "uuid",
+      "uuid-generator",
+      "uuid1",
+      "uuid3",
+      "uuid4",
+      "uuid5",
+      "uuid6",
+      "uuid7"
+    ]
+  },
+  {
     "name": "alibaba/tengine",
     "url": "https://github.com/alibaba/tengine",
     "description": "A distribution of Nginx with some advanced features",
@@ -1410,7 +1468,7 @@
   {
     "name": "zakirullin/cognitive-load",
     "url": "https://github.com/zakirullin/cognitive-load",
-    "description": "🧠 Cognitive Load is what matters",
+    "description": "🧠 Cognitive load is what matters",
     "language": "Unknown",
     "topics": []
   },
@@ -2370,7 +2428,7 @@
   {
     "name": "firebase/genkit",
     "url": "https://github.com/firebase/genkit",
-    "description": "Google's multi-model AI framework in Javascript, Go and Python",
+    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -2408,7 +2466,8 @@
       "a2a-protocol",
       "a2a-server",
       "agents",
-      "generative-ai"
+      "generative-ai",
+      "linux-foundation"
     ]
   },
   {
@@ -3199,8 +3258,8 @@
     ]
   },
   {
-    "name": "tetratelabs/wazero",
-    "url": "https://github.com/tetratelabs/wazero",
+    "name": "wazero/wazero",
+    "url": "https://github.com/wazero/wazero",
     "description": "wazero: the zero dependency WebAssembly runtime for Go developers",
     "language": "Go",
     "topics": [
@@ -8632,7 +8691,7 @@
     "name": "owncast/owncast",
     "url": "https://github.com/owncast/owncast",
     "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
-    "language": "Go",
+    "language": "TypeScript",
     "topics": [
       "activitypub",
       "broadcasting",
@@ -10924,7 +10983,7 @@
   {
     "name": "gin-gonic/gin",
     "url": "https://github.com/gin-gonic/gin",
-    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
     "language": "Go",
     "topics": [
       "framework",
@@ -14305,7 +14364,7 @@
   {
     "name": "oracle/graal",
     "url": "https://github.com/oracle/graal",
-    "description": "GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+    "description": "GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
     "language": "Java",
     "topics": [
       "aot",
@@ -15754,8 +15813,8 @@
   {
     "name": "Kong/kong",
     "url": "https://github.com/Kong/kong",
-    "description": "🦍 The Cloud-Native API Gateway and AI Gateway.",
-    "language": "Lua",
+    "description": "🦍 The Cloud-Native Gateway for APIs \u0026 AI",
+    "language": "Unknown",
     "topics": [
       "ai",
       "ai-gateway",
@@ -15770,10 +15829,10 @@
       "kubernetes-ingress-controller",
       "llm-gateway",
       "llm-ops",
-      "luajit",
+      "mcp",
+      "mcp-gateway",
       "microservice",
       "microservices",
-      "nginx",
       "openai-proxy",
       "reverse-proxy",
       "serverless"
