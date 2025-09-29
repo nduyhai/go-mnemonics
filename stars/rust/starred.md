@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-09-22T02:38:31Z
+Auto-generated on 2025-09-29T02:37:35Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -23,7 +23,7 @@ Auto-generated on 2025-09-22T02:38:31Z
 | [hatoo/oha](https://github.com/hatoo/oha) | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. | [benchmark](https://github.com/topics/benchmark), [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line) |
 | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | [async](https://github.com/topics/async), [grpc](https://github.com/topics/grpc), [proto](https://github.com/topics/proto) |
 | [juspay/connector-service](https://github.com/juspay/connector-service) | Open-Source Payments Connector Service |  |
-| [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing |  |
+| [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing | [hactoberfest](https://github.com/topics/hactoberfest) |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
@@ -44,6 +44,7 @@ Auto-generated on 2025-09-22T02:38:31Z
 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. | [ai](https://github.com/topics/ai), [ai-engineering](https://github.com/topics/ai-engineering), [anthropic](https://github.com/topics/anthropic) |
 | [tikv/tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database, originally created to complement TiDB | [cncf](https://github.com/topics/cncf), [consensus](https://github.com/topics/consensus), [distributed-transactions](https://github.com/topics/distributed-transactions) |
 | [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | [asynchronous](https://github.com/topics/asynchronous), [networking](https://github.com/topics/networking), [rust](https://github.com/topics/rust) |
+| [typst/typst](https://github.com/typst/typst) | A new markup-based typesetting system that is powerful and easy to learn. | [compiler](https://github.com/topics/compiler), [markup](https://github.com/topics/markup), [typesetting](https://github.com/topics/typesetting) |
 | [vadimcn/codelldb](https://github.com/vadimcn/codelldb) | A native debugger extension for VSCode based on LLDB | [debugger](https://github.com/topics/debugger), [lldb](https://github.com/topics/lldb), [vscode-extension](https://github.com/topics/vscode-extension) |
 | [verichains/revela](https://github.com/verichains/revela) | Decompiler for Move smart contracts | [aptos](https://github.com/topics/aptos), [audit](https://github.com/topics/audit), [blockchain](https://github.com/topics/blockchain) |
 | [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | [blockchain](https://github.com/topics/blockchain), [fhe](https://github.com/topics/fhe), [privacy](https://github.com/topics/privacy) |

@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-09-22T02:38:31Z
+Auto-generated on 2025-09-29T02:37:35Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -309,6 +309,7 @@ Auto-generated on 2025-09-22T02:38:31Z
 | [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) | 📖 100 Go Mistakes and How to Avoid Them | [book](https://github.com/topics/book), [chinese](https://github.com/topics/chinese), [documentation](https://github.com/topics/documentation) |
 | [temporalio/temporal](https://github.com/temporalio/temporal) | Temporal service | [cronjob-scheduler](https://github.com/topics/cronjob-scheduler), [distributed-cron](https://github.com/topics/distributed-cron), [distributed-systems](https://github.com/topics/distributed-systems) |
 | [thanos-io/thanos](https://github.com/thanos-io/thanos) | Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. | [cncf](https://github.com/topics/cncf), [go](https://github.com/topics/go), [google-cloud-storage](https://github.com/topics/google-cloud-storage) |
+| [tidwall/gjson](https://github.com/tidwall/gjson) | Get JSON values quickly - JSON parser for Go | [golang](https://github.com/topics/golang), [json](https://github.com/topics/json), [json-parser](https://github.com/topics/json-parser) |
 | [tidwall/tile38](https://github.com/tidwall/tile38) | Real-time Geospatial and Geofencing | [database](https://github.com/topics/database), [geo](https://github.com/topics/geo), [geofences](https://github.com/topics/geofences) |
 | [tinode/chat](https://github.com/tinode/chat) | Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots | [chat](https://github.com/topics/chat), [chat-application](https://github.com/topics/chat-application), [chatapp](https://github.com/topics/chatapp) |
 | [tmrts/go-patterns](https://github.com/tmrts/go-patterns) | Curated list of Go design patterns, recipes and idioms | [awesome](https://github.com/topics/awesome), [design-patterns](https://github.com/topics/design-patterns), [design-patterns-for-humans](https://github.com/topics/design-patterns-for-humans) |

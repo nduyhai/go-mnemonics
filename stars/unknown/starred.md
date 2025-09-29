@@ -1,6 +1,6 @@
 # 🌟 Unknown Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-09-22T02:38:31Z
+Auto-generated on 2025-09-29T02:37:35Z
 
 | Name | Description | Language | Topics |
 |------|-------------|----------|-------|
@@ -299,6 +299,7 @@ Auto-generated on 2025-09-22T02:38:31Z
 | [googlecreativelab/Sprayscape](https://github.com/googlecreativelab/Sprayscape) | Sprayscape is a perfectly imperfect VR-ish camera. It is an open source Android app released on the Android Experiments platform. | Objective-C |  |
 | [googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community) | Example code snippets and machine learning code for Teachable Machine | TypeScript |  |
 | [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) | Generate Google Slides from markdown | TypeScript | [google-slides](https://github.com/topics/google-slides), [google-workspace](https://github.com/topics/google-workspace), [gsuite](https://github.com/topics/gsuite) |
+| [gophercon/talks](https://github.com/gophercon/talks) | GopherCon Slides | Unknown |  |
 | [grafana/grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  | TypeScript | [alerting](https://github.com/topics/alerting), [analytics](https://github.com/topics/analytics), [business-intelligence](https://github.com/topics/business-intelligence) |
 | [grafana/grafonnet](https://github.com/grafana/grafonnet) | Jsonnet library for generating Grafana dashboards. | Jsonnet | [grafana](https://github.com/topics/grafana), [jsonnet](https://github.com/topics/jsonnet), [jsonnet-lib](https://github.com/topics/jsonnet-lib) |
 | [graphql/graphql-js](https://github.com/graphql/graphql-js) | A reference implementation of GraphQL for JavaScript | TypeScript | [graphql](https://github.com/topics/graphql), [graphql-js](https://github.com/topics/graphql-js) |
@@ -306,6 +307,7 @@ Auto-generated on 2025-09-22T02:38:31Z
 | [guardicore/monkey](https://github.com/guardicore/monkey) | Infection Monkey - An open-source adversary emulation platform | Python | [adversary-emulation](https://github.com/topics/adversary-emulation), [infection-monkey](https://github.com/topics/infection-monkey), [penetration-testing](https://github.com/topics/penetration-testing) |
 | [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) | A curated list of resources related to the Java annotation processing API (JSR 269) | Unknown | [annotation-processing](https://github.com/topics/annotation-processing), [annotation-processor](https://github.com/topics/annotation-processor), [awesome-list](https://github.com/topics/awesome-list) |
 | [gztchan/awesome-design](https://github.com/gztchan/awesome-design) | 🌟 Curated design resources from all over the world. | Unknown | [adobe](https://github.com/topics/adobe), [awesome](https://github.com/topics/awesome), [creative](https://github.com/topics/creative) |
+| [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | JavaScript | [presentations](https://github.com/topics/presentations), [slides](https://github.com/topics/slides), [slideshow](https://github.com/topics/slideshow) |
 | [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) | Minimal templating on steroids. | JavaScript | [handlebars](https://github.com/topics/handlebars), [mustache](https://github.com/topics/mustache), [templates](https://github.com/topics/templates) |
 | [hashicorp/vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. | Ruby | [automation](https://github.com/topics/automation), [ruby](https://github.com/topics/ruby), [vagrant](https://github.com/topics/vagrant) |
 | [hmaverickadams/Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) | Notes for Beginner Network Pentesting Course | Unknown |  |
@@ -332,6 +334,7 @@ Auto-generated on 2025-09-22T02:38:31Z
 | [janhuenermann/neurojs](https://github.com/janhuenermann/neurojs) | A JavaScript deep learning and reinforcement learning library. | JavaScript | [deep-learning](https://github.com/topics/deep-learning), [javascript](https://github.com/topics/javascript), [machine-learning](https://github.com/topics/machine-learning) |
 | [jaygooby/build-nginx](https://github.com/jaygooby/build-nginx) | Fetches nginx and any optional third-party modules and dependencies you specify, such as openssl and PCRE and then configures and builds. | Shell | [3rd-party-modules](https://github.com/topics/3rd-party-modules), [build-tool](https://github.com/topics/build-tool), [configuration](https://github.com/topics/configuration) |
 | [jbranchaud/til](https://github.com/jbranchaud/til) | :memo: Today I Learned | Vim Script | [learn-in-public](https://github.com/topics/learn-in-public), [til](https://github.com/topics/til), [today-i-learned](https://github.com/topics/today-i-learned) |
+| [jcinnamond/gopherconuk-2025](https://github.com/jcinnamond/gopherconuk-2025) |  | Unknown |  |
 | [jcp-org/Java-in-Education](https://github.com/jcp-org/Java-in-Education) |  Java in Education is an initiative to promote Java in the local educational institutions.  | HTML |  |
 | [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) | Bug-tracking for Jeff's algorithms book, notes, etc. | Unknown | [algorithm](https://github.com/topics/algorithm), [course-materials](https://github.com/topics/course-materials), [lecture-notes](https://github.com/topics/lecture-notes) |
 | [jesperancinha/favourite-lyrics-app](https://github.com/jesperancinha/favourite-lyrics-app) | Favorite lyrics is a project exploring Hexagonal Architecture. | Kotlin |  |

@@ -1,5 +1,52 @@
 [
   {
+    "name": "typst/typst",
+    "url": "https://github.com/typst/typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "language": "Rust",
+    "topics": [
+      "compiler",
+      "markup",
+      "typesetting"
+    ]
+  },
+  {
+    "name": "tidwall/gjson",
+    "url": "https://github.com/tidwall/gjson",
+    "description": "Get JSON values quickly - JSON parser for Go",
+    "language": "Go",
+    "topics": [
+      "golang",
+      "json",
+      "json-parser"
+    ]
+  },
+  {
+    "name": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "language": "JavaScript",
+    "topics": [
+      "presentations",
+      "slides",
+      "slideshow"
+    ]
+  },
+  {
+    "name": "jcinnamond/gopherconuk-2025",
+    "url": "https://github.com/jcinnamond/gopherconuk-2025",
+    "description": "",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "gophercon/talks",
+    "url": "https://github.com/gophercon/talks",
+    "description": "GopherCon Slides",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
     "name": "samber/oops",
     "url": "https://github.com/samber/oops",
     "description": "🔥 Error handling library with context, assertion, stack trace and source fragments",
@@ -516,7 +563,9 @@
     "url": "https://github.com/juspay/decision-engine",
     "description": "open-source routing system designed for payment processing",
     "language": "Rust",
-    "topics": []
+    "topics": [
+      "hactoberfest"
+    ]
   },
   {
     "name": "getlago/lago",
@@ -7555,7 +7604,7 @@
   {
     "name": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
-    "description": ":zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.",
+    "description": "Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.",
     "language": "Java",
     "topics": [
       "automation",
