@@ -1,5 +1,102 @@
 [
   {
+    "name": "go-telegram-bot-api/telegram-bot-api",
+    "url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
+    "description": "Golang bindings for the Telegram Bot API",
+    "language": "Go",
+    "topics": [
+      "golang",
+      "hacktoberfest",
+      "telegram"
+    ]
+  },
+  {
+    "name": "openai/openai-go",
+    "url": "https://github.com/openai/openai-go",
+    "description": "The official Go library for the OpenAI API",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "DataDog/dd-trace-go",
+    "url": "https://github.com/DataDog/dd-trace-go",
+    "description": "Datadog Go Library including APM tracing, profiling, and security monitoring.",
+    "language": "Go",
+    "topics": [
+      "apm",
+      "appsec",
+      "datadog",
+      "distributed-tracing",
+      "monitoring",
+      "opentelemetry",
+      "opentracing",
+      "otel",
+      "performance",
+      "profiling",
+      "tracing"
+    ]
+  },
+  {
+    "name": "DataDog/orchestrion",
+    "url": "https://github.com/DataDog/orchestrion",
+    "description": "Automatic compile-time instrumentation of Go code",
+    "language": "Go",
+    "topics": [
+      "apm",
+      "datadog",
+      "go",
+      "instrumentation",
+      "monitoring",
+      "tracing"
+    ]
+  },
+  {
+    "name": "Schniz/fnm",
+    "url": "https://github.com/Schniz/fnm",
+    "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "language": "Rust",
+    "topics": [
+      "hacktoberfest",
+      "javascript",
+      "nodejs",
+      "nvm",
+      "reasonml",
+      "version"
+    ]
+  },
+  {
+    "name": "crawlab-team/crawlab",
+    "url": "https://github.com/crawlab-team/crawlab",
+    "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架",
+    "language": "Go",
+    "topics": [
+      "crawlab",
+      "crawler",
+      "crawling-tasks",
+      "docker",
+      "go",
+      "platform",
+      "scrapy",
+      "scrapyd-ui",
+      "spider",
+      "spiders-management",
+      "web-crawler",
+      "webcrawler",
+      "webspider"
+    ]
+  },
+  {
+    "name": "github/awesome-copilot",
+    "url": "https://github.com/github/awesome-copilot",
+    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+    "language": "JavaScript",
+    "topics": [
+      "ai",
+      "github-copilot",
+      "prompt-engineering"
+    ]
+  },
+  {
     "name": "typst/typst",
     "url": "https://github.com/typst/typst",
     "description": "A new markup-based typesetting system that is powerful and easy to learn.",
@@ -1607,6 +1704,7 @@
     "topics": [
       "gnmi",
       "golang",
+      "hacktoberfest",
       "influxdb",
       "json",
       "kafka",
@@ -3186,13 +3284,15 @@
   {
     "name": "menloresearch/jan",
     "url": "https://github.com/menloresearch/jan",
-    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
     "language": "TypeScript",
     "topics": [
+      "chatgpt",
       "gpt",
-      "llama2",
       "llamacpp",
+      "llm",
       "localai",
+      "open-source",
       "self-hosted",
       "tauri"
     ]
@@ -5247,25 +5347,25 @@
     "language": "Python",
     "topics": [
       "amd",
+      "blackwell",
       "cuda",
       "deepseek",
+      "deepseek-v3",
       "gpt",
-      "hpu",
+      "gpt-oss",
       "inference",
-      "inferentia",
+      "kimi",
       "llama",
       "llm",
       "llm-serving",
-      "llmops",
-      "mlops",
       "model-serving",
+      "moe",
+      "openai",
       "pytorch",
       "qwen",
-      "rocm",
+      "qwen3",
       "tpu",
-      "trainium",
-      "transformer",
-      "xpu"
+      "transformer"
     ]
   },
   {
@@ -7604,7 +7704,7 @@
   {
     "name": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
-    "description": "Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+    "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
     "language": "Java",
     "topics": [
       "automation",
@@ -8178,6 +8278,7 @@
       "datadiscovery",
       "dataengineering",
       "dataquality",
+      "hacktoberfest",
       "mcp",
       "mcp-server",
       "metadata",
@@ -8572,7 +8673,6 @@
       "audio",
       "c",
       "ffmpeg",
-      "hacktoberfest",
       "mplayer",
       "mpv",
       "multimedia",
@@ -8909,7 +9009,7 @@
   {
     "name": "google/jimfs",
     "url": "https://github.com/google/jimfs",
-    "description": "An in-memory file system for Java 7+",
+    "description": "An in-memory file system for Java 8+",
     "language": "Java",
     "topics": []
   },
@@ -10663,7 +10763,6 @@
     "topics": [
       "cli",
       "cli-app",
-      "hacktoberfest",
       "oh-my-zsh",
       "oh-my-zsh-plugin",
       "oh-my-zsh-theme",
@@ -14599,7 +14698,6 @@
     "language": "Rust",
     "topics": [
       "compiler",
-      "hacktoberfest",
       "language",
       "rust"
     ]
@@ -15863,7 +15961,7 @@
     "name": "Kong/kong",
     "url": "https://github.com/Kong/kong",
     "description": "🦍 The Cloud-Native Gateway for APIs \u0026 AI",
-    "language": "Unknown",
+    "language": "Lua",
     "topics": [
       "ai",
       "ai-gateway",

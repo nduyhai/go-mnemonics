@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-09-29T02:37:35Z
+Auto-generated on 2025-10-06T02:36:37Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -145,7 +145,7 @@ Auto-generated on 2025-09-29T02:37:35Z
 | [google/flogger](https://github.com/google/flogger) | A Fluent Logging API for Java | [logging](https://github.com/topics/logging) |
 | [google/guava](https://github.com/google/guava) | Google core libraries for Java | [guava](https://github.com/topics/guava), [java](https://github.com/topics/java) |
 | [google/guice](https://github.com/google/guice) | Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google. |  |
-| [google/jimfs](https://github.com/google/jimfs) | An in-memory file system for Java 7+ |  |
+| [google/jimfs](https://github.com/google/jimfs) | An in-memory file system for Java 8+ |  |
 | [google/rejoiner](https://github.com/google/rejoiner) | Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources | [graphql](https://github.com/topics/graphql), [graphql-server](https://github.com/topics/graphql-server), [grpc](https://github.com/topics/grpc) |
 | [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. | [astar](https://github.com/topics/astar), [dijkstra](https://github.com/topics/dijkstra), [directions](https://github.com/topics/directions) |
 | [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) | GraphQL Java implementation | [graphql](https://github.com/topics/graphql), [graphql-java](https://github.com/topics/graphql-java), [java](https://github.com/topics/java) |
@@ -182,7 +182,7 @@ Auto-generated on 2025-09-29T02:37:35Z
 | [jspecify/jspecify](https://github.com/jspecify/jspecify) | An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. | [android](https://github.com/topics/android), [annotations](https://github.com/topics/annotations), [bugfinding](https://github.com/topics/bugfinding) |
 | [junit-team/junit-framework](https://github.com/junit-team/junit-framework) | ✅ The programmer-friendly testing framework for Java and the JVM | [java](https://github.com/topics/java), [junit](https://github.com/topics/junit), [junit-jupiter](https://github.com/topics/junit-jupiter) |
 | [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. |  |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable. | [automation](https://github.com/topics/automation), [data-orchestration](https://github.com/topics/data-orchestration), [devops](https://github.com/topics/devops) |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. | [automation](https://github.com/topics/automation), [data-orchestration](https://github.com/topics/data-orchestration), [devops](https://github.com/topics/devops) |
 | [keva-dev/keva-ioc](https://github.com/keva-dev/keva-ioc) | Fast, lightweight, Spring like, annotation driven IoC framework | [dependency-injection](https://github.com/topics/dependency-injection), [ioc-framework](https://github.com/topics/ioc-framework) |
 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applications and Services | [keycloak](https://github.com/topics/keycloak), [oidc](https://github.com/topics/oidc), [saml](https://github.com/topics/saml) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | Kroxylicious, the snappy open source proxy for Apache Kafka® | [apache-kafka](https://github.com/topics/apache-kafka), [java](https://github.com/topics/java), [kafka](https://github.com/topics/kafka) |

@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-09-29T02:37:35Z
+Auto-generated on 2025-10-06T02:36:37Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -9,6 +9,7 @@ Auto-generated on 2025-09-29T02:37:35Z
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | [android](https://github.com/topics/android), [css](https://github.com/topics/css), [desktop](https://github.com/topics/desktop) |
 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your Internet traffic 🕵️‍♂️ | [application](https://github.com/topics/application), [gui](https://github.com/topics/gui), [iced](https://github.com/topics/iced) |
 | [RedisGears/RedisGears](https://github.com/RedisGears/RedisGears) | Dynamic execution framework for your Redis data | [analytics](https://github.com/topics/analytics), [mapreduce](https://github.com/topics/mapreduce), [redis](https://github.com/topics/redis) |
+| [Schniz/fnm](https://github.com/Schniz/fnm) | 🚀 Fast and simple Node.js version manager, built in Rust | [hacktoberfest](https://github.com/topics/hacktoberfest), [javascript](https://github.com/topics/javascript), [nodejs](https://github.com/topics/nodejs) |
 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust | [apache2](https://github.com/topics/apache2), [bm25](https://github.com/topics/bm25), [enterprise-search](https://github.com/topics/enterprise-search) |
 | [actix/actix-web](https://github.com/actix/actix-web) | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. | [actix](https://github.com/topics/actix), [actix-web](https://github.com/topics/actix-web), [async](https://github.com/topics/async) |
 | [ankitects/anki](https://github.com/ankitects/anki) | Anki is a smart spaced repetition flashcard program |  |
@@ -33,7 +34,7 @@ Auto-generated on 2025-09-29T02:37:35Z
 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | [ai-search](https://github.com/topics/ai-search), [ai-search-engine](https://github.com/topics/ai-search-engine), [embeddings-similarity](https://github.com/topics/embeddings-similarity) |
 | [rathole-org/rathole](https://github.com/rathole-org/rathole) | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. | [firewall](https://github.com/topics/firewall), [frp](https://github.com/topics/frp), [http](https://github.com/topics/http) |
 | [restatedev/restate](https://github.com/restatedev/restate) | Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. | [async-await](https://github.com/topics/async-await), [cli](https://github.com/topics/cli), [consistent-state](https://github.com/topics/consistent-state) |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | [compiler](https://github.com/topics/compiler), [hacktoberfest](https://github.com/topics/hacktoberfest), [language](https://github.com/topics/language) |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | [compiler](https://github.com/topics/compiler), [language](https://github.com/topics/language), [rust](https://github.com/topics/rust) |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | [android](https://github.com/topics/android), [anydesk](https://github.com/topics/anydesk), [dart](https://github.com/topics/dart) |
 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀 High-performance distributed object storage for MinIO  alternative. | [bigdata](https://github.com/topics/bigdata), [cloud-native](https://github.com/topics/cloud-native), [distributed-systems](https://github.com/topics/distributed-systems) |
 | [serde-rs/serde](https://github.com/serde-rs/serde) | Serialization framework for Rust | [derive](https://github.com/topics/derive), [no-std](https://github.com/topics/no-std), [rust](https://github.com/topics/rust) |
