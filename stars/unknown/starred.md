@@ -1,6 +1,6 @@
 # 🌟 Unknown Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-10-06T02:36:37Z
+Auto-generated on 2025-10-13T02:39:29Z
 
 | Name | Description | Language | Topics |
 |------|-------------|----------|-------|
@@ -267,7 +267,7 @@ Auto-generated on 2025-10-06T02:36:37Z
 | [gianni-dalerta/awesome-nft](https://github.com/gianni-dalerta/awesome-nft) | A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software | Unknown |  |
 | [git-tips/tips](https://github.com/git-tips/tips) | Most commonly used git tips and tricks. | JavaScript | [git](https://github.com/topics/git), [tips](https://github.com/topics/tips), [tips-and-tricks](https://github.com/topics/tips-and-tricks) |
 | [git/git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. | C | [c](https://github.com/topics/c), [hacktoberfest](https://github.com/topics/hacktoberfest), [shell](https://github.com/topics/shell) |
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. | JavaScript | [ai](https://github.com/topics/ai), [github-copilot](https://github.com/topics/github-copilot), [prompt-engineering](https://github.com/topics/prompt-engineering) |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. | JavaScript | [ai](https://github.com/topics/ai), [github-copilot](https://github.com/topics/github-copilot), [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [github/gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | Unknown | [git](https://github.com/topics/git), [gitignore](https://github.com/topics/gitignore) |
 | [github/glb-director](https://github.com/github/glb-director) | GitHub Load Balancer Director and supporting tooling. | C |  |
 | [github/opensource.guide](https://github.com/github/opensource.guide) | 📚 Community guides for open source creators | HTML | [best-practices](https://github.com/topics/best-practices), [documentation](https://github.com/topics/documentation), [hacktoberfest](https://github.com/topics/hacktoberfest) |
@@ -379,7 +379,6 @@ Auto-generated on 2025-10-06T02:36:37Z
 | [kubernauts/jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) | Load testing as a service (LTaaS) with Apache Jmeter on kubernetes | Shell |  |
 | [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups | Unknown | [architecture](https://github.com/topics/architecture), [awesome](https://github.com/topics/awesome), [awesome-list](https://github.com/topics/awesome-list) |
 | [lampts/vietai](https://github.com/lampts/vietai) | Transform AI/DL/DS into real world applications for Vietnam. | Unknown |  |
-| [lancedb/lancedb](https://github.com/lancedb/lancedb) | Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. | Python | [approximate-nearest-neighbor-search](https://github.com/topics/approximate-nearest-neighbor-search), [image-search](https://github.com/topics/image-search), [nearest-neighbor-search](https://github.com/topics/nearest-neighbor-search) |
 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | Python | [agents](https://github.com/topics/agents), [chatgpt](https://github.com/topics/chatgpt), [generative-ai](https://github.com/topics/generative-ai) |
 | [leafo/luajit-geoip](https://github.com/leafo/luajit-geoip) | luajit bindings to maxmind geoip | MoonScript |  |
 | [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) | A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 | Jupyter Notebook | [adaptive-streaming](https://github.com/topics/adaptive-streaming), [arithmetic-coding](https://github.com/topics/arithmetic-coding), [audio](https://github.com/topics/audio) |
@@ -497,6 +496,7 @@ Auto-generated on 2025-10-06T02:36:37Z
 | [quark0/darts](https://github.com/quark0/darts) | Differentiable architecture search for convolutional and recurrent networks | Python | [automl](https://github.com/topics/automl), [convolutional-networks](https://github.com/topics/convolutional-networks), [deep-learning](https://github.com/topics/deep-learning) |
 | [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) | A collection of awesome .NET libraries, tools, frameworks and software | Unknown | [awesome](https://github.com/topics/awesome), [awesome-list](https://github.com/topics/awesome-list), [clr](https://github.com/topics/clr) |
 | [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) | Learn python3 in one picture. | Jupyter Notebook |  |
+| [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) | Container Management and Kubernetes on the Desktop | TypeScript | [containers](https://github.com/topics/containers), [kubernetes](https://github.com/topics/kubernetes), [linux](https://github.com/topics/linux) |
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | Jupyter Notebook | [ai](https://github.com/topics/ai), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [chatgpt](https://github.com/topics/chatgpt) |
 | [realm/realm-core](https://github.com/realm/realm-core) | Core database component for the Realm Mobile Database SDKs | C++ | [c-plus-plus](https://github.com/topics/c-plus-plus), [cpp](https://github.com/topics/cpp), [database](https://github.com/topics/database) |
 | [realvjy/uilogos.co](https://github.com/realvjy/uilogos.co) |  | JavaScript |  |

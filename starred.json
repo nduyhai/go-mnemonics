@@ -1,5 +1,154 @@
 [
   {
+    "name": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "description": "🤖 AI Gateway | AI Native API Gateway",
+    "language": "Go",
+    "topics": [
+      "ai-gateway",
+      "ai-native",
+      "api-gateway",
+      "cloud-native",
+      "envoy"
+    ]
+  },
+  {
+    "name": "alibaba/spring-ai-alibaba",
+    "url": "https://github.com/alibaba/spring-ai-alibaba",
+    "description": "Agentic AI Framework for Java Developers",
+    "language": "Java",
+    "topics": [
+      "artificial-intelligence",
+      "java",
+      "spring-ai"
+    ]
+  },
+  {
+    "name": "nduyhai/valjean",
+    "url": "https://github.com/nduyhai/valjean",
+    "description": "valjean bot",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "rust-lang/rustfmt",
+    "url": "https://github.com/rust-lang/rustfmt",
+    "description": "Format Rust code",
+    "language": "Rust",
+    "topics": [
+      "codeformatter",
+      "formatter",
+      "rust",
+      "rustfmt"
+    ]
+  },
+  {
+    "name": "akuity/kargo",
+    "url": "https://github.com/akuity/kargo",
+    "description": "Application lifecycle orchestration",
+    "language": "Go",
+    "topics": [
+      "argocd",
+      "cd",
+      "delivery",
+      "gitops",
+      "hacktoberfest",
+      "k8s",
+      "kubernetes",
+      "promotions"
+    ]
+  },
+  {
+    "name": "inngest/inngest",
+    "url": "https://github.com/inngest/inngest",
+    "description": "The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "event-driven",
+      "event-driven-architecture",
+      "queues",
+      "serverless",
+      "serverless-functions",
+      "workflow-engine",
+      "workflows"
+    ]
+  },
+  {
+    "name": "go-chi/chi",
+    "url": "https://github.com/go-chi/chi",
+    "description": "lightweight, idiomatic and composable router for building Go HTTP services",
+    "language": "Go",
+    "topics": [
+      "api",
+      "context",
+      "go",
+      "golang",
+      "http",
+      "microservices",
+      "middleware",
+      "rest-api",
+      "router"
+    ]
+  },
+  {
+    "name": "hashicorp/go-multierror",
+    "url": "https://github.com/hashicorp/go-multierror",
+    "description": "A Go (golang) package for representing a list of errors as a single error.",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "Stremio/stremio-core",
+    "url": "https://github.com/Stremio/stremio-core",
+    "description": "⚛️ The Stremio Core: types, addon system, UI models, core logic",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "open-telemetry/weaver",
+    "url": "https://github.com/open-telemetry/weaver",
+    "description": "OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions",
+    "language": "Rust",
+    "topics": [
+      "codegen",
+      "documentation",
+      "observability",
+      "opentelemetry",
+      "policy",
+      "semconv"
+    ]
+  },
+  {
+    "name": "uber-go/ratelimit",
+    "url": "https://github.com/uber-go/ratelimit",
+    "description": "A Go blocking leaky-bucket rate limit implementation",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "containerd/nerdctl",
+    "url": "https://github.com/containerd/nerdctl",
+    "description": "contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",
+    "language": "Go",
+    "topics": [
+      "containerd"
+    ]
+  },
+  {
+    "name": "rancher-sandbox/rancher-desktop",
+    "url": "https://github.com/rancher-sandbox/rancher-desktop",
+    "description": "Container Management and Kubernetes on the Desktop",
+    "language": "TypeScript",
+    "topics": [
+      "containers",
+      "kubernetes",
+      "linux",
+      "macos",
+      "windows"
+    ]
+  },
+  {
     "name": "go-telegram-bot-api/telegram-bot-api",
     "url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
     "description": "Golang bindings for the Telegram Bot API",
@@ -93,6 +242,7 @@
     "topics": [
       "ai",
       "github-copilot",
+      "hacktoberfest",
       "prompt-engineering"
     ]
   },
@@ -653,7 +803,9 @@
     "url": "https://github.com/juspay/connector-service",
     "description": "Open-Source Payments Connector Service",
     "language": "Rust",
-    "topics": []
+    "topics": [
+      "hacktoberfest"
+    ]
   },
   {
     "name": "juspay/decision-engine",
@@ -1165,13 +1317,13 @@
     "description": "🚀 High-performance distributed object storage for MinIO  alternative.",
     "language": "Rust",
     "topics": [
+      "amazon-s3",
       "bigdata",
       "cloud-native",
-      "distributed-systems",
       "filesystem",
       "minio",
       "object-storage",
-      "oss",
+      "objectstorage",
       "rust",
       "s3"
     ]
@@ -4199,6 +4351,7 @@
     "language": "Java",
     "topics": [
       "artificial-intelligence",
+      "hacktoberfest",
       "java",
       "spring-ai"
     ]
@@ -4556,7 +4709,7 @@
     "name": "lancedb/lancedb",
     "url": "https://github.com/lancedb/lancedb",
     "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
-    "language": "Python",
+    "language": "Rust",
     "topics": [
       "approximate-nearest-neighbor-search",
       "image-search",
@@ -7580,6 +7733,7 @@
       "data-discovery",
       "data-governance",
       "datahub",
+      "hacktoberfest",
       "metadata"
     ]
   },
@@ -7830,6 +7984,7 @@
       "generics",
       "go",
       "golang",
+      "hacktoberfest",
       "lodash",
       "programming",
       "typesafe"
@@ -8863,7 +9018,7 @@
   {
     "name": "immutables/immutables",
     "url": "https://github.com/immutables/immutables",
-    "description": "Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.",
+    "description": "Java annotation processor to create immutable objects and builders. Sweeps boilerplate code under the rug since 2013!",
     "language": "Java",
     "topics": [
       "annotation-processor",
@@ -8875,7 +9030,8 @@
       "immutable-objects",
       "immutables",
       "jackson",
-      "java"
+      "java",
+      "records"
     ]
   },
   {
