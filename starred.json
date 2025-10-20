@@ -1,5 +1,136 @@
 [
   {
+    "name": "adorsys/keycloak-config-cli",
+    "url": "https://github.com/adorsys/keycloak-config-cli",
+    "description": "Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.",
+    "language": "Java",
+    "topics": [
+      "automation",
+      "configuration-as-code",
+      "configuration-management",
+      "continuous-integration",
+      "export",
+      "import",
+      "jboss",
+      "json",
+      "keycloak",
+      "keycloak-config-cli",
+      "oauth2",
+      "rest",
+      "spring-boot"
+    ]
+  },
+  {
+    "name": "kafbat/kafka-ui",
+    "url": "https://github.com/kafbat/kafka-ui",
+    "description": "Open-Source Web UI for managing Apache Kafka clusters",
+    "language": "Java",
+    "topics": [
+      "apache-kafka",
+      "big-data",
+      "cluster-management",
+      "event-streaming",
+      "foss",
+      "hacktoberfest",
+      "kafka",
+      "kafka-brokers",
+      "kafka-client",
+      "kafka-cluster",
+      "kafka-connect",
+      "kafka-manager",
+      "kafka-producer",
+      "kafka-streams",
+      "kafka-ui",
+      "opensource",
+      "streaming-data",
+      "streams",
+      "web-ui"
+    ]
+  },
+  {
+    "name": "throttled/throttled",
+    "url": "https://github.com/throttled/throttled",
+    "description": "Package throttled implements rate limiting access to resources such as HTTP endpoints.",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "cloudflare/vibesdk",
+    "url": "https://github.com/cloudflare/vibesdk",
+    "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cloudflare-workers",
+      "coding-agent",
+      "durable-objects",
+      "text-to-app",
+      "vibe-coding"
+    ]
+  },
+  {
+    "name": "microsoft/edgeai-for-beginners",
+    "url": "https://github.com/microsoft/edgeai-for-beginners",
+    "description": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents.",
+    "language": "Jupyter Notebook",
+    "topics": []
+  },
+  {
+    "name": "hypermodeinc/dgraph",
+    "url": "https://github.com/hypermodeinc/dgraph",
+    "description": "high-performance graph database for real-time use cases",
+    "language": "Go",
+    "topics": [
+      "database",
+      "distributed",
+      "go",
+      "knowledge-graph"
+    ]
+  },
+  {
+    "name": "IBM/sarama",
+    "url": "https://github.com/IBM/sarama",
+    "description": "Sarama is a Go library for Apache Kafka.",
+    "language": "Go",
+    "topics": [
+      "go",
+      "kafka",
+      "kafka-client"
+    ]
+  },
+  {
+    "name": "segmentio/kafka-go",
+    "url": "https://github.com/segmentio/kafka-go",
+    "description": "Kafka library in Go",
+    "language": "Go",
+    "topics": [
+      "consumer",
+      "go",
+      "golang",
+      "golang-library",
+      "golang-native",
+      "kafka",
+      "kafka-client",
+      "producer",
+      "segment"
+    ]
+  },
+  {
+    "name": "dragonflyoss/dragonfly",
+    "url": "https://github.com/dragonflyoss/dragonfly",
+    "description": "Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.",
+    "language": "Go",
+    "topics": [
+      "cloud-native",
+      "cncf",
+      "containers",
+      "docker-image",
+      "nydus",
+      "p2p",
+      "registry"
+    ]
+  },
+  {
     "name": "alibaba/higress",
     "url": "https://github.com/alibaba/higress",
     "description": "🤖 AI Gateway | AI Native API Gateway",
@@ -460,7 +591,7 @@
   {
     "name": "centralci/go-benchmarks",
     "url": "https://github.com/centralci/go-benchmarks",
-    "description": "",
+    "description": "Collection of Go benchmarks for evaluating and comparing the performance of various Go implementations and patterns used at CentralCI. ",
     "language": "Go",
     "topics": []
   },
@@ -976,6 +1107,7 @@
       "developer-experience",
       "developer-portal",
       "dx",
+      "hacktoberfest",
       "infrastructure",
       "microservices",
       "self-service-portal"
@@ -2395,6 +2527,7 @@
       "go",
       "goa",
       "golang",
+      "hacktoberfest",
       "microservices",
       "openapi",
       "rest",
@@ -6099,9 +6232,7 @@
     "description": "wrappers around the http package objects for monitoring with Prometheus",
     "language": "Go",
     "topics": [
-      "golang",
-      "owner-cxt",
-      "prometheus"
+      "owner-pob"
     ]
   },
   {
@@ -7321,7 +7452,7 @@
   {
     "name": "fingerprintjs/fingerprintjs-android",
     "url": "https://github.com/fingerprintjs/fingerprintjs-android",
-    "description": "Swiss army knife for identifying and fingerprinting Android devices. MIT license, no restrictions on usage in production. See link below to get the Pro version with 500K free monthly API calls.",
+    "description": "Swiss army knife for identifying and fingerprinting Android devices. MIT license, no restrictions on usage in production. ",
     "language": "Kotlin",
     "topics": [
       "android-development",
@@ -7984,7 +8115,6 @@
       "generics",
       "go",
       "golang",
-      "hacktoberfest",
       "lodash",
       "programming",
       "typesafe"
@@ -8795,17 +8925,6 @@
       "dashboard-templates",
       "flutter",
       "web"
-    ]
-  },
-  {
-    "name": "micro/micro",
-    "url": "https://github.com/micro/micro",
-    "description": "A microservices toolkit",
-    "language": "Go",
-    "topics": [
-      "go",
-      "micro",
-      "platform"
     ]
   },
   {
@@ -13674,6 +13793,7 @@
       "appsec",
       "dast",
       "hacktoberfest",
+      "opensource",
       "security",
       "security-scanner",
       "zap",

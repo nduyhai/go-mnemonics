@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-10-13T02:39:29Z
+Auto-generated on 2025-10-20T02:40:55Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -45,6 +45,7 @@ Auto-generated on 2025-10-13T02:39:29Z
 | [TNG/ArchUnit](https://github.com/TNG/ArchUnit) | A Java architecture test library, to specify and assert architecture rules in plain Java |  |
 | [TNG/ArchUnit-Examples](https://github.com/TNG/ArchUnit-Examples) | Examples for ArchUnit (A Java architecture test library, to specify and assert architecture rules in plain Java) |  |
 | [TheoKanning/openai-java](https://github.com/TheoKanning/openai-java) | OpenAI Api Client in Java | [gpt3](https://github.com/topics/gpt3), [java](https://github.com/topics/java), [openai](https://github.com/topics/openai) |
+| [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) | Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. | [automation](https://github.com/topics/automation), [configuration-as-code](https://github.com/topics/configuration-as-code), [configuration-management](https://github.com/topics/configuration-management) |
 | [advantageous/qbit](https://github.com/advantageous/qbit) | The Java microservice lib. QBit is a reactive programming lib for building microservices - JSON, HTTP, WebSocket, and REST. QBit uses reactive programming to build elastic REST, and WebSockets based cloud friendly, web services. SOA evolved for mobile and cloud.  ServiceDiscovery, Health, reactive StatService, events, Java idiomatic reactive programming for Microservices. | [actor](https://github.com/topics/actor), [aws](https://github.com/topics/aws), [health](https://github.com/topics/health) |
 | [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) | Adds a Metrics Endpoint to Keycloak |  |
 | [aeron-io/agrona](https://github.com/aeron-io/agrona) | High Performance data structures and utility methods for Java | [java](https://github.com/topics/java), [performance](https://github.com/topics/performance) |
@@ -182,6 +183,7 @@ Auto-generated on 2025-10-13T02:39:29Z
 | [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) | :rocket: Release projects quickly and easily with JReleaser | [ant](https://github.com/topics/ant), [ci-cd](https://github.com/topics/ci-cd), [cli](https://github.com/topics/cli) |
 | [jspecify/jspecify](https://github.com/jspecify/jspecify) | An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. | [android](https://github.com/topics/android), [annotations](https://github.com/topics/annotations), [bugfinding](https://github.com/topics/bugfinding) |
 | [junit-team/junit-framework](https://github.com/junit-team/junit-framework) | ✅ The programmer-friendly testing framework for Java and the JVM | [java](https://github.com/topics/java), [junit](https://github.com/topics/junit), [junit-jupiter](https://github.com/topics/junit-jupiter) |
+| [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) | Open-Source Web UI for managing Apache Kafka clusters | [apache-kafka](https://github.com/topics/apache-kafka), [big-data](https://github.com/topics/big-data), [cluster-management](https://github.com/topics/cluster-management) |
 | [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. |  |
 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. | [automation](https://github.com/topics/automation), [data-orchestration](https://github.com/topics/data-orchestration), [devops](https://github.com/topics/devops) |
 | [keva-dev/keva-ioc](https://github.com/keva-dev/keva-ioc) | Fast, lightweight, Spring like, annotation driven IoC framework | [dependency-injection](https://github.com/topics/dependency-injection), [ioc-framework](https://github.com/topics/ioc-framework) |
