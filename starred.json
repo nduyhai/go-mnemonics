@@ -1,5 +1,205 @@
 [
   {
+    "name": "google/jsonschema-go",
+    "url": "https://github.com/google/jsonschema-go",
+    "description": "The Go library for JSON Schema. An official Google project providing a comprehensive toolkit for validation, reflection, and schema construction.",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "redis/jedis",
+    "url": "https://github.com/redis/jedis",
+    "description": "Redis Java client",
+    "language": "Java",
+    "topics": [
+      "java",
+      "jedis",
+      "redis",
+      "redis-client",
+      "redis-cluster"
+    ]
+  },
+  {
+    "name": "redis/go-redis",
+    "url": "https://github.com/redis/go-redis",
+    "description": "Redis Go client",
+    "language": "Go",
+    "topics": [
+      "go",
+      "golang",
+      "redis",
+      "redis-client",
+      "redis-cluster"
+    ]
+  },
+  {
+    "name": "redpanda-data/redpanda",
+    "url": "https://github.com/redpanda-data/redpanda",
+    "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+    "language": "C++",
+    "topics": [
+      "containers",
+      "cpp",
+      "event-driven",
+      "go",
+      "kafka",
+      "kubernetes",
+      "microservices",
+      "realtime",
+      "redpanda",
+      "seastar",
+      "storage-engine",
+      "stream-processing",
+      "streaming"
+    ]
+  },
+  {
+    "name": "twmb/franz-go",
+    "url": "https://github.com/twmb/franz-go",
+    "description": "franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.1+. Producing, consuming, transacting, administrating, etc.",
+    "language": "Go",
+    "topics": [
+      "client",
+      "go",
+      "golang",
+      "kafka",
+      "kafka-client",
+      "redpanda"
+    ]
+  },
+  {
+    "name": "httpie/desktop",
+    "url": "https://github.com/httpie/desktop",
+    "description": "🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.",
+    "language": "Unknown",
+    "topics": [
+      "api",
+      "api-client",
+      "api-testing",
+      "desktop",
+      "developer-tools",
+      "httpie"
+    ]
+  },
+  {
+    "name": "mountain-loop/yaak",
+    "url": "https://github.com/mountain-loop/yaak",
+    "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+    "language": "TypeScript",
+    "topics": [
+      "bruno-alternative",
+      "graphql",
+      "grpc",
+      "http",
+      "http-client",
+      "insomnia-alternative",
+      "postman-alternative",
+      "sse",
+      "tauri",
+      "websocket"
+    ]
+  },
+  {
+    "name": "bytedance/mockey",
+    "url": "https://github.com/bytedance/mockey",
+    "description": "a simple and easy-to-use golang mock library",
+    "language": "Go",
+    "topics": [
+      "golang",
+      "mock",
+      "test",
+      "testing"
+    ]
+  },
+  {
+    "name": "samber/slog-betterstack",
+    "url": "https://github.com/samber/slog-betterstack",
+    "description": "🚨 slog: Betterstack handler",
+    "language": "Go",
+    "topics": [
+      "attribute",
+      "betterstack",
+      "error",
+      "errors",
+      "go",
+      "golang",
+      "handler",
+      "log",
+      "log-level",
+      "logger",
+      "middleware",
+      "slog",
+      "structured-logging"
+    ]
+  },
+  {
+    "name": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "language": "JavaScript",
+    "topics": [
+      "app",
+      "apple",
+      "application",
+      "apps",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-mac",
+      "desktop-app",
+      "desktop-application",
+      "desktop-apps",
+      "list",
+      "mac",
+      "mac-osx",
+      "macos",
+      "macos-app",
+      "macos-apps",
+      "macosx",
+      "software"
+    ]
+  },
+  {
+    "name": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+    "language": "Rust",
+    "topics": [
+      "browser",
+      "rust",
+      "servo",
+      "web",
+      "webbrowser",
+      "webengine",
+      "webplatform"
+    ]
+  },
+  {
+    "name": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "description": "A cat(1) clone with wings.",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "command-line",
+      "git",
+      "hacktoberfest",
+      "rust",
+      "syntax-highlighting",
+      "terminal",
+      "tool"
+    ]
+  },
+  {
+    "name": "Fission-AI/OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "description": "Spec-driven development for AI coding assistants.",
+    "language": "TypeScript",
+    "topics": [
+      "spec"
+    ]
+  },
+  {
     "name": "adorsys/keycloak-config-cli",
     "url": "https://github.com/adorsys/keycloak-config-cli",
     "description": "Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.",
@@ -76,8 +276,8 @@
     "topics": []
   },
   {
-    "name": "hypermodeinc/dgraph",
-    "url": "https://github.com/hypermodeinc/dgraph",
+    "name": "dgraph-io/dgraph",
+    "url": "https://github.com/dgraph-io/dgraph",
     "description": "high-performance graph database for real-time use cases",
     "language": "Go",
     "topics": [
@@ -380,12 +580,13 @@
   {
     "name": "typst/typst",
     "url": "https://github.com/typst/typst",
-    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "description": "A markup-based typesetting system that is powerful and easy to learn.",
     "language": "Rust",
     "topics": [
       "compiler",
       "markup",
-      "typesetting"
+      "typesetting",
+      "typst"
     ]
   },
   {
@@ -690,7 +891,7 @@
     "name": "github/spec-kit",
     "url": "https://github.com/github/spec-kit",
     "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "language": "Python",
+    "language": "Shell",
     "topics": [
       "ai",
       "copilot",
@@ -944,7 +1145,7 @@
     "description": "open-source routing system designed for payment processing",
     "language": "Rust",
     "topics": [
-      "hactoberfest"
+      "hacktoberfest"
     ]
   },
   {
@@ -1446,7 +1647,7 @@
   {
     "name": "rustfs/rustfs",
     "url": "https://github.com/rustfs/rustfs",
-    "description": "🚀 High-performance distributed object storage for MinIO  alternative.",
+    "description": "🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
     "language": "Rust",
     "topics": [
       "amazon-s3",
@@ -7358,7 +7559,7 @@
   {
     "name": "arl/statsviz",
     "url": "https://github.com/arl/statsviz",
-    "description": "🚀 Visualise Go runtime metrics in real time",
+    "description": "Visualise Go runtime metrics in real time",
     "language": "Go",
     "topics": [
       "garbage-collector",
@@ -15473,8 +15674,8 @@
     ]
   },
   {
-    "name": "akka/akka",
-    "url": "https://github.com/akka/akka",
+    "name": "akka/akka-core",
+    "url": "https://github.com/akka/akka-core",
     "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
     "language": "Scala",
     "topics": [

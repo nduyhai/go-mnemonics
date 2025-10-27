@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-10-20T02:40:55Z
+Auto-generated on 2025-10-27T02:42:25Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -245,6 +245,7 @@ Auto-generated on 2025-10-20T02:40:55Z
 | [raphw/byte-buddy](https://github.com/raphw/byte-buddy) | Runtime code generation for the Java virtual machine. | [byte-code](https://github.com/topics/byte-code), [dynamic-proxy](https://github.com/topics/dynamic-proxy), [instrumentation](https://github.com/topics/instrumentation) |
 | [rapidoid/rapidoid](https://github.com/rapidoid/rapidoid) | Rapidoid - Extremely Fast, Simple and Powerful Java Web Framework and HTTP Server! | [full-stack](https://github.com/topics/full-stack), [high-performance](https://github.com/topics/high-performance), [java](https://github.com/topics/java) |
 | [ratpack/ratpack](https://github.com/ratpack/ratpack) | Lean & powerful HTTP apps |  |
+| [redis/jedis](https://github.com/redis/jedis) | Redis Java client | [java](https://github.com/topics/java), [jedis](https://github.com/topics/jedis), [redis](https://github.com/topics/redis) |
 | [redis/lettuce](https://github.com/redis/lettuce) | Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs. | [asynchronous](https://github.com/topics/asynchronous), [aws-elasticache](https://github.com/topics/aws-elasticache), [azure-redis-cache](https://github.com/topics/azure-redis-cache) |
 | [redis/redis-om-spring](https://github.com/redis/redis-om-spring) | Spring Data Redis extensions for better search, documents models, and more | [java](https://github.com/topics/java), [redis](https://github.com/topics/redis), [spring](https://github.com/topics/spring) |
 | [redisson/redisson](https://github.com/redisson/redisson) | Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. | [cache](https://github.com/topics/cache), [distributed](https://github.com/topics/distributed), [distributed-locks](https://github.com/topics/distributed-locks) |
