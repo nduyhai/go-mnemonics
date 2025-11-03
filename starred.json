@@ -1,5 +1,385 @@
 [
   {
+    "name": "kubetail-org/kubetail",
+    "url": "https://github.com/kubetail-org/kubetail",
+    "description": "Real-time logging dashboard for Kubernetes (browser/terminal)",
+    "language": "Go",
+    "topics": [
+      "dashboard",
+      "kubernetes",
+      "logging",
+      "monitoring",
+      "private",
+      "real-time"
+    ]
+  },
+  {
+    "name": "charmbracelet/glow",
+    "url": "https://github.com/charmbracelet/glow",
+    "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "excitement",
+      "hacktoberfest",
+      "markdown"
+    ]
+  },
+  {
+    "name": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+    "language": "Go",
+    "topics": [
+      "2fa",
+      "authentication",
+      "docker",
+      "golang",
+      "kubernetes",
+      "ldap",
+      "mfa",
+      "multifactor",
+      "oauth2",
+      "openid-connect",
+      "passkeys",
+      "push-notifications",
+      "security",
+      "sso",
+      "sso-authentication",
+      "totp",
+      "two-factor",
+      "two-factor-authentication",
+      "webauthn",
+      "yubikey"
+    ]
+  },
+  {
+    "name": "open-telemetry/opentelemetry-collector",
+    "url": "https://github.com/open-telemetry/opentelemetry-collector",
+    "description": "OpenTelemetry Collector",
+    "language": "Go",
+    "topics": [
+      "metrics",
+      "monitoring",
+      "observability",
+      "open-telemetry",
+      "opentelemetry",
+      "telemetry"
+    ]
+  },
+  {
+    "name": "lovoo/goka",
+    "url": "https://github.com/lovoo/goka",
+    "description": "Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.",
+    "language": "Go",
+    "topics": [
+      "goka",
+      "golang",
+      "kafka",
+      "microservices",
+      "processing",
+      "stream"
+    ]
+  },
+  {
+    "name": "Tencent/WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agentic",
+      "ai",
+      "chatbot",
+      "chatbots",
+      "embeddings",
+      "evaluation",
+      "generative-ai",
+      "golang",
+      "knowledge-base",
+      "llm",
+      "multi-tenant",
+      "multimodel",
+      "ollama",
+      "openai",
+      "question-answering",
+      "rag",
+      "reranking",
+      "semantic-search",
+      "vector-search"
+    ]
+  },
+  {
+    "name": "helm/helm",
+    "url": "https://github.com/helm/helm",
+    "description": "The Kubernetes Package Manager",
+    "language": "Go",
+    "topics": [
+      "chart",
+      "charts",
+      "cncf",
+      "helm",
+      "kubernetes"
+    ]
+  },
+  {
+    "name": "wimdeblauwe/error-handling-spring-boot-starter",
+    "url": "https://github.com/wimdeblauwe/error-handling-spring-boot-starter",
+    "description": "Spring Boot starter for configurable REST API error handling",
+    "language": "Java",
+    "topics": [
+      "spring-boot"
+    ]
+  },
+  {
+    "name": "httpie/cli",
+    "url": "https://github.com/httpie/cli",
+    "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins \u0026 more.",
+    "language": "Python",
+    "topics": [
+      "api",
+      "api-client",
+      "api-testing",
+      "cli",
+      "client",
+      "curl",
+      "debugging",
+      "developer-tools",
+      "development",
+      "devops",
+      "http",
+      "http-client",
+      "httpie",
+      "json",
+      "python",
+      "rest",
+      "rest-api",
+      "terminal",
+      "usability",
+      "web"
+    ]
+  },
+  {
+    "name": "Kong/insomnia",
+    "url": "https://github.com/Kong/insomnia",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "topics": [
+      "api",
+      "api-client",
+      "api-design",
+      "curl",
+      "electron-app",
+      "graphql",
+      "grpc",
+      "http-client",
+      "rest-api",
+      "websockets"
+    ]
+  },
+  {
+    "name": "strimzi/strimzi-kafka-operator",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "description": "Apache Kafka® running on Kubernetes",
+    "language": "Java",
+    "topics": [
+      "data-stream",
+      "data-streaming",
+      "data-streams",
+      "hacktoberfest",
+      "kafka",
+      "kafka-connect",
+      "kafka-streams",
+      "kubernetes",
+      "kubernetes-controller",
+      "kubernetes-operator",
+      "messaging",
+      "openshift"
+    ]
+  },
+  {
+    "name": "google/adk-java",
+    "url": "https://github.com/google/adk-java",
+    "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "language": "Java",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "genai",
+      "genai-chatbot",
+      "llm",
+      "llms",
+      "multi-agent",
+      "multi-agent-system",
+      "multi-agent-systems",
+      "multi-agents",
+      "multi-agents-collaboration"
+    ]
+  },
+  {
+    "name": "corazawaf/coraza",
+    "url": "https://github.com/corazawaf/coraza",
+    "description": "OWASP Coraza WAF is a golang modsecurity compatible web application firewall library",
+    "language": "Go",
+    "topics": [
+      "coraza",
+      "coraza-waf",
+      "coreruleset",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "http",
+      "modsecurity",
+      "owasp",
+      "owasp-crs",
+      "waf",
+      "web-application-firewall"
+    ]
+  },
+  {
+    "name": "thomaspoignant/go-feature-flag",
+    "url": "https://github.com/thomaspoignant/go-feature-flag",
+    "description": "GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",
+    "language": "Go",
+    "topics": [
+      "beginner-friendly",
+      "continuous-delivery",
+      "continuous-deployment",
+      "continuous-testing",
+      "devops",
+      "experimentation",
+      "experiments",
+      "feature-flag",
+      "feature-flags",
+      "feature-toggle",
+      "feature-toggles",
+      "feature-toggling",
+      "go",
+      "go-feature-flag",
+      "golang",
+      "golang-library",
+      "help-wanted",
+      "toggles",
+      "variants"
+    ]
+  },
+  {
+    "name": "flowable/flowable-engine",
+    "url": "https://github.com/flowable/flowable-engine",
+    "description": "A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.",
+    "language": "Java",
+    "topics": [
+      "bpmn",
+      "java",
+      "workflow",
+      "workflow-engine"
+    ]
+  },
+  {
+    "name": "envoyproxy/ai-gateway",
+    "url": "https://github.com/envoyproxy/ai-gateway",
+    "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-gateway",
+      "api-gateway",
+      "cncf",
+      "inference",
+      "kubernetes",
+      "llm"
+    ]
+  },
+  {
+    "name": "google/keep-sorted",
+    "url": "https://github.com/google/keep-sorted",
+    "description": "keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.",
+    "language": "Go",
+    "topics": [
+      "developer-tools",
+      "formatter",
+      "language-agnostic"
+    ]
+  },
+  {
+    "name": "samber/mo",
+    "url": "https://github.com/samber/mo",
+    "description": "🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)",
+    "language": "Go",
+    "topics": [
+      "cats",
+      "either",
+      "fp",
+      "functional",
+      "future",
+      "generics",
+      "go",
+      "golang",
+      "io",
+      "maybe",
+      "monad",
+      "monoid",
+      "option",
+      "optional",
+      "programming",
+      "result",
+      "state",
+      "task",
+      "typesafe"
+    ]
+  },
+  {
+    "name": "samber/ro",
+    "url": "https://github.com/samber/ro",
+    "description": "🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications",
+    "language": "Go",
+    "topics": [
+      "event-driven",
+      "generics",
+      "go",
+      "golang",
+      "observable",
+      "observer",
+      "pipe",
+      "pipeline",
+      "reactive",
+      "reactive-extensions",
+      "reactive-programming",
+      "reactive-streams",
+      "reactivex",
+      "rx",
+      "rxjs",
+      "stream",
+      "subscription"
+    ]
+  },
+  {
+    "name": "sigstore/cosign",
+    "url": "https://github.com/sigstore/cosign",
+    "description": "Code signing and transparency for containers and binaries",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "open-telemetry/opentelemetry-go",
+    "url": "https://github.com/open-telemetry/opentelemetry-go",
+    "description": "OpenTelemetry Go API and SDK",
+    "language": "Go",
+    "topics": [
+      "logging",
+      "metrics",
+      "opentelemetry",
+      "tracing"
+    ]
+  },
+  {
     "name": "google/jsonschema-go",
     "url": "https://github.com/google/jsonschema-go",
     "description": "The Go library for JSON Schema. An official Google project providing a comprehensive toolkit for validation, reflection, and schema construction.",
@@ -318,7 +698,7 @@
   {
     "name": "dragonflyoss/dragonfly",
     "url": "https://github.com/dragonflyoss/dragonfly",
-    "description": "Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.",
+    "description": "Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch.",
     "language": "Go",
     "topics": [
       "cloud-native",
@@ -1791,7 +2171,7 @@
   {
     "name": "HandBrake/HandBrake",
     "url": "https://github.com/HandBrake/HandBrake",
-    "description": "HandBrake's main development repository ",
+    "description": "HandBrake's development repository ",
     "language": "C",
     "topics": [
       "gplv2",
@@ -2636,17 +3016,20 @@
     "topics": [
       "ai",
       "artificial-intelligence",
+      "chatbot",
       "chatgpt",
       "deep-learning",
       "from-scratch",
+      "generative-ai",
       "gpt",
       "language-model",
       "large-language-models",
       "llm",
       "machine-learning",
+      "neural-networks",
       "python",
       "pytorch",
-      "transformer"
+      "transformers"
     ]
   },
   {
@@ -3768,8 +4151,8 @@
     ]
   },
   {
-    "name": "menloresearch/jan",
-    "url": "https://github.com/menloresearch/jan",
+    "name": "janhq/jan",
+    "url": "https://github.com/janhq/jan",
     "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
     "language": "TypeScript",
     "topics": [
@@ -4857,7 +5240,7 @@
   {
     "name": "seed4j/seed4j",
     "url": "https://github.com/seed4j/seed4j",
-    "description": "Seed4J 🌱 is a modular code generator with clean architecture :gem:",
+    "description": "Seed4J is a modular code generator with clean architecture",
     "language": "Java",
     "topics": [
       "generator",
@@ -5581,7 +5964,7 @@
     "name": "deepset-ai/haystack",
     "url": "https://github.com/deepset-ai/haystack",
     "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
-    "language": "Python",
+    "language": "MDX",
     "topics": [
       "agent",
       "agents",
@@ -6276,19 +6659,20 @@
   {
     "name": "apache/hertzbeat",
     "url": "https://github.com/apache/hertzbeat",
-    "description": "Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.",
+    "description": "An AI-powered next-generation open source real-time observability system.",
     "language": "Java",
     "topics": [
+      "agent",
+      "ai",
       "alerting",
-      "cloud",
       "database",
-      "devops",
       "grafana",
       "linux",
+      "llm",
+      "logs",
       "metrics",
       "monitor",
       "monitoring",
-      "mysql",
       "notifications",
       "observability",
       "prometheus",
@@ -6297,7 +6681,6 @@
       "status",
       "status-page",
       "uptime",
-      "uptime-monitoring",
       "zabbix"
     ]
   },
@@ -13894,7 +14277,7 @@
     "name": "kubeflow/kubeflow",
     "url": "https://github.com/kubeflow/kubeflow",
     "description": "Machine Learning Toolkit for Kubernetes",
-    "language": "TypeScript",
+    "language": "Makefile",
     "topics": [
       "google-kubernetes-engine",
       "jupyter",

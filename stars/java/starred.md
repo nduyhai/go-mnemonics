@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-10-27T02:42:25Z
+Auto-generated on 2025-11-03T02:41:44Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -69,7 +69,7 @@ Auto-generated on 2025-10-27T02:42:25Z
 | [apache/fineract](https://github.com/apache/fineract) | Apache Fineract | [apache](https://github.com/topics/apache), [banking](https://github.com/topics/banking), [finance](https://github.com/topics/finance) |
 | [apache/fory](https://github.com/apache/fory) | A blazingly fast multi-language serialization framework powered by JIT and zero-copy. | [compression](https://github.com/topics/compression), [cpp](https://github.com/topics/cpp), [cross-language](https://github.com/topics/cross-language) |
 | [apache/geode](https://github.com/apache/geode) | Apache Geode | [apache](https://github.com/topics/apache), [datagrid](https://github.com/topics/datagrid), [geode](https://github.com/topics/geode) |
-| [apache/hertzbeat](https://github.com/apache/hertzbeat) | Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities. | [alerting](https://github.com/topics/alerting), [cloud](https://github.com/topics/cloud), [database](https://github.com/topics/database) |
+| [apache/hertzbeat](https://github.com/apache/hertzbeat) | An AI-powered next-generation open source real-time observability system. | [agent](https://github.com/topics/agent), [ai](https://github.com/topics/ai), [alerting](https://github.com/topics/alerting) |
 | [apache/hudi](https://github.com/apache/hudi) | Upserts, Deletes And Incremental Processing on Big Data. | [apacheflink](https://github.com/topics/apacheflink), [apachehudi](https://github.com/topics/apachehudi), [apachespark](https://github.com/topics/apachespark) |
 | [apache/iceberg](https://github.com/apache/iceberg) | Apache Iceberg | [apache](https://github.com/topics/apache), [hacktoberfest](https://github.com/topics/hacktoberfest), [iceberg](https://github.com/topics/iceberg) |
 | [apache/incubator-seata](https://github.com/apache/incubator-seata) | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | [at](https://github.com/topics/at), [consistency](https://github.com/topics/consistency), [distributed-transaction](https://github.com/topics/distributed-transaction) |
@@ -139,9 +139,11 @@ Auto-generated on 2025-10-27T02:42:25Z
 | [failsafe-lib/failsafe](https://github.com/failsafe-lib/failsafe) | Fault tolerance and resilience patterns for the JVM | [bulkhead](https://github.com/topics/bulkhead), [circuit-breaker](https://github.com/topics/circuit-breaker), [fallback](https://github.com/topics/fallback) |
 | [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android | [android](https://github.com/topics/android), [crowdin](https://github.com/topics/crowdin), [evernote](https://github.com/topics/evernote) |
 | [ff4j/ff4j](https://github.com/ff4j/ff4j) | Feature Flags for Java made easy | [feature](https://github.com/topics/feature), [flipping](https://github.com/topics/flipping), [toggle](https://github.com/topics/toggle) |
+| [flowable/flowable-engine](https://github.com/flowable/flowable-engine) | A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users. | [bpmn](https://github.com/topics/bpmn), [java](https://github.com/topics/java), [workflow](https://github.com/topics/workflow) |
 | [flyway/flyway](https://github.com/flyway/flyway) | Flyway by Redgate • Database Migrations Made Easy. | [aurora](https://github.com/topics/aurora), [continuous-delivery](https://github.com/topics/continuous-delivery), [continuous-deployment](https://github.com/topics/continuous-deployment) |
 | [frohoff/ysoserial](https://github.com/frohoff/ysoserial) | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. | [deserialization](https://github.com/topics/deserialization), [exploit](https://github.com/topics/exploit), [gadget](https://github.com/topics/gadget) |
 | [gaul/s3proxy](https://github.com/gaul/s3proxy) | Access other storage backends via the S3 API | [atmos](https://github.com/topics/atmos), [aws-s3](https://github.com/topics/aws-s3), [azure](https://github.com/topics/azure) |
+| [google/adk-java](https://github.com/google/adk-java) | An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. | [agent](https://github.com/topics/agent), [agentic](https://github.com/topics/agentic), [agentic-ai](https://github.com/topics/agentic-ai) |
 | [google/auto](https://github.com/google/auto) | A collection of source code generators for Java. |  |
 | [google/dagger](https://github.com/google/dagger) | A fast dependency injector for Android and Java. |  |
 | [google/flogger](https://github.com/google/flogger) | A Fluent Logging API for Java | [logging](https://github.com/topics/logging) |
@@ -258,7 +260,7 @@ Auto-generated on 2025-10-27T02:42:25Z
 | [salesforce/grpc-java-contrib](https://github.com/salesforce/grpc-java-contrib) | Useful extensions for the grpc-java library | [contrib](https://github.com/topics/contrib), [grpc](https://github.com/topics/grpc), [grpc-java](https://github.com/topics/grpc-java) |
 | [salesforce/reactive-grpc](https://github.com/salesforce/reactive-grpc) | Reactive stubs for gRPC | [grpc-java](https://github.com/topics/grpc-java), [reactor](https://github.com/topics/reactor), [rxjava2](https://github.com/topics/rxjava2) |
 | [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) | Spring源码阅读 | [notes](https://github.com/topics/notes), [source-code-analysis](https://github.com/topics/source-code-analysis), [spring](https://github.com/topics/spring) |
-| [seed4j/seed4j](https://github.com/seed4j/seed4j) | Seed4J 🌱 is a modular code generator with clean architecture :gem: | [generator](https://github.com/topics/generator), [hacktoberfest](https://github.com/topics/hacktoberfest), [hexagonal-architecture](https://github.com/topics/hexagonal-architecture) |
+| [seed4j/seed4j](https://github.com/seed4j/seed4j) | Seed4J is a modular code generator with clean architecture | [generator](https://github.com/topics/generator), [hacktoberfest](https://github.com/topics/hacktoberfest), [hexagonal-architecture](https://github.com/topics/hexagonal-architecture) |
 | [sephera/multi-data](https://github.com/sephera/multi-data) | Multiple DataSource Spring Data JPA | [jpa](https://github.com/topics/jpa), [postgresql](https://github.com/topics/postgresql), [spring-boot](https://github.com/topics/spring-boot) |
 | [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |  |
 | [siom79/japicmp](https://github.com/siom79/japicmp) | Comparison of two versions of a jar archive | [api-documentation](https://github.com/topics/api-documentation), [api-management](https://github.com/topics/api-management), [change-management](https://github.com/topics/change-management) |
@@ -296,6 +298,7 @@ Auto-generated on 2025-10-27T02:42:25Z
 | [st-tu-dresden/salespoint](https://github.com/st-tu-dresden/salespoint) | A framework to develop point of sales applications, powered by Java and Spring Boot |  |
 | [st-tu-dresden/videoshop](https://github.com/st-tu-dresden/videoshop) | SalesPoint sample application |  |
 | [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) | CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc. | [named-entity-recognition](https://github.com/topics/named-entity-recognition), [natural-language-processing](https://github.com/topics/natural-language-processing), [nlp](https://github.com/topics/nlp) |
+| [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) | Apache Kafka® running on Kubernetes | [data-stream](https://github.com/topics/data-stream), [data-streaming](https://github.com/topics/data-streaming), [data-streams](https://github.com/topics/data-streams) |
 | [ta4j/ta4j](https://github.com/ta4j/ta4j) | A Java library for technical analysis. | [bitcoin](https://github.com/topics/bitcoin), [ethereum](https://github.com/topics/ethereum), [forex](https://github.com/topics/forex) |
 | [tchiotludo/akhq](https://github.com/tchiotludo/akhq) | Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... | [gui](https://github.com/topics/gui), [java](https://github.com/topics/java), [kafka](https://github.com/topics/kafka) |
 | [telosys-tools-bricks/telosys-cli](https://github.com/telosys-tools-bricks/telosys-cli) | Telosys CLI - Command Line Interface | [bootstraping](https://github.com/topics/bootstraping), [cli](https://github.com/topics/cli), [code-generation](https://github.com/topics/code-generation) |
@@ -310,6 +313,7 @@ Auto-generated on 2025-10-27T02:42:25Z
 | [viniciusccarvalho/spring-cloud-sockets](https://github.com/viniciusccarvalho/spring-cloud-sockets) | Reactive socket communication for microservices |  |
 | [vladmihalcea/flexy-pool](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. | [connection-pool](https://github.com/topics/connection-pool), [database](https://github.com/topics/database), [dbcp](https://github.com/topics/dbcp) |
 | [webauthn4j/webauthn4j](https://github.com/webauthn4j/webauthn4j) | A portable Java library for WebAuthn(Passkeys) server side verification | [authentication](https://github.com/topics/authentication), [fido](https://github.com/topics/fido), [fido-u2f](https://github.com/topics/fido-u2f) |
+| [wimdeblauwe/error-handling-spring-boot-starter](https://github.com/wimdeblauwe/error-handling-spring-boot-starter) | Spring Boot starter for configurable REST API error handling | [spring-boot](https://github.com/topics/spring-boot) |
 | [wso2/msf4j](https://github.com/wso2/msf4j) | WSO2 Microservices Framework for Java (MSF4J) |  |
 | [x-ream/acku](https://github.com/x-ream/acku) | mq transaction,  tcc, eventually consistency.  tx life cycle:  all listeners handled, if necessary, produce next message | [distribution](https://github.com/topics/distribution), [kafka](https://github.com/topics/kafka), [mq](https://github.com/topics/mq) |
 | [xerial/snappy-java](https://github.com/xerial/snappy-java) | Snappy compressor/decompressor for Java |  |
