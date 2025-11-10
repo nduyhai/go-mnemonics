@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-11-03T02:41:44Z
+Auto-generated on 2025-11-10T02:42:04Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -32,7 +32,7 @@ Auto-generated on 2025-11-03T02:41:44Z
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions | [codegen](https://github.com/topics/codegen), [documentation](https://github.com/topics/documentation), [observability](https://github.com/topics/observability) |
 | [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal |  |
-| [openobserve/openobserve](https://github.com/openobserve/openobserve) | 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). | [analytics](https://github.com/topics/analytics), [apm](https://github.com/topics/apm), [datadog](https://github.com/topics/datadog) |
+| [openobserve/openobserve](https://github.com/openobserve/openobserve) | Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more. | [analytics](https://github.com/topics/analytics), [apm](https://github.com/topics/apm), [datadog](https://github.com/topics/datadog) |
 | [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) | The Parity Polkadot Blockchain SDK | [blockchain](https://github.com/topics/blockchain), [cumulus](https://github.com/topics/cumulus), [polkadot](https://github.com/topics/polkadot) |
 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | [ai-search](https://github.com/topics/ai-search), [ai-search-engine](https://github.com/topics/ai-search-engine), [embeddings-similarity](https://github.com/topics/embeddings-similarity) |
 | [rathole-org/rathole](https://github.com/rathole-org/rathole) | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. | [firewall](https://github.com/topics/firewall), [frp](https://github.com/topics/frp), [http](https://github.com/topics/http) |

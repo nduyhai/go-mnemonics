@@ -1,5 +1,256 @@
 [
   {
+    "name": "google/adk-go",
+    "url": "https://github.com/google/adk-go",
+    "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "language": "Go",
+    "topics": [
+      "a2a",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "aiagentframework",
+      "gemini",
+      "genai",
+      "go",
+      "llm",
+      "mcp",
+      "multi-agent-collaboration",
+      "multi-agent-systems",
+      "sdk",
+      "vertex-ai"
+    ]
+  },
+  {
+    "name": "openpcc/openpcc",
+    "url": "https://github.com/openpcc/openpcc",
+    "description": "An open-source framework for provably private AI inference",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "confluentinc/schema-registry",
+    "url": "https://github.com/confluentinc/schema-registry",
+    "description": "Confluent Schema Registry for Kafka",
+    "language": "Java",
+    "topics": [
+      "avro",
+      "avro-schema",
+      "confluent",
+      "json",
+      "json-schema",
+      "kafka",
+      "protobuf",
+      "protobuf-schema",
+      "rest-api",
+      "schema",
+      "schema-registry",
+      "schemas"
+    ]
+  },
+  {
+    "name": "Apicurio/apicurio-registry",
+    "url": "https://github.com/Apicurio/apicurio-registry",
+    "description": "An API/Schema registry - stores APIs and Schemas.",
+    "language": "Java",
+    "topics": []
+  },
+  {
+    "name": "operator-framework/java-operator-sdk",
+    "url": "https://github.com/operator-framework/java-operator-sdk",
+    "description": "Java SDK for building Kubernetes Operators",
+    "language": "Java",
+    "topics": [
+      "hacktoberfest",
+      "java",
+      "java-library",
+      "kubernetes-operator"
+    ]
+  },
+  {
+    "name": "kubernetes-sigs/kubebuilder",
+    "url": "https://github.com/kubernetes-sigs/kubebuilder",
+    "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+    "language": "Go",
+    "topics": [
+      "k8s-sig-api-machinery"
+    ]
+  },
+  {
+    "name": "operator-framework/operator-sdk",
+    "url": "https://github.com/operator-framework/operator-sdk",
+    "description": "SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",
+    "language": "Go",
+    "topics": [
+      "kubernetes",
+      "operator",
+      "sdk"
+    ]
+  },
+  {
+    "name": "openwallet-foundation/multipaz",
+    "url": "https://github.com/openwallet-foundation/multipaz",
+    "description": "SDK for Digital Credentials",
+    "language": "Kotlin",
+    "topics": [
+      "multipaz"
+    ]
+  },
+  {
+    "name": "mudler/edgevpn",
+    "url": "https://github.com/mudler/edgevpn",
+    "description": ":sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens",
+    "language": "Go",
+    "topics": [
+      "blockchain",
+      "cloudvpn",
+      "golang",
+      "golang-library",
+      "holepunch",
+      "ipfs",
+      "ipfs-blockchain",
+      "kubernetes",
+      "libp2p",
+      "mesh",
+      "mesh-networks",
+      "nat",
+      "networking",
+      "p2p",
+      "p2pvpn",
+      "tunnel",
+      "vpn"
+    ]
+  },
+  {
+    "name": "AutoMQ/automq",
+    "url": "https://github.com/AutoMQ/automq",
+    "description": "AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+    "language": "Java",
+    "topics": [
+      "apache-kafka",
+      "cloud",
+      "cloud-first",
+      "cloud-native",
+      "diskless",
+      "kafka",
+      "messaging",
+      "minio",
+      "minio-storage",
+      "object-storage",
+      "s3",
+      "serverless",
+      "streaming"
+    ]
+  },
+  {
+    "name": "ashishps1/awesome-leetcode-resources",
+    "url": "https://github.com/ashishps1/awesome-leetcode-resources",
+    "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
+    "language": "Java",
+    "topics": [
+      "algorithms",
+      "coding",
+      "data-structures",
+      "leetcode",
+      "leetcode-patterns"
+    ]
+  },
+  {
+    "name": "testcontainers/testcontainers-go",
+    "url": "https://github.com/testcontainers/testcontainers-go",
+    "description": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+    "language": "Go",
+    "topics": [
+      "automation",
+      "docker",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "testcontainers",
+      "testcontainers-go",
+      "testing"
+    ]
+  },
+  {
+    "name": "kubevirt/kubevirt",
+    "url": "https://github.com/kubevirt/kubevirt",
+    "description": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+    "language": "Go",
+    "topics": [
+      "hacktoberfest",
+      "kubernetes",
+      "libvirt",
+      "virtualization",
+      "vms"
+    ]
+  },
+  {
+    "name": "navidrome/navidrome",
+    "url": "https://github.com/navidrome/navidrome",
+    "description": "🎧☁️ Your Personal Streaming Service",
+    "language": "Go",
+    "topics": [
+      "airsonic",
+      "madsonic",
+      "media-server",
+      "music",
+      "music-server",
+      "navidrome",
+      "opensubsonic",
+      "raspberry-pi",
+      "self-hosted",
+      "streamer",
+      "streaming-api",
+      "streaming-audio",
+      "subsonic",
+      "subsonic-server"
+    ]
+  },
+  {
+    "name": "mudler/LocalAI",
+    "url": "https://github.com/mudler/LocalAI",
+    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "language": "Go",
+    "topics": [
+      "ai",
+      "api",
+      "audio-generation",
+      "decentralized",
+      "distributed",
+      "gemma",
+      "image-generation",
+      "libp2p",
+      "llama",
+      "llm",
+      "mamba",
+      "mcp",
+      "mistral",
+      "musicgen",
+      "object-detection",
+      "rerank",
+      "rwkv",
+      "stable-diffusion",
+      "text-generation",
+      "tts"
+    ]
+  },
+  {
+    "name": "grafana/alloy",
+    "url": "https://github.com/grafana/alloy",
+    "description": "OpenTelemetry Collector distribution with programmable pipelines",
+    "language": "Go",
+    "topics": [
+      "collector",
+      "grafana",
+      "loki",
+      "monitoring",
+      "observability",
+      "opentelemetry",
+      "opentelemetry-collector",
+      "prometheus"
+    ]
+  },
+  {
     "name": "kubetail-org/kubetail",
     "url": "https://github.com/kubetail-org/kubetail",
     "description": "Real-time logging dashboard for Kubernetes (browser/terminal)",
@@ -3633,7 +3884,7 @@
   {
     "name": "openobserve/openobserve",
     "url": "https://github.com/openobserve/openobserve",
-    "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.",
     "language": "Rust",
     "topics": [
       "analytics",
@@ -8167,28 +8418,29 @@
   {
     "name": "oceanbase/oceanbase",
     "url": "https://github.com/oceanbase/oceanbase",
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads. Welcome to our community: https://discord.gg/74cF8vbNEs",
+    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
     "language": "C++",
     "topics": [
       "analytics",
-      "bigquery",
       "cloud-native",
-      "cpp",
       "database",
       "distributed-database",
-      "distributed-transactions",
+      "fulltext",
+      "fulltext-search",
+      "fulltext-support",
       "hacktoberfest",
       "htap",
       "mysql",
       "mysql-compatibility",
-      "mysql-database",
       "oceanbase",
       "olap",
       "oltp",
       "paxos",
       "scalable",
-      "sql",
-      "vector-database"
+      "vector",
+      "vector-database",
+      "vector-search",
+      "vectors"
     ]
   },
   {
@@ -10731,6 +10983,7 @@
       "golang",
       "http3",
       "protocol",
+      "qlog",
       "quic",
       "quic-client",
       "quic-server"
@@ -14277,7 +14530,7 @@
     "name": "kubeflow/kubeflow",
     "url": "https://github.com/kubeflow/kubeflow",
     "description": "Machine Learning Toolkit for Kubernetes",
-    "language": "Makefile",
+    "language": "Unknown",
     "topics": [
       "google-kubernetes-engine",
       "jupyter",
@@ -15193,7 +15446,7 @@
   {
     "name": "ossrs/srs",
     "url": "https://github.com/ossrs/srs",
-    "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.",
+    "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
     "language": "C++",
     "topics": [
       "audio",
@@ -19306,13 +19559,6 @@
       "today-i-learned",
       "writing"
     ]
-  },
-  {
-    "name": "cplusplus/draft",
-    "url": "https://github.com/cplusplus/draft",
-    "description": "C++ standards drafts",
-    "language": "TeX",
-    "topics": []
   },
   {
     "name": "microsoft/GSL",
