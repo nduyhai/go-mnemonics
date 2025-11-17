@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-11-10T02:42:04Z
+Auto-generated on 2025-11-17T02:41:21Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -27,7 +27,7 @@ Auto-generated on 2025-11-10T02:42:04Z
 | [juspay/connector-service](https://github.com/juspay/connector-service) | Open-Source Payments Connector Service | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
-| [lancedb/lancedb](https://github.com/lancedb/lancedb) | Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. | [approximate-nearest-neighbor-search](https://github.com/topics/approximate-nearest-neighbor-search), [image-search](https://github.com/topics/image-search), [nearest-neighbor-search](https://github.com/topics/nearest-neighbor-search) |
+| [lancedb/lancedb](https://github.com/lancedb/lancedb) | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. | [approximate-nearest-neighbor-search](https://github.com/topics/approximate-nearest-neighbor-search), [image-search](https://github.com/topics/image-search), [nearest-neighbor-search](https://github.com/topics/nearest-neighbor-search) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions | [codegen](https://github.com/topics/codegen), [documentation](https://github.com/topics/documentation), [observability](https://github.com/topics/observability) |
@@ -40,7 +40,7 @@ Auto-generated on 2025-11-10T02:42:04Z
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | [compiler](https://github.com/topics/compiler), [language](https://github.com/topics/language), [rust](https://github.com/topics/rust) |
 | [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | Format Rust code | [codeformatter](https://github.com/topics/codeformatter), [formatter](https://github.com/topics/formatter), [rust](https://github.com/topics/rust) |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | [android](https://github.com/topics/android), [anydesk](https://github.com/topics/anydesk), [dart](https://github.com/topics/dart) |
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | [amazon-s3](https://github.com/topics/amazon-s3), [bigdata](https://github.com/topics/bigdata), [cloud-native](https://github.com/topics/cloud-native) |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | [amazon-s3](https://github.com/topics/amazon-s3), [bigdata](https://github.com/topics/bigdata), [cloud-native](https://github.com/topics/cloud-native) |
 | [serde-rs/serde](https://github.com/serde-rs/serde) | Serialization framework for Rust | [derive](https://github.com/topics/derive), [no-std](https://github.com/topics/no-std), [rust](https://github.com/topics/rust) |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | [browser](https://github.com/topics/browser), [rust](https://github.com/topics/rust), [servo](https://github.com/topics/servo) |
 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [git](https://github.com/topics/git) |

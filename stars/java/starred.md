@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-11-10T02:42:04Z
+Auto-generated on 2025-11-17T02:41:21Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -58,7 +58,7 @@ Auto-generated on 2025-11-10T02:42:04Z
 | [alibaba/Sentinel](https://github.com/alibaba/Sentinel) | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | [alibaba](https://github.com/topics/alibaba), [circuit-breaker](https://github.com/topics/circuit-breaker), [cloud-native](https://github.com/topics/cloud-native) |
 | [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) | Real - time non-invasive AOP framework container based on JVM |  |
 | [alibaba/nacos](https://github.com/alibaba/nacos) | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. | [a2a-registry](https://github.com/topics/a2a-registry), [ai-registry](https://github.com/topics/ai-registry), [alibaba](https://github.com/topics/alibaba) |
-| [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | Agentic AI Framework for Java Developers | [artificial-intelligence](https://github.com/topics/artificial-intelligence), [java](https://github.com/topics/java), [spring-ai](https://github.com/topics/spring-ai) |
+| [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | Agentic AI Framework for Java Developers | [agentic](https://github.com/topics/agentic), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [context-engineering](https://github.com/topics/context-engineering) |
 | [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) | 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components. | [apm](https://github.com/topics/apm), [async](https://github.com/topics/async), [async-context](https://github.com/topics/async-context) |
 | [alimate/errors-spring-boot-starter](https://github.com/alimate/errors-spring-boot-starter) | Elegant Error Handling for Spring Boot | [error-handling](https://github.com/topics/error-handling), [java](https://github.com/topics/java), [spring](https://github.com/topics/spring) |
 | [andrlange/mds-test](https://github.com/andrlange/mds-test) |  |  |
@@ -297,6 +297,8 @@ Auto-generated on 2025-11-10T02:42:04Z
 | [spring-projects/spring-data-examples](https://github.com/spring-projects/spring-data-examples) | Spring Data Example Projects |  |
 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | Spring Framework | [framework](https://github.com/topics/framework), [spring](https://github.com/topics/spring), [spring-framework](https://github.com/topics/spring-framework) |
 | [spring-projects/spring-grpc](https://github.com/spring-projects/spring-grpc) |  |  |
+| [spring-projects/spring-modulith](https://github.com/spring-projects/spring-modulith) | Modular applications with Spring Boot | [architecture](https://github.com/topics/architecture), [modularity](https://github.com/topics/modularity), [spring-boot](https://github.com/topics/spring-boot) |
+| [spring-projects/spring-restdocs](https://github.com/spring-projects/spring-restdocs) | Test-driven documentation for RESTful services |  |
 | [spring-projects/spring-shell](https://github.com/spring-projects/spring-shell) | Spring based shell |  |
 | [springwolf/springwolf-core](https://github.com/springwolf/springwolf-core) | Automated documentation for event-driven applications built with Spring Boot | [ampq](https://github.com/topics/ampq), [asyncapi](https://github.com/topics/asyncapi), [documentation-generator](https://github.com/topics/documentation-generator) |
 | [st-tu-dresden/guestbook](https://github.com/st-tu-dresden/guestbook) | Guestbook sample Java web-application |  |

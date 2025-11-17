@@ -1,5 +1,241 @@
 [
   {
+    "name": "crossplane/crossplane",
+    "url": "https://github.com/crossplane/crossplane",
+    "description": "The Cloud Native Control Plane",
+    "language": "Go",
+    "topics": [
+      "cloud-computing",
+      "cloud-management",
+      "cloud-native",
+      "cncf",
+      "containers",
+      "control-plane",
+      "infrastructure",
+      "infrastructure-as-code",
+      "kubernetes",
+      "multicloud",
+      "serverless"
+    ]
+  },
+  {
+    "name": "jesseduffield/lazydocker",
+    "url": "https://github.com/jesseduffield/lazydocker",
+    "description": "The lazier way to manage everything docker",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "wolfpld/tracy",
+    "url": "https://github.com/wolfpld/tracy",
+    "description": "Frame profiler",
+    "language": "C++",
+    "topics": [
+      "gamedev",
+      "gamedev-library",
+      "gamedevelopment",
+      "library",
+      "performance",
+      "performance-analysis",
+      "profiler",
+      "profiling",
+      "profiling-library"
+    ]
+  },
+  {
+    "name": "lima-vm/lima",
+    "url": "https://github.com/lima-vm/lima",
+    "description": "Linux virtual machines, with a focus on running containers",
+    "language": "Go",
+    "topics": [
+      "containerd",
+      "macos",
+      "qemu",
+      "vm"
+    ]
+  },
+  {
+    "name": "mongodb/mongo-go-driver",
+    "url": "https://github.com/mongodb/mongo-go-driver",
+    "description": "The Official Golang driver for MongoDB",
+    "language": "Go",
+    "topics": [
+      "database",
+      "driver",
+      "go",
+      "golang",
+      "golang-library",
+      "mongodb"
+    ]
+  },
+  {
+    "name": "jackc/pgx",
+    "url": "https://github.com/jackc/pgx",
+    "description": "PostgreSQL driver and toolkit for Go",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "jmoiron/sqlx",
+    "url": "https://github.com/jmoiron/sqlx",
+    "description": "general purpose extensions to golang's database/sql",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "cucumber/godog",
+    "url": "https://github.com/cucumber/godog",
+    "description": "Cucumber for golang",
+    "language": "Go",
+    "topics": [
+      "functional-testing",
+      "gherkin",
+      "golang",
+      "integration-testing"
+    ]
+  },
+  {
+    "name": "onsi/gomega",
+    "url": "https://github.com/onsi/gomega",
+    "description": "Ginkgo's Preferred Matcher Library",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "ilyakaznacheev/cleanenv",
+    "url": "https://github.com/ilyakaznacheev/cleanenv",
+    "description": "✨Clean and minimalistic environment configuration reader for Golang",
+    "language": "Go",
+    "topics": [
+      "configuration",
+      "environment-configuration",
+      "environment-variables",
+      "hacktoberfest"
+    ]
+  },
+  {
+    "name": "kubernetes-sigs/gateway-api",
+    "url": "https://github.com/kubernetes-sigs/gateway-api",
+    "description": "Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.",
+    "language": "Go",
+    "topics": [
+      "gateway-api",
+      "k8s-sig-network",
+      "kubernetes",
+      "networking",
+      "sig-network"
+    ]
+  },
+  {
+    "name": "spring-projects/spring-modulith",
+    "url": "https://github.com/spring-projects/spring-modulith",
+    "description": "Modular applications with Spring Boot",
+    "language": "Java",
+    "topics": [
+      "architecture",
+      "modularity",
+      "spring-boot"
+    ]
+  },
+  {
+    "name": "spring-projects/spring-restdocs",
+    "url": "https://github.com/spring-projects/spring-restdocs",
+    "description": "Test-driven documentation for RESTful services",
+    "language": "Java",
+    "topics": []
+  },
+  {
+    "name": "Bearer/bearer",
+    "url": "https://github.com/Bearer/bearer",
+    "description": "Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.",
+    "language": "Go",
+    "topics": [
+      "appsec",
+      "code-quality",
+      "compliance",
+      "dataflow",
+      "devsecops",
+      "devsecops-tools",
+      "gdpr",
+      "owasp",
+      "privacy",
+      "sast",
+      "security",
+      "security-audit",
+      "security-automation",
+      "security-scanner",
+      "security-tools",
+      "static-analysis",
+      "static-code-analysis",
+      "vulnerabilities",
+      "vulnerability"
+    ]
+  },
+  {
+    "name": "Masterminds/squirrel",
+    "url": "https://github.com/Masterminds/squirrel",
+    "description": "Fluent SQL generation for golang",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "opencontainers/runc",
+    "url": "https://github.com/opencontainers/runc",
+    "description": "CLI tool for spawning and running containers according to the OCI specification",
+    "language": "Go",
+    "topics": [
+      "containers",
+      "docker",
+      "oci"
+    ]
+  },
+  {
+    "name": "istio/tools",
+    "url": "https://github.com/istio/tools",
+    "description": "Tools shared by several Istio repositories",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "equinix-labs/otel-cli",
+    "url": "https://github.com/equinix-labs/otel-cli",
+    "description": "OpenTelemetry command-line tool for sending events from shell scripts \u0026 similar environments",
+    "language": "Go",
+    "topics": [
+      "cli",
+      "observability",
+      "opentelemetry",
+      "shell"
+    ]
+  },
+  {
+    "name": "a2aproject/a2a-go",
+    "url": "https://github.com/a2aproject/a2a-go",
+    "description": "Golang SDK for A2A Protocol",
+    "language": "Go",
+    "topics": [
+      "a2a",
+      "a2a-client",
+      "a2a-protocol",
+      "a2a-server",
+      "agent-server",
+      "agent-to-agent",
+      "agents",
+      "ai",
+      "go",
+      "multiagent-systems",
+      "protocol",
+      "sdk"
+    ]
+  },
+  {
+    "name": "hashicorp/go-retryablehttp",
+    "url": "https://github.com/hashicorp/go-retryablehttp",
+    "description": "Retryable HTTP client in Go",
+    "language": "Go",
+    "topics": []
+  },
+  {
     "name": "google/adk-go",
     "url": "https://github.com/google/adk-go",
     "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
@@ -24,7 +260,7 @@
   {
     "name": "openpcc/openpcc",
     "url": "https://github.com/openpcc/openpcc",
-    "description": "An open-source framework for provably private AI inference",
+    "description": "An open-source framework for verifiably private AI inference",
     "language": "Go",
     "topics": []
   },
@@ -253,7 +489,7 @@
   {
     "name": "kubetail-org/kubetail",
     "url": "https://github.com/kubetail-org/kubetail",
-    "description": "Real-time logging dashboard for Kubernetes (browser/terminal)",
+    "description": "Lightweight real-time logging dashboard for Kubernetes. Use in a terminal or a browser, on your desktop or in your cluster.",
     "language": "Go",
     "topics": [
       "dashboard",
@@ -980,9 +1216,15 @@
     "description": "Agentic AI Framework for Java Developers",
     "language": "Java",
     "topics": [
+      "agentic",
       "artificial-intelligence",
+      "context-engineering",
+      "graph",
       "java",
-      "spring-ai"
+      "multi-agent",
+      "reactagent",
+      "spring-ai",
+      "workflow"
     ]
   },
   {
@@ -1522,7 +1764,7 @@
     "name": "github/spec-kit",
     "url": "https://github.com/github/spec-kit",
     "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "language": "Shell",
+    "language": "Python",
     "topics": [
       "ai",
       "copilot",
@@ -1960,7 +2202,7 @@
     "name": "infiniflow/ragflow",
     "url": "https://github.com/infiniflow/ragflow",
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
       "agent",
       "agentic",
@@ -2278,7 +2520,7 @@
   {
     "name": "rustfs/rustfs",
     "url": "https://github.com/rustfs/rustfs",
-    "description": "🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "description": "🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
     "language": "Rust",
     "topics": [
       "amazon-s3",
@@ -5676,7 +5918,7 @@
   {
     "name": "lancedb/lancedb",
     "url": "https://github.com/lancedb/lancedb",
-    "description": "Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.",
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "language": "Rust",
     "topics": [
       "approximate-nearest-neighbor-search",
@@ -6142,7 +6384,7 @@
   {
     "name": "BerriAI/litellm",
     "url": "https://github.com/BerriAI/litellm",
-    "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
     "language": "Python",
     "topics": [
       "ai-gateway",
@@ -14926,7 +15168,7 @@
   {
     "name": "mlflow/mlflow",
     "url": "https://github.com/mlflow/mlflow",
-    "description": "The open source developer platform to build AI/LLM applications and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.",
+    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.",
     "language": "Python",
     "topics": [
       "agentops",
