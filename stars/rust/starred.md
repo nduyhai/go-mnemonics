@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-11-17T02:41:21Z
+Auto-generated on 2025-11-24T02:44:35Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -24,6 +24,7 @@ Auto-generated on 2025-11-17T02:41:21Z
 | [habitat-sh/habitat](https://github.com/habitat-sh/habitat) | Modern applications with built-in automation | [automation](https://github.com/topics/automation), [choreographer](https://github.com/topics/choreographer), [configuration-management](https://github.com/topics/configuration-management) |
 | [hatoo/oha](https://github.com/hatoo/oha) | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. | [benchmark](https://github.com/topics/benchmark), [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line) |
 | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | [async](https://github.com/topics/async), [grpc](https://github.com/topics/grpc), [proto](https://github.com/topics/proto) |
+| [imazen/imageflow](https://github.com/imazen/imageflow) | High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow | [image-compression](https://github.com/topics/image-compression), [image-manipulation](https://github.com/topics/image-manipulation), [image-server](https://github.com/topics/image-server) |
 | [juspay/connector-service](https://github.com/juspay/connector-service) | Open-Source Payments Connector Service | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
@@ -40,7 +41,7 @@ Auto-generated on 2025-11-17T02:41:21Z
 | [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | [compiler](https://github.com/topics/compiler), [language](https://github.com/topics/language), [rust](https://github.com/topics/rust) |
 | [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | Format Rust code | [codeformatter](https://github.com/topics/codeformatter), [formatter](https://github.com/topics/formatter), [rust](https://github.com/topics/rust) |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | [android](https://github.com/topics/android), [anydesk](https://github.com/topics/anydesk), [dart](https://github.com/topics/dart) |
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | [amazon-s3](https://github.com/topics/amazon-s3), [bigdata](https://github.com/topics/bigdata), [cloud-native](https://github.com/topics/cloud-native) |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | [amazon-s3](https://github.com/topics/amazon-s3), [bigdata](https://github.com/topics/bigdata), [cloud-native](https://github.com/topics/cloud-native) |
 | [serde-rs/serde](https://github.com/serde-rs/serde) | Serialization framework for Rust | [derive](https://github.com/topics/derive), [no-std](https://github.com/topics/no-std), [rust](https://github.com/topics/rust) |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | [browser](https://github.com/topics/browser), [rust](https://github.com/topics/rust), [servo](https://github.com/topics/servo) |
 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [git](https://github.com/topics/git) |

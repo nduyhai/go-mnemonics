@@ -1,5 +1,98 @@
 [
   {
+    "name": "gunnarmorling/persistasaurus",
+    "url": "https://github.com/gunnarmorling/persistasaurus",
+    "description": "A minimal durable execution library for Java, based on SQLite.",
+    "language": "Java",
+    "topics": []
+  },
+  {
+    "name": "imazen/imageflow",
+    "url": "https://github.com/imazen/imageflow",
+    "description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow",
+    "language": "Rust",
+    "topics": [
+      "image-compression",
+      "image-manipulation",
+      "image-server",
+      "imagemagick",
+      "lib",
+      "tool"
+    ]
+  },
+  {
+    "name": "JetBrains/ideavim",
+    "url": "https://github.com/JetBrains/ideavim",
+    "description": "IdeaVim – A Vim engine for JetBrains IDEs",
+    "language": "Kotlin",
+    "topics": [
+      "ideavim",
+      "intellij",
+      "intellij-platform",
+      "intellij-plugin",
+      "jb-official",
+      "jetbrains",
+      "jetbrains-ides",
+      "kotlin",
+      "vim"
+    ]
+  },
+  {
+    "name": "alvaroloes/enumer",
+    "url": "https://github.com/alvaroloes/enumer",
+    "description": "A Go tool to auto generate methods for your enums",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "abice/go-enum",
+    "url": "https://github.com/abice/go-enum",
+    "description": "An enum generator for go",
+    "language": "Go",
+    "topics": [
+      "enum",
+      "generated",
+      "go",
+      "golang"
+    ]
+  },
+  {
+    "name": "openfga/openfga",
+    "url": "https://github.com/openfga/openfga",
+    "description": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+    "language": "Go",
+    "topics": [
+      "abac",
+      "authorization",
+      "entitlements",
+      "fga",
+      "fine-grained-access-control",
+      "fine-grained-authorization",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "openfga",
+      "pbac",
+      "permissions",
+      "rbac",
+      "rebac",
+      "security",
+      "zanzibar"
+    ]
+  },
+  {
+    "name": "toon-format/toon",
+    "url": "https://github.com/toon-format/toon",
+    "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.",
+    "language": "TypeScript",
+    "topics": [
+      "data-format",
+      "llm",
+      "serialization",
+      "tokenization"
+    ]
+  },
+  {
     "name": "crossplane/crossplane",
     "url": "https://github.com/crossplane/crossplane",
     "description": "The Cloud Native Control Plane",
@@ -363,19 +456,8 @@
     "description": "AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
     "language": "Java",
     "topics": [
-      "apache-kafka",
-      "cloud",
-      "cloud-first",
-      "cloud-native",
       "diskless",
-      "kafka",
-      "messaging",
-      "minio",
-      "minio-storage",
-      "object-storage",
-      "s3",
-      "serverless",
-      "streaming"
+      "kafka"
     ]
   },
   {
@@ -387,6 +469,7 @@
       "algorithms",
       "coding",
       "data-structures",
+      "dsa",
       "leetcode",
       "leetcode-patterns"
     ]
@@ -489,7 +572,7 @@
   {
     "name": "kubetail-org/kubetail",
     "url": "https://github.com/kubetail-org/kubetail",
-    "description": "Lightweight real-time logging dashboard for Kubernetes. Use in a terminal or a browser, on your desktop or in your cluster.",
+    "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run on your desktop or in your cluster.",
     "language": "Go",
     "topics": [
       "dashboard",
@@ -2520,7 +2603,7 @@
   {
     "name": "rustfs/rustfs",
     "url": "https://github.com/rustfs/rustfs",
-    "description": "🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
     "language": "Rust",
     "topics": [
       "amazon-s3",
@@ -2867,10 +2950,9 @@
   {
     "name": "cloudflare/cloudflared",
     "url": "https://github.com/cloudflare/cloudflared",
-    "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
+    "description": "Cloudflare Tunnel client",
     "language": "Go",
     "topics": [
-      "argo-tunnel",
       "cloudflare",
       "cloudflare-tunnel",
       "reverse-proxy",
@@ -3968,7 +4050,7 @@
     "name": "a2aproject/A2A",
     "url": "https://github.com/a2aproject/A2A",
     "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
-    "language": "TypeScript",
+    "language": "Shell",
     "topics": [
       "a2a",
       "a2a-mcp",
@@ -13610,7 +13692,7 @@
   {
     "name": "ory/hydra",
     "url": "https://github.com/ory/hydra",
-    "description": "The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.",
+    "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.",
     "language": "Go",
     "topics": [
       "authorization",
@@ -18826,8 +18908,8 @@
     ]
   },
   {
-    "name": "pouchdb/pouchdb",
-    "url": "https://github.com/pouchdb/pouchdb",
+    "name": "apache/pouchdb",
+    "url": "https://github.com/apache/pouchdb",
     "description": ":kangaroo: - PouchDB is a pocket-sized database.",
     "language": "JavaScript",
     "topics": [

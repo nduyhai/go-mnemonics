@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-11-17T02:41:21Z
+Auto-generated on 2025-11-24T02:44:35Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -8,7 +8,7 @@ Auto-generated on 2025-11-17T02:41:21Z
 | [Angel-ML/angel](https://github.com/Angel-ML/angel) | A Flexible and Powerful Parameter Server for large-scale machine learning | [high-dimensional](https://github.com/topics/high-dimensional), [machine-learning](https://github.com/topics/machine-learning), [model](https://github.com/topics/model) |
 | [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | An API/Schema registry - stores APIs and Schemas. |  |
 | [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Event Driven WebSockets Framework  with Cross-Browser Fallbacks | [asynchronous](https://github.com/topics/asynchronous), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
-| [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [apache-kafka](https://github.com/topics/apache-kafka), [cloud](https://github.com/topics/cloud), [cloud-first](https://github.com/topics/cloud-first) |
+| [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [diskless](https://github.com/topics/diskless), [kafka](https://github.com/topics/kafka) |
 | [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) | Framework for Evolutionary Message-Driven Microservices on the JVM | [cqrs](https://github.com/topics/cqrs), [dcb](https://github.com/topics/dcb), [ddd](https://github.com/topics/ddd) |
 | [Concurnas/Concurnas](https://github.com/Concurnas/Concurnas) | =Please be aware that Concurnas is no longer in active development = Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems |  |
 | [ContainX/openstack4j](https://github.com/ContainX/openstack4j) | A Fluent OpenStack SDK / Client Library for Java | [connector](https://github.com/topics/connector), [identity](https://github.com/topics/identity), [java](https://github.com/topics/java) |
@@ -164,6 +164,7 @@ Auto-generated on 2025-11-17T02:41:21Z
 | [grpc/grpc-java](https://github.com/grpc/grpc-java) | The Java gRPC implementation. HTTP/2 based RPC | [grpc](https://github.com/topics/grpc), [java](https://github.com/topics/java), [microservices](https://github.com/topics/microservices) |
 | [gruelbox/transaction-outbox](https://github.com/gruelbox/transaction-outbox) | Reliable eventual consistency for Microservices | [eventual-consistency](https://github.com/topics/eventual-consistency), [eventually-consistent](https://github.com/topics/eventually-consistent), [fifo-queue](https://github.com/topics/fifo-queue) |
 | [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java | [1brc](https://github.com/topics/1brc), [challenges](https://github.com/topics/challenges) |
+| [gunnarmorling/persistasaurus](https://github.com/gunnarmorling/persistasaurus) | A minimal durable execution library for Java, based on SQLite. |  |
 | [hamvocke/spring-testing](https://github.com/hamvocke/spring-testing) | A Spring Boot application with lots of test examples | [microservices](https://github.com/topics/microservices), [spring](https://github.com/topics/spring), [spring-boot](https://github.com/topics/spring-boot) |
 | [hantsy/spring-reactive-sample](https://github.com/hantsy/spring-reactive-sample) | Spring 5/6 Reactive playground | [kotlin](https://github.com/topics/kotlin), [reactive-streams](https://github.com/topics/reactive-streams), [reactor](https://github.com/topics/reactor) |
 | [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast) | Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights. | [big-data](https://github.com/topics/big-data), [caching](https://github.com/topics/caching), [data-in-motion](https://github.com/topics/data-in-motion) |
