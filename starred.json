@@ -1,5 +1,76 @@
 [
   {
+    "name": "gin-contrib/pprof",
+    "url": "https://github.com/gin-contrib/pprof",
+    "description": "gin pprof middleware",
+    "language": "Go",
+    "topics": [
+      "gin-gonic",
+      "gin-middleware",
+      "pprof"
+    ]
+  },
+  {
+    "name": "DataDog/dd-trace-java",
+    "url": "https://github.com/DataDog/dd-trace-java",
+    "description": "Datadog APM client for Java",
+    "language": "Java",
+    "topics": [
+      "apm",
+      "bytebuddy",
+      "datadog",
+      "datadog-apm",
+      "datadoghq",
+      "distributed-trace",
+      "distributed-tracing",
+      "java",
+      "javaagent",
+      "profiling",
+      "tracing"
+    ]
+  },
+  {
+    "name": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+    "language": "C",
+    "topics": [
+      "cache",
+      "caching",
+      "database",
+      "distributed-systems",
+      "in-memory",
+      "in-memory-database",
+      "json",
+      "key-value",
+      "key-value-store",
+      "message-broker",
+      "message-queue",
+      "no-sql",
+      "nosql",
+      "open-source",
+      "real-time",
+      "realtime",
+      "redis",
+      "time-series",
+      "vector-databases",
+      "vector-search"
+    ]
+  },
+  {
+    "name": "dgraph-io/ristretto",
+    "url": "https://github.com/dgraph-io/ristretto",
+    "description": "A high performance memory-bound Go cache",
+    "language": "Go",
+    "topics": [
+      "cache",
+      "go",
+      "golang",
+      "library",
+      "performance"
+    ]
+  },
+  {
     "name": "gunnarmorling/persistasaurus",
     "url": "https://github.com/gunnarmorling/persistasaurus",
     "description": "A minimal durable execution library for Java, based on SQLite.",
@@ -456,8 +527,10 @@
     "description": "AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
     "language": "Java",
     "topics": [
+      "automq",
       "diskless",
-      "kafka"
+      "kafka",
+      "serverless"
     ]
   },
   {
@@ -528,7 +601,7 @@
   {
     "name": "mudler/LocalAI",
     "url": "https://github.com/mudler/LocalAI",
-    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
     "language": "Go",
     "topics": [
       "ai",
@@ -2853,15 +2926,14 @@
     "description": "A cloud-native Go microservices framework with cli tool for productivity.",
     "language": "Go",
     "topics": [
+      "ai-native",
+      "ai-native-development",
       "cloud-native",
       "code-generation",
       "framework",
       "gateway",
       "go",
-      "go-zero",
-      "goctl",
       "golang",
-      "gozero",
       "grpc-gateway",
       "microservice",
       "microservice-framework",
@@ -2872,6 +2944,7 @@
       "restful-api",
       "rpc",
       "rpc-framework",
+      "spec-driven-development",
       "web-framework"
     ]
   },
@@ -3355,8 +3428,8 @@
     ]
   },
   {
-    "name": "rockband/buildinpublic",
-    "url": "https://github.com/rockband/buildinpublic",
+    "name": "buildinginpublic/buildinpublic",
+    "url": "https://github.com/buildinginpublic/buildinpublic",
     "description": "A guide for How to build in public? #buildinpublic",
     "language": "Unknown",
     "topics": [
@@ -6321,7 +6394,7 @@
   {
     "name": "Permify/permify",
     "url": "https://github.com/Permify/permify",
-    "description": "An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",
+    "description": "An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of FusionAuth 🎉",
     "language": "Go",
     "topics": [
       "abac",
@@ -6655,7 +6728,7 @@
   {
     "name": "vadimcn/codelldb",
     "url": "https://github.com/vadimcn/codelldb",
-    "description": "A native debugger extension for VSCode based on LLDB",
+    "description": "A VSCode debugger extension for native code, powered by LLDB.",
     "language": "Rust",
     "topics": [
       "debugger",
@@ -13342,7 +13415,7 @@
   {
     "name": "The-Art-of-Hacking/h4cker",
     "url": "https://github.com/The-Art-of-Hacking/h4cker",
-    "description": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.",
+    "description": "This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hackertraining.org",
     "language": "Jupyter Notebook",
     "topics": [
       "ai",

@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-11-24T02:44:35Z
+Auto-generated on 2025-12-01T02:55:23Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -53,7 +53,7 @@ Auto-generated on 2025-11-24T02:44:35Z
 | [tikv/tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database, originally created to complement TiDB | [cncf](https://github.com/topics/cncf), [consensus](https://github.com/topics/consensus), [distributed-transactions](https://github.com/topics/distributed-transactions) |
 | [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | [asynchronous](https://github.com/topics/asynchronous), [networking](https://github.com/topics/networking), [rust](https://github.com/topics/rust) |
 | [typst/typst](https://github.com/typst/typst) | A markup-based typesetting system that is powerful and easy to learn. | [compiler](https://github.com/topics/compiler), [markup](https://github.com/topics/markup), [typesetting](https://github.com/topics/typesetting) |
-| [vadimcn/codelldb](https://github.com/vadimcn/codelldb) | A native debugger extension for VSCode based on LLDB | [debugger](https://github.com/topics/debugger), [lldb](https://github.com/topics/lldb), [vscode-extension](https://github.com/topics/vscode-extension) |
+| [vadimcn/codelldb](https://github.com/vadimcn/codelldb) | A VSCode debugger extension for native code, powered by LLDB. | [debugger](https://github.com/topics/debugger), [lldb](https://github.com/topics/lldb), [vscode-extension](https://github.com/topics/vscode-extension) |
 | [verichains/revela](https://github.com/verichains/revela) | Decompiler for Move smart contracts | [aptos](https://github.com/topics/aptos), [audit](https://github.com/topics/audit), [blockchain](https://github.com/topics/blockchain) |
 | [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | [blockchain](https://github.com/topics/blockchain), [fhe](https://github.com/topics/fhe), [privacy](https://github.com/topics/privacy) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | [gpui](https://github.com/topics/gpui), [rust-lang](https://github.com/topics/rust-lang), [text-editor](https://github.com/topics/text-editor) |

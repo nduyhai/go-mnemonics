@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-11-24T02:44:35Z
+Auto-generated on 2025-12-01T02:55:23Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -8,10 +8,11 @@ Auto-generated on 2025-11-24T02:44:35Z
 | [Angel-ML/angel](https://github.com/Angel-ML/angel) | A Flexible and Powerful Parameter Server for large-scale machine learning | [high-dimensional](https://github.com/topics/high-dimensional), [machine-learning](https://github.com/topics/machine-learning), [model](https://github.com/topics/model) |
 | [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | An API/Schema registry - stores APIs and Schemas. |  |
 | [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Event Driven WebSockets Framework  with Cross-Browser Fallbacks | [asynchronous](https://github.com/topics/asynchronous), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
-| [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [diskless](https://github.com/topics/diskless), [kafka](https://github.com/topics/kafka) |
+| [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [automq](https://github.com/topics/automq), [diskless](https://github.com/topics/diskless), [kafka](https://github.com/topics/kafka) |
 | [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) | Framework for Evolutionary Message-Driven Microservices on the JVM | [cqrs](https://github.com/topics/cqrs), [dcb](https://github.com/topics/dcb), [ddd](https://github.com/topics/ddd) |
 | [Concurnas/Concurnas](https://github.com/Concurnas/Concurnas) | =Please be aware that Concurnas is no longer in active development = Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems |  |
 | [ContainX/openstack4j](https://github.com/ContainX/openstack4j) | A Fluent OpenStack SDK / Client Library for Java | [connector](https://github.com/topics/connector), [identity](https://github.com/topics/identity), [java](https://github.com/topics/java) |
+| [DataDog/dd-trace-java](https://github.com/DataDog/dd-trace-java) | Datadog APM client for Java | [apm](https://github.com/topics/apm), [bytebuddy](https://github.com/topics/bytebuddy), [datadog](https://github.com/topics/datadog) |
 | [Fadelis/grpcmock](https://github.com/Fadelis/grpcmock) | A gRPC Java testing tool to easily mock endpoints of gRPC services for IT or Unit testing | [grpc](https://github.com/topics/grpc), [grpc-integration-testing](https://github.com/topics/grpc-integration-testing), [grpc-it](https://github.com/topics/grpc-it) |
 | [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) | 🏗 Build container images for your Java applications. | [containers](https://github.com/topics/containers), [docker](https://github.com/topics/docker), [docker-registry](https://github.com/topics/docker-registry) |
 | [HanSolo/crac6](https://github.com/HanSolo/crac6) | Another CRaC demo |  |
