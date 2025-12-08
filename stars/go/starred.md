@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-12-01T02:55:23Z
+Auto-generated on 2025-12-08T02:42:50Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -267,7 +267,7 @@ Auto-generated on 2025-12-01T02:55:23Z
 | [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) | A curated list of awesome articles and resources for learning and practicing Go and its related technologies. | [awesome](https://github.com/topics/awesome), [awesome-list](https://github.com/topics/awesome-list), [clean-architecture](https://github.com/topics/clean-architecture) |
 | [micro/go-micro](https://github.com/micro/go-micro) | A Go microservices framework | [distributed-systems](https://github.com/topics/distributed-systems), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) | bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS | [allowlist](https://github.com/topics/allowlist), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
-| [microsoft/go](https://github.com/microsoft/go) | The Microsoft build of Go |  |
+| [microsoft/go](https://github.com/microsoft/go) | The Microsoft build of Go is a modified version of Go that can build FIPS compliant applications that satisfy internal Microsoft policies. |  |
 | [miekg/dns](https://github.com/miekg/dns) | DNS library in Go | [dns](https://github.com/topics/dns), [dns-library](https://github.com/topics/dns-library), [dnssec](https://github.com/topics/dnssec) |
 | [mikioh/ipaddr](https://github.com/mikioh/ipaddr) | Package ipaddr provides basic functions for the manipulation of IP address prefixes and subsequent addresses as described in RFC 4632 and RFC 4291 |  |
 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search | [anns](https://github.com/topics/anns), [cloud-native](https://github.com/topics/cloud-native), [diskann](https://github.com/topics/diskann) |
@@ -342,7 +342,7 @@ Auto-generated on 2025-12-01T02:55:23Z
 | [samber/lo](https://github.com/samber/lo) | 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) | [constraints](https://github.com/topics/constraints), [contract](https://github.com/topics/contract), [filterable](https://github.com/topics/filterable) |
 | [samber/mo](https://github.com/samber/mo) | 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...) | [cats](https://github.com/topics/cats), [either](https://github.com/topics/either), [fp](https://github.com/topics/fp) |
 | [samber/oops](https://github.com/samber/oops) | 🔥 Error handling library with context, assertion, stack trace and source fragments | [assert](https://github.com/topics/assert), [assertion](https://github.com/topics/assertion), [attributes](https://github.com/topics/attributes) |
-| [samber/ro](https://github.com/samber/ro) | 🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications | [event-driven](https://github.com/topics/event-driven), [generics](https://github.com/topics/generics), [go](https://github.com/topics/go) |
+| [samber/ro](https://github.com/samber/ro) | 🏎️ Streams & Reactive Programming paradigm for Go: declarative and composable API for event-driven applications | [event-driven](https://github.com/topics/event-driven), [generics](https://github.com/topics/generics), [go](https://github.com/topics/go) |
 | [samber/slog-betterstack](https://github.com/samber/slog-betterstack) | 🚨 slog: Betterstack handler | [attribute](https://github.com/topics/attribute), [betterstack](https://github.com/topics/betterstack), [error](https://github.com/topics/error) |
 | [samber/slog-multi](https://github.com/samber/slog-multi) | 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing... | [attribute](https://github.com/topics/attribute), [error](https://github.com/topics/error), [errors](https://github.com/topics/errors) |
 | [samber/slog-sampling](https://github.com/samber/slog-sampling) | 🚨 slog sampling: drop repetitive log records | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [handler](https://github.com/topics/handler) |

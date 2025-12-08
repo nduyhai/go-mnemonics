@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-12-01T02:55:23Z
+Auto-generated on 2025-12-08T02:42:50Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -30,7 +30,7 @@ Auto-generated on 2025-12-01T02:55:23Z
 | [Netflix/Hystrix](https://github.com/Netflix/Hystrix) | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. |  |
 | [Netflix/concurrency-limits](https://github.com/Netflix/concurrency-limits) |  |  |
 | [Netflix/conductor](https://github.com/Netflix/conductor) | Conductor is a microservices orchestration engine. | [distributed-systems](https://github.com/topics/distributed-systems), [grpc](https://github.com/topics/grpc), [java](https://github.com/topics/java) |
-| [Netflix/maestro](https://github.com/Netflix/maestro) | Maestro: Netflix’s Workflow Orchestrator | [analytics](https://github.com/topics/analytics), [automation](https://github.com/topics/automation), [batch-processing](https://github.com/topics/batch-processing) |
+| [Netflix/maestro](https://github.com/Netflix/maestro) | Maestro: Netflix’s Workflow Orchestrator | [agentic-workflow](https://github.com/topics/agentic-workflow), [analytics](https://github.com/topics/analytics), [automation](https://github.com/topics/automation) |
 | [Netflix/mantis](https://github.com/Netflix/mantis) | A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications |  |
 | [Netflix/spectator](https://github.com/Netflix/spectator) | Client library for collecting metrics. |  |
 | [Netflix/zuul](https://github.com/Netflix/zuul) | Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. |  |
@@ -122,7 +122,7 @@ Auto-generated on 2025-12-01T02:55:23Z
 | [datastax/dsbulk](https://github.com/datastax/dsbulk) | DataStax Bulk Loader (DSBulk) is an open-source, Apache-licensed, unified tool for loading into and unloading from Apache Cassandra(R), DataStax Astra and DataStax Enterprise (DSE) |  |
 | [davidepedone/spring-cursor-pagination](https://github.com/davidepedone/spring-cursor-pagination) | Add cursor pagination feature to spring-boot projects | [cursor-pagination](https://github.com/topics/cursor-pagination), [mongodb](https://github.com/topics/mongodb), [spring-boot](https://github.com/topics/spring-boot) |
 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | [ai](https://github.com/topics/ai), [copilot](https://github.com/topics/copilot), [database](https://github.com/topics/database) |
-| [debezium/debezium](https://github.com/debezium/debezium) | Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ. | [apache-kafka](https://github.com/topics/apache-kafka), [cdc](https://github.com/topics/cdc), [change-data-capture](https://github.com/topics/change-data-capture) |
+| [debezium/debezium](https://github.com/debezium/debezium) | Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. | [apache-kafka](https://github.com/topics/apache-kafka), [cdc](https://github.com/topics/cdc), [change-data-capture](https://github.com/topics/change-data-capture) |
 | [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) | An Engine-Agnostic Deep Learning Framework in Java | [ai](https://github.com/topics/ai), [autograd](https://github.com/topics/autograd), [deep-learning](https://github.com/topics/deep-learning) |
 | [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) | Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn... | [artificial-intelligence](https://github.com/topics/artificial-intelligence), [clojure](https://github.com/topics/clojure), [deeplearning](https://github.com/topics/deeplearning) |
 | [didi/VirtualAPK](https://github.com/didi/VirtualAPK) | A powerful and lightweight plugin framework for Android |  |

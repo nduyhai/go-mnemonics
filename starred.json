@@ -981,7 +981,7 @@
   {
     "name": "samber/ro",
     "url": "https://github.com/samber/ro",
-    "description": "🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications",
+    "description": "🏎️ Streams \u0026 Reactive Programming paradigm for Go: declarative and composable API for event-driven applications",
     "language": "Go",
     "topics": [
       "event-driven",
@@ -2304,6 +2304,7 @@
     "description": "Maestro: Netflix’s Workflow Orchestrator",
     "language": "Java",
     "topics": [
+      "agentic-workflow",
       "analytics",
       "automation",
       "batch-processing",
@@ -2317,7 +2318,6 @@
       "etl",
       "java",
       "machine-learning",
-      "maestro",
       "mlops",
       "orchestration",
       "scheduler",
@@ -7264,7 +7264,7 @@
   {
     "name": "microsoft/go",
     "url": "https://github.com/microsoft/go",
-    "description": "The Microsoft build of Go",
+    "description": "The Microsoft build of Go is a modified version of Go that can build FIPS compliant applications that satisfy internal Microsoft policies.",
     "language": "Go",
     "topics": []
   },
@@ -10986,7 +10986,7 @@
   {
     "name": "debezium/debezium",
     "url": "https://github.com/debezium/debezium",
-    "description": "Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.",
+    "description": "Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.",
     "language": "Java",
     "topics": [
       "apache-kafka",
