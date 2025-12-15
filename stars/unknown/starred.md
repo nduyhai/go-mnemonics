@@ -1,6 +1,6 @@
 # 🌟 Unknown Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-12-08T02:42:50Z
+Auto-generated on 2025-12-15T02:48:08Z
 
 | Name | Description | Language | Topics |
 |------|-------------|----------|-------|
@@ -91,6 +91,7 @@ Auto-generated on 2025-12-08T02:42:50Z
 | [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) | Speech recognition module for Python, supporting several engines and APIs, online and offline. | Python | [audio](https://github.com/topics/audio), [python](https://github.com/topics/python), [speech-recognition](https://github.com/topics/speech-recognition) |
 | [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) | Mega list of 1 on 1 meeting questions compiled from a variety to sources | JavaScript | [management](https://github.com/topics/management) |
 | [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT) | PhoBERT: Pre-trained language models for Vietnamese (EMNLP-2020 Findings) | Unknown | [bert](https://github.com/topics/bert), [bert-embeddings](https://github.com/topics/bert-embeddings), [deep-learning](https://github.com/topics/deep-learning) |
+| [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) | Wan: Open and Advanced Large-Scale Video Generative Models | Python | [aigc](https://github.com/topics/aigc), [video-generation](https://github.com/topics/video-generation) |
 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++ | C++ | [blockchain](https://github.com/topics/blockchain), [c-plus-plus](https://github.com/topics/c-plus-plus), [cplusplus](https://github.com/topics/cplusplus) |
 | [Zeta36/chess-alpha-zero](https://github.com/Zeta36/chess-alpha-zero) | Chess reinforcement learning by AlphaGo Zero methods. | Jupyter Notebook | [alphago-zero](https://github.com/topics/alphago-zero), [chess](https://github.com/topics/chess), [keras](https://github.com/topics/keras) |
 | [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) | ₿ A guide (for humans!) to cryto-currencies and their algos. | Unknown | [algo](https://github.com/topics/algo), [algorithms](https://github.com/topics/algorithms), [awesome](https://github.com/topics/awesome) |
@@ -223,7 +224,7 @@ Auto-generated on 2025-12-08T02:42:50Z
 | [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) | Ethereum miner with OpenCL, CUDA and stratum support | C++ |  |
 | [ethereum/aleth](https://github.com/ethereum/aleth) | Aleth – Ethereum C++ client, tools and libraries | C++ | [cpp](https://github.com/topics/cpp), [ethereum](https://github.com/topics/ethereum), [ethereum-client](https://github.com/topics/ethereum-client) |
 | [evidentlyai/evidently](https://github.com/evidentlyai/evidently) | Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. | Jupyter Notebook | [data-drift](https://github.com/topics/data-drift), [data-quality](https://github.com/topics/data-quality), [data-science](https://github.com/topics/data-science) |
-| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better. | JavaScript | [bots](https://github.com/topics/bots), [chatbot](https://github.com/topics/chatbot), [chatgpt](https://github.com/topics/chatgpt) |
+| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | TypeScript | [bots](https://github.com/topics/bots), [chatbot](https://github.com/topics/chatbot), [chatgpt](https://github.com/topics/chatgpt) |
 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | TypeScript | [documentation](https://github.com/topics/documentation), [hacktoberfest](https://github.com/topics/hacktoberfest), [javascript](https://github.com/topics/javascript) |
 | [facebook/fbthrift](https://github.com/facebook/fbthrift) | Facebook's branch of Apache Thrift, including a new C++ server. | C++ |  |
 | [facebook/folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. | C++ |  |
@@ -423,6 +424,7 @@ Auto-generated on 2025-12-08T02:42:50Z
 | [microsoft/MSRC-Security-Research](https://github.com/microsoft/MSRC-Security-Research) | Security Research from the Microsoft Security Response Center (MSRC) | Python |  |
 | [microsoft/SEAL](https://github.com/microsoft/SEAL) | Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library. | C++ | [cryptography](https://github.com/topics/cryptography), [encryption](https://github.com/topics/encryption), [homomorphic-encryption](https://github.com/topics/homomorphic-encryption) |
 | [microsoft/Tokenizer](https://github.com/microsoft/Tokenizer) | Typescript and .NET implementation of BPE tokenizer for OpenAI LLMs. | C# | [ai](https://github.com/topics/ai), [gpt](https://github.com/topics/gpt), [llm](https://github.com/topics/llm) |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python |  |
 | [microsoft/Windows-Machine-Learning](https://github.com/microsoft/Windows-Machine-Learning) | Samples and Tools for Windows ML. | C++ | [ai](https://github.com/topics/ai), [caffe2](https://github.com/topics/caffe2), [coreml](https://github.com/topics/coreml) |
 | [microsoft/ailab](https://github.com/microsoft/ailab) | Experience, Learn and Code the latest breakthrough innovations with Microsoft AI | C# | [ai](https://github.com/topics/ai), [algorithms](https://github.com/topics/algorithms), [azure-functions](https://github.com/topics/azure-functions) |
 | [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | Unknown | [api](https://github.com/topics/api), [guidelines](https://github.com/topics/guidelines), [rest-api](https://github.com/topics/rest-api) |
