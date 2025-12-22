@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-12-15T02:48:08Z
+Auto-generated on 2025-12-22T02:49:50Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -19,7 +19,9 @@ Auto-generated on 2025-12-15T02:48:08Z
 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |  |
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | [http3](https://github.com/topics/http3), [network-programming](https://github.com/topics/network-programming), [protocol](https://github.com/topics/protocol) |
 | [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) | Write Cloudflare Workers in 100% Rust via WebAssembly | [cloudflare](https://github.com/topics/cloudflare), [ffi](https://github.com/topics/ffi), [rust](https://github.com/topics/rust) |
+| [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, and blame output | [color-themes](https://github.com/topics/color-themes), [delta](https://github.com/topics/delta), [diff](https://github.com/topics/diff) |
 | [ekzhang/bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost | [cli](https://github.com/topics/cli), [localhost](https://github.com/topics/localhost), [networking](https://github.com/topics/networking) |
+| [glzr-io/zebar](https://github.com/glzr-io/zebar) | Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups. | [bar](https://github.com/topics/bar), [desktop](https://github.com/topics/desktop), [dock](https://github.com/topics/dock) |
 | [google/comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. | [android](https://github.com/topics/android), [classroom](https://github.com/topics/classroom), [course](https://github.com/topics/course) |
 | [habitat-sh/habitat](https://github.com/habitat-sh/habitat) | Modern applications with built-in automation | [automation](https://github.com/topics/automation), [choreographer](https://github.com/topics/choreographer), [configuration-management](https://github.com/topics/configuration-management) |
 | [hatoo/oha](https://github.com/hatoo/oha) | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. | [benchmark](https://github.com/topics/benchmark), [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line) |

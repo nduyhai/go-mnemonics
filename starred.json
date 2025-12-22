@@ -1,5 +1,54 @@
 [
   {
+    "name": "ulule/limiter",
+    "url": "https://github.com/ulule/limiter",
+    "description": "Dead simple rate limit middleware for Go.",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "Shell",
+    "topics": []
+  },
+  {
+    "name": "glzr-io/zebar",
+    "url": "https://github.com/glzr-io/zebar",
+    "description": "Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.",
+    "language": "Rust",
+    "topics": [
+      "bar",
+      "desktop",
+      "dock",
+      "linux",
+      "macos",
+      "ricing",
+      "statusbar",
+      "taskbar",
+      "unixporn",
+      "widget",
+      "windows"
+    ]
+  },
+  {
+    "name": "dandavison/delta",
+    "url": "https://github.com/dandavison/delta",
+    "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+    "language": "Rust",
+    "topics": [
+      "color-themes",
+      "delta",
+      "diff",
+      "git",
+      "git-delta",
+      "pager",
+      "rust",
+      "syntax-highlighter"
+    ]
+  },
+  {
     "name": "spring-ai-community/spring-ai-tool-search-tool",
     "url": "https://github.com/spring-ai-community/spring-ai-tool-search-tool",
     "description": "Dynamic tool discovery and selection for Spring AI, enabling LLMs to work efficiently with large tool libraries by discovering tools on-demand instead of loading all definitions upfront.",
@@ -3518,9 +3567,9 @@
     ]
   },
   {
-    "name": "Olow304/memvid",
-    "url": "https://github.com/Olow304/memvid",
-    "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+    "name": "memvid/memvid",
+    "url": "https://github.com/memvid/memvid",
+    "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
     "language": "Python",
     "topics": [
       "ai",
@@ -6490,7 +6539,7 @@
   {
     "name": "TomWright/dasel",
     "url": "https://github.com/TomWright/dasel",
-    "description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.",
+    "description": "Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.",
     "language": "Go",
     "topics": [
       "cli",
@@ -6502,6 +6551,7 @@
       "devops-tools",
       "go",
       "golang",
+      "hcl2",
       "json",
       "json-processing",
       "parser",
@@ -8726,7 +8776,7 @@
   {
     "name": "fingerprintjs/fingerprintjs-android",
     "url": "https://github.com/fingerprintjs/fingerprintjs-android",
-    "description": "Swiss army knife for identifying and fingerprinting Android devices. MIT license, no restrictions on usage in production. ",
+    "description": "Free library for identifying and fingerprinting Android devices. MIT license, no restrictions on usage in production. ",
     "language": "Kotlin",
     "topics": [
       "android-development",
@@ -9264,7 +9314,7 @@
   {
     "name": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
-    "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+    "description": "Event Driven Orchestration \u0026 Scheduling Platform for Mission Critical Applications",
     "language": "Java",
     "topics": [
       "automation",
@@ -9430,6 +9480,7 @@
     "description": "A new bootable USB solution.",
     "language": "C",
     "topics": [
+      "arm64",
       "auto-install",
       "bootable-usb",
       "bsd",
@@ -9444,7 +9495,9 @@
       "unattended",
       "unix",
       "usb",
-      "windows"
+      "windows",
+      "x86",
+      "x86-64"
     ]
   },
   {
@@ -9590,7 +9643,7 @@
   {
     "name": "kubeshark/kubeshark",
     "url": "https://github.com/kubeshark/kubeshark",
-    "description": "The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes",
+    "description": "API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.",
     "language": "Go",
     "topics": [
       "amqp",
