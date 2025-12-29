@@ -1,5 +1,148 @@
 [
   {
+    "name": "FoundationAgents/MetaGPT",
+    "url": "https://github.com/FoundationAgents/MetaGPT",
+    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ]
+  },
+  {
+    "name": "BloopAI/vibe-kanban",
+    "url": "https://github.com/BloopAI/vibe-kanban",
+    "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+    "language": "Rust",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "kanban",
+      "management",
+      "task-manager"
+    ]
+  },
+  {
+    "name": "eythaann/Seelen-UI",
+    "url": "https://github.com/eythaann/Seelen-UI",
+    "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+    "language": "Rust",
+    "topics": [
+      "app-launcher",
+      "desktop-application",
+      "dock",
+      "finder",
+      "multilanguage",
+      "seelen",
+      "seelen-ui",
+      "taskbar",
+      "tauri",
+      "tauri-app",
+      "tiling-window-manager",
+      "toolbar",
+      "tools",
+      "topbar",
+      "wallpaper",
+      "web",
+      "web-technologies",
+      "windows",
+      "windows-11"
+    ]
+  },
+  {
+    "name": "serde-rs/json",
+    "url": "https://github.com/serde-rs/json",
+    "description": "Strongly typed JSON library for Rust",
+    "language": "Rust",
+    "topics": [
+      "json",
+      "rust",
+      "serde"
+    ]
+  },
+  {
+    "name": "rocksdanister/lively",
+    "url": "https://github.com/rocksdanister/lively",
+    "description": "Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.",
+    "language": "C#",
+    "topics": [
+      "csharp",
+      "desktop",
+      "desktop-wallpaper",
+      "dynamic-desktop",
+      "dynamic-wallpaper",
+      "fluent-design",
+      "live-wallpaper",
+      "screensavers",
+      "wallpaper",
+      "wallpaper-app",
+      "wallpaper-changer",
+      "wallpaper-engine",
+      "wallpaperengine",
+      "wallpapers",
+      "widgets",
+      "windows-10",
+      "windows-11",
+      "windows-app",
+      "winui",
+      "winui3"
+    ]
+  },
+  {
+    "name": "clap-rs/clap",
+    "url": "https://github.com/clap-rs/clap",
+    "description": "A full featured, fast Command Line Argument Parser for Rust",
+    "language": "Rust",
+    "topics": [
+      "argument-parser",
+      "argument-parsing",
+      "command-line",
+      "command-line-parser",
+      "parsed-arguments",
+      "positional-arguments",
+      "rust",
+      "subcommands"
+    ]
+  },
+  {
+    "name": "microsoft/windows-rs",
+    "url": "https://github.com/microsoft/windows-rs",
+    "description": "Rust for Windows",
+    "language": "Rust",
+    "topics": [
+      "rust",
+      "windows"
+    ]
+  },
+  {
+    "name": "arconia-io/arconia",
+    "url": "https://github.com/arconia-io/arconia",
+    "description": "Arconia is a framework designed to build modern enterprise applications using Java and Spring Boot, emphasizing developer experience and cloud native architectures.",
+    "language": "Java",
+    "topics": [
+      "ai",
+      "java",
+      "llm",
+      "micrometer",
+      "multitenancy",
+      "observability",
+      "opentelemetry",
+      "saas",
+      "spring-ai",
+      "spring-boot"
+    ]
+  },
+  {
+    "name": "MuhammedKalkan/OpenLens",
+    "url": "https://github.com/MuhammedKalkan/OpenLens",
+    "description": "OpenLens Binary Build Repository",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
     "name": "ulule/limiter",
     "url": "https://github.com/ulule/limiter",
     "description": "Dead simple rate limit middleware for Go.",
@@ -1293,10 +1436,19 @@
   {
     "name": "Fission-AI/OpenSpec",
     "url": "https://github.com/Fission-AI/OpenSpec",
-    "description": "Spec-driven development for AI coding assistants.",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
     "language": "TypeScript",
     "topics": [
-      "spec"
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd",
+      "sdd",
+      "sdlc",
+      "spec",
+      "spec-driven-development",
+      "specification"
     ]
   },
   {
@@ -4373,7 +4525,7 @@
     "name": "openobserve/openobserve",
     "url": "https://github.com/openobserve/openobserve",
     "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.",
-    "language": "Rust",
+    "language": "TypeScript",
     "topics": [
       "analytics",
       "apm",
@@ -7926,13 +8078,6 @@
     "topics": []
   },
   {
-    "name": "propzians/kong-plugin-jwt-blacklist",
-    "url": "https://github.com/propzians/kong-plugin-jwt-blacklist",
-    "description": "kong-plugin-jwt-blacklist",
-    "language": "Lua",
-    "topics": []
-  },
-  {
     "name": "haunt98/bumper-go",
     "url": "https://github.com/haunt98/bumper-go",
     "description": "",
@@ -11438,10 +11583,10 @@
     "topics": [
       "authentication",
       "fido",
-      "fido-u2f",
       "fido2",
       "java",
       "passkey",
+      "passkeys",
       "u2f",
       "webauthn"
     ]
@@ -14935,17 +15080,6 @@
     "topics": [
       "deep-learning",
       "reinforcement-learning"
-    ]
-  },
-  {
-    "name": "sephera/multi-data",
-    "url": "https://github.com/sephera/multi-data",
-    "description": "Multiple DataSource Spring Data JPA",
-    "language": "Java",
-    "topics": [
-      "jpa",
-      "postgresql",
-      "spring-boot"
     ]
   },
   {

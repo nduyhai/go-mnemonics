@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-12-22T02:49:50Z
+Auto-generated on 2025-12-29T02:53:53Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -93,6 +93,7 @@ Auto-generated on 2025-12-22T02:49:50Z
 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | [config-management](https://github.com/topics/config-management), [configuration-management](https://github.com/topics/configuration-management), [distributed-configuration](https://github.com/topics/distributed-configuration) |
 | [apollographql/federation-jvm](https://github.com/apollographql/federation-jvm) | JVM support for Apollo Federation | [federation](https://github.com/topics/federation), [graphql](https://github.com/topics/graphql), [java](https://github.com/topics/java) |
 | [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) | Small set of tools for JVM troublshooting, monitoring and profiling. |  |
+| [arconia-io/arconia](https://github.com/arconia-io/arconia) | Arconia is a framework designed to build modern enterprise applications using Java and Spring Boot, emphasizing developer experience and cloud native architectures. | [ai](https://github.com/topics/ai), [java](https://github.com/topics/java), [llm](https://github.com/topics/llm) |
 | [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. | [algorithms](https://github.com/topics/algorithms), [coding](https://github.com/topics/coding), [data-structures](https://github.com/topics/data-structures) |
 | [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | Learn Low Level Design (LLD) and prepare for interviews using free resources. | [awesome](https://github.com/topics/awesome), [design-patterns](https://github.com/topics/design-patterns), [interview](https://github.com/topics/interview) |
 | [awaitility/awaitility](https://github.com/awaitility/awaitility) | Awaitility is a small Java DSL for synchronizing asynchronous operations | [asynchronous](https://github.com/topics/asynchronous), [awaitility](https://github.com/topics/awaitility), [java](https://github.com/topics/java) |
@@ -268,7 +269,6 @@ Auto-generated on 2025-12-22T02:49:50Z
 | [salesforce/reactive-grpc](https://github.com/salesforce/reactive-grpc) | Reactive stubs for gRPC | [grpc-java](https://github.com/topics/grpc-java), [reactor](https://github.com/topics/reactor), [rxjava2](https://github.com/topics/rxjava2) |
 | [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) | Spring源码阅读 | [notes](https://github.com/topics/notes), [source-code-analysis](https://github.com/topics/source-code-analysis), [spring](https://github.com/topics/spring) |
 | [seed4j/seed4j](https://github.com/seed4j/seed4j) | Seed4J is a modular code generator with clean architecture | [generator](https://github.com/topics/generator), [hacktoberfest](https://github.com/topics/hacktoberfest), [hexagonal-architecture](https://github.com/topics/hexagonal-architecture) |
-| [sephera/multi-data](https://github.com/sephera/multi-data) | Multiple DataSource Spring Data JPA | [jpa](https://github.com/topics/jpa), [postgresql](https://github.com/topics/postgresql), [spring-boot](https://github.com/topics/spring-boot) |
 | [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |  |
 | [siom79/japicmp](https://github.com/siom79/japicmp) | Comparison of two versions of a jar archive | [api-documentation](https://github.com/topics/api-documentation), [api-management](https://github.com/topics/api-management), [change-management](https://github.com/topics/change-management) |
 | [skyscreamer/JSONassert](https://github.com/skyscreamer/JSONassert) | Write JSON unit tests in less code. Great for testing REST interfaces. |  |
@@ -322,7 +322,7 @@ Auto-generated on 2025-12-22T02:49:50Z
 | [vavr-io/vavr](https://github.com/vavr-io/vavr) | vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality. | [functional-programming](https://github.com/topics/functional-programming), [hacktoberfest](https://github.com/topics/hacktoberfest), [immutable-collections](https://github.com/topics/immutable-collections) |
 | [viniciusccarvalho/spring-cloud-sockets](https://github.com/viniciusccarvalho/spring-cloud-sockets) | Reactive socket communication for microservices |  |
 | [vladmihalcea/flexy-pool](https://github.com/vladmihalcea/flexy-pool) | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. | [connection-pool](https://github.com/topics/connection-pool), [database](https://github.com/topics/database), [dbcp](https://github.com/topics/dbcp) |
-| [webauthn4j/webauthn4j](https://github.com/webauthn4j/webauthn4j) | A portable Java library for WebAuthn(Passkeys) server side verification | [authentication](https://github.com/topics/authentication), [fido](https://github.com/topics/fido), [fido-u2f](https://github.com/topics/fido-u2f) |
+| [webauthn4j/webauthn4j](https://github.com/webauthn4j/webauthn4j) | A portable Java library for WebAuthn(Passkeys) server side verification | [authentication](https://github.com/topics/authentication), [fido](https://github.com/topics/fido), [fido2](https://github.com/topics/fido2) |
 | [wimdeblauwe/error-handling-spring-boot-starter](https://github.com/wimdeblauwe/error-handling-spring-boot-starter) | Spring Boot starter for configurable REST API error handling | [spring-boot](https://github.com/topics/spring-boot) |
 | [wso2/msf4j](https://github.com/wso2/msf4j) | WSO2 Microservices Framework for Java (MSF4J) |  |
 | [x-ream/acku](https://github.com/x-ream/acku) | mq transaction,  tcc, eventually consistency.  tx life cycle:  all listeners handled, if necessary, produce next message | [distribution](https://github.com/topics/distribution), [kafka](https://github.com/topics/kafka), [mq](https://github.com/topics/mq) |
