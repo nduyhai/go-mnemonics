@@ -1,5 +1,236 @@
 [
   {
+    "name": "googleapis/release-please-action",
+    "url": "https://github.com/googleapis/release-please-action",
+    "description": "automated releases based on conventional commits",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "softprops/action-gh-release",
+    "url": "https://github.com/softprops/action-gh-release",
+    "description": "📦 :octocat: GitHub Action for creating GitHub Releases",
+    "language": "TypeScript",
+    "topics": [
+      "github-actions",
+      "github-releases"
+    ]
+  },
+  {
+    "name": "volcano-sh/volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "description": "A Cloud Native Batch System (Project under CNCF)",
+    "language": "Go",
+    "topics": [
+      "ai",
+      "batch-systems",
+      "bigdata",
+      "gene",
+      "golang",
+      "hpc",
+      "kubernetes",
+      "machine-learning",
+      "serving",
+      "training"
+    ]
+  },
+  {
+    "name": "kubeedge/kubeedge",
+    "url": "https://github.com/kubeedge/kubeedge",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+    "language": "Go",
+    "topics": [
+      "cloud-native",
+      "cncf",
+      "container",
+      "device-management",
+      "docker",
+      "edge-computing",
+      "golang",
+      "iot",
+      "kubernetes",
+      "mosquitto",
+      "mqtt"
+    ]
+  },
+  {
+    "name": "cncf/curriculum",
+    "url": "https://github.com/cncf/curriculum",
+    "description": "📚Open Source Curriculum for CNCF Certification Courses",
+    "language": "Unknown",
+    "topics": [
+      "cncf"
+    ]
+  },
+  {
+    "name": "microsoft/monaco-editor",
+    "url": "https://github.com/microsoft/monaco-editor",
+    "description": "A browser based code editor",
+    "language": "JavaScript",
+    "topics": [
+      "browser",
+      "editor",
+      "monaco-editor",
+      "typescript",
+      "vscode"
+    ]
+  },
+  {
+    "name": "pdelewski/go-build-interceptor",
+    "url": "https://github.com/pdelewski/go-build-interceptor",
+    "description": "",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "kubernetes-sigs/kustomize",
+    "url": "https://github.com/kubernetes-sigs/kustomize",
+    "description": "Customization of kubernetes YAML configurations",
+    "language": "Go",
+    "topics": [
+      "hacktoberfest",
+      "k8s-sig-cli"
+    ]
+  },
+  {
+    "name": "bytedance/gopkg",
+    "url": "https://github.com/bytedance/gopkg",
+    "description": "Universal Utilities for Go",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "go-logr/logr",
+    "url": "https://github.com/go-logr/logr",
+    "description": "A simple logging interface for Go",
+    "language": "Go",
+    "topics": [
+      "logger",
+      "logging"
+    ]
+  },
+  {
+    "name": "Aider-AI/aider",
+    "url": "https://github.com/Aider-AI/aider",
+    "description": "aider is AI pair programming in your terminal",
+    "language": "Python",
+    "topics": [
+      "anthropic",
+      "chatgpt",
+      "claude-3",
+      "cli",
+      "command-line",
+      "gemini",
+      "gpt-3",
+      "gpt-35-turbo",
+      "gpt-4",
+      "gpt-4o",
+      "llama",
+      "openai",
+      "sonnet"
+    ]
+  },
+  {
+    "name": "lightpanda-io/browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "language": "Zig",
+    "topics": [
+      "browser",
+      "browser-automation",
+      "cdp",
+      "headless",
+      "playwright",
+      "puppeteer",
+      "zig"
+    ]
+  },
+  {
+    "name": "gocolly/colly",
+    "url": "https://github.com/gocolly/colly",
+    "description": "Elegant Scraper and Crawler Framework for Golang",
+    "language": "Go",
+    "topics": [
+      "crawler",
+      "crawling",
+      "framework",
+      "go",
+      "golang",
+      "scraper",
+      "scraping",
+      "spider"
+    ]
+  },
+  {
+    "name": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "language": "C",
+    "topics": [
+      "c",
+      "c-plus-plus",
+      "directshow",
+      "facebook-live",
+      "ffmpeg",
+      "game-capture",
+      "live-streaming",
+      "screen-capture",
+      "twitch-tv",
+      "video-recording",
+      "youtube-live"
+    ]
+  },
+  {
+    "name": "block/goose",
+    "url": "https://github.com/block/goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "topics": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "shyiko/jabba",
+    "url": "https://github.com/shyiko/jabba",
+    "description": "(cross-platform) Java Version Manager",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "google/A2UI",
+    "url": "https://github.com/google/A2UI",
+    "description": "",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "OpenTSDB/opentsdb",
+    "url": "https://github.com/OpenTSDB/opentsdb",
+    "description": "A scalable, distributed Time Series Database.",
+    "language": "Java",
+    "topics": []
+  },
+  {
+    "name": "GoogleCloudPlatform/cloud-foundation-toolkit",
+    "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit",
+    "description": "The Cloud Foundation toolkit provides GCP best practices as code.",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "bol-van/zapret-win-bundle",
+    "url": "https://github.com/bol-van/zapret-win-bundle",
+    "description": "zapret and blockcheck binary bundle for windows",
+    "language": "Lua",
+    "topics": [
+      "bsd",
+      "dpi-bypass",
+      "linux",
+      "russian",
+      "windows"
+    ]
+  },
+  {
     "name": "FoundationAgents/MetaGPT",
     "url": "https://github.com/FoundationAgents/MetaGPT",
     "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
@@ -1958,7 +2189,7 @@
     "name": "pulumi/pulumi-kubernetes",
     "url": "https://github.com/pulumi/pulumi-kubernetes",
     "description": "A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters",
-    "language": "Java",
+    "language": "Go",
     "topics": [
       "kubernetes",
       "nodejs",
@@ -3722,7 +3953,7 @@
     "name": "memvid/memvid",
     "url": "https://github.com/memvid/memvid",
     "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
-    "language": "Python",
+    "language": "Rust",
     "topics": [
       "ai",
       "context",
@@ -12598,20 +12829,6 @@
     ]
   },
   {
-    "name": "1995parham/github-do-not-ban-us",
-    "url": "https://github.com/1995parham/github-do-not-ban-us",
-    "description": "GitHub do not ban us from open source world :iran:",
-    "language": "JavaScript",
-    "topics": [
-      "github",
-      "github-for-everyone",
-      "iran",
-      "iranian",
-      "sanction",
-      "sanctions"
-    ]
-  },
-  {
     "name": "pingcap/tidb",
     "url": "https://github.com/pingcap/tidb",
     "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
@@ -17067,22 +17284,6 @@
     "description": "This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.",
     "language": "Unknown",
     "topics": []
-  },
-  {
-    "name": "weaveworks/scope",
-    "url": "https://github.com/weaveworks/scope",
-    "description": "Monitoring, visualisation \u0026 management for Docker \u0026 Kubernetes",
-    "language": "Go",
-    "topics": [
-      "containers",
-      "docker",
-      "ecs",
-      "kubernetes",
-      "mesos",
-      "microservices",
-      "monitoring",
-      "visualization"
-    ]
   },
   {
     "name": "hunkim/deep_architecture_genealogy",

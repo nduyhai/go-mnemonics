@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-12-29T02:53:53Z
+Auto-generated on 2026-01-05T02:57:07Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -39,6 +39,7 @@ Auto-generated on 2025-12-29T02:53:53Z
 | [OpenFeign/feign](https://github.com/OpenFeign/feign) | Feign makes writing java http clients easier | [http-client](https://github.com/topics/http-client), [interface](https://github.com/topics/interface), [java](https://github.com/topics/java) |
 | [OpenHFT/Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) | Replicate your Key Value Store across your network, with consistency, persistance and performance. |  |
 | [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) | OpenRefine is a free, open source power tool for working with messy data and improving it | [data-analysis](https://github.com/topics/data-analysis), [data-science](https://github.com/topics/data-science), [data-wrangling](https://github.com/topics/data-wrangling) |
+| [OpenTSDB/opentsdb](https://github.com/OpenTSDB/opentsdb) | A scalable, distributed Time Series Database. |  |
 | [PacktPublishing/Architecting-Modern-Java-EE-Applications](https://github.com/PacktPublishing/Architecting-Modern-Java-EE-Applications) | Architecting Modern Java EE Applications, published by Packt |  |
 | [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) | Enterprise job scheduling middleware with distributed computing ability. | [cron](https://github.com/topics/cron), [distributed](https://github.com/topics/distributed), [java](https://github.com/topics/java) |
 | [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. | [flow](https://github.com/topics/flow), [java](https://github.com/topics/java), [reactive-streams](https://github.com/topics/reactive-streams) |
@@ -246,7 +247,6 @@ Auto-generated on 2025-12-29T02:53:53Z
 | [poetix/protonpack](https://github.com/poetix/protonpack) | Stream utilities for Java 8 |  |
 | [pramoth/specification-with-projection](https://github.com/pramoth/specification-with-projection) | Support projections with JpaSpecificationExecutor.findAll(Specification,Pageable) for Spring Data JPA |  |
 | [prestodb/presto](https://github.com/prestodb/presto) | The official home of the Presto distributed SQL query engine for big data | [big-data](https://github.com/topics/big-data), [data](https://github.com/topics/data), [hadoop](https://github.com/topics/hadoop) |
-| [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes) | A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters | [kubernetes](https://github.com/topics/kubernetes), [nodejs](https://github.com/topics/nodejs), [pulumi](https://github.com/topics/pulumi) |
 | [puniverse/quasar](https://github.com/puniverse/quasar) | Fibers, Channels and Actors for the JVM | [actors](https://github.com/topics/actors), [concurrency](https://github.com/topics/concurrency), [fibers](https://github.com/topics/fibers) |
 | [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) | Tools to work with android .dex and java .class files |  |
 | [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | Quarkus: Supersonic Subatomic Java.  | [cloud-native](https://github.com/topics/cloud-native), [hacktoberfest](https://github.com/topics/hacktoberfest), [java](https://github.com/topics/java) |

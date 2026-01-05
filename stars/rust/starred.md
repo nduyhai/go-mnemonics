@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2025-12-29T02:53:53Z
+Auto-generated on 2026-01-05T02:57:07Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -17,6 +17,7 @@ Auto-generated on 2025-12-29T02:53:53Z
 | [ankitects/anki](https://github.com/ankitects/anki) | Anki is a smart spaced repetition flashcard program |  |
 | [aome510/spotify-player](https://github.com/aome510/spotify-player) | A Spotify player in the terminal with full feature parity | [cli](https://github.com/topics/cli), [music](https://github.com/topics/music), [music-player](https://github.com/topics/music-player) |
 | [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. | [aws](https://github.com/topics/aws), [filesystem](https://github.com/topics/filesystem), [fuse](https://github.com/topics/fuse) |
+| [block/goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | [mcp](https://github.com/topics/mcp) |
 | [clap-rs/clap](https://github.com/clap-rs/clap) | A full featured, fast Command Line Argument Parser for Rust | [argument-parser](https://github.com/topics/argument-parser), [argument-parsing](https://github.com/topics/argument-parsing), [command-line](https://github.com/topics/command-line) |
 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |  |
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | [http3](https://github.com/topics/http3), [network-programming](https://github.com/topics/network-programming), [protocol](https://github.com/topics/protocol) |
@@ -36,6 +37,7 @@ Auto-generated on 2025-12-29T02:53:53Z
 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. | [approximate-nearest-neighbor-search](https://github.com/topics/approximate-nearest-neighbor-search), [image-search](https://github.com/topics/image-search), [nearest-neighbor-search](https://github.com/topics/nearest-neighbor-search) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
+| [memvid/memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | [ai](https://github.com/topics/ai), [context](https://github.com/topics/context), [embedded](https://github.com/topics/embedded) |
 | [microsoft/windows-rs](https://github.com/microsoft/windows-rs) | Rust for Windows | [rust](https://github.com/topics/rust), [windows](https://github.com/topics/windows) |
 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions | [codegen](https://github.com/topics/codegen), [documentation](https://github.com/topics/documentation), [observability](https://github.com/topics/observability) |
 | [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal |  |
