@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-05T02:57:07Z
+Auto-generated on 2026-01-12T02:53:42Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -55,6 +55,7 @@ Auto-generated on 2026-01-05T02:57:07Z
 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [git](https://github.com/topics/git) |
 | [slatedb/slatedb](https://github.com/slatedb/slatedb) | A cloud native embedded storage engine built on object storage. | [database](https://github.com/topics/database), [embedded-database](https://github.com/topics/embedded-database), [lsm-tree](https://github.com/topics/lsm-tree) |
 | [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs) | 🍃spring-rs is a application framework written in rust inspired by java's spring-boot | [axum](https://github.com/topics/axum), [cron-job](https://github.com/topics/cron-job), [kafka](https://github.com/topics/kafka) |
+| [starship/starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | [bash](https://github.com/topics/bash), [fish](https://github.com/topics/fish), [fish-prompt](https://github.com/topics/fish-prompt) |
 | [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) | Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. | [example](https://github.com/topics/example), [examples](https://github.com/topics/examples), [exercise](https://github.com/topics/exercise) |
 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | [desktop-app](https://github.com/topics/desktop-app), [high-performance](https://github.com/topics/high-performance), [mobile-app](https://github.com/topics/mobile-app) |
 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. | [ai](https://github.com/topics/ai), [ai-engineering](https://github.com/topics/ai-engineering), [anthropic](https://github.com/topics/anthropic) |
@@ -63,5 +64,6 @@ Auto-generated on 2026-01-05T02:57:07Z
 | [typst/typst](https://github.com/typst/typst) | A markup-based typesetting system that is powerful and easy to learn. | [compiler](https://github.com/topics/compiler), [markup](https://github.com/topics/markup), [typesetting](https://github.com/topics/typesetting) |
 | [vadimcn/codelldb](https://github.com/vadimcn/codelldb) | A VSCode debugger extension for native code, powered by LLDB. | [debugger](https://github.com/topics/debugger), [lldb](https://github.com/topics/lldb), [vscode-extension](https://github.com/topics/vscode-extension) |
 | [verichains/revela](https://github.com/verichains/revela) | Decompiler for Move smart contracts | [aptos](https://github.com/topics/aptos), [audit](https://github.com/topics/audit), [blockchain](https://github.com/topics/blockchain) |
+| [wezterm/wezterm](https://github.com/wezterm/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | [rust](https://github.com/topics/rust), [serial](https://github.com/topics/serial), [serial-port](https://github.com/topics/serial-port) |
 | [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | [blockchain](https://github.com/topics/blockchain), [fhe](https://github.com/topics/fhe), [privacy](https://github.com/topics/privacy) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | [gpui](https://github.com/topics/gpui), [rust-lang](https://github.com/topics/rust-lang), [text-editor](https://github.com/topics/text-editor) |

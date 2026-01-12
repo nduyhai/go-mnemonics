@@ -1,5 +1,194 @@
 [
   {
+    "name": "google/building-secure-and-reliable-systems",
+    "url": "https://github.com/google/building-secure-and-reliable-systems",
+    "description": "This repository contains the content of the book \"Building Secure and Reliable Systems\" by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, and Adam Stubblefield. Google wrote this book aiming to share knowledge about our experience in building secure systems at scale. This is not an officially supported Google product.",
+    "language": "HTML",
+    "topics": []
+  },
+  {
+    "name": "VectifyAI/PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "context-engineering",
+      "llm",
+      "rag",
+      "reasoning",
+      "retrieval"
+    ]
+  },
+  {
+    "name": "cookiecutter/cookiecutter",
+    "url": "https://github.com/cookiecutter/cookiecutter",
+    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
+    "language": "Python",
+    "topics": [
+      "cookiecutter",
+      "python"
+    ]
+  },
+  {
+    "name": "actions/setup-java",
+    "url": "https://github.com/actions/setup-java",
+    "description": "Set up your GitHub Actions workflow with a specific version of Java",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "CRaC/org.crac",
+    "url": "https://github.com/CRaC/org.crac",
+    "description": "",
+    "language": "Java",
+    "topics": []
+  },
+  {
+    "name": "ryanoasis/nerd-fonts",
+    "url": "https://github.com/ryanoasis/nerd-fonts",
+    "description": "Iconic font aggregator, collection, \u0026 patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, \u0026 more",
+    "language": "CSS",
+    "topics": [
+      "font",
+      "font-awesome",
+      "fonts",
+      "hacktoberfest",
+      "icon-font",
+      "iconic-fonts",
+      "octicons",
+      "patched-fonts",
+      "patcher",
+      "powerline",
+      "python",
+      "shell",
+      "statusline"
+    ]
+  },
+  {
+    "name": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "language": "Rust",
+    "topics": [
+      "bash",
+      "fish",
+      "fish-prompt",
+      "fish-theme",
+      "oh-my-zsh",
+      "powershell",
+      "rust",
+      "shell-prompt",
+      "starship",
+      "zsh",
+      "zsh-prompt",
+      "zsh-theme"
+    ]
+  },
+  {
+    "name": "wezterm/wezterm",
+    "url": "https://github.com/wezterm/wezterm",
+    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "language": "Rust",
+    "topics": [
+      "rust",
+      "serial",
+      "serial-port",
+      "terminal",
+      "terminal-emulator",
+      "terminal-emulators"
+    ]
+  },
+  {
+    "name": "apache/ozone",
+    "url": "https://github.com/apache/ozone",
+    "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
+    "language": "Java",
+    "topics": [
+      "big-data",
+      "hadoop",
+      "kubernetes",
+      "object-store",
+      "s3",
+      "storage"
+    ]
+  },
+  {
+    "name": "xpipe-io/xpipe",
+    "url": "https://github.com/xpipe-io/xpipe",
+    "description": "Access your entire server infrastructure from your local desktop",
+    "language": "Java",
+    "topics": [
+      "bash",
+      "docker",
+      "filemanager",
+      "files",
+      "incus",
+      "java",
+      "javafx",
+      "k8s",
+      "kubernetes",
+      "lxd",
+      "networking",
+      "podman",
+      "sftp",
+      "ssh",
+      "tailscale",
+      "wsl"
+    ]
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ]
+  },
+  {
+    "name": "NVIDIA/garak",
+    "url": "https://github.com/NVIDIA/garak",
+    "description": "the LLM vulnerability scanner",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "llm-evaluation",
+      "llm-security",
+      "security-scanners",
+      "vulnerability-assessment"
+    ]
+  },
+  {
+    "name": "Agenta-AI/agenta",
+    "url": "https://github.com/Agenta-AI/agenta",
+    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.",
+    "language": "TypeScript",
+    "topics": [
+      "llm-as-a-judge",
+      "llm-evaluation",
+      "llm-framework",
+      "llm-monitoring",
+      "llm-observability",
+      "llm-platform",
+      "llm-playground",
+      "llm-tools",
+      "llmops-platform",
+      "prompt-engineering",
+      "prompt-management",
+      "rag-evaluation"
+    ]
+  },
+  {
     "name": "googleapis/release-please-action",
     "url": "https://github.com/googleapis/release-please-action",
     "description": "automated releases based on conventional commits",
@@ -3964,6 +4153,8 @@
       "llm",
       "machine-learning",
       "memory",
+      "memvid",
+      "mv2",
       "nlp",
       "offline-first",
       "opencv",
@@ -8791,7 +8982,7 @@
   {
     "name": "ariga/atlas",
     "url": "https://github.com/ariga/atlas",
-    "description": "Manage your database schema as code",
+    "description": "Declarative schema migrations with schema-as-code workflows",
     "language": "Go",
     "topics": []
   },
@@ -11623,8 +11814,8 @@
     ]
   },
   {
-    "name": "justinamiller/SoftwareArchitect",
-    "url": "https://github.com/justinamiller/SoftwareArchitect",
+    "name": "ntegrals/SoftwareArchitect",
+    "url": "https://github.com/ntegrals/SoftwareArchitect",
     "description": "Path to a Software Architect",
     "language": "Unknown",
     "topics": [
@@ -18182,7 +18373,7 @@
     "name": "SamPutnam/Index-2025",
     "url": "https://github.com/SamPutnam/Index-2025",
     "description": "",
-    "language": "Unknown",
+    "language": "HTML",
     "topics": []
   },
   {

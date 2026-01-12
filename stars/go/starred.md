@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-05T02:57:07Z
+Auto-generated on 2026-01-12T02:53:42Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -48,7 +48,7 @@ Auto-generated on 2026-01-05T02:57:07Z
 | [apache/trafficcontrol](https://github.com/apache/trafficcontrol) | Apache Traffic Control is an Open Source implementation of a Content Delivery Network | [apache](https://github.com/topics/apache), [cdn](https://github.com/topics/cdn), [contentdelivery](https://github.com/topics/contentdelivery) |
 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | [containers](https://github.com/topics/containers), [devsecops](https://github.com/topics/devsecops), [docker](https://github.com/topics/docker) |
 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Declarative Continuous Deployment for Kubernetes | [argo](https://github.com/topics/argo), [argo-cd](https://github.com/topics/argo-cd), [cd](https://github.com/topics/cd) |
-| [ariga/atlas](https://github.com/ariga/atlas) | Manage your database schema as code |  |
+| [ariga/atlas](https://github.com/ariga/atlas) | Declarative schema migrations with schema-as-code workflows |  |
 | [arl/statsviz](https://github.com/arl/statsviz) | Visualise Go runtime metrics in real time | [garbage-collector](https://github.com/topics/garbage-collector), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [atlassian/escalator](https://github.com/atlassian/escalator) | Escalator is a batch or job optimized horizontal autoscaler for Kubernetes | [asg](https://github.com/topics/asg), [auto-scaling-group](https://github.com/topics/auto-scaling-group), [autoscaler](https://github.com/topics/autoscaler) |
 | [atomix/atomix](https://github.com/atomix/atomix) | A Kubernetes toolkit for building distributed applications using cloud native principles | [atomix](https://github.com/topics/atomix), [consensus](https://github.com/topics/consensus), [data-structures](https://github.com/topics/data-structures) |

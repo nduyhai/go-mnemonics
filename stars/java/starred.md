@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-05T02:57:07Z
+Auto-generated on 2026-01-12T02:53:42Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -10,6 +10,7 @@ Auto-generated on 2026-01-05T02:57:07Z
 | [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Event Driven WebSockets Framework  with Cross-Browser Fallbacks | [asynchronous](https://github.com/topics/asynchronous), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
 | [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [automq](https://github.com/topics/automq), [diskless](https://github.com/topics/diskless), [kafka](https://github.com/topics/kafka) |
 | [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) | Framework for Evolutionary Message-Driven Microservices on the JVM | [cqrs](https://github.com/topics/cqrs), [dcb](https://github.com/topics/dcb), [ddd](https://github.com/topics/ddd) |
+| [CRaC/org.crac](https://github.com/CRaC/org.crac) |  |  |
 | [Concurnas/Concurnas](https://github.com/Concurnas/Concurnas) | =Please be aware that Concurnas is no longer in active development = Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems |  |
 | [ContainX/openstack4j](https://github.com/ContainX/openstack4j) | A Fluent OpenStack SDK / Client Library for Java | [connector](https://github.com/topics/connector), [identity](https://github.com/topics/identity), [java](https://github.com/topics/java) |
 | [DataDog/dd-trace-java](https://github.com/DataDog/dd-trace-java) | Datadog APM client for Java | [apm](https://github.com/topics/apm), [bytebuddy](https://github.com/topics/bytebuddy), [datadog](https://github.com/topics/datadog) |
@@ -81,6 +82,7 @@ Auto-generated on 2026-01-05T02:57:07Z
 | [apache/maven-release](https://github.com/apache/maven-release) | Apache Maven Release (Plugin) | [build-management](https://github.com/topics/build-management), [java](https://github.com/topics/java), [maven](https://github.com/topics/maven) |
 | [apache/nutch](https://github.com/apache/nutch) | Apache Nutch is an extensible and scalable web crawler | [apache](https://github.com/topics/apache), [crawling](https://github.com/topics/crawling), [hadoop](https://github.com/topics/hadoop) |
 | [apache/openwebbeans-meecrowave](https://github.com/apache/openwebbeans-meecrowave) | Apache OpenWebBeans meecrowave | [meecrowave](https://github.com/topics/meecrowave) |
+| [apache/ozone](https://github.com/apache/ozone) | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. | [big-data](https://github.com/topics/big-data), [hadoop](https://github.com/topics/hadoop), [kubernetes](https://github.com/topics/kubernetes) |
 | [apache/pinot](https://github.com/apache/pinot) | Apache Pinot - A realtime distributed OLAP datastore | [java](https://github.com/topics/java) |
 | [apache/ratis](https://github.com/apache/ratis) | Open source Java implementation for Raft consensus protocol. | [consensus](https://github.com/topics/consensus), [consensus-protocol](https://github.com/topics/consensus-protocol), [java](https://github.com/topics/java) |
 | [apache/rocketmq](https://github.com/apache/rocketmq) | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. | [cloud-native](https://github.com/topics/cloud-native), [eventing](https://github.com/topics/eventing), [hacktoberfest](https://github.com/topics/hacktoberfest) |
@@ -328,6 +330,7 @@ Auto-generated on 2026-01-05T02:57:07Z
 | [x-ream/acku](https://github.com/x-ream/acku) | mq transaction,  tcc, eventually consistency.  tx life cycle:  all listeners handled, if necessary, produce next message | [distribution](https://github.com/topics/distribution), [kafka](https://github.com/topics/kafka), [mq](https://github.com/topics/mq) |
 | [xerial/snappy-java](https://github.com/xerial/snappy-java) | Snappy compressor/decompressor for Java |  |
 | [xmolecules/jmolecules](https://github.com/xmolecules/jmolecules) | Libraries to help developers express architectural abstractions in Java code | [architecture](https://github.com/topics/architecture), [domain-driven-design](https://github.com/topics/domain-driven-design), [java](https://github.com/topics/java) |
+| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | Access your entire server infrastructure from your local desktop | [bash](https://github.com/topics/bash), [docker](https://github.com/topics/docker), [filemanager](https://github.com/topics/filemanager) |
 | [xqbase/chess](https://github.com/xqbase/chess) | Mobile Chess (for Java ME) and Flash Chess (for Web) with Strong AI | [artificial-intelligence](https://github.com/topics/artificial-intelligence), [board-game](https://github.com/topics/board-game), [chess](https://github.com/topics/chess) |
 | [xuxueli/xxl-sso](https://github.com/xuxueli/xxl-sso) | A distributed single-sign-on framework.（单点登录框架XXL-SSO） | [authentication](https://github.com/topics/authentication), [authorization](https://github.com/topics/authorization), [distributed](https://github.com/topics/distributed) |
 | [zalando/logbook](https://github.com/zalando/logbook) | An extensible Java library for HTTP request and response logging | [client-side](https://github.com/topics/client-side), [http-logs](https://github.com/topics/http-logs), [java](https://github.com/topics/java) |
