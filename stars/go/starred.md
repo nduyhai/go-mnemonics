@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-12T02:53:42Z
+Auto-generated on 2026-01-19T02:54:18Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -73,7 +73,7 @@ Auto-generated on 2026-01-12T02:53:42Z
 | [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) | Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture | [architecture](https://github.com/topics/architecture), [article](https://github.com/topics/article), [clean-architecture](https://github.com/topics/clean-architecture) |
 | [bytebase/bytebase](https://github.com/bytebase/bytebase) | World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. | [cicd](https://github.com/topics/cicd), [data-masking](https://github.com/topics/data-masking), [data-security](https://github.com/topics/data-security) |
 | [bytedance/gopkg](https://github.com/bytedance/gopkg) | Universal Utilities for Go |  |
-| [bytedance/mockey](https://github.com/bytedance/mockey) | a simple and easy-to-use golang mock library | [golang](https://github.com/topics/golang), [mock](https://github.com/topics/mock), [test](https://github.com/topics/test) |
+| [bytedance/mockey](https://github.com/bytedance/mockey) | A simple and easy-to-use Go mocking library derived from ByteDance's internal best practices | [golang](https://github.com/topics/golang), [mock](https://github.com/topics/mock), [test](https://github.com/topics/test) |
 | [bytedance/sonic](https://github.com/bytedance/sonic) | A blazingly fast JSON serializing & deserializing library | [high-performance](https://github.com/topics/high-performance), [jit](https://github.com/topics/jit), [json](https://github.com/topics/json) |
 | [caarlos0/env](https://github.com/caarlos0/env) | A simple, zero-dependencies library to parse environment variables into structs | [config](https://github.com/topics/config), [configuration](https://github.com/topics/configuration), [environment](https://github.com/topics/environment) |
 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | [acme](https://github.com/topics/acme), [automatic-https](https://github.com/topics/automatic-https), [caddy](https://github.com/topics/caddy) |
@@ -317,6 +317,7 @@ Auto-generated on 2026-01-12T02:53:42Z
 | [ory/hydra](https://github.com/ory/hydra) | Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go. | [authorization](https://github.com/topics/authorization), [cloud](https://github.com/topics/cloud), [docker](https://github.com/topics/docker) |
 | [ory/kratos](https://github.com/ory/kratos) | Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.  | [hacktoberfest](https://github.com/topics/hacktoberfest), [identity](https://github.com/topics/identity), [identity-management](https://github.com/topics/identity-management) |
 | [ossf/scorecard](https://github.com/ossf/scorecard) | OpenSSF Scorecard - Security health metrics for Open Source | [openssf-scorecard](https://github.com/topics/openssf-scorecard), [scorecard](https://github.com/topics/scorecard) |
+| [owncast/owncast](https://github.com/owncast/owncast) | Take control over your live stream video by running it yourself.  Streaming + chat out of the box. | [activitypub](https://github.com/topics/activitypub), [broadcasting](https://github.com/topics/broadcasting), [chat](https://github.com/topics/chat) |
 | [pact-foundation/pact-go](https://github.com/pact-foundation/pact-go) | Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems. | [consumer-driven-contracts](https://github.com/topics/consumer-driven-contracts), [golang](https://github.com/topics/golang), [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [panjf2000/ants](https://github.com/panjf2000/ants) | 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go. | [ants](https://github.com/topics/ants), [go](https://github.com/topics/go), [goroutine](https://github.com/topics/goroutine) |
 | [pdelewski/go-build-interceptor](https://github.com/pdelewski/go-build-interceptor) |  |  |

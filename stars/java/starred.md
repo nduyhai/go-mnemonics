@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-12T02:53:42Z
+Auto-generated on 2026-01-19T02:54:18Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -65,6 +65,7 @@ Auto-generated on 2026-01-12T02:53:42Z
 | [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) | 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components. | [apm](https://github.com/topics/apm), [async](https://github.com/topics/async), [async-context](https://github.com/topics/async-context) |
 | [alimate/errors-spring-boot-starter](https://github.com/alimate/errors-spring-boot-starter) | Elegant Error Handling for Spring Boot | [error-handling](https://github.com/topics/error-handling), [java](https://github.com/topics/java), [spring](https://github.com/topics/spring) |
 | [andrlange/mds-test](https://github.com/andrlange/mds-test) |  |  |
+| [andrlange/spring-documentation-mcp-server](https://github.com/andrlange/spring-documentation-mcp-server) | Spring Boot based MCP Server provide full Spring Ecosystem Documentation for LLMs |  |
 | [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) | This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach. | [android](https://github.com/topics/android), [android-application](https://github.com/topics/android-application), [android-architecture](https://github.com/topics/android-architecture) |
 | [apache/cassandra](https://github.com/apache/cassandra) | Apache Cassandra® | [cassandra](https://github.com/topics/cassandra), [database](https://github.com/topics/database), [java](https://github.com/topics/java) |
 | [apache/causeway](https://github.com/apache/causeway) | Use Apache Causeway™ to rapidly develop domain-driven apps or modular monoliths in Java, on top of the Spring Boot platform. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp, GraphQL or RESTful API. For prototyping or production. | [ddd](https://github.com/topics/ddd), [domain-driven-design](https://github.com/topics/domain-driven-design), [java](https://github.com/topics/java) |

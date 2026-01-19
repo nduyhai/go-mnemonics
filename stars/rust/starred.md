@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-12T02:53:42Z
+Auto-generated on 2026-01-19T02:54:18Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -64,6 +64,7 @@ Auto-generated on 2026-01-12T02:53:42Z
 | [typst/typst](https://github.com/typst/typst) | A markup-based typesetting system that is powerful and easy to learn. | [compiler](https://github.com/topics/compiler), [markup](https://github.com/topics/markup), [typesetting](https://github.com/topics/typesetting) |
 | [vadimcn/codelldb](https://github.com/vadimcn/codelldb) | A VSCode debugger extension for native code, powered by LLDB. | [debugger](https://github.com/topics/debugger), [lldb](https://github.com/topics/lldb), [vscode-extension](https://github.com/topics/vscode-extension) |
 | [verichains/revela](https://github.com/verichains/revela) | Decompiler for Move smart contracts | [aptos](https://github.com/topics/aptos), [audit](https://github.com/topics/audit), [blockchain](https://github.com/topics/blockchain) |
+| [warp-tech/warpgate](https://github.com/warp-tech/warpgate) | Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software | [bastion](https://github.com/topics/bastion), [bastion-host](https://github.com/topics/bastion-host), [https](https://github.com/topics/https) |
 | [wezterm/wezterm](https://github.com/wezterm/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | [rust](https://github.com/topics/rust), [serial](https://github.com/topics/serial), [serial-port](https://github.com/topics/serial-port) |
 | [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | [blockchain](https://github.com/topics/blockchain), [fhe](https://github.com/topics/fhe), [privacy](https://github.com/topics/privacy) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | [gpui](https://github.com/topics/gpui), [rust-lang](https://github.com/topics/rust-lang), [text-editor](https://github.com/topics/text-editor) |
