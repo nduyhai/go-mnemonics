@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-19T02:54:18Z
+Auto-generated on 2026-01-26T02:58:27Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -60,7 +60,7 @@ Auto-generated on 2026-01-19T02:54:18Z
 | [alibaba/QLExpress](https://github.com/alibaba/QLExpress) | QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes. |  |
 | [alibaba/Sentinel](https://github.com/alibaba/Sentinel) | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | [alibaba](https://github.com/topics/alibaba), [circuit-breaker](https://github.com/topics/circuit-breaker), [cloud-native](https://github.com/topics/cloud-native) |
 | [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) | Real - time non-invasive AOP framework container based on JVM |  |
-| [alibaba/nacos](https://github.com/alibaba/nacos) | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. | [a2a-registry](https://github.com/topics/a2a-registry), [ai-registry](https://github.com/topics/ai-registry), [alibaba](https://github.com/topics/alibaba) |
+| [alibaba/nacos](https://github.com/alibaba/nacos) | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications. | [a2a-registry](https://github.com/topics/a2a-registry), [agent](https://github.com/topics/agent), [ai-registry](https://github.com/topics/ai-registry) |
 | [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | Agentic AI Framework for Java Developers | [agentic](https://github.com/topics/agentic), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [context-engineering](https://github.com/topics/context-engineering) |
 | [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) | 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components. | [apm](https://github.com/topics/apm), [async](https://github.com/topics/async), [async-context](https://github.com/topics/async-context) |
 | [alimate/errors-spring-boot-starter](https://github.com/alimate/errors-spring-boot-starter) | Elegant Error Handling for Spring Boot | [error-handling](https://github.com/topics/error-handling), [java](https://github.com/topics/java), [spring](https://github.com/topics/spring) |
@@ -159,7 +159,7 @@ Auto-generated on 2026-01-19T02:54:18Z
 | [google/flogger](https://github.com/google/flogger) | A Fluent Logging API for Java | [logging](https://github.com/topics/logging) |
 | [google/guava](https://github.com/google/guava) | Google core libraries for Java | [guava](https://github.com/topics/guava), [java](https://github.com/topics/java) |
 | [google/guice](https://github.com/google/guice) | Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google. |  |
-| [google/jimfs](https://github.com/google/jimfs) | An in-memory file system for Java 8+ |  |
+| [google/jimfs](https://github.com/google/jimfs) | An in-memory file system for Java |  |
 | [google/rejoiner](https://github.com/google/rejoiner) | Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources | [graphql](https://github.com/topics/graphql), [graphql-server](https://github.com/topics/graphql-server), [grpc](https://github.com/topics/grpc) |
 | [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. | [astar](https://github.com/topics/astar), [dijkstra](https://github.com/topics/dijkstra), [directions](https://github.com/topics/directions) |
 | [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) | GraphQL Java implementation | [graphql](https://github.com/topics/graphql), [graphql-java](https://github.com/topics/graphql-java), [java](https://github.com/topics/java) |

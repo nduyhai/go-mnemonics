@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-19T02:54:18Z
+Auto-generated on 2026-01-26T02:58:27Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -23,6 +23,7 @@ Auto-generated on 2026-01-19T02:54:18Z
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | [http3](https://github.com/topics/http3), [network-programming](https://github.com/topics/network-programming), [protocol](https://github.com/topics/protocol) |
 | [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) | Write Cloudflare Workers in 100% Rust via WebAssembly | [cloudflare](https://github.com/topics/cloudflare), [ffi](https://github.com/topics/ffi), [rust](https://github.com/topics/rust) |
 | [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, and blame output | [color-themes](https://github.com/topics/color-themes), [delta](https://github.com/topics/delta), [diff](https://github.com/topics/diff) |
+| [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) | Nydus - the Dragonfly image service, providing fast, secure and easy access to container images. | [accelerator](https://github.com/topics/accelerator), [container](https://github.com/topics/container), [container-image](https://github.com/topics/container-image) |
 | [ekzhang/bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost | [cli](https://github.com/topics/cli), [localhost](https://github.com/topics/localhost), [networking](https://github.com/topics/networking) |
 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. | [app-launcher](https://github.com/topics/app-launcher), [desktop-application](https://github.com/topics/desktop-application), [dock](https://github.com/topics/dock) |
 | [glzr-io/zebar](https://github.com/glzr-io/zebar) | Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups. | [bar](https://github.com/topics/bar), [desktop](https://github.com/topics/desktop), [dock](https://github.com/topics/dock) |
@@ -66,5 +67,6 @@ Auto-generated on 2026-01-19T02:54:18Z
 | [verichains/revela](https://github.com/verichains/revela) | Decompiler for Move smart contracts | [aptos](https://github.com/topics/aptos), [audit](https://github.com/topics/audit), [blockchain](https://github.com/topics/blockchain) |
 | [warp-tech/warpgate](https://github.com/warp-tech/warpgate) | Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software | [bastion](https://github.com/topics/bastion), [bastion-host](https://github.com/topics/bastion-host), [https](https://github.com/topics/https) |
 | [wezterm/wezterm](https://github.com/wezterm/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | [rust](https://github.com/topics/rust), [serial](https://github.com/topics/serial), [serial-port](https://github.com/topics/serial-port) |
+| [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | Algorithm powering the For You feed on X |  |
 | [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications | [blockchain](https://github.com/topics/blockchain), [fhe](https://github.com/topics/fhe), [privacy](https://github.com/topics/privacy) |
 | [zed-industries/zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | [gpui](https://github.com/topics/gpui), [rust-lang](https://github.com/topics/rust-lang), [text-editor](https://github.com/topics/text-editor) |

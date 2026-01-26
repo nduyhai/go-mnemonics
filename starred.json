@@ -1,5 +1,73 @@
 [
   {
+    "name": "dragonflyoss/nydus",
+    "url": "https://github.com/dragonflyoss/nydus",
+    "description": "Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.",
+    "language": "Rust",
+    "topics": [
+      "accelerator",
+      "container",
+      "container-image",
+      "containerd",
+      "docker",
+      "filesystem",
+      "snapshotter",
+      "storage"
+    ]
+  },
+  {
+    "name": "xai-org/x-algorithm",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "keploy/keploy",
+    "url": "https://github.com/keploy/keploy",
+    "description": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+    "language": "Go",
+    "topics": [
+      "agentic-ai",
+      "ai-testing-tool",
+      "api-testing",
+      "code-quality",
+      "mock",
+      "mock-data-generator",
+      "mock-framework",
+      "test-automation",
+      "test-automation-framework",
+      "test-generation",
+      "testing",
+      "testing-library",
+      "testing-tool",
+      "testing-tools"
+    ]
+  },
+  {
+    "name": "memodb-io/Acontext",
+    "url": "https://github.com/memodb-io/Acontext",
+    "description": "Data platform for context engineering. Context data platform that stores, observes and learns. Join the community❤️: https://discord.acontext.io",
+    "language": "Go",
+    "topics": [
+      "agent",
+      "agent-development-kit",
+      "agent-observability",
+      "ai-agent",
+      "anthropic",
+      "context-data-platform",
+      "context-engineering",
+      "data-platform",
+      "llm",
+      "llm-observability",
+      "llmops",
+      "memory",
+      "openai",
+      "self-evolving",
+      "self-learning"
+    ]
+  },
+  {
     "name": "semgrep/semgrep",
     "url": "https://github.com/semgrep/semgrep",
     "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
@@ -1290,7 +1358,7 @@
   {
     "name": "mudler/LocalAI",
     "url": "https://github.com/mudler/LocalAI",
-    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
     "language": "Go",
     "topics": [
       "ai",
@@ -1337,10 +1405,13 @@
     "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run on your desktop or in your cluster.",
     "language": "Go",
     "topics": [
+      "cluster",
       "dashboard",
+      "devops",
       "kubernetes",
       "logging",
       "monitoring",
+      "observability",
       "private",
       "real-time"
     ]
@@ -6066,9 +6137,8 @@
     "language": "Java",
     "topics": [
       "a2a-registry",
+      "agent",
       "ai-registry",
-      "alibaba",
-      "config",
       "configuration-management",
       "distributed-configuration",
       "dns",
@@ -6080,8 +6150,8 @@
       "mcp-registry",
       "microservices",
       "nacos",
-      "service-discovery",
-      "service-mesh",
+      "prompt",
+      "skills",
       "spring-cloud"
     ]
   },
@@ -7418,7 +7488,7 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "description": "Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "topics": [
       "deepseek",
@@ -8188,11 +8258,24 @@
     "description": "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "language": "TypeScript",
     "topics": [
-      "bots",
-      "chatbot",
+      "ai",
+      "artificial-intelligence",
+      "awesome-list",
       "chatgpt",
-      "chatgpt-api",
-      "language"
+      "chatgpt-prompts",
+      "claude",
+      "gemini",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "machine-learning",
+      "nextjs",
+      "open-source",
+      "openai",
+      "prompt-engineering",
+      "prompts",
+      "prompts-chat",
+      "typescript"
     ]
   },
   {
@@ -11228,7 +11311,7 @@
   {
     "name": "google/jimfs",
     "url": "https://github.com/google/jimfs",
-    "description": "An in-memory file system for Java 8+",
+    "description": "An in-memory file system for Java",
     "language": "Java",
     "topics": []
   },

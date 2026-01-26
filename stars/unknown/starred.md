@@ -1,6 +1,6 @@
 # 🌟 Unknown Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-19T02:54:18Z
+Auto-generated on 2026-01-26T02:58:27Z
 
 | Name | Description | Language | Topics |
 |------|-------------|----------|-------|
@@ -234,7 +234,7 @@ Auto-generated on 2026-01-19T02:54:18Z
 | [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) | Ethereum miner with OpenCL, CUDA and stratum support | C++ |  |
 | [ethereum/aleth](https://github.com/ethereum/aleth) | Aleth – Ethereum C++ client, tools and libraries | C++ | [cpp](https://github.com/topics/cpp), [ethereum](https://github.com/topics/ethereum), [ethereum-client](https://github.com/topics/ethereum-client) |
 | [evidentlyai/evidently](https://github.com/evidentlyai/evidently) | Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics. | Jupyter Notebook | [data-drift](https://github.com/topics/data-drift), [data-quality](https://github.com/topics/data-quality), [data-science](https://github.com/topics/data-science) |
-| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | TypeScript | [bots](https://github.com/topics/bots), [chatbot](https://github.com/topics/chatbot), [chatgpt](https://github.com/topics/chatgpt) |
+| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | TypeScript | [ai](https://github.com/topics/ai), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [awesome-list](https://github.com/topics/awesome-list) |
 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. | TypeScript | [documentation](https://github.com/topics/documentation), [hacktoberfest](https://github.com/topics/hacktoberfest), [javascript](https://github.com/topics/javascript) |
 | [facebook/fbthrift](https://github.com/facebook/fbthrift) | Facebook's branch of Apache Thrift, including a new C++ server. | C++ |  |
 | [facebook/folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. | C++ |  |
