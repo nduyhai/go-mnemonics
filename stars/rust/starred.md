@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-01-26T02:58:27Z
+Auto-generated on 2026-02-02T03:12:34Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -18,6 +18,7 @@ Auto-generated on 2026-01-26T02:58:27Z
 | [aome510/spotify-player](https://github.com/aome510/spotify-player) | A Spotify player in the terminal with full feature parity | [cli](https://github.com/topics/cli), [music](https://github.com/topics/music), [music-player](https://github.com/topics/music-player) |
 | [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. | [aws](https://github.com/topics/aws), [filesystem](https://github.com/topics/filesystem), [fuse](https://github.com/topics/fuse) |
 | [block/goose](https://github.com/block/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | [mcp](https://github.com/topics/mcp) |
+| [brave/adblock-rust](https://github.com/brave/adblock-rust) | Brave's Rust-based adblock engine |  |
 | [clap-rs/clap](https://github.com/clap-rs/clap) | A full featured, fast Command Line Argument Parser for Rust | [argument-parser](https://github.com/topics/argument-parser), [argument-parsing](https://github.com/topics/argument-parsing), [command-line](https://github.com/topics/command-line) |
 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |  |
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | [http3](https://github.com/topics/http3), [network-programming](https://github.com/topics/network-programming), [protocol](https://github.com/topics/protocol) |

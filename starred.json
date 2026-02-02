@@ -1,5 +1,209 @@
 [
   {
+    "name": "leonhfr/transactioncheck",
+    "url": "https://github.com/leonhfr/transactioncheck",
+    "description": "",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "kubernetes-sigs/ingress2gateway",
+    "url": "https://github.com/kubernetes-sigs/ingress2gateway",
+    "description": "Convert Ingress resources to Gateway API resources",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "menkesu/awesome-pm-skills",
+    "url": "https://github.com/menkesu/awesome-pm-skills",
+    "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code \u0026 Cursor into world-class product partners.",
+    "language": "Unknown",
+    "topics": [
+      "ai",
+      "awesome-list",
+      "claude",
+      "cursor",
+      "lenny-rachitsky",
+      "pm-skills",
+      "product-management"
+    ]
+  },
+  {
+    "name": "taubyte/tau",
+    "url": "https://github.com/taubyte/tau",
+    "description": "Fullstack Workspace for Humans \u0026 Machines",
+    "language": "Go",
+    "topics": [
+      "5g",
+      "ai",
+      "cdn",
+      "cloud-computing",
+      "cloud-native",
+      "distributed-systems",
+      "p2p",
+      "paas",
+      "serverless",
+      "webassembly"
+    ]
+  },
+  {
+    "name": "brave/adblock-rust",
+    "url": "https://github.com/brave/adblock-rust",
+    "description": "Brave's Rust-based adblock engine",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "google/go-querystring",
+    "url": "https://github.com/google/go-querystring",
+    "description": "go-querystring is Go library for encoding structs into URL query strings.",
+    "language": "Go",
+    "topics": [
+      "query-string",
+      "querystring"
+    ]
+  },
+  {
+    "name": "modelcontextprotocol/ext-apps",
+    "url": "https://github.com/modelcontextprotocol/ext-apps",
+    "description": "Official repo for spec \u0026 SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "DependencyTrack/dependency-track",
+    "url": "https://github.com/DependencyTrack/dependency-track",
+    "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
+    "language": "Java",
+    "topics": [
+      "appsec",
+      "bill-of-materials",
+      "bom",
+      "component-analysis",
+      "cyclonedx",
+      "devsecops",
+      "hacktoberfest",
+      "nvd",
+      "ossindex",
+      "owasp",
+      "package-url",
+      "purl",
+      "sbom",
+      "sca",
+      "security",
+      "security-automation",
+      "software-composition-analysis",
+      "software-security",
+      "vulnerabilities",
+      "vulnerability-detection"
+    ]
+  },
+  {
+    "name": "TeamNewPipe/NewPipeExtractor",
+    "url": "https://github.com/TeamNewPipe/NewPipeExtractor",
+    "description": "NewPipe's core library for extracting data from streaming sites",
+    "language": "Java",
+    "topics": [
+      "bandcamp",
+      "crawler",
+      "extractor",
+      "mediaccc",
+      "newpipe",
+      "peertube",
+      "scraper",
+      "soundcloud",
+      "youtube"
+    ]
+  },
+  {
+    "name": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "topics": [
+      "4k",
+      "android",
+      "bandcamp",
+      "download-videos",
+      "newpipe",
+      "peertube",
+      "soundcloud",
+      "translation",
+      "video",
+      "watch",
+      "youtube-video"
+    ]
+  },
+  {
+    "name": "AsamK/signal-cli",
+    "url": "https://github.com/AsamK/signal-cli",
+    "description": "signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.",
+    "language": "Java",
+    "topics": [
+      "commandline",
+      "dbus",
+      "java",
+      "json-rpc",
+      "messaging",
+      "signal",
+      "signal-cli"
+    ]
+  },
+  {
+    "name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
+    ]
+  },
+  {
+    "name": "alebcay/openlens-node-pod-menu",
+    "url": "https://github.com/alebcay/openlens-node-pod-menu",
+    "description": "Node and pod menus for OpenLens",
+    "language": "TypeScript",
+    "topics": [
+      "extension",
+      "k8slens",
+      "menus",
+      "node",
+      "openlens",
+      "pod"
+    ]
+  },
+  {
+    "name": "projectcalico/calico",
+    "url": "https://github.com/projectcalico/calico",
+    "description": "Cloud native networking and network security",
+    "language": "Go",
+    "topics": [
+      "cats",
+      "cni",
+      "cni-plugin",
+      "ebpf",
+      "host-protection",
+      "identity-aware-policy",
+      "k8s",
+      "kubernetes",
+      "kubernetes-networking",
+      "kubernetes-windows",
+      "network-policy",
+      "networking",
+      "observability",
+      "openstack",
+      "security",
+      "windows",
+      "xdp"
+    ]
+  },
+  {
     "name": "dragonflyoss/nydus",
     "url": "https://github.com/dragonflyoss/nydus",
     "description": "Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.",
@@ -47,8 +251,8 @@
   {
     "name": "memodb-io/Acontext",
     "url": "https://github.com/memodb-io/Acontext",
-    "description": "Data platform for context engineering. Context data platform that stores, observes and learns. Join the community❤️: https://discord.acontext.io",
-    "language": "Go",
+    "description": "Simple Context Storage for Cloud Agents.",
+    "language": "TypeScript",
     "topics": [
       "agent",
       "agent-development-kit",
@@ -108,13 +312,6 @@
       "ssh",
       "ssh-server"
     ]
-  },
-  {
-    "name": "andrlange/spring-documentation-mcp-server",
-    "url": "https://github.com/andrlange/spring-documentation-mcp-server",
-    "description": "Spring Boot based MCP Server provide full Spring Ecosystem Documentation for LLMs",
-    "language": "Java",
-    "topics": []
   },
   {
     "name": "google/building-secure-and-reliable-systems",
@@ -289,7 +486,7 @@
     "name": "Agenta-AI/agenta",
     "url": "https://github.com/Agenta-AI/agenta",
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.",
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
       "llm-as-a-judge",
       "llm-evaluation",
@@ -657,7 +854,7 @@
   {
     "name": "arconia-io/arconia",
     "url": "https://github.com/arconia-io/arconia",
-    "description": "Arconia is a framework designed to build modern enterprise applications using Java and Spring Boot, emphasizing developer experience and cloud native architectures.",
+    "description": "Arconia is a framework that acts as an add-on for Spring Boot, designed to enhance modern enterprise applications built with Java. You can add Arconia to an existing Spring Boot application to boost developer experience, reduce boilerplate, and seamlessly adopt cloud native patterns.",
     "language": "Java",
     "topics": [
       "ai",
@@ -3984,7 +4181,6 @@
     "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
     "language": "Go",
     "topics": [
-      "gnmi",
       "golang",
       "hacktoberfest",
       "influxdb",
@@ -3996,10 +4192,11 @@
       "monitoring",
       "mqtt",
       "opcua",
+      "t",
       "telegraf",
+      "telemetry-collection",
       "time-series",
       "windows-eventlog",
-      "windows-management-instrumentation",
       "xpath"
     ]
   },
@@ -5943,6 +6140,7 @@
       "go",
       "golang",
       "lock",
+      "rdma",
       "redis",
       "redis-client",
       "resp3",
@@ -7488,7 +7686,7 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "description": "Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "description": "Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "topics": [
       "deepseek",
@@ -7881,8 +8079,8 @@
     ]
   },
   {
-    "name": "kubernetes/dashboard",
-    "url": "https://github.com/kubernetes/dashboard",
+    "name": "kubernetes-retired/dashboard",
+    "url": "https://github.com/kubernetes-retired/dashboard",
     "description": "General-purpose web UI for Kubernetes clusters",
     "language": "Go",
     "topics": []
@@ -8253,9 +8451,9 @@
     ]
   },
   {
-    "name": "f/awesome-chatgpt-prompts",
-    "url": "https://github.com/f/awesome-chatgpt-prompts",
-    "description": "Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "name": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -17274,7 +17472,7 @@
   {
     "name": "leandromoreira/ffmpeg-libav-tutorial",
     "url": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
-    "description": "FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷",
+    "description": "FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺",
     "language": "C",
     "topics": [
       "codec",
