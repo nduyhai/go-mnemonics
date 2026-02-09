@@ -1,5 +1,137 @@
 [
   {
+    "name": "wavetermdev/waveterm",
+    "url": "https://github.com/wavetermdev/waveterm",
+    "description": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "Go",
+    "topics": [
+      "command-line",
+      "developer-tools",
+      "linux",
+      "macos",
+      "productivity",
+      "terminal",
+      "terminal-emulators",
+      "windows"
+    ]
+  },
+  {
+    "name": "microsoft/litebox",
+    "url": "https://github.com/microsoft/litebox",
+    "description": "A security-focused library OS supporting kernel- and user-mode execution",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "temporalio/dashboards",
+    "url": "https://github.com/temporalio/dashboards",
+    "description": "Temporal Dashboards",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "alibaba/AliSQL",
+    "url": "https://github.com/alibaba/AliSQL",
+    "description": "AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.",
+    "language": "C++",
+    "topics": [
+      "alisql",
+      "database",
+      "duckdb",
+      "mysql",
+      "tokudb",
+      "vector"
+    ]
+  },
+  {
+    "name": "grafana/beyla",
+    "url": "https://github.com/grafana/beyla",
+    "description": "eBPF-based autoinstrumentation of web applications and network metrics",
+    "language": "Go",
+    "topics": [
+      "ebpf",
+      "metrics-gathering",
+      "observability",
+      "traces"
+    ]
+  },
+  {
+    "name": "VoltAgent/awesome-agent-skills",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "description": "Claude Code Skills and 300+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
+    "language": "Unknown",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity-skills",
+      "awesome-list",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex-skills",
+      "cursor-skills",
+      "gemini-skills",
+      "opencode-skills",
+      "skills"
+    ]
+  },
+  {
+    "name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "topics": [
+      "agent-skills"
+    ]
+  },
+  {
+    "name": "scalar/scalar",
+    "url": "https://github.com/scalar/scalar",
+    "description": "Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support",
+    "language": "TypeScript",
+    "topics": [
+      "api",
+      "api-client",
+      "docs",
+      "http-client",
+      "openapi",
+      "openapi3",
+      "reference",
+      "rest-api",
+      "swagger",
+      "vue"
+    ]
+  },
+  {
+    "name": "mem0ai/mem0",
+    "url": "https://github.com/mem0ai/mem0",
+    "description": "Universal memory layer for AI Agents",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ]
+  },
+  {
     "name": "leonhfr/transactioncheck",
     "url": "https://github.com/leonhfr/transactioncheck",
     "description": "",
@@ -251,7 +383,7 @@
   {
     "name": "memodb-io/Acontext",
     "url": "https://github.com/memodb-io/Acontext",
-    "description": "Simple Context Storage for Cloud Agents.",
+    "description": "Context Data Platform for AI Agents",
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -473,7 +605,7 @@
     "name": "NVIDIA/garak",
     "url": "https://github.com/NVIDIA/garak",
     "description": "the LLM vulnerability scanner",
-    "language": "Python",
+    "language": "HTML",
     "topics": [
       "ai",
       "llm-evaluation",
@@ -486,7 +618,7 @@
     "name": "Agenta-AI/agenta",
     "url": "https://github.com/Agenta-AI/agenta",
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.",
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "llm-as-a-judge",
       "llm-evaluation",
@@ -750,7 +882,7 @@
     "name": "BloopAI/vibe-kanban",
     "url": "https://github.com/BloopAI/vibe-kanban",
     "description": "Get 10X more out of Claude Code, Codex or any coding agent",
-    "language": "Rust",
+    "language": "TypeScript",
     "topics": [
       "agent",
       "ai-agents",
@@ -1599,7 +1731,7 @@
   {
     "name": "kubetail-org/kubetail",
     "url": "https://github.com/kubetail-org/kubetail",
-    "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run on your desktop or in your cluster.",
+    "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.",
     "language": "Go",
     "topics": [
       "cluster",
@@ -5075,7 +5207,7 @@
     "name": "firebase/genkit",
     "url": "https://github.com/firebase/genkit",
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
       "agents",
       "ai",
@@ -5104,7 +5236,7 @@
   {
     "name": "a2aproject/A2A",
     "url": "https://github.com/a2aproject/A2A",
-    "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
+    "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
     "language": "Shell",
     "topics": [
       "a2a",
@@ -5263,7 +5395,7 @@
   {
     "name": "openobserve/openobserve",
     "url": "https://github.com/openobserve/openobserve",
-    "description": "Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.",
+    "description": "OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
     "language": "TypeScript",
     "topics": [
       "analytics",
@@ -7692,19 +7824,17 @@
       "deepseek",
       "gemma",
       "gemma3",
-      "gemma3n",
+      "glm",
       "go",
       "golang",
       "gpt-oss",
       "llama",
-      "llama2",
       "llama3",
-      "llava",
       "llm",
       "llms",
+      "minimax",
       "mistral",
       "ollama",
-      "phi4",
       "qwen"
     ]
   },
@@ -8454,7 +8584,7 @@
     "name": "f/prompts.chat",
     "url": "https://github.com/f/prompts.chat",
     "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "language": "TypeScript",
+    "language": "HTML",
     "topics": [
       "ai",
       "artificial-intelligence",
@@ -10360,11 +10490,8 @@
       "forex",
       "java",
       "java-library",
-      "litecoin",
-      "ripple",
       "stocks",
       "ta4j",
-      "tachnical-analysis",
       "technical-analysis",
       "trading",
       "trading-algorithms",
@@ -12144,16 +12271,15 @@
     ]
   },
   {
-    "name": "ntegrals/SoftwareArchitect",
-    "url": "https://github.com/ntegrals/SoftwareArchitect",
-    "description": "Path to a Software Architect",
+    "name": "ntegrals/openbrowser",
+    "url": "https://github.com/ntegrals/openbrowser",
+    "description": "Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.",
     "language": "Unknown",
     "topics": [
       "application-architecture",
       "architect",
       "architecture-guidelines",
-      "enterprise-architecture",
-      "roadmap"
+      "enterprise-architecture"
     ]
   },
   {
@@ -18700,8 +18826,8 @@
     ]
   },
   {
-    "name": "SamPutnam/Index-2025",
-    "url": "https://github.com/SamPutnam/Index-2025",
+    "name": "SamPutnam/Index-2026",
+    "url": "https://github.com/SamPutnam/Index-2026",
     "description": "",
     "language": "HTML",
     "topics": []

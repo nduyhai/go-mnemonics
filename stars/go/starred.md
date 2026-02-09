@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-02-02T03:12:34Z
+Auto-generated on 2026-02-09T03:12:26Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -194,6 +194,7 @@ Auto-generated on 2026-02-02T03:12:34Z
 | [gorilla/mux](https://github.com/gorilla/mux) | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [gorilla](https://github.com/topics/gorilla) |
 | [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) | scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place | [distributed-scraper](https://github.com/topics/distributed-scraper), [distributed-scraping](https://github.com/topics/distributed-scraping), [golang](https://github.com/topics/golang) |
 | [grafana/alloy](https://github.com/grafana/alloy) | OpenTelemetry Collector distribution with programmable pipelines | [collector](https://github.com/topics/collector), [grafana](https://github.com/topics/grafana), [loki](https://github.com/topics/loki) |
+| [grafana/beyla](https://github.com/grafana/beyla) | eBPF-based autoinstrumentation of web applications and network metrics | [ebpf](https://github.com/topics/ebpf), [metrics-gathering](https://github.com/topics/metrics-gathering), [observability](https://github.com/topics/observability) |
 | [grafana/ckit](https://github.com/grafana/ckit) | Lightweight library for clustering and workload distribution |  |
 | [grafana/dskit](https://github.com/grafana/dskit) | Distributed systems kit |  |
 | [grafana/loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | [cloudnative](https://github.com/topics/cloudnative), [grafana](https://github.com/topics/grafana), [hacktoberfest](https://github.com/topics/hacktoberfest) |
@@ -261,7 +262,7 @@ Auto-generated on 2026-02-02T03:12:34Z
 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | [cncf](https://github.com/topics/cncf), [containers](https://github.com/topics/containers), [go](https://github.com/topics/go) |
 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. | [best-practice](https://github.com/topics/best-practice), [devops](https://github.com/topics/devops), [kubernetes](https://github.com/topics/kubernetes) |
 | [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources. | [amqp](https://github.com/topics/amqp), [cloud-native](https://github.com/topics/cloud-native), [devops](https://github.com/topics/devops) |
-| [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) | Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run on your desktop or in your cluster. | [cluster](https://github.com/topics/cluster), [dashboard](https://github.com/topics/dashboard), [devops](https://github.com/topics/devops) |
+| [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) | Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker. | [cluster](https://github.com/topics/cluster), [dashboard](https://github.com/topics/dashboard), [devops](https://github.com/topics/devops) |
 | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization API and runtime in order to define and manage virtual machines. | [hacktoberfest](https://github.com/topics/hacktoberfest), [kubernetes](https://github.com/topics/kubernetes), [libvirt](https://github.com/topics/libvirt) |
 | [kumahq/kuma](https://github.com/kumahq/kuma) | 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project. | [apis](https://github.com/topics/apis), [cloud-native](https://github.com/topics/cloud-native), [cncf](https://github.com/topics/cncf) |
 | [labstack/echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework | [echo](https://github.com/topics/echo), [go](https://github.com/topics/go), [http2](https://github.com/topics/http2) |
@@ -423,6 +424,7 @@ Auto-generated on 2026-02-02T03:12:34Z
 | [volcano-sh/volcano](https://github.com/volcano-sh/volcano) | A Cloud Native Batch System (Project under CNCF) | [ai](https://github.com/topics/ai), [batch-systems](https://github.com/topics/batch-systems), [bigdata](https://github.com/topics/bigdata) |
 | [wagoodman/dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image | [cli](https://github.com/topics/cli), [docker](https://github.com/topics/docker), [docker-image](https://github.com/topics/docker-image) |
 | [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | [angular](https://github.com/topics/angular), [desktop-application](https://github.com/topics/desktop-application), [go](https://github.com/topics/go) |
+| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows | [command-line](https://github.com/topics/command-line), [developer-tools](https://github.com/topics/developer-tools), [linux](https://github.com/topics/linux) |
 | [wazero/wazero](https://github.com/wazero/wazero) | wazero: the zero dependency WebAssembly runtime for Go developers | [ahead-of-time](https://github.com/topics/ahead-of-time), [compiler](https://github.com/topics/compiler), [go](https://github.com/topics/go) |
 | [wildducktheories/go-csv](https://github.com/wildducktheories/go-csv) | Tools written in go for manipulating CSV files. |  |
 | [wtfutil/wtf](https://github.com/wtfutil/wtf) | The personal information dashboard for your terminal | [cui](https://github.com/topics/cui), [dashboard](https://github.com/topics/dashboard), [devops](https://github.com/topics/devops) |
