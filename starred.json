@@ -1,5 +1,107 @@
 [
   {
+    "name": "tambo-ai/tambo",
+    "url": "https://github.com/tambo-ai/tambo",
+    "description": "Generative UI SDK for React",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "assistant",
+      "assistant-chat-bots",
+      "generative-ui",
+      "js",
+      "react",
+      "reactjs",
+      "ui",
+      "ui-components"
+    ]
+  },
+  {
+    "name": "uber/uForwarder",
+    "url": "https://github.com/uber/uForwarder",
+    "description": "Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.",
+    "language": "Java",
+    "topics": []
+  },
+  {
+    "name": "sanyuan0704/code-review-expert",
+    "url": "https://github.com/sanyuan0704/code-review-expert",
+    "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
+    "language": "Unknown",
+    "topics": []
+  },
+  {
+    "name": "AikidoSec/safe-chain",
+    "url": "https://github.com/AikidoSec/safe-chain",
+    "description": "Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
+    "name": "github/gh-aw",
+    "url": "https://github.com/github/gh-aw",
+    "description": "GitHub Agentic Workflows",
+    "language": "Go",
+    "topics": [
+      "actions",
+      "cai",
+      "ci",
+      "claude-code",
+      "codex",
+      "copilot",
+      "gh-extension",
+      "github-actions"
+    ]
+  },
+  {
+    "name": "likec4/likec4",
+    "url": "https://github.com/likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "language": "TypeScript",
+    "topics": [
+      "architecture",
+      "architecture-as-code",
+      "c4",
+      "diagrams"
+    ]
+  },
+  {
+    "name": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "iOfficeAI/AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+    "language": "TypeScript",
+    "topics": [
+      "acp",
+      "ai",
+      "ai-agent",
+      "chat",
+      "chatbot",
+      "claude-code",
+      "clawd",
+      "clawdbot",
+      "codex",
+      "cowork",
+      "gemini",
+      "gemini-cli",
+      "llm",
+      "nano-banana",
+      "office",
+      "openclaw",
+      "opencode",
+      "skills",
+      "webui"
+    ]
+  },
+  {
     "name": "wavetermdev/waveterm",
     "url": "https://github.com/wavetermdev/waveterm",
     "description": "An open-source, cross-platform terminal for seamless workflows",
@@ -64,7 +166,9 @@
       "agent-skills",
       "ai-agents",
       "antigravity-skills",
+      "awesome",
       "awesome-list",
+      "awesome-lists",
       "claude-code",
       "claude-code-skills",
       "claude-skills",
@@ -1731,7 +1835,7 @@
   {
     "name": "kubetail-org/kubetail",
     "url": "https://github.com/kubetail-org/kubetail",
-    "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.",
+    "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Runs anywhere - desktop, cluster, docker.",
     "language": "Go",
     "topics": [
       "cluster",
@@ -2696,7 +2800,7 @@
     "name": "github/awesome-copilot",
     "url": "https://github.com/github/awesome-copilot",
     "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": [
       "ai",
       "github-copilot",
@@ -3464,7 +3568,8 @@
       "agentic-workflow",
       "ai",
       "ai-search",
-      "deep-learning",
+      "context-engineering",
+      "context-retrieval",
       "deep-research",
       "deepseek",
       "deepseek-r1",
@@ -3473,7 +3578,6 @@
       "graphrag",
       "llm",
       "mcp",
-      "multi-agent",
       "ollama",
       "openai",
       "rag",
@@ -4386,6 +4490,7 @@
       "ai",
       "bigquery",
       "clickhouse",
+      "cockroachdb",
       "database",
       "elasticsearch",
       "firestore",
@@ -7188,7 +7293,7 @@
     "name": "lancedb/lancedb",
     "url": "https://github.com/lancedb/lancedb",
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "language": "Rust",
+    "language": "HTML",
     "topics": [
       "approximate-nearest-neighbor-search",
       "image-search",
@@ -7726,7 +7831,7 @@
   {
     "name": "deepset-ai/haystack",
     "url": "https://github.com/deepset-ai/haystack",
-    "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
     "language": "MDX",
     "topics": [
       "agent",
@@ -7818,7 +7923,7 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "description": "Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "topics": [
       "deepseek",
@@ -9056,7 +9161,6 @@
     "description": "A visual way to increase the developer awareness to minimize the number of Beans in memory.",
     "language": "Java",
     "topics": [
-      "bard",
       "beans",
       "chatgpt",
       "java",
@@ -10055,7 +10159,7 @@
   {
     "name": "casdoor/casdoor",
     "url": "https://github.com/casdoor/casdoor",
-    "description": "An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",
+    "description": "An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
     "language": "Go",
     "topics": [
       "ai-gateway",
@@ -10667,7 +10771,7 @@
   {
     "name": "kubeshark/kubeshark",
     "url": "https://github.com/kubeshark/kubeshark",
-    "description": "API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.",
+    "description": "AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.",
     "language": "Go",
     "topics": [
       "amqp",
@@ -12274,12 +12378,14 @@
     "name": "ntegrals/openbrowser",
     "url": "https://github.com/ntegrals/openbrowser",
     "description": "Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.",
-    "language": "Unknown",
+    "language": "TypeScript",
     "topics": [
-      "application-architecture",
-      "architect",
-      "architecture-guidelines",
-      "enterprise-architecture"
+      "ai-agents",
+      "automation",
+      "claude",
+      "playwright",
+      "puppeteer",
+      "sandbox"
     ]
   },
   {
@@ -13898,6 +14004,7 @@
       "docker-registry-v2",
       "git",
       "git-gui",
+      "git-lfs",
       "git-server",
       "gitea",
       "github",
@@ -13908,6 +14015,8 @@
       "hacktoberfest",
       "maven-server",
       "npm-registry",
+      "self-hosted",
+      "typescript",
       "vue"
     ]
   },
@@ -19137,6 +19246,7 @@
       "javascript",
       "microservices",
       "netty",
+      "quarkus",
       "spring-boot",
       "websocket",
       "websockets"
@@ -20275,7 +20385,8 @@
       "cpp11",
       "cpp14",
       "cpp17",
-      "cpp20"
+      "cpp20",
+      "cpp23"
     ]
   },
   {

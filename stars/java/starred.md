@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-02-09T03:12:26Z
+Auto-generated on 2026-02-16T03:12:33Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -183,7 +183,7 @@ Auto-generated on 2026-02-09T03:12:26Z
 | [immutables/immutables](https://github.com/immutables/immutables) | Java annotation processor to create immutable objects and builders, for records too. Sweep boilerplate code under the rug! | [annotation-processor](https://github.com/topics/annotation-processor), [builder](https://github.com/topics/builder), [gson](https://github.com/topics/gson) |
 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. | [datagrid](https://github.com/topics/datagrid), [infinispan](https://github.com/topics/infinispan), [infinispan-server](https://github.com/topics/infinispan-server) |
 | [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) | jOOQ is the best way to write SQL in Java | [code-generator](https://github.com/topics/code-generator), [database](https://github.com/topics/database), [db2](https://github.com/topics/db2) |
-| [jabrena/spring-boot-user-beans](https://github.com/jabrena/spring-boot-user-beans) | A visual way to increase the developer awareness to minimize the number of Beans in memory. | [bard](https://github.com/topics/bard), [beans](https://github.com/topics/beans), [chatgpt](https://github.com/topics/chatgpt) |
+| [jabrena/spring-boot-user-beans](https://github.com/jabrena/spring-boot-user-beans) | A visual way to increase the developer awareness to minimize the number of Beans in memory. | [beans](https://github.com/topics/beans), [chatgpt](https://github.com/topics/chatgpt), [java](https://github.com/topics/java) |
 | [java-json-tools/json-patch](https://github.com/java-json-tools/json-patch) | An RFC 6902 (JSON Patch) and reverse, plus RFC 7386 (JSON Merge Patch), implementation in Java using Jackson (2.2.x) |  |
 | [javers/javers](https://github.com/javers/javers) | JaVers - object auditing and diff framework for Java | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [jbangdev/jbang](https://github.com/jbangdev/jbang) | Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease. | [bash](https://github.com/topics/bash), [hacktoberfest](https://github.com/topics/hacktoberfest), [java](https://github.com/topics/java) |
@@ -324,6 +324,7 @@ Auto-generated on 2026-02-09T03:12:26Z
 | [tkaczmarzyk/specification-arg-resolver](https://github.com/tkaczmarzyk/specification-arg-resolver) | An alternative API for filtering data with Spring MVC & Spring Data JPA |  |
 | [tomdesair/tus-java-server](https://github.com/tomdesair/tus-java-server) | Library to receive tus v1.0.0 file uploads in a Java server environment | [file-upload](https://github.com/topics/file-upload), [java](https://github.com/topics/java), [jboss](https://github.com/topics/jboss) |
 | [trinodb/trino](https://github.com/trinodb/trino) | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) | [analytics](https://github.com/topics/analytics), [big-data](https://github.com/topics/big-data), [data-science](https://github.com/topics/data-science) |
+| [uber/uForwarder](https://github.com/uber/uForwarder) | Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking. |  |
 | [ulisesbocchio/jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot) | Jasypt integration for Spring boot | [encryptable-properties](https://github.com/topics/encryptable-properties), [encryption](https://github.com/topics/encryption), [java](https://github.com/topics/java) |
 | [vavr-io/vavr](https://github.com/vavr-io/vavr) | vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality. | [functional-programming](https://github.com/topics/functional-programming), [hacktoberfest](https://github.com/topics/hacktoberfest), [immutable-collections](https://github.com/topics/immutable-collections) |
 | [viniciusccarvalho/spring-cloud-sockets](https://github.com/viniciusccarvalho/spring-cloud-sockets) | Reactive socket communication for microservices |  |

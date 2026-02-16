@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-02-09T03:12:26Z
+Auto-generated on 2026-02-16T03:12:33Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -35,7 +35,6 @@ Auto-generated on 2026-02-09T03:12:26Z
 | [juspay/connector-service](https://github.com/juspay/connector-service) | Open-Source Payments Connector Service | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
-| [lancedb/lancedb](https://github.com/lancedb/lancedb) | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. | [approximate-nearest-neighbor-search](https://github.com/topics/approximate-nearest-neighbor-search), [image-search](https://github.com/topics/image-search), [nearest-neighbor-search](https://github.com/topics/nearest-neighbor-search) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
 | [memvid/memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | [ai](https://github.com/topics/ai), [context](https://github.com/topics/context), [embedded](https://github.com/topics/embedded) |
