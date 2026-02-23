@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-02-16T03:12:33Z
+Auto-generated on 2026-02-23T03:12:29Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -8,7 +8,7 @@ Auto-generated on 2026-02-16T03:12:33Z
 | [Angel-ML/angel](https://github.com/Angel-ML/angel) | A Flexible and Powerful Parameter Server for large-scale machine learning | [high-dimensional](https://github.com/topics/high-dimensional), [machine-learning](https://github.com/topics/machine-learning), [model](https://github.com/topics/model) |
 | [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | An API/Schema registry - stores APIs and Schemas. |  |
 | [AsamK/signal-cli](https://github.com/AsamK/signal-cli) | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. | [commandline](https://github.com/topics/commandline), [dbus](https://github.com/topics/dbus), [java](https://github.com/topics/java) |
-| [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Event Driven WebSockets Framework  with Cross-Browser Fallbacks | [asynchronous](https://github.com/topics/asynchronous), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
+| [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol | [ai](https://github.com/topics/ai), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
 | [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [automq](https://github.com/topics/automq), [diskless](https://github.com/topics/diskless), [kafka](https://github.com/topics/kafka) |
 | [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) | Framework for Evolutionary Message-Driven Microservices on the JVM | [cqrs](https://github.com/topics/cqrs), [dcb](https://github.com/topics/dcb), [ddd](https://github.com/topics/ddd) |
 | [CRaC/org.crac](https://github.com/CRaC/org.crac) |  |  |
@@ -119,7 +119,7 @@ Auto-generated on 2026-02-16T03:12:33Z
 | [classgraph/classgraph](https://github.com/classgraph/classgraph) | An uber-fast parallelized Java classpath scanner and module scanner. |  |
 | [cleancoders/CleanCodeCaseStudy](https://github.com/cleancoders/CleanCodeCaseStudy) | Clean Code Case Study |  |
 | [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) | Admin UI for administration of spring boot applications | [java](https://github.com/topics/java), [spring](https://github.com/topics/spring), [spring-boot](https://github.com/topics/spring-boot) |
-| [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications | [distributed-systems](https://github.com/topics/distributed-systems), [durable-execution](https://github.com/topics/durable-execution), [grpc](https://github.com/topics/grpc) |
+| [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents | [distributed-systems](https://github.com/topics/distributed-systems), [durable-execution](https://github.com/topics/durable-execution), [grpc](https://github.com/topics/grpc) |
 | [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) | Confluent Schema Registry for Kafka | [avro](https://github.com/topics/avro), [avro-schema](https://github.com/topics/avro-schema), [confluent](https://github.com/topics/confluent) |
 | [coralblocks/CoralRing](https://github.com/coralblocks/CoralRing) | CoralRing is an ultra-low-latency, lock-free, garbage-free, batching  and concurrent circular queue (ring) in off-heap shared memory for inter-process communication (IPC) in Java across different JVMs using memory-mapped files. | [ipc](https://github.com/topics/ipc), [memory-barriers](https://github.com/topics/memory-barriers), [off-heap-memory](https://github.com/topics/off-heap-memory) |
 | [corretto/corretto-8](https://github.com/corretto/corretto-8) | Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8 |  |
@@ -199,7 +199,6 @@ Auto-generated on 2026-02-16T03:12:33Z
 | [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) | :rocket: Release projects quickly and easily with JReleaser | [ant](https://github.com/topics/ant), [ci-cd](https://github.com/topics/ci-cd), [cli](https://github.com/topics/cli) |
 | [jspecify/jspecify](https://github.com/jspecify/jspecify) | An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. | [android](https://github.com/topics/android), [annotations](https://github.com/topics/annotations), [bugfinding](https://github.com/topics/bugfinding) |
 | [junit-team/junit-framework](https://github.com/junit-team/junit-framework) | ✅ The programmer-friendly testing framework for Java and the JVM | [java](https://github.com/topics/java), [junit](https://github.com/topics/junit), [junit-jupiter](https://github.com/topics/junit-jupiter) |
-| [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) | Open-Source Web UI for managing Apache Kafka clusters | [apache-kafka](https://github.com/topics/apache-kafka), [big-data](https://github.com/topics/big-data), [cluster-management](https://github.com/topics/cluster-management) |
 | [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. |  |
 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | [automation](https://github.com/topics/automation), [data-orchestration](https://github.com/topics/data-orchestration), [devops](https://github.com/topics/devops) |
 | [keva-dev/keva-ioc](https://github.com/keva-dev/keva-ioc) | Fast, lightweight, Spring like, annotation driven IoC framework | [dependency-injection](https://github.com/topics/dependency-injection), [ioc-framework](https://github.com/topics/ioc-framework) |

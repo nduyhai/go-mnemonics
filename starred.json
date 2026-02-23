@@ -1,5 +1,38 @@
 [
   {
+    "name": "vxcontrol/pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang",
+      "gpt",
+      "graphql",
+      "multi-agent-system",
+      "offensive-security",
+      "open-source",
+      "openai",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "react",
+      "security-automation",
+      "security-testing",
+      "security-tools",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "huggingface/skills",
+    "url": "https://github.com/huggingface/skills",
+    "description": "",
+    "language": "Python",
+    "topics": []
+  },
+  {
     "name": "tambo-ai/tambo",
     "url": "https://github.com/tambo-ai/tambo",
     "description": "Generative UI SDK for React",
@@ -77,7 +110,7 @@
   {
     "name": "iOfficeAI/AionUi",
     "url": "https://github.com/iOfficeAI/AionUi",
-    "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+    "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
     "language": "TypeScript",
     "topics": [
       "acp",
@@ -160,7 +193,7 @@
   {
     "name": "VoltAgent/awesome-agent-skills",
     "url": "https://github.com/VoltAgent/awesome-agent-skills",
-    "description": "Claude Code Skills and 300+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
+    "description": "Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
     "language": "Unknown",
     "topics": [
       "agent-skills",
@@ -304,7 +337,14 @@
     "url": "https://github.com/modelcontextprotocol/ext-apps",
     "description": "Official repo for spec \u0026 SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
     "language": "TypeScript",
-    "topics": []
+    "topics": [
+      "ai",
+      "apps",
+      "mcp",
+      "mcp-apps",
+      "modelcontextprotocol",
+      "ui"
+    ]
   },
   {
     "name": "DependencyTrack/dependency-track",
@@ -488,7 +528,7 @@
     "name": "memodb-io/Acontext",
     "url": "https://github.com/memodb-io/Acontext",
     "description": "Context Data Platform for AI Agents",
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
       "agent",
       "agent-development-kit",
@@ -724,6 +764,8 @@
     "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.",
     "language": "TypeScript",
     "topics": [
+      "agents",
+      "evaluation",
       "llm-as-a-judge",
       "llm-evaluation",
       "llm-framework",
@@ -732,7 +774,8 @@
       "llm-platform",
       "llm-playground",
       "llm-tools",
-      "llmops-platform",
+      "llmops",
+      "observability",
       "prompt-engineering",
       "prompt-management",
       "rag-evaluation"
@@ -986,7 +1029,7 @@
     "name": "BloopAI/vibe-kanban",
     "url": "https://github.com/BloopAI/vibe-kanban",
     "description": "Get 10X more out of Claude Code, Codex or any coding agent",
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": [
       "agent",
       "ai-agents",
@@ -1835,7 +1878,7 @@
   {
     "name": "kubetail-org/kubetail",
     "url": "https://github.com/kubetail-org/kubetail",
-    "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Runs anywhere - desktop, cluster, docker.",
+    "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.",
     "language": "Go",
     "topics": [
       "cluster",
@@ -2449,7 +2492,7 @@
     "name": "kafbat/kafka-ui",
     "url": "https://github.com/kafbat/kafka-ui",
     "description": "Open-Source Web UI for managing Apache Kafka clusters",
-    "language": "Java",
+    "language": "TypeScript",
     "topics": [
       "apache-kafka",
       "big-data",
@@ -2800,7 +2843,7 @@
     "name": "github/awesome-copilot",
     "url": "https://github.com/github/awesome-copilot",
     "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
       "ai",
       "github-copilot",
@@ -3881,6 +3924,7 @@
     "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
     "language": "Rust",
     "topics": [
+      "ai-native",
       "amazon-s3",
       "bigdata",
       "cloud-native",
@@ -5465,15 +5509,19 @@
   {
     "name": "anderspitman/awesome-tunneling",
     "url": "https://github.com/anderspitman/awesome-tunneling",
-    "description": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
+    "description": "List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.",
     "language": "Unknown",
     "topics": [
+      "nebula",
       "ngrok",
       "ngrok-alternative",
       "self-hosted",
       "ssh",
+      "tailscale",
+      "tailscale-alternative",
       "tunnel-proxy",
-      "tunneling"
+      "tunneling",
+      "zerotier"
     ]
   },
   {
@@ -5556,7 +5604,7 @@
   {
     "name": "run-llama/llama_index",
     "url": "https://github.com/run-llama/llama_index",
-    "description": "LlamaIndex is the leading framework for building LLM-powered agents over your data.",
+    "description": "LlamaIndex is the leading document agent and OCR platform",
     "language": "Python",
     "topics": [
       "agents",
@@ -7693,8 +7741,8 @@
     ]
   },
   {
-    "name": "spring-rs/spring-rs",
-    "url": "https://github.com/spring-rs/spring-rs",
+    "name": "summer-rs/summer-rs",
+    "url": "https://github.com/summer-rs/summer-rs",
     "description": "🍃spring-rs is a application framework written in rust inspired by java's spring-boot",
     "language": "Rust",
     "topics": [
@@ -8792,7 +8840,7 @@
   {
     "name": "conductor-oss/conductor",
     "url": "https://github.com/conductor-oss/conductor",
-    "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+    "description": "Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents",
     "language": "Java",
     "topics": [
       "distributed-systems",
@@ -9432,7 +9480,7 @@
     "name": "hongquan/vn-open-api-provinces",
     "url": "https://github.com/hongquan/vn-open-api-provinces",
     "description": "Open API to list Viet Nam administrative divisions",
-    "language": "HTML",
+    "language": "Python",
     "topics": [
       "administrative",
       "http-api",
@@ -19237,19 +19285,18 @@
   {
     "name": "Atmosphere/atmosphere",
     "url": "https://github.com/Atmosphere/atmosphere",
-    "description": "Event Driven WebSockets Framework  with Cross-Browser Fallbacks",
+    "description": "Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol",
     "language": "Java",
     "topics": [
-      "asynchronous",
+      "ai",
       "event-driven",
       "java",
-      "javascript",
-      "microservices",
-      "netty",
+      "mcp",
       "quarkus",
       "spring-boot",
-      "websocket",
-      "websockets"
+      "sse",
+      "streaming",
+      "websocket"
     ]
   },
   {
