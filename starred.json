@@ -1,5 +1,107 @@
 [
   {
+    "name": "chatfire-AI/huobao-drama",
+    "url": "https://github.com/chatfire-AI/huobao-drama",
+    "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
+    "language": "Vue",
+    "topics": []
+  },
+  {
+    "name": "livekit/livekit",
+    "url": "https://github.com/livekit/livekit",
+    "description": "End-to-end realtime stack for connecting humans and AI",
+    "language": "Go",
+    "topics": [
+      "golang",
+      "media-server",
+      "sfu",
+      "video",
+      "voice",
+      "voice-ai",
+      "webrtc"
+    ]
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ]
+  },
+  {
+    "name": "aeron-io/aeron",
+    "url": "https://github.com/aeron-io/aeron",
+    "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+    "language": "Java",
+    "topics": [
+      "c",
+      "c-plus-plus",
+      "ipc",
+      "java",
+      "messaging",
+      "multicast-streams"
+    ]
+  },
+  {
+    "name": "anthropics/claude-code-security-review",
+    "url": "https://github.com/anthropics/claude-code-security-review",
+    "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "projectdiscovery/nuclei",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+    "language": "Go",
+    "topics": [
+      "attack-surface",
+      "cve-scanner",
+      "dast",
+      "hacktoberfest",
+      "nuclei-engine",
+      "security",
+      "security-scanner",
+      "subdomain-takeover",
+      "vulnerability-assessment",
+      "vulnerability-detection",
+      "vulnerability-scanner"
+    ]
+  },
+  {
+    "name": "rybbit-io/rybbit",
+    "url": "https://github.com/rybbit-io/rybbit",
+    "description": "🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.",
+    "language": "TypeScript",
+    "topics": [
+      "analytics",
+      "google-analytics",
+      "product-analytics",
+      "web-analytics"
+    ]
+  },
+  {
     "name": "vxcontrol/pentagi",
     "url": "https://github.com/vxcontrol/pentagi",
     "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
@@ -174,7 +276,6 @@
       "database",
       "duckdb",
       "mysql",
-      "tokudb",
       "vector"
     ]
   },
@@ -527,8 +628,8 @@
   {
     "name": "memodb-io/Acontext",
     "url": "https://github.com/memodb-io/Acontext",
-    "description": "Context Data Platform for AI Agents",
-    "language": "Go",
+    "description": "The Agent Memory Stack",
+    "language": "TypeScript",
     "topics": [
       "agent",
       "agent-development-kit",
@@ -1446,6 +1547,7 @@
     "language": "Go",
     "topics": [
       "containerd",
+      "lima-vm",
       "macos",
       "qemu",
       "vm"
@@ -3382,29 +3484,6 @@
     ]
   },
   {
-    "name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "language": "Go",
-    "topics": [
-      "containers",
-      "devsecops",
-      "docker",
-      "go",
-      "golang",
-      "hacktoberfest",
-      "iac",
-      "infrastructure-as-code",
-      "kubernetes",
-      "misconfiguration",
-      "security",
-      "security-tools",
-      "vulnerability",
-      "vulnerability-detection",
-      "vulnerability-scanners"
-    ]
-  },
-  {
     "name": "juspay/connector-service",
     "url": "https://github.com/juspay/connector-service",
     "description": "Open-Source Payments Connector Service",
@@ -3491,7 +3570,7 @@
     "name": "samber/awesome-prometheus-alerts",
     "url": "https://github.com/samber/awesome-prometheus-alerts",
     "description": "🚨 Collection of Prometheus alerting rules",
-    "language": "HTML",
+    "language": "CSS",
     "topics": [
       "alert",
       "alerting",
@@ -3925,11 +4004,13 @@
     "language": "Rust",
     "topics": [
       "ai-native",
+      "ai-storage",
       "amazon-s3",
       "bigdata",
       "cloud-native",
       "filesystem",
       "minio",
+      "multi-cloud",
       "object-storage",
       "objectstorage",
       "rust",
@@ -5356,7 +5437,7 @@
     "name": "firebase/genkit",
     "url": "https://github.com/firebase/genkit",
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "agents",
       "ai",
@@ -8736,7 +8817,7 @@
   {
     "name": "f/prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "language": "HTML",
     "topics": [
       "ai",
@@ -17020,7 +17101,7 @@
     "name": "veggiemonk/awesome-docker",
     "url": "https://github.com/veggiemonk/awesome-docker",
     "description": ":whale: A curated list of Docker resources and projects",
-    "language": "Unknown",
+    "language": "Makefile",
     "topics": [
       "awesome",
       "awesome-list",
@@ -19285,10 +19366,10 @@
   {
     "name": "Atmosphere/atmosphere",
     "url": "https://github.com/Atmosphere/atmosphere",
-    "description": "Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol",
+    "description": "The transport-agnostic real-time framework for the JVM. WebSocket, SSE, Long-Polling, gRPC, MCP — one API, any transport.",
     "language": "Java",
     "topics": [
-      "ai",
+      "agentic-ai",
       "event-driven",
       "java",
       "mcp",

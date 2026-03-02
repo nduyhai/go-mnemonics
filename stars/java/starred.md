@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-02-23T03:12:29Z
+Auto-generated on 2026-03-02T03:08:40Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -8,7 +8,7 @@ Auto-generated on 2026-02-23T03:12:29Z
 | [Angel-ML/angel](https://github.com/Angel-ML/angel) | A Flexible and Powerful Parameter Server for large-scale machine learning | [high-dimensional](https://github.com/topics/high-dimensional), [machine-learning](https://github.com/topics/machine-learning), [model](https://github.com/topics/model) |
 | [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | An API/Schema registry - stores APIs and Schemas. |  |
 | [AsamK/signal-cli](https://github.com/AsamK/signal-cli) | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. | [commandline](https://github.com/topics/commandline), [dbus](https://github.com/topics/dbus), [java](https://github.com/topics/java) |
-| [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Stream Real Time and LLM response data over WebSocket, SSE, and the MCP protocol | [ai](https://github.com/topics/ai), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
+| [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | The transport-agnostic real-time framework for the JVM. WebSocket, SSE, Long-Polling, gRPC, MCP — one API, any transport. | [agentic-ai](https://github.com/topics/agentic-ai), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
 | [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [automq](https://github.com/topics/automq), [diskless](https://github.com/topics/diskless), [kafka](https://github.com/topics/kafka) |
 | [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) | Framework for Evolutionary Message-Driven Microservices on the JVM | [cqrs](https://github.com/topics/cqrs), [dcb](https://github.com/topics/dcb), [ddd](https://github.com/topics/ddd) |
 | [CRaC/org.crac](https://github.com/CRaC/org.crac) |  |  |
@@ -57,6 +57,7 @@ Auto-generated on 2026-02-23T03:12:29Z
 | [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) | Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. | [automation](https://github.com/topics/automation), [configuration-as-code](https://github.com/topics/configuration-as-code), [configuration-management](https://github.com/topics/configuration-management) |
 | [advantageous/qbit](https://github.com/advantageous/qbit) | The Java microservice lib. QBit is a reactive programming lib for building microservices - JSON, HTTP, WebSocket, and REST. QBit uses reactive programming to build elastic REST, and WebSockets based cloud friendly, web services. SOA evolved for mobile and cloud.  ServiceDiscovery, Health, reactive StatService, events, Java idiomatic reactive programming for Microservices. | [actor](https://github.com/topics/actor), [aws](https://github.com/topics/aws), [health](https://github.com/topics/health) |
 | [aerogear/keycloak-metrics-spi](https://github.com/aerogear/keycloak-metrics-spi) | Adds a Metrics Endpoint to Keycloak |  |
+| [aeron-io/aeron](https://github.com/aeron-io/aeron) | Efficient reliable UDP unicast, UDP multicast, and IPC message transport | [c](https://github.com/topics/c), [c-plus-plus](https://github.com/topics/c-plus-plus), [ipc](https://github.com/topics/ipc) |
 | [aeron-io/agrona](https://github.com/aeron-io/agrona) | High Performance data structures and utility methods for Java | [java](https://github.com/topics/java), [performance](https://github.com/topics/performance) |
 | [airlift/airlift](https://github.com/airlift/airlift) | Airlift framework for building REST services |  |
 | [akamai/AkamaiOPEN-edgegrid-java](https://github.com/akamai/AkamaiOPEN-edgegrid-java) | Java library for Akamai OPEN EdgeGrid Client Authentication | [akamai](https://github.com/topics/akamai), [akamai-devexp](https://github.com/topics/akamai-devexp), [authentication](https://github.com/topics/authentication) |
