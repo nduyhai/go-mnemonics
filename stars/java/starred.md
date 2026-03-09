@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-03-02T03:08:40Z
+Auto-generated on 2026-03-09T03:11:11Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -105,6 +105,7 @@ Auto-generated on 2026-03-02T03:08:40Z
 | [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. | [algorithms](https://github.com/topics/algorithms), [coding](https://github.com/topics/coding), [data-structures](https://github.com/topics/data-structures) |
 | [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | Learn Low Level Design (LLD) and prepare for interviews using free resources. | [awesome](https://github.com/topics/awesome), [design-patterns](https://github.com/topics/design-patterns), [interview](https://github.com/topics/interview) |
 | [awaitility/awaitility](https://github.com/awaitility/awaitility) | Awaitility is a small Java DSL for synchronizing asynchronous operations | [asynchronous](https://github.com/topics/asynchronous), [awaitility](https://github.com/topics/awaitility), [java](https://github.com/topics/java) |
+| [aws-samples/transactional-outbox-pattern](https://github.com/aws-samples/transactional-outbox-pattern) | Transactional Outbox Pattern Sample | [aws](https://github.com/topics/aws) |
 | [aws/smithy-go](https://github.com/aws/smithy-go) | Smithy code generators for Go (in development) | [golang](https://github.com/topics/golang), [smithy](https://github.com/topics/smithy) |
 | [awslabs/aws-java-nio-spi-for-s3](https://github.com/awslabs/aws-java-nio-spi-for-s3) | A Java NIO.2 service provider for Amazon S3 | [aws-sdk](https://github.com/topics/aws-sdk), [java](https://github.com/topics/java), [s3](https://github.com/topics/s3) |
 | [azkaban/azkaban](https://github.com/azkaban/azkaban) | Azkaban workflow manager. | [azkaban](https://github.com/topics/azkaban), [hacktoberfest](https://github.com/topics/hacktoberfest), [scheduling](https://github.com/topics/scheduling) |
@@ -215,7 +216,7 @@ Auto-generated on 2026-03-02T03:08:40Z
 | [linkedin/databus](https://github.com/linkedin/databus) | Source-agnostic distributed change data capture system |  |
 | [linkedin/rest.li](https://github.com/linkedin/rest.li) | Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs. |  |
 | [liquibase/liquibase](https://github.com/liquibase/liquibase) | Main Liquibase Source | [continuous-delivery](https://github.com/topics/continuous-delivery), [continuous-deployment](https://github.com/topics/continuous-deployment), [database](https://github.com/topics/database) |
-| [littlehorse-enterprises/littlehorse](https://github.com/littlehorse-enterprises/littlehorse) | LittleHorse Kernel: A Platform for Distributed Event-Driven or Orchestrated Applications. | [apache-kafka](https://github.com/topics/apache-kafka), [event-driven-architecture](https://github.com/topics/event-driven-architecture), [kafka-streams](https://github.com/topics/kafka-streams) |
+| [littlehorse-enterprises/littlehorse](https://github.com/littlehorse-enterprises/littlehorse) | LittleHorse Server: the command center for Microservices & Business-as-Code | [apache-kafka](https://github.com/topics/apache-kafka), [event-driven-architecture](https://github.com/topics/event-driven-architecture), [kafka-streams](https://github.com/topics/kafka-streams) |
 | [logfellow/logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder) | Logback JSON encoder and appenders | [json](https://github.com/topics/json), [logback](https://github.com/topics/logback), [logback-appender](https://github.com/topics/logback-appender) |
 | [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) | Distributed lock for your scheduled tasks |  |
 | [maciejwalkowiak/implementing-ddd-with-spring-talk](https://github.com/maciejwalkowiak/implementing-ddd-with-spring-talk) |  |  |

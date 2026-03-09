@@ -1,5 +1,103 @@
 [
   {
+    "name": "Ed1s0nZ/CyberStrikeAI",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+    "language": "Go",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "ctf-tools",
+      "mcp",
+      "pentesting-tools"
+    ]
+  },
+  {
+    "name": "actions/actions-runner-controller",
+    "url": "https://github.com/actions/actions-runner-controller",
+    "description": "Kubernetes controller for GitHub Actions self-hosted runners",
+    "language": "Go",
+    "topics": [
+      "github-actions",
+      "kubernetes",
+      "operator"
+    ]
+  },
+  {
+    "name": "aws-samples/transactional-outbox-pattern",
+    "url": "https://github.com/aws-samples/transactional-outbox-pattern",
+    "description": "Transactional Outbox Pattern Sample",
+    "language": "Java",
+    "topics": [
+      "aws"
+    ]
+  },
+  {
+    "name": "alibaba/OpenSandbox",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-infra",
+      "kubernetes",
+      "sandbox"
+    ]
+  },
+  {
+    "name": "rspamd/rspamd",
+    "url": "https://github.com/rspamd/rspamd",
+    "description": "Rapid spam filtering system.",
+    "language": "C",
+    "topics": [
+      "c",
+      "email",
+      "lua",
+      "rspamd",
+      "spam-filter"
+    ]
+  },
+  {
+    "name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. ",
+    "language": "Rust",
+    "topics": [
+      "agentic-ai",
+      "densepose",
+      "esp32",
+      "firmware",
+      "mcu",
+      "mincut",
+      "monitoring",
+      "pose-estimation",
+      "rf",
+      "self",
+      "self-learning",
+      "wifi",
+      "wifi-hacking",
+      "wifi-security"
+    ]
+  },
+  {
+    "name": "denyspoltorak/metapatterns",
+    "url": "https://github.com/denyspoltorak/metapatterns",
+    "description": "Architectural Metapatterns book and wiki",
+    "language": "Python",
+    "topics": [
+      "book",
+      "design-patterns",
+      "free-book",
+      "software-architecture",
+      "system-architecture"
+    ]
+  },
+  {
     "name": "chatfire-AI/huobao-drama",
     "url": "https://github.com/chatfire-AI/huobao-drama",
     "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
@@ -161,10 +259,10 @@
     "topics": []
   },
   {
-    "name": "sanyuan0704/code-review-expert",
-    "url": "https://github.com/sanyuan0704/code-review-expert",
+    "name": "sanyuan0704/sanyuan-skills",
+    "url": "https://github.com/sanyuan0704/sanyuan-skills",
     "description": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-    "language": "Unknown",
+    "language": "Python",
     "topics": []
   },
   {
@@ -294,7 +392,7 @@
   {
     "name": "VoltAgent/awesome-agent-skills",
     "url": "https://github.com/VoltAgent/awesome-agent-skills",
-    "description": "Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
+    "description": "Claude Code Skills and 500+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
     "language": "Unknown",
     "topics": [
       "agent-skills",
@@ -628,7 +726,7 @@
   {
     "name": "memodb-io/Acontext",
     "url": "https://github.com/memodb-io/Acontext",
-    "description": "The Agent Memory Stack",
+    "description": "Agent Skills as a Memory Layer",
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -703,14 +801,18 @@
     "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "language": "Python",
     "topics": [
-      "agent",
       "agentic-ai",
+      "agents",
       "ai",
+      "ai-agents",
       "context-engineering",
+      "information-retrieval",
       "llm",
       "rag",
       "reasoning",
-      "retrieval"
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
     ]
   },
   {
@@ -2944,10 +3046,14 @@
   {
     "name": "github/awesome-copilot",
     "url": "https://github.com/github/awesome-copilot",
-    "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
-    "language": "JavaScript",
+    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+    "language": "Python",
     "topics": [
+      "agent-skills",
+      "agents",
       "ai",
+      "awesome",
+      "custom-agents",
       "github-copilot",
       "hacktoberfest",
       "prompt-engineering"
@@ -3481,6 +3587,29 @@
       "saobei",
       "wechat",
       "weixin"
+    ]
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "topics": [
+      "containers",
+      "devsecops",
+      "docker",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "iac",
+      "infrastructure-as-code",
+      "kubernetes",
+      "misconfiguration",
+      "security",
+      "security-tools",
+      "vulnerability",
+      "vulnerability-detection",
+      "vulnerability-scanners"
     ]
   },
   {
@@ -5225,7 +5354,7 @@
   {
     "name": "littlehorse-enterprises/littlehorse",
     "url": "https://github.com/littlehorse-enterprises/littlehorse",
-    "description": "LittleHorse Kernel: A Platform for Distributed Event-Driven or Orchestrated Applications.",
+    "description": "LittleHorse Server: the command center for Microservices \u0026 Business-as-Code",
     "language": "Java",
     "topics": [
       "apache-kafka",
@@ -6542,6 +6671,7 @@
       "cronjob-scheduler",
       "distributed-cron",
       "distributed-systems",
+      "durable-execution",
       "golang",
       "microservice-framework",
       "microservice-orchestration",
@@ -9804,8 +9934,8 @@
     ]
   },
   {
-    "name": "zu1k/bs-core",
-    "url": "https://github.com/zu1k/bs-core",
+    "name": "zu1k/book-searcher",
+    "url": "https://github.com/zu1k/book-searcher",
     "description": "Easy and blazing-fast book searcher, create and search your private library.",
     "language": "TypeScript",
     "topics": []
@@ -10900,28 +11030,28 @@
   {
     "name": "kubeshark/kubeshark",
     "url": "https://github.com/kubeshark/kubeshark",
-    "description": "AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resources.",
+    "description": "Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human operators via dashboard.",
     "language": "Go",
     "topics": [
-      "amqp",
       "cloud-native",
       "devops",
-      "devops-tools",
       "docker",
-      "forensics",
-      "go",
+      "ebpf",
       "golang",
       "grpc",
       "incident-response",
-      "kafka",
       "kubernetes",
-      "microservice",
-      "microservices",
-      "microservices-application",
+      "mcp",
+      "network-analysis",
+      "network-engineering",
+      "network-observability",
+      "network-security",
       "observability",
-      "redis",
+      "pcap",
       "rest",
+      "root-cause-analysis",
       "sniffer",
+      "sre",
       "wireshark"
     ]
   },

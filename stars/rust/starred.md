@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-03-02T03:08:40Z
+Auto-generated on 2026-03-09T03:11:11Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -51,6 +51,7 @@ Auto-generated on 2026-03-02T03:08:40Z
 | [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | Format Rust code | [codeformatter](https://github.com/topics/codeformatter), [formatter](https://github.com/topics/formatter), [rust](https://github.com/topics/rust) |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | [android](https://github.com/topics/android), [anydesk](https://github.com/topics/anydesk), [dart](https://github.com/topics/dart) |
 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | [ai-native](https://github.com/topics/ai-native), [ai-storage](https://github.com/topics/ai-storage), [amazon-s3](https://github.com/topics/amazon-s3) |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  | [agentic-ai](https://github.com/topics/agentic-ai), [densepose](https://github.com/topics/densepose), [esp32](https://github.com/topics/esp32) |
 | [serde-rs/json](https://github.com/serde-rs/json) | Strongly typed JSON library for Rust | [json](https://github.com/topics/json), [rust](https://github.com/topics/rust), [serde](https://github.com/topics/serde) |
 | [serde-rs/serde](https://github.com/serde-rs/serde) | Serialization framework for Rust | [derive](https://github.com/topics/derive), [no-std](https://github.com/topics/no-std), [rust](https://github.com/topics/rust) |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | [browser](https://github.com/topics/browser), [rust](https://github.com/topics/rust), [servo](https://github.com/topics/servo) |
