@@ -1,5 +1,60 @@
 [
   {
+    "name": "maplibre/maplibre-gl-js",
+    "url": "https://github.com/maplibre/maplibre-gl-js",
+    "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+    "language": "TypeScript",
+    "topics": [
+      "hacktoberfest",
+      "maplibre",
+      "maplibre-gl",
+      "maplibre-gl-js",
+      "typescript",
+      "webgl2"
+    ]
+  },
+  {
+    "name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "javascript",
+      "typescript",
+      "ui-automation",
+      "web"
+    ]
+  },
+  {
+    "name": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+    "language": "TypeScript",
+    "topics": [
+      "angular",
+      "build",
+      "build-system",
+      "build-tool",
+      "building-tool",
+      "cli",
+      "cypress",
+      "hacktoberfest",
+      "javascript",
+      "monorepo",
+      "nextjs",
+      "nodejs",
+      "nx",
+      "nx-workspaces",
+      "react",
+      "storybook",
+      "typescript"
+    ]
+  },
+  {
     "name": "Ed1s0nZ/CyberStrikeAI",
     "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
     "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
@@ -337,7 +392,7 @@
   {
     "name": "wavetermdev/waveterm",
     "url": "https://github.com/wavetermdev/waveterm",
-    "description": "An open-source, cross-platform terminal for seamless workflows",
+    "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
     "language": "Go",
     "topics": [
       "command-line",
@@ -2041,23 +2096,21 @@
     "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
     "language": "Go",
     "topics": [
+      "agents",
       "ai",
       "api",
       "audio-generation",
       "decentralized",
       "distributed",
-      "gemma",
       "image-generation",
       "libp2p",
       "llama",
       "llm",
       "mamba",
       "mcp",
-      "mistral",
       "musicgen",
       "object-detection",
       "rerank",
-      "rwkv",
       "stable-diffusion",
       "text-generation",
       "tts"
@@ -3047,7 +3100,7 @@
     "name": "github/awesome-copilot",
     "url": "https://github.com/github/awesome-copilot",
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "agent-skills",
       "agents",
@@ -3868,7 +3921,7 @@
   {
     "name": "tldr-pages/tldr",
     "url": "https://github.com/tldr-pages/tldr",
-    "description": "📚 Collaborative cheatsheets for console commands",
+    "description": "Collaborative cheatsheets for console commands 📚.",
     "language": "Markdown",
     "topics": [
       "android",
@@ -4301,7 +4354,7 @@
   {
     "name": "JetBrains/koog",
     "url": "https://github.com/JetBrains/koog",
-    "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "description": "Koog is a JVM framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
     "language": "Kotlin",
     "topics": [
       "agentframework",
@@ -4364,7 +4417,10 @@
     "url": "https://github.com/modelcontextprotocol/go-sdk",
     "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
     "language": "Go",
-    "topics": []
+    "topics": [
+      "go",
+      "mcp"
+    ]
   },
   {
     "name": "beego/beego",
@@ -5012,6 +5068,7 @@
       "ai-search-engine",
       "embeddings-similarity",
       "hnsw",
+      "hybrid-search",
       "image-search",
       "knn-algorithm",
       "machine-learning",
@@ -6625,7 +6682,7 @@
   {
     "name": "redis/rueidis",
     "url": "https://github.com/redis/rueidis",
-    "description": "A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.",
+    "description": "A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, RDMA, etc.",
     "language": "Go",
     "topics": [
       "cache",
@@ -6835,7 +6892,6 @@
       "ai-registry",
       "configuration-management",
       "distributed-configuration",
-      "dns",
       "dubbo",
       "istio",
       "kubernetes",
@@ -11216,11 +11272,13 @@
   {
     "name": "apache/kafka",
     "url": "https://github.com/apache/kafka",
-    "description": "Mirror of Apache Kafka",
+    "description": "Apache Kafka - A distributed event streaming platform",
     "language": "Java",
     "topics": [
+      "java",
       "kafka",
-      "scala"
+      "scala",
+      "streaming"
     ]
   },
   {
@@ -16784,7 +16842,7 @@
   {
     "name": "mlflow/mlflow",
     "url": "https://github.com/mlflow/mlflow",
-    "description": "The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
     "language": "Python",
     "topics": [
       "agentops",

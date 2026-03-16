@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-03-09T03:11:11Z
+Auto-generated on 2026-03-16T03:15:52Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -83,7 +83,7 @@ Auto-generated on 2026-03-09T03:11:11Z
 | [apache/hudi](https://github.com/apache/hudi) | Upserts, Deletes And Incremental Processing on Big Data. | [apacheflink](https://github.com/topics/apacheflink), [apachehudi](https://github.com/topics/apachehudi), [apachespark](https://github.com/topics/apachespark) |
 | [apache/iceberg](https://github.com/apache/iceberg) | Apache Iceberg | [apache](https://github.com/topics/apache), [hacktoberfest](https://github.com/topics/hacktoberfest), [iceberg](https://github.com/topics/iceberg) |
 | [apache/incubator-seata](https://github.com/apache/incubator-seata) | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. | [at](https://github.com/topics/at), [consistency](https://github.com/topics/consistency), [distributed-transaction](https://github.com/topics/distributed-transaction) |
-| [apache/kafka](https://github.com/apache/kafka) | Mirror of Apache Kafka | [kafka](https://github.com/topics/kafka), [scala](https://github.com/topics/scala) |
+| [apache/kafka](https://github.com/apache/kafka) | Apache Kafka - A distributed event streaming platform | [java](https://github.com/topics/java), [kafka](https://github.com/topics/kafka), [scala](https://github.com/topics/scala) |
 | [apache/maven-release](https://github.com/apache/maven-release) | Apache Maven Release (Plugin) | [build-management](https://github.com/topics/build-management), [java](https://github.com/topics/java), [maven](https://github.com/topics/maven) |
 | [apache/nutch](https://github.com/apache/nutch) | Apache Nutch is an extensible and scalable web crawler | [apache](https://github.com/topics/apache), [crawling](https://github.com/topics/crawling), [hadoop](https://github.com/topics/hadoop) |
 | [apache/openwebbeans-meecrowave](https://github.com/apache/openwebbeans-meecrowave) | Apache OpenWebBeans meecrowave | [meecrowave](https://github.com/topics/meecrowave) |
