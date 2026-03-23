@@ -1,5 +1,146 @@
 [
   {
+    "name": "eclipse-store/store",
+    "url": "https://github.com/eclipse-store/store",
+    "description": "High-Performance Java-Native-Persistence. Store and load any Java Object Graph or Subgraphs partially, Relieved of Heavy-weight JPA. Microsecond Response Time. Ultra-High Throughput. Minimum of Latencies. Create Ultra-Fast In-Memory Database Applications \u0026 Microservices.",
+    "language": "Java",
+    "topics": [
+      "in-memory-database",
+      "in-memory-storage",
+      "java",
+      "object-graph",
+      "persistence",
+      "storage-engine"
+    ]
+  },
+  {
+    "name": "embabel/embabel-agent",
+    "url": "https://github.com/embabel/embabel-agent",
+    "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+    "language": "Kotlin",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "genai",
+      "generative-ai",
+      "java",
+      "kotlin",
+      "llms",
+      "multi-agents",
+      "multi-agents-orchestration",
+      "multi-agents-system",
+      "spring"
+    ]
+  },
+  {
+    "name": "apache/gravitino",
+    "url": "https://github.com/apache/gravitino",
+    "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+    "language": "Java",
+    "topics": [
+      "ai-catalog",
+      "data-catalog",
+      "datalake",
+      "federated-query",
+      "lakehouse",
+      "metadata",
+      "metalake",
+      "model-catalog",
+      "opendatacatalog",
+      "skycomputing",
+      "stratosphere"
+    ]
+  },
+  {
+    "name": "agentscope-ai/agentscope-java",
+    "url": "https://github.com/agentscope-ai/agentscope-java",
+    "description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
+    "language": "Java",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "llm"
+    ]
+  },
+  {
+    "name": "openrocket/openrocket",
+    "url": "https://github.com/openrocket/openrocket",
+    "description": "Model-rocketry aerodynamics and trajectory simulation software",
+    "language": "Java",
+    "topics": [
+      "aerospace",
+      "flight-simulator",
+      "java",
+      "modeling",
+      "optimization",
+      "rocket",
+      "rocketry",
+      "simulation",
+      "trajectory"
+    ]
+  },
+  {
+    "name": "facebook/sapling",
+    "url": "https://github.com/facebook/sapling",
+    "description": "A Scalable, User-Friendly Source Control System.",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "embeddings",
+      "long-term-memory",
+      "mem0",
+      "memory-engine",
+      "openmemory",
+      "rag",
+      "sqlite",
+      "supermemory"
+    ]
+  },
+  {
+    "name": "garrytan/gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "yonahd/kor",
+    "url": "https://github.com/yonahd/kor",
+    "description": "A Golang Tool to discover unused Kubernetes Resources ",
+    "language": "Go",
+    "topics": [
+      "go",
+      "golang",
+      "k8s",
+      "kubernetes",
+      "resource-management"
+    ]
+  },
+  {
     "name": "maplibre/maplibre-gl-js",
     "url": "https://github.com/maplibre/maplibre-gl-js",
     "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
@@ -24,8 +165,8 @@
       "ai-agents",
       "browser-automation",
       "javascript",
+      "mcp",
       "typescript",
-      "ui-automation",
       "web"
     ]
   },
@@ -257,7 +398,7 @@
   {
     "name": "vxcontrol/pentagi",
     "url": "https://github.com/vxcontrol/pentagi",
-    "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
     "language": "Go",
     "topics": [
       "ai-agents",
@@ -283,7 +424,7 @@
   {
     "name": "huggingface/skills",
     "url": "https://github.com/huggingface/skills",
-    "description": "",
+    "description": "Give your agents the power of the Hugging Face ecosystem",
     "language": "Python",
     "topics": []
   },
@@ -485,7 +626,7 @@
   {
     "name": "scalar/scalar",
     "url": "https://github.com/scalar/scalar",
-    "description": "Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support",
+    "description": "Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support",
     "language": "TypeScript",
     "topics": [
       "api",
@@ -759,7 +900,7 @@
   {
     "name": "keploy/keploy",
     "url": "https://github.com/keploy/keploy",
-    "description": "API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!",
+    "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
     "language": "Go",
     "topics": [
       "agentic-ai",
@@ -782,7 +923,7 @@
     "name": "memodb-io/Acontext",
     "url": "https://github.com/memodb-io/Acontext",
     "description": "Agent Skills as a Memory Layer",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
       "agent",
       "agent-development-kit",
@@ -824,7 +965,7 @@
   {
     "name": "warp-tech/warpgate",
     "url": "https://github.com/warp-tech/warpgate",
-    "description": "Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
+    "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
     "language": "Rust",
     "topics": [
       "bastion",
@@ -832,6 +973,8 @@
       "https",
       "https-proxy",
       "infrastructure",
+      "kubectl",
+      "kubernetes",
       "mysql",
       "mysql-proxy",
       "pam",
@@ -2071,7 +2214,7 @@
   {
     "name": "navidrome/navidrome",
     "url": "https://github.com/navidrome/navidrome",
-    "description": "🎧☁️ Your Personal Streaming Service",
+    "description": "🎧 Your Personal Streaming Service ",
     "language": "Go",
     "topics": [
       "airsonic",
@@ -2093,7 +2236,7 @@
   {
     "name": "mudler/LocalAI",
     "url": "https://github.com/mudler/LocalAI",
-    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+    "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
     "language": "Go",
     "topics": [
       "agents",
@@ -2389,7 +2532,6 @@
       "continuous-delivery",
       "continuous-deployment",
       "continuous-testing",
-      "devops",
       "experimentation",
       "experiments",
       "feature-flag",
@@ -2397,11 +2539,11 @@
       "feature-toggle",
       "feature-toggles",
       "feature-toggling",
-      "go",
       "go-feature-flag",
-      "golang",
       "golang-library",
       "help-wanted",
+      "open-feature",
+      "openfeature",
       "toggles",
       "variants"
     ]
@@ -2651,7 +2793,7 @@
   {
     "name": "jaywcjlove/awesome-mac",
     "url": "https://github.com/jaywcjlove/awesome-mac",
-    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
     "language": "JavaScript",
     "topics": [
       "app",
@@ -4354,7 +4496,7 @@
   {
     "name": "JetBrains/koog",
     "url": "https://github.com/JetBrains/koog",
-    "description": "Koog is a JVM framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "description": "Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
     "language": "Kotlin",
     "topics": [
       "agentframework",
@@ -4605,9 +4747,12 @@
   {
     "name": "gosom/google-maps-scraper",
     "url": "https://github.com/gosom/google-maps-scraper",
-    "description": "scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
+    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
     "language": "Go",
     "topics": [
+      "agent-skills",
+      "claude-skills",
+      "codex-skills",
       "distributed-scraper",
       "distributed-scraping",
       "golang",
@@ -5033,7 +5178,7 @@
   {
     "name": "tensorzero/tensorzero",
     "url": "https://github.com/tensorzero/tensorzero",
-    "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+    "description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
     "language": "Rust",
     "topics": [
       "ai",
@@ -5620,8 +5765,8 @@
     ]
   },
   {
-    "name": "firebase/genkit",
-    "url": "https://github.com/firebase/genkit",
+    "name": "genkit-ai/genkit",
+    "url": "https://github.com/genkit-ai/genkit",
     "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
     "language": "TypeScript",
     "topics": [
@@ -20188,7 +20333,7 @@
   {
     "name": "seaweedfs/seaweedfs",
     "url": "https://github.com/seaweedfs/seaweedfs",
-    "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
+    "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
     "language": "Go",
     "topics": [
       "blob-storage",
@@ -21028,15 +21173,15 @@
   {
     "name": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
-    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+    "description": "An opinionated list of Python frameworks, libraries, tools, and resources.",
     "language": "Python",
     "topics": [
       "awesome",
       "collections",
       "python",
-      "python-framework",
-      "python-library",
-      "python-resources"
+      "python-frameworks",
+      "python-libraries",
+      "python-tools"
     ]
   },
   {
@@ -21392,7 +21537,7 @@
     "name": "swiftlang/swift",
     "url": "https://github.com/swiftlang/swift",
     "description": "The Swift Programming Language",
-    "language": "C++",
+    "language": "Swift",
     "topics": []
   },
   {
