@@ -1,5 +1,61 @@
 [
   {
+    "name": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "name": "microsoft/RustTraining",
+    "url": "https://github.com/microsoft/RustTraining",
+    "description": "Beginner, advanced, expert level Rust training material",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "astavonin/go-optimization-guide",
+    "url": "https://github.com/astavonin/go-optimization-guide",
+    "description": "Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go",
+    "language": "Markdown",
+    "topics": [
+      "go",
+      "golang",
+      "network-programming",
+      "networking",
+      "optimization",
+      "performance",
+      "performance-optimization",
+      "performance-tuning"
+    ]
+  },
+  {
+    "name": "sipeed/picoclaw",
+    "url": "https://github.com/sipeed/picoclaw",
+    "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+    "language": "Go",
+    "topics": []
+  },
+  {
     "name": "eclipse-store/store",
     "url": "https://github.com/eclipse-store/store",
     "description": "High-Performance Java-Native-Persistence. Store and load any Java Object Graph or Subgraphs partially, Relieved of Heavy-weight JPA. Microsecond Response Time. Ultra-High Throughput. Minimum of Latencies. Create Ultra-Fast In-Memory Database Applications \u0026 Microservices.",
@@ -235,7 +291,7 @@
   {
     "name": "alibaba/OpenSandbox",
     "url": "https://github.com/alibaba/OpenSandbox",
-    "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+    "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
     "language": "Python",
     "topics": [
       "ai",
@@ -588,7 +644,7 @@
   {
     "name": "VoltAgent/awesome-agent-skills",
     "url": "https://github.com/VoltAgent/awesome-agent-skills",
-    "description": "Claude Code Skills and 500+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
+    "description": "Claude Code Skills and 1000+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
     "language": "Unknown",
     "topics": [
       "agent-skills",
@@ -923,7 +979,7 @@
     "name": "memodb-io/Acontext",
     "url": "https://github.com/memodb-io/Acontext",
     "description": "Agent Skills as a Memory Layer",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": [
       "agent",
       "agent-development-kit",
@@ -3242,7 +3298,7 @@
     "name": "github/awesome-copilot",
     "url": "https://github.com/github/awesome-copilot",
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
       "agent-skills",
       "agents",
@@ -3808,8 +3864,8 @@
     ]
   },
   {
-    "name": "juspay/connector-service",
-    "url": "https://github.com/juspay/connector-service",
+    "name": "juspay/hyperswitch-prism",
+    "url": "https://github.com/juspay/hyperswitch-prism",
     "description": "Open-Source Payments Connector Service",
     "language": "Rust",
     "topics": [
@@ -5850,16 +5906,6 @@
     ]
   },
   {
-    "name": "punkpeye/awesome-mcp-servers",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers",
-    "description": "A collection of MCP servers.",
-    "language": "Unknown",
-    "topics": [
-      "ai",
-      "mcp"
-    ]
-  },
-  {
     "name": "karpathy/nanoGPT",
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
@@ -6247,7 +6293,7 @@
     "name": "elizaOS/eliza",
     "url": "https://github.com/elizaOS/eliza",
     "description": "Autonomous agents for everyone",
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": [
       "agent",
       "agentic",

@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-03-23T03:14:30Z
+Auto-generated on 2026-03-30T03:15:48Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -375,6 +375,7 @@ Auto-generated on 2026-03-23T03:14:30Z
 | [shopspring/decimal](https://github.com/shopspring/decimal) | Arbitrary-precision fixed-point decimal numbers in Go | [bignumber](https://github.com/topics/bignumber), [decimals](https://github.com/topics/decimals), [go](https://github.com/topics/go) |
 | [shyiko/jabba](https://github.com/shyiko/jabba) | (cross-platform) Java Version Manager |  |
 | [sigstore/cosign](https://github.com/sigstore/cosign) | Code signing and transparency for containers and binaries |  |
+| [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |  |
 | [sony/gobreaker](https://github.com/sony/gobreaker) | Circuit Breaker implemented in Go | [circuit-breaker](https://github.com/topics/circuit-breaker), [golang](https://github.com/topics/golang), [microservice](https://github.com/topics/microservice) |
 | [sourcegraph/conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go | [concurrency](https://github.com/topics/concurrency), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) | Code AI platform with Code Search & Cody | [code-intelligence](https://github.com/topics/code-intelligence), [code-search](https://github.com/topics/code-search), [cody](https://github.com/topics/cody) |

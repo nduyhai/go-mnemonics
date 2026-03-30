@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-03-23T03:14:30Z
+Auto-generated on 2026-03-30T03:15:48Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -26,6 +26,7 @@ Auto-generated on 2026-03-23T03:14:30Z
 | [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, and blame output | [color-themes](https://github.com/topics/color-themes), [delta](https://github.com/topics/delta), [diff](https://github.com/topics/diff) |
 | [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) | Nydus - the Dragonfly image service, providing fast, secure and easy access to container images. | [accelerator](https://github.com/topics/accelerator), [container](https://github.com/topics/container), [container-image](https://github.com/topics/container-image) |
 | [ekzhang/bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost | [cli](https://github.com/topics/cli), [localhost](https://github.com/topics/localhost), [networking](https://github.com/topics/networking) |
+| [elizaOS/eliza](https://github.com/elizaOS/eliza) | Autonomous agents for everyone | [agent](https://github.com/topics/agent), [agentic](https://github.com/topics/agentic), [ai](https://github.com/topics/ai) |
 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. | [app-launcher](https://github.com/topics/app-launcher), [desktop-application](https://github.com/topics/desktop-application), [dock](https://github.com/topics/dock) |
 | [facebook/sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |  |
 | [glzr-io/zebar](https://github.com/glzr-io/zebar) | Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups. | [bar](https://github.com/topics/bar), [desktop](https://github.com/topics/desktop), [dock](https://github.com/topics/dock) |
@@ -34,12 +35,13 @@ Auto-generated on 2026-03-23T03:14:30Z
 | [hatoo/oha](https://github.com/hatoo/oha) | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. | [benchmark](https://github.com/topics/benchmark), [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line) |
 | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | [async](https://github.com/topics/async), [grpc](https://github.com/topics/grpc), [proto](https://github.com/topics/proto) |
 | [imazen/imageflow](https://github.com/imazen/imageflow) | High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow | [image-compression](https://github.com/topics/image-compression), [image-manipulation](https://github.com/topics/image-manipulation), [image-server](https://github.com/topics/image-server) |
-| [juspay/connector-service](https://github.com/juspay/connector-service) | Open-Source Payments Connector Service | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
+| [juspay/hyperswitch-prism](https://github.com/juspay/hyperswitch-prism) | Open-Source Payments Connector Service | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
 | [memvid/memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | [ai](https://github.com/topics/ai), [context](https://github.com/topics/context), [embedded](https://github.com/topics/embedded) |
+| [microsoft/RustTraining](https://github.com/microsoft/RustTraining) | Beginner, advanced, expert level Rust training material |  |
 | [microsoft/litebox](https://github.com/microsoft/litebox) | A security-focused library OS supporting kernel- and user-mode execution |  |
 | [microsoft/windows-rs](https://github.com/microsoft/windows-rs) | Rust for Windows | [rust](https://github.com/topics/rust), [windows](https://github.com/topics/windows) |
 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions | [codegen](https://github.com/topics/codegen), [documentation](https://github.com/topics/documentation), [observability](https://github.com/topics/observability) |
