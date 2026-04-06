@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-03-30T03:15:48Z
+Auto-generated on 2026-04-06T03:16:08Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -26,7 +26,6 @@ Auto-generated on 2026-03-30T03:15:48Z
 | [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, and blame output | [color-themes](https://github.com/topics/color-themes), [delta](https://github.com/topics/delta), [diff](https://github.com/topics/diff) |
 | [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) | Nydus - the Dragonfly image service, providing fast, secure and easy access to container images. | [accelerator](https://github.com/topics/accelerator), [container](https://github.com/topics/container), [container-image](https://github.com/topics/container-image) |
 | [ekzhang/bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost | [cli](https://github.com/topics/cli), [localhost](https://github.com/topics/localhost), [networking](https://github.com/topics/networking) |
-| [elizaOS/eliza](https://github.com/elizaOS/eliza) | Autonomous agents for everyone | [agent](https://github.com/topics/agent), [agentic](https://github.com/topics/agentic), [ai](https://github.com/topics/ai) |
 | [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. | [app-launcher](https://github.com/topics/app-launcher), [desktop-application](https://github.com/topics/desktop-application), [dock](https://github.com/topics/dock) |
 | [facebook/sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |  |
 | [glzr-io/zebar](https://github.com/glzr-io/zebar) | Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups. | [bar](https://github.com/topics/bar), [desktop](https://github.com/topics/desktop), [dock](https://github.com/topics/dock) |
@@ -68,6 +67,8 @@ Auto-generated on 2026-03-30T03:15:48Z
 | [tikv/tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database, originally created to complement TiDB | [cncf](https://github.com/topics/cncf), [consensus](https://github.com/topics/consensus), [distributed-transactions](https://github.com/topics/distributed-transactions) |
 | [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | [asynchronous](https://github.com/topics/asynchronous), [networking](https://github.com/topics/networking), [rust](https://github.com/topics/rust) |
 | [typst/typst](https://github.com/typst/typst) | A markup-based typesetting system that is powerful and easy to learn. | [compiler](https://github.com/topics/compiler), [markup](https://github.com/topics/markup), [typesetting](https://github.com/topics/typesetting) |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. |  |
+| [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) | Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration |  |
 | [vadimcn/codelldb](https://github.com/vadimcn/codelldb) | A VSCode debugger extension for native code, powered by LLDB. | [debugger](https://github.com/topics/debugger), [lldb](https://github.com/topics/lldb), [vscode-extension](https://github.com/topics/vscode-extension) |
 | [verichains/revela](https://github.com/verichains/revela) | Decompiler for Move smart contracts | [aptos](https://github.com/topics/aptos), [audit](https://github.com/topics/audit), [blockchain](https://github.com/topics/blockchain) |
 | [warp-tech/warpgate](https://github.com/warp-tech/warpgate) | Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software | [bastion](https://github.com/topics/bastion), [bastion-host](https://github.com/topics/bastion-host), [https](https://github.com/topics/https) |

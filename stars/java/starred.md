@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-03-30T03:15:48Z
+Auto-generated on 2026-04-06T03:16:08Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -8,7 +8,7 @@ Auto-generated on 2026-03-30T03:15:48Z
 | [Angel-ML/angel](https://github.com/Angel-ML/angel) | A Flexible and Powerful Parameter Server for large-scale machine learning | [high-dimensional](https://github.com/topics/high-dimensional), [machine-learning](https://github.com/topics/machine-learning), [model](https://github.com/topics/model) |
 | [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | An API/Schema registry - stores APIs and Schemas. |  |
 | [AsamK/signal-cli](https://github.com/AsamK/signal-cli) | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. | [commandline](https://github.com/topics/commandline), [dbus](https://github.com/topics/dbus), [java](https://github.com/topics/java) |
-| [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | The transport-agnostic real-time framework for the JVM. WebSocket, SSE, Long-Polling, gRPC, MCP — one API, any transport. | [agentic-ai](https://github.com/topics/agentic-ai), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
+| [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client. | [agentic-ai](https://github.com/topics/agentic-ai), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
 | [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [automq](https://github.com/topics/automq), [diskless](https://github.com/topics/diskless), [kafka](https://github.com/topics/kafka) |
 | [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) | Framework for Evolutionary Message-Driven Microservices on the JVM | [cqrs](https://github.com/topics/cqrs), [dcb](https://github.com/topics/dcb), [ddd](https://github.com/topics/ddd) |
 | [CRaC/org.crac](https://github.com/CRaC/org.crac) |  |  |
@@ -76,6 +76,7 @@ Auto-generated on 2026-03-30T03:15:48Z
 | [apache/causeway](https://github.com/apache/causeway) | Use Apache Causeway™ to rapidly develop domain-driven apps or modular monoliths in Java, on top of the Spring Boot platform. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp, GraphQL or RESTful API. For prototyping or production. | [ddd](https://github.com/topics/ddd), [domain-driven-design](https://github.com/topics/domain-driven-design), [java](https://github.com/topics/java) |
 | [apache/cloudstack](https://github.com/apache/cloudstack) | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform | [cloud](https://github.com/topics/cloud), [cloudstack](https://github.com/topics/cloudstack), [iaas](https://github.com/topics/iaas) |
 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code | [airflow](https://github.com/topics/airflow), [azkaban](https://github.com/topics/azkaban), [cloud-native](https://github.com/topics/cloud-native) |
+| [apache/doris](https://github.com/apache/doris) | Apache Doris is an easy-to-use, high performance and unified analytics database. | [agent](https://github.com/topics/agent), [ai](https://github.com/topics/ai), [bigquery](https://github.com/topics/bigquery) |
 | [apache/dubbo](https://github.com/apache/dubbo) | The java implementation of Apache Dubbo. An RPC and microservice framework. | [distributed-systems](https://github.com/topics/distributed-systems), [dubbo](https://github.com/topics/dubbo), [framework](https://github.com/topics/framework) |
 | [apache/fineract](https://github.com/apache/fineract) | Apache Fineract | [apache](https://github.com/topics/apache), [banking](https://github.com/topics/banking), [finance](https://github.com/topics/finance) |
 | [apache/fory](https://github.com/apache/fory) | A blazingly fast multi-language serialization framework powered by JIT and zero-copy. | [compression](https://github.com/topics/compression), [cpp](https://github.com/topics/cpp), [cross-language](https://github.com/topics/cross-language) |
