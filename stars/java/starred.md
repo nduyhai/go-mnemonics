@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-04-06T03:16:08Z
+Auto-generated on 2026-04-13T03:17:07Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -8,7 +8,7 @@ Auto-generated on 2026-04-06T03:16:08Z
 | [Angel-ML/angel](https://github.com/Angel-ML/angel) | A Flexible and Powerful Parameter Server for large-scale machine learning | [high-dimensional](https://github.com/topics/high-dimensional), [machine-learning](https://github.com/topics/machine-learning), [model](https://github.com/topics/model) |
 | [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | An API/Schema registry - stores APIs and Schemas. |  |
 | [AsamK/signal-cli](https://github.com/AsamK/signal-cli) | signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. | [commandline](https://github.com/topics/commandline), [dbus](https://github.com/topics/dbus), [java](https://github.com/topics/java) |
-| [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client. | [agentic-ai](https://github.com/topics/agentic-ai), [event-driven](https://github.com/topics/event-driven), [java](https://github.com/topics/java) |
+| [Atmosphere/atmosphere](https://github.com/Atmosphere/atmosphere) | Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI.  | [acp](https://github.com/topics/acp), [agentic-ai](https://github.com/topics/agentic-ai), [embabel](https://github.com/topics/embabel) |
 | [AutoMQ/automq](https://github.com/AutoMQ/automq) | AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability. | [automq](https://github.com/topics/automq), [diskless](https://github.com/topics/diskless), [kafka](https://github.com/topics/kafka) |
 | [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) | Framework for Evolutionary Message-Driven Microservices on the JVM | [cqrs](https://github.com/topics/cqrs), [dcb](https://github.com/topics/dcb), [ddd](https://github.com/topics/ddd) |
 | [CRaC/org.crac](https://github.com/CRaC/org.crac) |  |  |
@@ -72,7 +72,7 @@ Auto-generated on 2026-04-06T03:16:08Z
 | [alimate/errors-spring-boot-starter](https://github.com/alimate/errors-spring-boot-starter) | Elegant Error Handling for Spring Boot | [error-handling](https://github.com/topics/error-handling), [java](https://github.com/topics/java), [spring](https://github.com/topics/spring) |
 | [andrlange/mds-test](https://github.com/andrlange/mds-test) |  |  |
 | [android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) | This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach. | [android](https://github.com/topics/android), [android-application](https://github.com/topics/android-application), [android-architecture](https://github.com/topics/android-architecture) |
-| [apache/cassandra](https://github.com/apache/cassandra) | Apache Cassandra® | [cassandra](https://github.com/topics/cassandra), [database](https://github.com/topics/database), [java](https://github.com/topics/java) |
+| [apache/cassandra](https://github.com/apache/cassandra) | Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance. | [cassandra](https://github.com/topics/cassandra), [database](https://github.com/topics/database), [java](https://github.com/topics/java) |
 | [apache/causeway](https://github.com/apache/causeway) | Use Apache Causeway™ to rapidly develop domain-driven apps or modular monoliths in Java, on top of the Spring Boot platform. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp, GraphQL or RESTful API. For prototyping or production. | [ddd](https://github.com/topics/ddd), [domain-driven-design](https://github.com/topics/domain-driven-design), [java](https://github.com/topics/java) |
 | [apache/cloudstack](https://github.com/apache/cloudstack) | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform | [cloud](https://github.com/topics/cloud), [cloudstack](https://github.com/topics/cloudstack), [iaas](https://github.com/topics/iaas) |
 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code | [airflow](https://github.com/topics/airflow), [azkaban](https://github.com/topics/azkaban), [cloud-native](https://github.com/topics/cloud-native) |

@@ -1,5 +1,84 @@
 [
   {
+    "name": "califio/publications",
+    "url": "https://github.com/califio/publications",
+    "description": "Publications from Calif",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "topics": [
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ]
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-coding",
+      "ai-agents",
+      "automation",
+      "claude",
+      "claude-code",
+      "multi-agent-systems",
+      "oh-my-opencode",
+      "opencode",
+      "parallel-execution",
+      "vibe-coding"
+    ]
+  },
+  {
+    "name": "timescale/tigerfs",
+    "url": "https://github.com/timescale/tigerfs",
+    "description": "Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "rtk-ai/rtk",
+    "url": "https://github.com/rtk-ai/rtk",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "language": "Rust",
+    "topics": [
+      "agentic-coding",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "command-line-tool",
+      "cost-reduction",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "productivity",
+      "rust",
+      "token-optimization"
+    ]
+  },
+  {
+    "name": "tair-opensource/RedisShake",
+    "url": "https://github.com/tair-opensource/RedisShake",
+    "description": "RedisShake is a Valkey/Redis data processing and migration tool.",
+    "language": "Go",
+    "topics": [
+      "redis",
+      "redis-cluster",
+      "redis-proxy"
+    ]
+  },
+  {
     "name": "apache/doris",
     "url": "https://github.com/apache/doris",
     "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
@@ -84,7 +163,7 @@
     "name": "leapmux/leapmux",
     "url": "https://github.com/leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "language": "TypeScript",
+    "language": "HTML",
     "topics": [
       "ai-agent",
       "ai-agent-tools",
@@ -107,13 +186,6 @@
       "opencode",
       "opencode-ai"
     ]
-  },
-  {
-    "name": "ntthuan060102github/flussonic-exporter",
-    "url": "https://github.com/ntthuan060102github/flussonic-exporter",
-    "description": "Exporter for Flussonic Media Server",
-    "language": "Python",
-    "topics": []
   },
   {
     "name": "bytedance/deer-flow",
@@ -760,7 +832,7 @@
   {
     "name": "VoltAgent/awesome-agent-skills",
     "url": "https://github.com/VoltAgent/awesome-agent-skills",
-    "description": "Claude Code Skills and 1000+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.",
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
     "language": "Unknown",
     "topics": [
       "agent-skills",
@@ -1536,11 +1608,14 @@
     ]
   },
   {
-    "name": "block/goose",
-    "url": "https://github.com/block/goose",
+    "name": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
     "language": "Rust",
     "topics": [
+      "acp",
+      "ai",
+      "ai-agents",
       "mcp"
     ]
   },
@@ -1764,7 +1839,7 @@
   {
     "name": "dandavison/delta",
     "url": "https://github.com/dandavison/delta",
-    "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+    "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
     "language": "Rust",
     "topics": [
       "color-themes",
@@ -2451,7 +2526,7 @@
     "name": "kubetail-org/kubetail",
     "url": "https://github.com/kubetail-org/kubetail",
     "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.",
-    "language": "Go",
+    "language": "TypeScript",
     "topics": [
       "cluster",
       "dashboard",
@@ -4066,7 +4141,7 @@
     "name": "samber/awesome-prometheus-alerts",
     "url": "https://github.com/samber/awesome-prometheus-alerts",
     "description": "🚨 Collection of Prometheus alerting rules",
-    "language": "CSS",
+    "language": "Astro",
     "topics": [
       "alert",
       "alerting",
@@ -5107,8 +5182,8 @@
     ]
   },
   {
-    "name": "googleapis/genai-toolbox",
-    "url": "https://github.com/googleapis/genai-toolbox",
+    "name": "googleapis/mcp-toolbox",
+    "url": "https://github.com/googleapis/mcp-toolbox",
     "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
     "language": "Go",
     "topics": [
@@ -10791,23 +10866,23 @@
   {
     "name": "casdoor/casdoor",
     "url": "https://github.com/casdoor/casdoor",
-    "description": "An open-source AI-first Identity and Access Management (IAM) /AI MCP \u0026 agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+    "description": "An open-source AI-first Identity and Access Management (IAM) /AI MCP \u0026 agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
     "language": "Go",
     "topics": [
       "agent",
-      "agent-skill",
+      "agentic-ai",
+      "agi",
       "ai-gateway",
       "auth",
       "authentication",
-      "casdoor",
       "iam",
-      "ldap",
-      "llm-gateway",
+      "llm",
       "mcp",
       "mcp-gateway",
       "mfa",
       "oauth",
       "oidc",
+      "openclaw",
       "radius",
       "saml",
       "scim",
@@ -10983,7 +11058,7 @@
   {
     "name": "apache/cassandra",
     "url": "https://github.com/apache/cassandra",
-    "description": "Apache Cassandra®",
+    "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
     "language": "Java",
     "topics": [
       "cassandra",
@@ -19871,17 +19946,22 @@
   {
     "name": "Atmosphere/atmosphere",
     "url": "https://github.com/Atmosphere/atmosphere",
-    "description": "Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client.",
+    "description": "Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI. ",
     "language": "Java",
     "topics": [
+      "acp",
       "agentic-ai",
+      "embabel",
       "event-driven",
       "java",
+      "koog",
+      "langchain4j",
       "mcp",
+      "multiagent",
       "quarkus",
+      "spring-ai",
       "spring-boot",
       "sse",
-      "streaming",
       "websocket"
     ]
   },
