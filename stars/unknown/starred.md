@@ -1,6 +1,6 @@
 # 🌟 Unknown Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-04-13T03:17:07Z
+Auto-generated on 2026-04-20T03:16:43Z
 
 | Name | Description | Language | Topics |
 |------|-------------|----------|-------|
@@ -343,6 +343,7 @@ Auto-generated on 2026-04-13T03:17:07Z
 | [grafana/grafonnet](https://github.com/grafana/grafonnet) | Jsonnet library for generating Grafana dashboards. | Jsonnet | [grafana](https://github.com/topics/grafana), [jsonnet](https://github.com/topics/jsonnet), [jsonnet-lib](https://github.com/topics/jsonnet-lib) |
 | [graphql/graphql-js](https://github.com/graphql/graphql-js) | A reference implementation of GraphQL for JavaScript | TypeScript | [graphql](https://github.com/topics/graphql), [graphql-js](https://github.com/topics/graphql-js) |
 | [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) | A curated list of useful resources for gRPC | Unknown | [awesome](https://github.com/topics/awesome), [awesome-list](https://github.com/topics/awesome-list), [grpc](https://github.com/topics/grpc) |
+| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. | JavaScript | [claude-code](https://github.com/topics/claude-code), [context-engineering](https://github.com/topics/context-engineering), [meta-prompting](https://github.com/topics/meta-prompting) |
 | [guardicore/monkey](https://github.com/guardicore/monkey) | Infection Monkey - An open-source adversary emulation platform | Python | [adversary-emulation](https://github.com/topics/adversary-emulation), [infection-monkey](https://github.com/topics/infection-monkey), [penetration-testing](https://github.com/topics/penetration-testing) |
 | [gunnarmorling/awesome-annotation-processing](https://github.com/gunnarmorling/awesome-annotation-processing) | A curated list of resources related to the Java annotation processing API (JSR 269) | Unknown | [annotation-processing](https://github.com/topics/annotation-processing), [annotation-processor](https://github.com/topics/annotation-processor), [awesome-list](https://github.com/topics/awesome-list) |
 | [gztchan/awesome-design](https://github.com/gztchan/awesome-design) | 🌟 Curated design resources from all over the world. | Unknown | [adobe](https://github.com/topics/adobe), [awesome](https://github.com/topics/awesome), [creative](https://github.com/topics/creative) |
@@ -390,6 +391,7 @@ Auto-generated on 2026-04-13T03:17:07Z
 | [jitsucom/jitsu](https://github.com/jitsucom/jitsu) | Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days | TypeScript | [bigquery](https://github.com/topics/bigquery), [clickhouse](https://github.com/topics/clickhouse), [data-collection](https://github.com/topics/data-collection) |
 | [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | Unknown | [bash](https://github.com/topics/bash), [documentation](https://github.com/topics/documentation), [linux](https://github.com/topics/linux) |
 | [johnsonr/instrumented-rag](https://github.com/johnsonr/instrumented-rag) | RAG demo for Spring One with local and remote models | Kotlin |  |
+| [jorgebmann/pyturboquant](https://github.com/jorgebmann/pyturboquant) | A Python implementation of Google's TurboQuant framework (WIP) | Python |  |
 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. | Python |  |
 | [joshlong-attic/reactive-spring-article](https://github.com/joshlong-attic/reactive-spring-article) |  | Shell |  |
 | [joshlong/bootiful-microservices](https://github.com/joshlong/bootiful-microservices) |  | Shell |  |
@@ -526,7 +528,7 @@ Auto-generated on 2026-04-13T03:17:07Z
 | [openstack/neutron](https://github.com/openstack/neutron) | OpenStack Networking (Neutron). Mirror of code maintained at opendev.org. | Python | [service](https://github.com/topics/service) |
 | [openstack/rally](https://github.com/openstack/rally) | Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments. Mirror of code maintained at opendev.org. | Python |  |
 | [openstack/trove](https://github.com/openstack/trove) | OpenStack Database As A Service (Trove). Mirror of code maintained at opendev.org. | Python | [service](https://github.com/topics/service) |
-| [openwallet-foundation/multipaz](https://github.com/openwallet-foundation/multipaz) | SDK for Digital Credentials | Kotlin | [multipaz](https://github.com/topics/multipaz) |
+| [openwallet-foundation/multipaz](https://github.com/openwallet-foundation/multipaz) | SDK for Digital Credentials | Kotlin | [isomdoc](https://github.com/topics/isomdoc), [kotlin](https://github.com/topics/kotlin), [kotlin-multiplatform](https://github.com/topics/kotlin-multiplatform) |
 | [ossrs/srs](https://github.com/ossrs/srs) | SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711. | C++ | [audio](https://github.com/topics/audio), [c](https://github.com/topics/c), [c-plus-plus](https://github.com/topics/c-plus-plus) |
 | [ossu/computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | HTML | [awesome-list](https://github.com/topics/awesome-list), [computer-science](https://github.com/topics/computer-science), [courses](https://github.com/topics/courses) |
 | [overleaf/overleaf](https://github.com/overleaf/overleaf) | A web-based collaborative LaTeX editor | JavaScript |  |

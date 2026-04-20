@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-04-13T03:17:07Z
+Auto-generated on 2026-04-20T03:16:43Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -11,7 +11,7 @@ Auto-generated on 2026-04-13T03:17:07Z
 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your Internet traffic 🕵️‍♂️ | [application](https://github.com/topics/application), [gui](https://github.com/topics/gui), [iced](https://github.com/topics/iced) |
 | [RedisGears/RedisGears](https://github.com/RedisGears/RedisGears) | Dynamic execution framework for your Redis data | [analytics](https://github.com/topics/analytics), [mapreduce](https://github.com/topics/mapreduce), [redis](https://github.com/topics/redis) |
 | [Schniz/fnm](https://github.com/Schniz/fnm) | 🚀 Fast and simple Node.js version manager, built in Rust | [hacktoberfest](https://github.com/topics/hacktoberfest), [javascript](https://github.com/topics/javascript), [nodejs](https://github.com/topics/nodejs) |
-| [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust | [apache2](https://github.com/topics/apache2), [bm25](https://github.com/topics/bm25), [enterprise-search](https://github.com/topics/enterprise-search) |
+| [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. | [ai-search](https://github.com/topics/ai-search), [bm25](https://github.com/topics/bm25), [dense-retrieval](https://github.com/topics/dense-retrieval) |
 | [Stremio/stremio-core](https://github.com/Stremio/stremio-core) | ⚛️ The Stremio Core: types, addon system, UI models, core logic |  |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | [acp](https://github.com/topics/acp), [ai](https://github.com/topics/ai), [ai-agents](https://github.com/topics/ai-agents) |
 | [actix/actix-web](https://github.com/actix/actix-web) | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. | [actix](https://github.com/topics/actix), [actix-web](https://github.com/topics/actix-web), [async](https://github.com/topics/async) |
@@ -36,7 +36,7 @@ Auto-generated on 2026-04-13T03:17:07Z
 | [imazen/imageflow](https://github.com/imazen/imageflow) | High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow | [image-compression](https://github.com/topics/image-compression), [image-manipulation](https://github.com/topics/image-manipulation), [image-server](https://github.com/topics/image-server) |
 | [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
-| [juspay/hyperswitch-prism](https://github.com/juspay/hyperswitch-prism) | Open-Source Payments Connector Service | [hacktoberfest](https://github.com/topics/hacktoberfest) |
+| [juspay/hyperswitch-prism](https://github.com/juspay/hyperswitch-prism) | One library. Any payment processor. Switch processors with few lines of code. | [payments](https://github.com/topics/payments) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
 | [memvid/memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | [ai](https://github.com/topics/ai), [context](https://github.com/topics/context), [embedded](https://github.com/topics/embedded) |

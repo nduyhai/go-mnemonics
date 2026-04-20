@@ -1,5 +1,24 @@
 [
   {
+    "name": "jorgebmann/pyturboquant",
+    "url": "https://github.com/jorgebmann/pyturboquant",
+    "description": "A Python implementation of Google's TurboQuant framework (WIP)",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "gsd-build/get-shit-done",
+    "url": "https://github.com/gsd-build/get-shit-done",
+    "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+    "language": "JavaScript",
+    "topics": [
+      "claude-code",
+      "context-engineering",
+      "meta-prompting",
+      "spec-driven-development"
+    ]
+  },
+  {
     "name": "califio/publications",
     "url": "https://github.com/califio/publications",
     "description": "Publications from Calif",
@@ -2375,7 +2394,17 @@
     "description": "SDK for Digital Credentials",
     "language": "Kotlin",
     "topics": [
-      "multipaz"
+      "isomdoc",
+      "kotlin",
+      "kotlin-multiplatform",
+      "mdoc",
+      "multipaz",
+      "openid4vci",
+      "openid4vp",
+      "sdjwt",
+      "sdjwt-vc",
+      "swift",
+      "swiftui"
     ]
   },
   {
@@ -4057,10 +4086,10 @@
   {
     "name": "juspay/hyperswitch-prism",
     "url": "https://github.com/juspay/hyperswitch-prism",
-    "description": "Open-Source Payments Connector Service",
+    "description": "One library. Any payment processor. Switch processors with few lines of code.",
     "language": "Rust",
     "topics": [
-      "hacktoberfest"
+      "payments"
     ]
   },
   {
@@ -6953,7 +6982,7 @@
   {
     "name": "langchain4j/langchain4j",
     "url": "https://github.com/langchain4j/langchain4j",
-    "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
     "language": "Java",
     "topics": [
       "anthropic",
@@ -7011,27 +7040,29 @@
   {
     "name": "SeekStorm/SeekStorm",
     "url": "https://github.com/SeekStorm/SeekStorm",
-    "description": "SeekStorm - sub-millisecond full-text search library \u0026 multi-tenancy server in Rust",
+    "description": "SeekStorm: vector \u0026 lexical search - in-process library \u0026 multi-tenancy server, in Rust.",
     "language": "Rust",
     "topics": [
-      "apache2",
+      "ai-search",
       "bm25",
+      "dense-retrieval",
       "enterprise-search",
       "faceting",
       "full-text-search",
       "geosearch",
-      "index",
+      "hybrid-search",
       "lexical-search",
-      "okapi-bm25",
-      "query",
+      "neural-search",
       "realtime",
-      "rust",
-      "saas",
       "search",
       "search-engine",
       "search-server",
       "search-service",
-      "sparse-retrieval"
+      "semantic-search",
+      "sparse-retrieval",
+      "vector-database",
+      "vector-search",
+      "vector-search-engine"
     ]
   },
   {
@@ -10866,7 +10897,7 @@
   {
     "name": "casdoor/casdoor",
     "url": "https://github.com/casdoor/casdoor",
-    "description": "An open-source AI-first Identity and Access Management (IAM) /AI MCP \u0026 agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+    "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP \u0026 agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
     "language": "Go",
     "topics": [
       "agent",
@@ -18206,8 +18237,8 @@
     ]
   },
   {
-    "name": "AxonFramework/AxonFramework",
-    "url": "https://github.com/AxonFramework/AxonFramework",
+    "name": "AxonIQ/AxonFramework",
+    "url": "https://github.com/AxonIQ/AxonFramework",
     "description": "Framework for Evolutionary Message-Driven Microservices on the JVM",
     "language": "Java",
     "topics": [
