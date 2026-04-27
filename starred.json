@@ -1,5 +1,38 @@
 [
   {
+    "name": "langchain-ai/deepagents",
+    "url": "https://github.com/langchain-ai/deepagents",
+    "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "deepagents",
+      "langchain",
+      "langgraph"
+    ]
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "topics": []
+  },
+  {
+    "name": "tractorjuice/arc-kit",
+    "url": "https://github.com/tractorjuice/arc-kit",
+    "description": "Enterprise Architecture Governance \u0026 Vendor Procurement Toolkit",
+    "language": "HTML",
+    "topics": []
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework \u0026 software development methodology that works.",
+    "language": "Shell",
+    "topics": []
+  },
+  {
     "name": "jorgebmann/pyturboquant",
     "url": "https://github.com/jorgebmann/pyturboquant",
     "description": "A Python implementation of Google's TurboQuant framework (WIP)",
@@ -1186,7 +1219,7 @@
     "name": "memodb-io/Acontext",
     "url": "https://github.com/memodb-io/Acontext",
     "description": "Agent Skills as a Memory Layer",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
       "agent",
       "agent-development-kit",
@@ -1804,13 +1837,15 @@
     "language": "Java",
     "topics": [
       "ai",
+      "cloud-native",
+      "dev-services",
+      "developer-experience",
       "java",
       "llm",
       "micrometer",
       "multitenancy",
       "observability",
       "opentelemetry",
-      "saas",
       "spring-ai",
       "spring-boot"
     ]
@@ -2990,7 +3025,7 @@
   {
     "name": "twmb/franz-go",
     "url": "https://github.com/twmb/franz-go",
-    "description": "franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.1+. Producing, consuming, transacting, administrating, etc.",
+    "description": "franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc.",
     "language": "Go",
     "topics": [
       "client",
@@ -3274,8 +3309,8 @@
     ]
   },
   {
-    "name": "alibaba/higress",
-    "url": "https://github.com/alibaba/higress",
+    "name": "higress-group/higress",
+    "url": "https://github.com/higress-group/higress",
     "description": "🤖 AI Gateway | AI Native API Gateway",
     "language": "Go",
     "topics": [
@@ -4086,7 +4121,7 @@
   {
     "name": "juspay/hyperswitch-prism",
     "url": "https://github.com/juspay/hyperswitch-prism",
-    "description": "One library. Any payment processor. Switch processors with few lines of code.",
+    "description": "One library | Many payment processors | Scale to multiple processors with few lines of code.",
     "language": "Rust",
     "topics": [
       "payments"
@@ -4284,26 +4319,7 @@
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "language": "Python",
     "topics": [
-      "agent",
-      "agentic",
-      "agentic-ai",
-      "agentic-workflow",
-      "ai",
-      "context-engineering",
-      "context-retrieval",
-      "deep-research",
-      "deepseek",
-      "deepseek-r1",
-      "document-understanding",
-      "graphrag",
-      "harness",
-      "llm",
-      "mcp",
-      "ollama",
-      "openai",
-      "openclaw",
-      "rag",
-      "retrieval-augmented-generation"
+      "llm-app"
     ]
   },
   {
@@ -5882,7 +5898,7 @@
       "kubernetes",
       "microservice",
       "open-source",
-      "wiz-productivity-platform-engineering-productivity"
+      "wiz-reliability-platform-release-engineering"
     ]
   },
   {
@@ -9129,9 +9145,14 @@
       "grpc-it",
       "grpc-java",
       "grpc-java-testing",
+      "grpc-junit5",
       "grpc-mock",
       "grpc-mocking",
       "grpc-services",
+      "grpc-spring-boot",
+      "grpc-stub",
+      "grpc-stubbing",
+      "grpc-test",
       "grpc-testing",
       "grpc-unit",
       "grpc-wiremock",
@@ -11051,14 +11072,16 @@
   {
     "name": "datahub-project/datahub",
     "url": "https://github.com/datahub-project/datahub",
-    "description": "The Metadata Platform for your Data and AI Stack",
+    "description": "The Context Platform for your Data and AI Stack",
     "language": "Java",
     "topics": [
+      "agent-platform",
+      "context-management",
       "data-catalog",
       "data-discovery",
       "data-governance",
+      "data-observability",
       "datahub",
-      "hacktoberfest",
       "metadata"
     ]
   },
@@ -11763,8 +11786,7 @@
       "mcp",
       "mcp-server",
       "metadata",
-      "metadata-management",
-      "snowflake"
+      "metadata-management"
     ]
   },
   {
@@ -14324,9 +14346,14 @@
   {
     "name": "pingcap/tidb",
     "url": "https://github.com/pingcap/tidb",
-    "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+    "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
     "language": "Go",
     "topics": [
+      "agent",
+      "agent-context",
+      "agent-memory",
+      "agentic",
+      "ai",
       "cloud-native",
       "database",
       "distributed-database",
@@ -14334,6 +14361,7 @@
       "go",
       "hacktoberfest",
       "htap",
+      "memory",
       "mysql",
       "mysql-compatibility",
       "scale",
@@ -15015,8 +15043,8 @@
   {
     "name": "davidsonfellipe/awesome-wpo",
     "url": "https://github.com/davidsonfellipe/awesome-wpo",
-    "description": ":pencil: A curated list of Web Performance Optimization. Everyone can contribute here!",
-    "language": "JavaScript",
+    "description": "A curated list of Web Performance Optimization. ",
+    "language": "Unknown",
     "topics": [
       "awesome",
       "awesome-list",
@@ -15932,8 +15960,8 @@
     ]
   },
   {
-    "name": "kamranahmedse/pennywise",
-    "url": "https://github.com/kamranahmedse/pennywise",
+    "name": "nilbuild/pennywise",
+    "url": "https://github.com/nilbuild/pennywise",
     "description": "Cross-platform application to open any website or media in a floating window",
     "language": "JavaScript",
     "topics": [
@@ -20098,8 +20126,8 @@
     ]
   },
   {
-    "name": "kamranahmedse/design-patterns-for-humans",
-    "url": "https://github.com/kamranahmedse/design-patterns-for-humans",
+    "name": "nilbuild/design-patterns-for-humans",
+    "url": "https://github.com/nilbuild/design-patterns-for-humans",
     "description": "An ultra-simplified explanation to design patterns",
     "language": "Unknown",
     "topics": [
