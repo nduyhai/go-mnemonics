@@ -1,14 +1,58 @@
 [
   {
+    "name": "Hmbown/DeepSeek-TUI",
+    "url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "description": "Coding agent for DeepSeek models that runs in your terminal",
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "deepseek",
+      "llm",
+      "rust",
+      "terminal",
+      "tui"
+    ]
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "language": "TypeScript",
+    "topics": [
+      "agentic-ai",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "agents",
+      "ai-assistant",
+      "ai-tools",
+      "anthropic-claude",
+      "autonomous-agents",
+      "claude-code",
+      "claude-code-skills",
+      "codex",
+      "huggingface",
+      "mcp-server",
+      "model-context-protocol",
+      "multi-agent",
+      "multi-agent-systems",
+      "swarm",
+      "swarm-intelligence"
+    ]
+  },
+  {
     "name": "langchain-ai/deepagents",
     "url": "https://github.com/langchain-ai/deepagents",
-    "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "description": "Python \u0026 TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
     "language": "Python",
     "topics": [
       "ai",
       "deepagents",
       "langchain",
-      "langgraph"
+      "langgraph",
+      "python",
+      "typescript"
     ]
   },
   {
@@ -217,12 +261,12 @@
     "description": "AI Coding Agent Multiplexer",
     "language": "HTML",
     "topics": [
+      "acp",
       "ai-agent",
       "ai-agent-tools",
       "ai-agents",
       "claude-code",
       "codex",
-      "codex-cli",
       "copilot",
       "copilot-cli",
       "cursor",
@@ -233,10 +277,10 @@
       "kilo",
       "kilo-code",
       "kilocode",
-      "kilocode-cli",
       "multi-agent",
       "opencode",
-      "opencode-ai"
+      "opencode-ai",
+      "pi-coding-agent"
     ]
   },
   {
@@ -557,7 +601,7 @@
   {
     "name": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
-    "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. ",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "language": "Rust",
     "topics": [
       "agentic-ai",
@@ -962,9 +1006,15 @@
   {
     "name": "leonhfr/transactioncheck",
     "url": "https://github.com/leonhfr/transactioncheck",
-    "description": "",
+    "description": "I shipped a transaction bug, so I built a linter",
     "language": "Go",
-    "topics": []
+    "topics": [
+      "go",
+      "golang",
+      "linter",
+      "static-analysis",
+      "transaction"
+    ]
   },
   {
     "name": "kubernetes-sigs/ingress2gateway",
@@ -1446,7 +1496,7 @@
     "name": "NVIDIA/garak",
     "url": "https://github.com/NVIDIA/garak",
     "description": "the LLM vulnerability scanner",
-    "language": "HTML",
+    "language": "Python",
     "topics": [
       "ai",
       "llm-evaluation",
@@ -2590,7 +2640,7 @@
     "name": "kubetail-org/kubetail",
     "url": "https://github.com/kubetail-org/kubetail",
     "description": "Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.",
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
       "cluster",
       "dashboard",
@@ -2674,14 +2724,13 @@
   {
     "name": "Tencent/WeKnora",
     "url": "https://github.com/Tencent/WeKnora",
-    "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
     "language": "Go",
     "topics": [
       "agent",
       "agentic",
       "ai",
       "chatbot",
-      "chatbots",
       "embeddings",
       "evaluation",
       "generative-ai",
@@ -2696,7 +2745,8 @@
       "rag",
       "reranking",
       "semantic-search",
-      "vector-search"
+      "vector-search",
+      "wiki"
     ]
   },
   {
@@ -2836,7 +2886,7 @@
   {
     "name": "thomaspoignant/go-feature-flag",
     "url": "https://github.com/thomaspoignant/go-feature-flag",
-    "description": "GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",
+    "description": "GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️",
     "language": "Go",
     "topics": [
       "beginner-friendly",

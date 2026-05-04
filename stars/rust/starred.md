@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-04-27T03:18:37Z
+Auto-generated on 2026-05-04T03:19:45Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -9,6 +9,7 @@ Auto-generated on 2026-04-27T03:18:37Z
 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [command-line-tool](https://github.com/topics/command-line-tool) |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | [android](https://github.com/topics/android), [css](https://github.com/topics/css), [desktop](https://github.com/topics/desktop) |
 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your Internet traffic 🕵️‍♂️ | [application](https://github.com/topics/application), [gui](https://github.com/topics/gui), [iced](https://github.com/topics/iced) |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Coding agent for DeepSeek models that runs in your terminal | [cli](https://github.com/topics/cli), [deepseek](https://github.com/topics/deepseek), [llm](https://github.com/topics/llm) |
 | [RedisGears/RedisGears](https://github.com/RedisGears/RedisGears) | Dynamic execution framework for your Redis data | [analytics](https://github.com/topics/analytics), [mapreduce](https://github.com/topics/mapreduce), [redis](https://github.com/topics/redis) |
 | [Schniz/fnm](https://github.com/Schniz/fnm) | 🚀 Fast and simple Node.js version manager, built in Rust | [hacktoberfest](https://github.com/topics/hacktoberfest), [javascript](https://github.com/topics/javascript), [nodejs](https://github.com/topics/nodejs) |
 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. | [ai-search](https://github.com/topics/ai-search), [bm25](https://github.com/topics/bm25), [dense-retrieval](https://github.com/topics/dense-retrieval) |
@@ -54,7 +55,7 @@ Auto-generated on 2026-04-27T03:18:37Z
 | [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | Format Rust code | [codeformatter](https://github.com/topics/codeformatter), [formatter](https://github.com/topics/formatter), [rust](https://github.com/topics/rust) |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | [android](https://github.com/topics/android), [anydesk](https://github.com/topics/anydesk), [dart](https://github.com/topics/dart) |
 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | [ai-native](https://github.com/topics/ai-native), [ai-storage](https://github.com/topics/ai-storage), [amazon-s3](https://github.com/topics/amazon-s3) |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  | [agentic-ai](https://github.com/topics/agentic-ai), [densepose](https://github.com/topics/densepose), [esp32](https://github.com/topics/esp32) |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. | [agentic-ai](https://github.com/topics/agentic-ai), [densepose](https://github.com/topics/densepose), [esp32](https://github.com/topics/esp32) |
 | [serde-rs/json](https://github.com/serde-rs/json) | Strongly typed JSON library for Rust | [json](https://github.com/topics/json), [rust](https://github.com/topics/rust), [serde](https://github.com/topics/serde) |
 | [serde-rs/serde](https://github.com/serde-rs/serde) | Serialization framework for Rust | [derive](https://github.com/topics/derive), [no-std](https://github.com/topics/no-std), [rust](https://github.com/topics/rust) |
 | [servo/servo](https://github.com/servo/servo) | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. | [browser](https://github.com/topics/browser), [rust](https://github.com/topics/rust), [servo](https://github.com/topics/servo) |
