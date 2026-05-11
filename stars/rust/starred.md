@@ -1,9 +1,10 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-05-04T03:19:45Z
+Auto-generated on 2026-05-11T03:21:27Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Coding Agent Harness | [ai](https://github.com/topics/ai), [claude](https://github.com/topics/claude), [cli](https://github.com/topics/cli) |
 | [AzureMarker/shaku](https://github.com/AzureMarker/shaku) | Compile Time Dependency lnjection Library for Rust |  |
 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | [agent](https://github.com/topics/agent), [ai-agents](https://github.com/topics/ai-agents), [kanban](https://github.com/topics/kanban) |
 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [command-line-tool](https://github.com/topics/command-line-tool) |
@@ -36,8 +37,8 @@ Auto-generated on 2026-05-04T03:19:45Z
 | [hyperium/tonic](https://github.com/hyperium/tonic) | A native gRPC client & server implementation with async/await support. | [async](https://github.com/topics/async), [grpc](https://github.com/topics/grpc), [proto](https://github.com/topics/proto) |
 | [imazen/imageflow](https://github.com/imazen/imageflow) | High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow | [image-compression](https://github.com/topics/image-compression), [image-manipulation](https://github.com/topics/image-manipulation), [image-server](https://github.com/topics/image-server) |
 | [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing | [hacktoberfest](https://github.com/topics/hacktoberfest) |
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured), [finance](https://github.com/topics/finance) |
-| [juspay/hyperswitch-prism](https://github.com/juspay/hyperswitch-prism) | One library | Many payment processors | Scale to multiple processors with few lines of code. | [payments](https://github.com/topics/payments) |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable | [adyen](https://github.com/topics/adyen), [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured) |
+| [juspay/hyperswitch-prism](https://github.com/juspay/hyperswitch-prism) | One library | Many payment processors | Scale to multiple processors with few lines of code. | [adyen](https://github.com/topics/adyen), [authorize-net](https://github.com/topics/authorize-net), [braintree](https://github.com/topics/braintree) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
 | [memvid/memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | [ai](https://github.com/topics/ai), [context](https://github.com/topics/context), [embedded](https://github.com/topics/embedded) |

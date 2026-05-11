@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-05-04T03:19:45Z
+Auto-generated on 2026-05-11T03:21:27Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -348,6 +348,7 @@ Auto-generated on 2026-05-04T03:19:45Z
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | [alerting](https://github.com/topics/alerting), [graphing](https://github.com/topics/graphing), [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes) | A Pulumi resource provider for Kubernetes to manage API resources and workloads in running clusters | [kubernetes](https://github.com/topics/kubernetes), [nodejs](https://github.com/topics/nodejs), [pulumi](https://github.com/topics/pulumi) |
 | [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) | Concurrent data structures for Go |  |
+| [qmuntal/stateless](https://github.com/qmuntal/stateless) | Go library for creating finite state machines | [dot-graph](https://github.com/topics/dot-graph), [fsm](https://github.com/topics/fsm), [go](https://github.com/topics/go) |
 | [quic-go/quic-go](https://github.com/quic-go/quic-go) | A production-ready QUIC implementation in pure Go | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [http3](https://github.com/topics/http3) |
 | [rancher/rancher](https://github.com/rancher/rancher) | Complete container management platform | [cattle](https://github.com/topics/cattle), [containers](https://github.com/topics/containers), [docker](https://github.com/topics/docker) |
 | [rclone/rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | [azure-blob](https://github.com/topics/azure-blob), [azure-blob-storage](https://github.com/topics/azure-blob-storage), [azure-files](https://github.com/topics/azure-files) |
