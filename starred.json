@@ -1,5 +1,123 @@
 [
   {
+    "name": "namastack/namastack-outbox",
+    "url": "https://github.com/namastack/namastack-outbox",
+    "description": "Outbox Implementation for Spring Boot",
+    "language": "Kotlin",
+    "topics": [
+      "apache-kafka",
+      "distributed-systems",
+      "event-driven-architecture",
+      "microservices",
+      "reliable-messaging-system",
+      "spring-boot",
+      "spring-kafka",
+      "transactional-outbox",
+      "transactional-outbox-pattern"
+    ]
+  },
+  {
+    "name": "0x48core/go-latency",
+    "url": "https://github.com/0x48core/go-latency",
+    "description": "Go experiments for learning latency and performance in platform and distributed systems.",
+    "language": "Go",
+    "topics": [
+      "cache-stampede-protection",
+      "distributed-systems",
+      "go",
+      "latency",
+      "redis-ha",
+      "singlefile"
+    ]
+  },
+  {
+    "name": "expr-lang/expr",
+    "url": "https://github.com/expr-lang/expr",
+    "description": "Expression language and expression evaluation for Go",
+    "language": "Go",
+    "topics": [
+      "bytecode",
+      "configuration-language",
+      "engine",
+      "evaluator",
+      "expr",
+      "expression",
+      "expression-evaluator",
+      "expression-language",
+      "go",
+      "golang",
+      "rule-engine"
+    ]
+  },
+  {
+    "name": "aupv9/stepper",
+    "url": "https://github.com/aupv9/stepper",
+    "description": "",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "datvietvac-techhub/manifestor",
+    "url": "https://github.com/datvietvac-techhub/manifestor",
+    "description": "Parse, filter, build, and transform HLS \u0026 DASH manifests in Go. Zero dependencies. Ships as a library, HTTP proxy server, and CLI tool.",
+    "language": "Go",
+    "topics": [
+      "adaptive-bitrate",
+      "dash",
+      "golang",
+      "hls",
+      "http-live-streaming",
+      "m3u8",
+      "manifest",
+      "master-playlist",
+      "mpd",
+      "ott",
+      "playlist-generator",
+      "streaming"
+    ]
+  },
+  {
+    "name": "datvietvac-techhub/open-streamer",
+    "url": "https://github.com/datvietvac-techhub/open-streamer",
+    "description": "A high-availability live media server in Go.",
+    "language": "Go",
+    "topics": [
+      "dash",
+      "failover",
+      "fallback-mechanism",
+      "golang",
+      "hls",
+      "hot-reload",
+      "livestream",
+      "low-latency",
+      "media-server",
+      "mpegts",
+      "multimedia",
+      "playback",
+      "prometheus-metrics",
+      "rtmp",
+      "rtsp",
+      "srt",
+      "streaming",
+      "transcoding-server",
+      "video"
+    ]
+  },
+  {
+    "name": "awslabs/aidlc-workflows",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "AI-Unified-Process/marketplace",
+    "url": "https://github.com/AI-Unified-Process/marketplace",
+    "description": "",
+    "language": "Java",
+    "topics": []
+  },
+  {
     "name": "decolua/9router",
     "url": "https://github.com/decolua/9router",
     "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
@@ -112,7 +230,7 @@
   {
     "name": "langchain-ai/deepagents",
     "url": "https://github.com/langchain-ai/deepagents",
-    "description": "Agent harness built with LangChain and LangGraph.",
+    "description": "The batteries-included agent harness.",
     "language": "Python",
     "topics": [
       "ai",
@@ -4244,22 +4362,22 @@
     "description": "One library | Many payment processors | Scale to multiple processors with few lines of code.",
     "language": "Rust",
     "topics": [
-      "adyen",
       "authorize-net",
       "braintree",
-      "nuvei",
+      "node",
       "payment-gateway",
       "payment-integration",
-      "payment-integration-api",
       "payment-library",
       "payment-processing",
       "payments",
-      "payments-integration",
       "payments-library",
       "paypal",
+      "python",
       "stripe",
       "stripe-checkout",
+      "stripe-node",
       "stripe-payments",
+      "stripe-sdk",
       "worldpay"
     ]
   },
@@ -6403,7 +6521,7 @@
   {
     "name": "openobserve/openobserve",
     "url": "https://github.com/openobserve/openobserve",
-    "description": "OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+    "description": "Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
     "language": "TypeScript",
     "topics": [
       "analytics",
@@ -6689,7 +6807,7 @@
   {
     "name": "elizaOS/eliza",
     "url": "https://github.com/elizaOS/eliza",
-    "description": "Autonomous agents for everyone",
+    "description": "Open source agentic operating system",
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -7650,7 +7768,7 @@
   {
     "name": "redisson/redisson",
     "url": "https://github.com/redisson/redisson",
-    "description": "Redisson - Valkey \u0026 Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+    "description": "Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
     "language": "Java",
     "topics": [
       "cache",
@@ -7750,8 +7868,8 @@
     "language": "Java",
     "topics": [
       "ai",
-      "copilot",
       "database",
+      "databricks",
       "db2",
       "dbeaver",
       "erd",
@@ -7760,10 +7878,10 @@
       "jdbc",
       "mysql",
       "nosql",
-      "openai",
       "oracle",
       "postgresql",
       "redshift",
+      "snowflake",
       "sql",
       "sqlite",
       "sqlserver"
@@ -8572,7 +8690,7 @@
   {
     "name": "TomWright/dasel",
     "url": "https://github.com/TomWright/dasel",
-    "description": "Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.",
+    "description": "Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.",
     "language": "Go",
     "topics": [
       "cli",
@@ -11933,7 +12051,8 @@
       "mcp",
       "mcp-server",
       "metadata",
-      "metadata-management"
+      "metadata-management",
+      "semantics"
     ]
   },
   {
@@ -13690,7 +13809,6 @@
       "dubbo-proxy",
       "grpc-proxy",
       "http-proxy",
-      "motan-proxy",
       "reactor-java",
       "sofa-proxy",
       "spring-cloud-proxy"

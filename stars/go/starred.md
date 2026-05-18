@@ -1,9 +1,10 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-05-11T03:21:27Z
+Auto-generated on 2026-05-18T03:21:56Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
+| [0x48core/go-latency](https://github.com/0x48core/go-latency) | Go experiments for learning latency and performance in platform and distributed systems. | [cache-stampede-protection](https://github.com/topics/cache-stampede-protection), [distributed-systems](https://github.com/topics/distributed-systems), [go](https://github.com/topics/go) |
 | [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | Yet another WebUI for Nginx | [chatgpt-app](https://github.com/topics/chatgpt-app), [code-completion](https://github.com/topics/code-completion), [copilot](https://github.com/topics/copilot) |
 | [Azure/golua](https://github.com/Azure/golua) | A Lua 5.3 engine implemented in Go |  |
 | [BambooEngine/ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo) | Bộ gõ tiếng Việt cho Linux |  |
@@ -27,7 +28,7 @@ Auto-generated on 2026-05-11T03:21:27Z
 | [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) | Reactive Extensions for the Go language. | [async](https://github.com/topics/async), [asynchronous](https://github.com/topics/asynchronous), [concurrency](https://github.com/topics/concurrency) |
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | [agent](https://github.com/topics/agent), [agentic](https://github.com/topics/agentic), [ai](https://github.com/topics/ai) |
 | [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | Building event-driven applications the easy way in Go. | [cqrs](https://github.com/topics/cqrs), [event-driven](https://github.com/topics/event-driven), [event-sourcing](https://github.com/topics/event-sourcing) |
-| [TomWright/dasel](https://github.com/TomWright/dasel) | Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod. | [cli](https://github.com/topics/cli), [config](https://github.com/topics/config), [configuration](https://github.com/topics/configuration) |
+| [TomWright/dasel](https://github.com/TomWright/dasel) | Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod. | [cli](https://github.com/topics/cli), [config](https://github.com/topics/config), [configuration](https://github.com/topics/configuration) |
 | [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) | Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols | [api](https://github.com/topics/api), [api-gateway](https://github.com/topics/api-gateway), [api-management](https://github.com/topics/api-management) |
 | [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | VictoriaMetrics: fast, cost-effective monitoring solution and time series database | [database](https://github.com/topics/database), [grafana](https://github.com/topics/grafana), [graphite](https://github.com/topics/graphite) |
 | [a2aproject/a2a-go](https://github.com/a2aproject/a2a-go) | Golang SDK for A2A Protocol | [a2a](https://github.com/topics/a2a), [a2a-client](https://github.com/topics/a2a-client), [a2a-protocol](https://github.com/topics/a2a-protocol) |
@@ -53,6 +54,7 @@ Auto-generated on 2026-05-11T03:21:27Z
 | [arl/statsviz](https://github.com/arl/statsviz) | Visualise Go runtime metrics in real time | [garbage-collector](https://github.com/topics/garbage-collector), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [atlassian/escalator](https://github.com/atlassian/escalator) | Escalator is a batch or job optimized horizontal autoscaler for Kubernetes | [asg](https://github.com/topics/asg), [auto-scaling-group](https://github.com/topics/auto-scaling-group), [autoscaler](https://github.com/topics/autoscaler) |
 | [atomix/atomix](https://github.com/atomix/atomix) | A Kubernetes toolkit for building distributed applications using cloud native principles | [atomix](https://github.com/topics/atomix), [consensus](https://github.com/topics/consensus), [data-structures](https://github.com/topics/data-structures) |
+| [aupv9/stepper](https://github.com/aupv9/stepper) |  |  |
 | [authelia/authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ | [2fa](https://github.com/topics/2fa), [authentication](https://github.com/topics/authentication), [docker](https://github.com/topics/docker) |
 | [authzed/spicedb](https://github.com/authzed/spicedb) | Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data | [abac](https://github.com/topics/abac), [acl](https://github.com/topics/acl), [authorization](https://github.com/topics/authorization) |
 | [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) | Go implementation of an Avalanche node. |  |
@@ -108,6 +110,8 @@ Auto-generated on 2026-05-11T03:21:27Z
 | [cucumber/godog](https://github.com/cucumber/godog) | Cucumber for golang | [functional-testing](https://github.com/topics/functional-testing), [gherkin](https://github.com/topics/gherkin), [golang](https://github.com/topics/golang) |
 | [danielgtaylor/huma](https://github.com/danielgtaylor/huma) | Huma REST/HTTP API Framework for Golang with OpenAPI 3.1 | [api](https://github.com/topics/api), [documentation](https://github.com/topics/documentation), [fastapi](https://github.com/topics/fastapi) |
 | [dapr/dapr](https://github.com/dapr/dapr) | Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. | [containers](https://github.com/topics/containers), [event-driven](https://github.com/topics/event-driven), [kubernetes](https://github.com/topics/kubernetes) |
+| [datvietvac-techhub/manifestor](https://github.com/datvietvac-techhub/manifestor) | Parse, filter, build, and transform HLS & DASH manifests in Go. Zero dependencies. Ships as a library, HTTP proxy server, and CLI tool. | [adaptive-bitrate](https://github.com/topics/adaptive-bitrate), [dash](https://github.com/topics/dash), [golang](https://github.com/topics/golang) |
+| [datvietvac-techhub/open-streamer](https://github.com/datvietvac-techhub/open-streamer) | A high-availability live media server in Go. | [dash](https://github.com/topics/dash), [failover](https://github.com/topics/failover), [fallback-mechanism](https://github.com/topics/fallback-mechanism) |
 | [davecgh/go-spew](https://github.com/davecgh/go-spew) | Implements a deep pretty printer for Go data structures to aid in debugging |  |
 | [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) | high-performance graph database for real-time use cases | [database](https://github.com/topics/database), [distributed](https://github.com/topics/distributed), [go](https://github.com/topics/go) |
 | [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) | A high performance memory-bound Go cache | [cache](https://github.com/topics/cache), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
@@ -129,6 +133,7 @@ Auto-generated on 2026-05-11T03:21:27Z
 | [etcd-io/bbolt](https://github.com/etcd-io/bbolt) | An embedded key/value database for Go. |  |
 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | Distributed reliable key-value store for the most critical data of a distributed system | [cncf](https://github.com/topics/cncf), [consensus](https://github.com/topics/consensus), [database](https://github.com/topics/database) |
 | [evrone/go-clean-template](https://github.com/evrone/go-clean-template) | Clean Architecture template for Golang services | [clean-architecture](https://github.com/topics/clean-architecture), [dependency-injection](https://github.com/topics/dependency-injection), [example](https://github.com/topics/example) |
+| [expr-lang/expr](https://github.com/expr-lang/expr) | Expression language and expression evaluation for Go | [bytecode](https://github.com/topics/bytecode), [configuration-language](https://github.com/topics/configuration-language), [engine](https://github.com/topics/engine) |
 | [facebookarchive/inject](https://github.com/facebookarchive/inject) | Package inject provides a reflect based injector. |  |
 | [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | [expose](https://github.com/topics/expose), [firewall](https://github.com/topics/firewall), [frp](https://github.com/topics/frp) |
 | [felixge/fgprof](https://github.com/felixge/fgprof) | 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together. | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [performance](https://github.com/topics/performance) |
