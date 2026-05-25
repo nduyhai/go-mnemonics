@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-05-18T03:21:56Z
+Auto-generated on 2026-05-25T03:22:38Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -28,7 +28,7 @@ Auto-generated on 2026-05-18T03:21:56Z
 | [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) | Reactive Extensions for the Go language. | [async](https://github.com/topics/async), [asynchronous](https://github.com/topics/asynchronous), [concurrency](https://github.com/topics/concurrency) |
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | [agent](https://github.com/topics/agent), [agentic](https://github.com/topics/agentic), [ai](https://github.com/topics/ai) |
 | [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | Building event-driven applications the easy way in Go. | [cqrs](https://github.com/topics/cqrs), [event-driven](https://github.com/topics/event-driven), [event-sourcing](https://github.com/topics/event-sourcing) |
-| [TomWright/dasel](https://github.com/TomWright/dasel) | Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod. | [cli](https://github.com/topics/cli), [config](https://github.com/topics/config), [configuration](https://github.com/topics/configuration) |
+| [TomWright/dasel](https://github.com/TomWright/dasel) | Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV. | [cli](https://github.com/topics/cli), [config](https://github.com/topics/config), [configuration](https://github.com/topics/configuration) |
 | [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) | Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols | [api](https://github.com/topics/api), [api-gateway](https://github.com/topics/api-gateway), [api-management](https://github.com/topics/api-management) |
 | [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | VictoriaMetrics: fast, cost-effective monitoring solution and time series database | [database](https://github.com/topics/database), [grafana](https://github.com/topics/grafana), [graphite](https://github.com/topics/graphite) |
 | [a2aproject/a2a-go](https://github.com/a2aproject/a2a-go) | Golang SDK for A2A Protocol | [a2a](https://github.com/topics/a2a), [a2a-client](https://github.com/topics/a2a-client), [a2a-protocol](https://github.com/topics/a2a-protocol) |

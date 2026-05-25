@@ -1,6 +1,6 @@
 # 🌟 Unknown Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-05-18T03:21:56Z
+Auto-generated on 2026-05-25T03:22:38Z
 
 | Name | Description | Language | Topics |
 |------|-------------|----------|-------|
@@ -435,7 +435,7 @@ Auto-generated on 2026-05-18T03:21:56Z
 | [leafo/luajit-geoip](https://github.com/leafo/luajit-geoip) | luajit bindings to maxmind geoip | MoonScript |  |
 | [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) | A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸 | Jupyter Notebook | [adaptive-streaming](https://github.com/topics/adaptive-streaming), [arithmetic-coding](https://github.com/topics/arithmetic-coding), [audio](https://github.com/topics/audio) |
 | [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) | FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺 | C | [codec](https://github.com/topics/codec), [ffmpeg](https://github.com/topics/ffmpeg), [ffmpeg-libraries](https://github.com/topics/ffmpeg-libraries) |
-| [leapmux/leapmux](https://github.com/leapmux/leapmux) | AI Coding Agent Multiplexer | HTML | [acp](https://github.com/topics/acp), [ai-agent](https://github.com/topics/ai-agent), [ai-agent-tools](https://github.com/topics/ai-agent-tools) |
+| [leapmux/leapmux](https://github.com/leapmux/leapmux) | AI Coding Agent Multiplexer | TypeScript | [acp](https://github.com/topics/acp), [ai-agent](https://github.com/topics/ai-agent), [ai-agent-tools](https://github.com/topics/ai-agent-tools) |
 | [leehomyc/Faster-High-Res-Neural-Inpainting](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting) | High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis | Lua | [deep-learning](https://github.com/topics/deep-learning), [deep-learning-papers](https://github.com/topics/deep-learning-papers), [machine-learning](https://github.com/topics/machine-learning) |
 | [leev/ngx_http_geoip2_module](https://github.com/leev/ngx_http_geoip2_module) | Nginx GeoIP2 module | C |  |
 | [leo-project/leofs](https://github.com/leo-project/leofs) | The LeoFS Storage System | Erlang | [datalake](https://github.com/topics/datalake), [distributed-file-system](https://github.com/topics/distributed-file-system), [distributed-storage](https://github.com/topics/distributed-storage) |
@@ -569,7 +569,7 @@ Auto-generated on 2026-05-18T03:21:56Z
 | [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) | A collection of awesome .NET libraries, tools, frameworks and software | Unknown | [awesome](https://github.com/topics/awesome), [awesome-list](https://github.com/topics/awesome-list), [clr](https://github.com/topics/clr) |
 | [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) | Learn python3 in one picture. | Jupyter Notebook |  |
 | [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) | Container Management and Kubernetes on the Desktop | TypeScript | [containers](https://github.com/topics/containers), [kubernetes](https://github.com/topics/kubernetes), [linux](https://github.com/topics/linux) |
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | Jupyter Notebook | [ai](https://github.com/topics/ai), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [chatbot](https://github.com/topics/chatbot) |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step | Jupyter Notebook | [ai](https://github.com/topics/ai), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [attention-mechanism](https://github.com/topics/attention-mechanism) |
 | [realm/realm-core](https://github.com/realm/realm-core) | Core database component for the Realm Mobile Database SDKs | C++ | [c-plus-plus](https://github.com/topics/c-plus-plus), [cpp](https://github.com/topics/cpp), [database](https://github.com/topics/database) |
 | [realvjy/uilogos.co](https://github.com/realvjy/uilogos.co) |  | JavaScript |  |
 | [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) | Best Practices on Recommendation Systems | Python | [ai](https://github.com/topics/ai), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [data-science](https://github.com/topics/data-science) |

@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-05-18T03:21:56Z
+Auto-generated on 2026-05-25T03:22:38Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -220,7 +220,7 @@ Auto-generated on 2026-05-18T03:21:56Z
 | [linkedin/databus](https://github.com/linkedin/databus) | Source-agnostic distributed change data capture system |  |
 | [linkedin/rest.li](https://github.com/linkedin/rest.li) | Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs. |  |
 | [liquibase/liquibase](https://github.com/liquibase/liquibase) | Main Liquibase Source | [continuous-delivery](https://github.com/topics/continuous-delivery), [continuous-deployment](https://github.com/topics/continuous-deployment), [database](https://github.com/topics/database) |
-| [littlehorse-enterprises/littlehorse](https://github.com/littlehorse-enterprises/littlehorse) | LittleHorse Server: the command center for Microservices & Business-as-Code | [apache-kafka](https://github.com/topics/apache-kafka), [event-driven-architecture](https://github.com/topics/event-driven-architecture), [kafka-streams](https://github.com/topics/kafka-streams) |
+| [littlehorse-enterprises/littlehorse](https://github.com/littlehorse-enterprises/littlehorse) | LittleHorse Server: the Workflow Engine for Microservice Orchestration & Business-as-Code | [apache-kafka](https://github.com/topics/apache-kafka), [business-as-code](https://github.com/topics/business-as-code), [event-driven-architecture](https://github.com/topics/event-driven-architecture) |
 | [logfellow/logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder) | Logback JSON encoder and appenders | [json](https://github.com/topics/json), [logback](https://github.com/topics/logback), [logback-appender](https://github.com/topics/logback-appender) |
 | [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) | Distributed lock for your scheduled tasks |  |
 | [maciejwalkowiak/implementing-ddd-with-spring-talk](https://github.com/maciejwalkowiak/implementing-ddd-with-spring-talk) |  |  |

@@ -186,9 +186,9 @@
     ]
   },
   {
-    "name": "Hmbown/DeepSeek-TUI",
-    "url": "https://github.com/Hmbown/DeepSeek-TUI",
-    "description": "Coding agent for DeepSeek models that runs in your terminal",
+    "name": "Hmbown/CodeWhale",
+    "url": "https://github.com/Hmbown/CodeWhale",
+    "description": "Coding agent for open source, open weight models ",
     "language": "Rust",
     "topics": [
       "cli",
@@ -217,12 +217,12 @@
       "anthropic-claude",
       "autonomous-agents",
       "claude-code",
-      "claude-code-skills",
       "codex",
       "mcp-server",
       "model-context-protocol",
       "multi-agent",
       "multi-agent-systems",
+      "skills",
       "swarm",
       "swarm-intelligence"
     ]
@@ -445,7 +445,7 @@
     "name": "leapmux/leapmux",
     "url": "https://github.com/leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "language": "HTML",
+    "language": "TypeScript",
     "topics": [
       "acp",
       "ai-agent",
@@ -791,21 +791,25 @@
     "language": "Rust",
     "topics": [
       "agentic-ai",
+      "claude",
       "densepose",
       "esp32",
       "firmware",
+      "home-assistant",
+      "home-automation",
+      "iot",
       "mcu",
-      "mincut",
       "monitoring",
+      "networking",
+      "physical-ai",
       "pose-estimation",
       "rf",
-      "self",
       "self-learning",
+      "skills",
       "spatial-intelligence",
       "wifi",
       "wifi-hacking",
-      "wifi-security",
-      "world-model"
+      "wifi-security"
     ]
   },
   {
@@ -1539,6 +1543,7 @@
       "ai",
       "ai-agents",
       "context-engineering",
+      "information-retrieval",
       "llm",
       "rag",
       "reasoning",
@@ -5895,19 +5900,22 @@
     "topics": [
       "ai",
       "artificial-intelligence",
-      "chatbot",
-      "chatgpt",
+      "attention-mechanism",
       "deep-learning",
+      "finetuning",
       "from-scratch",
       "generative-ai",
       "gpt",
+      "instruction-tuning",
       "language-model",
       "large-language-models",
       "llm",
       "machine-learning",
-      "neural-networks",
+      "natural-language-processing",
+      "pretraining",
       "python",
       "pytorch",
+      "tokenizer",
       "transformers"
     ]
   },
@@ -6042,7 +6050,7 @@
   {
     "name": "juspay/hyperswitch",
     "url": "https://github.com/juspay/hyperswitch",
-    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
     "language": "Rust",
     "topics": [
       "adyen",
@@ -6117,10 +6125,11 @@
   {
     "name": "littlehorse-enterprises/littlehorse",
     "url": "https://github.com/littlehorse-enterprises/littlehorse",
-    "description": "LittleHorse Server: the command center for Microservices \u0026 Business-as-Code",
+    "description": "LittleHorse Server: the Workflow Engine for Microservice Orchestration \u0026 Business-as-Code",
     "language": "Java",
     "topics": [
       "apache-kafka",
+      "business-as-code",
       "event-driven-architecture",
       "kafka-streams",
       "microservices",
@@ -8690,7 +8699,7 @@
   {
     "name": "TomWright/dasel",
     "url": "https://github.com/TomWright/dasel",
-    "description": "Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.",
+    "description": "Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.",
     "language": "Go",
     "topics": [
       "cli",
@@ -9176,8 +9185,8 @@
     ]
   },
   {
-    "name": "hyperium/tonic",
-    "url": "https://github.com/hyperium/tonic",
+    "name": "grpc/grpc-rust",
+    "url": "https://github.com/grpc/grpc-rust",
     "description": "A native gRPC client \u0026 server implementation with async/await support.",
     "language": "Rust",
     "topics": [
