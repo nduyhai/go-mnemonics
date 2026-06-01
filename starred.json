@@ -188,7 +188,7 @@
   {
     "name": "Hmbown/CodeWhale",
     "url": "https://github.com/Hmbown/CodeWhale",
-    "description": "Coding agent for open source, open weight models ",
+    "description": "DeepSeek + MiMo coding agent in terminal",
     "language": "Rust",
     "topics": [
       "cli",
@@ -210,21 +210,21 @@
       "agentic-rag",
       "agentic-workflow",
       "agents",
-      "ai-agent",
+      "ai-agents",
       "ai-assistant",
       "ai-coding",
       "ai-skills",
-      "anthropic-claude",
       "autonomous-agents",
       "claude-code",
       "codex",
       "mcp-server",
-      "model-context-protocol",
       "multi-agent",
       "multi-agent-systems",
+      "npm",
       "skills",
       "swarm",
-      "swarm-intelligence"
+      "swarm-intelligence",
+      "typescript"
     ]
   },
   {
@@ -251,7 +251,7 @@
   {
     "name": "tractorjuice/arc-kit",
     "url": "https://github.com/tractorjuice/arc-kit",
-    "description": "Enterprise Architecture Governance \u0026 Vendor Procurement Toolkit",
+    "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants",
     "language": "HTML",
     "topics": []
   },
@@ -324,7 +324,7 @@
   {
     "name": "timescale/tigerfs",
     "url": "https://github.com/timescale/tigerfs",
-    "description": "Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.",
+    "description": "Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat. Every write is logged and undoable.",
     "language": "Go",
     "topics": []
   },
@@ -389,7 +389,7 @@
   {
     "name": "krillinai/KrillinAI",
     "url": "https://github.com/krillinai/KrillinAI",
-    "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+    "description": "AI video translation \u0026 dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
     "language": "Go",
     "topics": [
       "dubbing",
@@ -790,7 +790,7 @@
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "language": "Rust",
     "topics": [
-      "agentic-ai",
+      "awesome",
       "claude",
       "densepose",
       "esp32",
@@ -798,17 +798,17 @@
       "home-assistant",
       "home-automation",
       "iot",
-      "mcu",
       "monitoring",
       "networking",
-      "physical-ai",
+      "npm",
       "pose-estimation",
+      "react",
       "rf",
       "self-learning",
       "skills",
       "spatial-intelligence",
+      "typescript",
       "wifi",
-      "wifi-hacking",
       "wifi-security"
     ]
   },
@@ -1862,6 +1862,7 @@
       "browser-automation",
       "cdp",
       "headless",
+      "lightpanda",
       "playwright",
       "puppeteer",
       "zig"
@@ -2111,7 +2112,7 @@
     "name": "anthropics/claude-code",
     "url": "https://github.com/anthropics/claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "language": "Shell",
+    "language": "Python",
     "topics": []
   },
   {
@@ -4146,12 +4147,13 @@
   {
     "name": "bluenviron/mediamtx",
     "url": "https://github.com/bluenviron/mediamtx",
-    "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "description": "Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
     "language": "Go",
     "topics": [
       "go",
       "golang",
       "hls",
+      "media-over-quic",
       "media-server",
       "obs-studio",
       "rtcp",
@@ -4630,6 +4632,7 @@
       "bsd",
       "cheatsheet",
       "cheatsheets",
+      "cli",
       "command-line",
       "console",
       "documentation",
@@ -4639,7 +4642,6 @@
       "linux",
       "macos",
       "man-page",
-      "manpages",
       "manual",
       "osx",
       "shell",
@@ -10542,8 +10544,8 @@
     "topics": []
   },
   {
-    "name": "spring-cloud/spring-cloud-sleuth",
-    "url": "https://github.com/spring-cloud/spring-cloud-sleuth",
+    "name": "spring-attic/spring-cloud-sleuth",
+    "url": "https://github.com/spring-attic/spring-cloud-sleuth",
     "description": "Distributed tracing for spring cloud",
     "language": "Java",
     "topics": [
@@ -21083,12 +21085,17 @@
     "topics": []
   },
   {
-    "name": "keon/awesome-bits",
-    "url": "https://github.com/keon/awesome-bits",
-    "description": ":computer: A curated list of awesome bitwise operations and tricks",
-    "language": "Unknown",
+    "name": "keon/bitkit",
+    "url": "https://github.com/keon/bitkit",
+    "description": "High-performance, width-aware bit manipulation around a single Bits\u003cT\u003e newtype.",
+    "language": "Rust",
     "topics": [
-      "bit-manipulation"
+      "bit-manipulation",
+      "bmi2",
+      "morton",
+      "pdep",
+      "pext",
+      "rust"
     ]
   },
   {

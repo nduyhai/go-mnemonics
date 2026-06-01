@@ -1,6 +1,6 @@
 # 🌟 Unknown Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-05-25T03:22:38Z
+Auto-generated on 2026-06-01T03:23:40Z
 
 | Name | Description | Language | Topics |
 |------|-------------|----------|-------|
@@ -144,7 +144,7 @@ Auto-generated on 2026-05-25T03:22:38Z
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript |  |
 | [ansible/ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. | Python | [ansible](https://github.com/topics/ansible), [python](https://github.com/topics/python) |
 | [ansible/awx](https://github.com/ansible/awx) | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. | Python | [ansible](https://github.com/topics/ansible), [automation](https://github.com/topics/automation), [awx](https://github.com/topics/awx) |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | Shell |  |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. | Python |  |
 | [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) | An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. | Python |  |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Python | [agent-skills](https://github.com/topics/agent-skills) |
 | [apache/age](https://github.com/apache/age) | Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. | C | [age-database](https://github.com/topics/age-database), [agensgraph](https://github.com/topics/agensgraph), [analytics](https://github.com/topics/analytics) |
@@ -411,7 +411,6 @@ Auto-generated on 2026-05-25T03:22:38Z
 | [kba/awesome-ocr](https://github.com/kba/awesome-ocr) | Links to awesome OCR projects | Unknown |  |
 | [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) | The best way to write secure and reliable applications. Write nothing; deploy nowhere. | Dockerfile |  |
 | [kenwheeler/slick](https://github.com/kenwheeler/slick) | the last carousel you'll ever need | JavaScript |  |
-| [keon/awesome-bits](https://github.com/keon/awesome-bits) | :computer: A curated list of awesome bitwise operations and tricks | Unknown | [bit-manipulation](https://github.com/topics/bit-manipulation) |
 | [keraf/NoCoin](https://github.com/keraf/NoCoin) | No Coin is a tiny browser extension aiming to block coin miners such as Coinhive. | JavaScript | [blocker](https://github.com/topics/blocker), [browser](https://github.com/topics/browser), [chrome-extension](https://github.com/topics/chrome-extension) |
 | [keras-team/keras](https://github.com/keras-team/keras) | Deep Learning for humans | Python | [data-science](https://github.com/topics/data-science), [deep-learning](https://github.com/topics/deep-learning), [jax](https://github.com/topics/jax) |
 | [keycloak/keycloak-community](https://github.com/keycloak/keycloak-community) |  | HTML |  |
@@ -649,7 +648,7 @@ Auto-generated on 2026-05-25T03:22:38Z
 | [tkarras/progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) | Progressive Growing of GANs for Improved Quality, Stability, and Variation | Python |  |
 | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | Collaborative cheatsheets for console commands 📚. | Markdown | [android](https://github.com/topics/android), [bsd](https://github.com/topics/bsd), [cheatsheet](https://github.com/topics/cheatsheet) |
 | [toon-format/toon](https://github.com/toon-format/toon) | 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK. | TypeScript | [data-format](https://github.com/topics/data-format), [llm](https://github.com/topics/llm), [serialization](https://github.com/topics/serialization) |
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | Enterprise Architecture Governance & Vendor Procurement Toolkit | HTML |  |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants | HTML |  |
 | [trajano/spring-cloud-demo](https://github.com/trajano/spring-cloud-demo) | This is a demo of Spring Cloud on Docker Swarm | TypeScript |  |
 | [travis-ci/gimme](https://github.com/travis-ci/gimme) | Install go, yay! | Shell | [golang](https://github.com/topics/golang), [installer](https://github.com/topics/installer), [yay](https://github.com/topics/yay) |
 | [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) | 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained | Jupyter Notebook | [algorithm](https://github.com/topics/algorithm), [jupyter](https://github.com/topics/jupyter), [jupyter-notebook](https://github.com/topics/jupyter-notebook) |

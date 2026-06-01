@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-05-25T03:22:38Z
+Auto-generated on 2026-06-01T03:23:40Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -293,13 +293,13 @@ Auto-generated on 2026-05-25T03:22:38Z
 | [spring-ai-community/spring-ai-tool-search-tool](https://github.com/spring-ai-community/spring-ai-tool-search-tool) | Dynamic tool discovery and selection for Spring AI, enabling LLMs to work efficiently with large tool libraries by discovering tools on-demand instead of loading all definitions upfront. | [agentic-ai](https://github.com/topics/agentic-ai), [spring-ai](https://github.com/topics/spring-ai), [tool-calling](https://github.com/topics/tool-calling) |
 | [spring-attic/spring-cloud-dataflow](https://github.com/spring-attic/spring-cloud-dataflow) | A microservices-based Streaming and Batch data processing in Cloud Foundry and Kubernetes | [batch-processing](https://github.com/topics/batch-processing), [cloud-native](https://github.com/topics/cloud-native), [datapipelines](https://github.com/topics/datapipelines) |
 | [spring-attic/spring-cloud-security](https://github.com/spring-attic/spring-cloud-security) | Security concerns for distributed applications implemented in Spring | [cloud-native](https://github.com/topics/cloud-native), [feign](https://github.com/topics/feign), [java](https://github.com/topics/java) |
+| [spring-attic/spring-cloud-sleuth](https://github.com/spring-attic/spring-cloud-sleuth) | Distributed tracing for spring cloud | [cloud-native](https://github.com/topics/cloud-native), [distributed-tracing](https://github.com/topics/distributed-tracing), [instrumentation](https://github.com/topics/instrumentation) |
 | [spring-attic/spring-native](https://github.com/spring-attic/spring-native) | Spring Native is now superseded by Spring Boot 3 official native support | [graalvm](https://github.com/topics/graalvm), [native](https://github.com/topics/native), [serverless](https://github.com/topics/serverless) |
 | [spring-cloud-samples/spring-cloud-contract-samples](https://github.com/spring-cloud-samples/spring-cloud-contract-samples) | Samples for Spring Cloud Contract project |  |
 | [spring-cloud/spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) |  |  |
 | [spring-cloud/spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) | An API Gateway built on Spring Framework and Spring Boot providing routing and more. | [api-gateway](https://github.com/topics/api-gateway), [java](https://github.com/topics/java), [microservices](https://github.com/topics/microservices) |
 | [spring-cloud/spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes) | Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc... | [cloud-native](https://github.com/topics/cloud-native), [java](https://github.com/topics/java), [kubernetes](https://github.com/topics/kubernetes) |
 | [spring-cloud/spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) | Integration with Netflix OSS components | [cloud-native](https://github.com/topics/cloud-native), [feign](https://github.com/topics/feign), [java](https://github.com/topics/java) |
-| [spring-cloud/spring-cloud-sleuth](https://github.com/spring-cloud/spring-cloud-sleuth) | Distributed tracing for spring cloud | [cloud-native](https://github.com/topics/cloud-native), [distributed-tracing](https://github.com/topics/distributed-tracing), [instrumentation](https://github.com/topics/instrumentation) |
 | [spring-guides/gs-rest-service](https://github.com/spring-guides/gs-rest-service) | Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring. | [spring-boot](https://github.com/topics/spring-boot) |
 | [spring-io/initializr](https://github.com/spring-io/initializr) | A quickstart generator for Spring projects |  |
 | [spring-petclinic/spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices) | Distributed version of Spring Petclinic built with Spring Cloud | [chaos-monkey](https://github.com/topics/chaos-monkey), [docker](https://github.com/topics/docker), [eureka](https://github.com/topics/eureka) |
