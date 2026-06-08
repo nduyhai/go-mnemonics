@@ -202,7 +202,7 @@
   {
     "name": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
-    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "description": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -252,7 +252,7 @@
     "name": "tractorjuice/arc-kit",
     "url": "https://github.com/tractorjuice/arc-kit",
     "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants",
-    "language": "HTML",
+    "language": "JavaScript",
     "topics": []
   },
   {
@@ -372,10 +372,10 @@
       "database",
       "dbt",
       "delta-lake",
-      "elt",
       "hudi",
       "iceberg",
       "lakehouse",
+      "observability",
       "olap",
       "paimon",
       "query-engine",
@@ -759,8 +759,8 @@
     ]
   },
   {
-    "name": "alibaba/OpenSandbox",
-    "url": "https://github.com/alibaba/OpenSandbox",
+    "name": "opensandbox-group/OpenSandbox",
+    "url": "https://github.com/opensandbox-group/OpenSandbox",
     "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
     "language": "Python",
     "topics": [
@@ -1923,8 +1923,8 @@
     "topics": []
   },
   {
-    "name": "google/A2UI",
-    "url": "https://github.com/google/A2UI",
+    "name": "a2ui-project/a2ui",
+    "url": "https://github.com/a2ui-project/a2ui",
     "description": "",
     "language": "TypeScript",
     "topics": []
@@ -4147,7 +4147,7 @@
   {
     "name": "bluenviron/mediamtx",
     "url": "https://github.com/bluenviron/mediamtx",
-    "description": "Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+    "description": "Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams.",
     "language": "Go",
     "topics": [
       "go",
@@ -5167,7 +5167,7 @@
   {
     "name": "micro/go-micro",
     "url": "https://github.com/micro/go-micro",
-    "description": "A Go microservices framework",
+    "description": "A Go framework for services and agents",
     "language": "Go",
     "topics": [
       "distributed-systems",
@@ -7779,7 +7779,7 @@
   {
     "name": "redisson/redisson",
     "url": "https://github.com/redisson/redisson",
-    "description": "Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+    "description": "Redisson: Valkey \u0026 Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
     "language": "Java",
     "topics": [
       "cache",
@@ -8105,8 +8105,8 @@
     ]
   },
   {
-    "name": "containers/podman",
-    "url": "https://github.com/containers/podman",
+    "name": "podman-container-tools/podman",
+    "url": "https://github.com/podman-container-tools/podman",
     "description": "Podman: A tool for managing OCI containers and pods.",
     "language": "Go",
     "topics": [
@@ -8957,7 +8957,7 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "topics": [
       "deepseek",
@@ -12041,7 +12041,7 @@
   {
     "name": "open-metadata/OpenMetadata",
     "url": "https://github.com/open-metadata/OpenMetadata",
-    "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+    "description": "The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents.",
     "language": "TypeScript",
     "topics": [
       "context",

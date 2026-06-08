@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-06-01T03:23:40Z
+Auto-generated on 2026-06-08T03:23:06Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -270,7 +270,7 @@ Auto-generated on 2026-06-01T03:23:40Z
 | [redis/jedis](https://github.com/redis/jedis) | Redis Java client | [java](https://github.com/topics/java), [jedis](https://github.com/topics/jedis), [redis](https://github.com/topics/redis) |
 | [redis/lettuce](https://github.com/redis/lettuce) | Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs. | [asynchronous](https://github.com/topics/asynchronous), [aws-elasticache](https://github.com/topics/aws-elasticache), [azure-redis-cache](https://github.com/topics/azure-redis-cache) |
 | [redis/redis-om-spring](https://github.com/redis/redis-om-spring) | Spring Data Redis extensions for better search, documents models, and more | [java](https://github.com/topics/java), [redis](https://github.com/topics/redis), [spring](https://github.com/topics/spring) |
-| [redisson/redisson](https://github.com/redisson/redisson) | Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. | [cache](https://github.com/topics/cache), [distributed](https://github.com/topics/distributed), [distributed-locks](https://github.com/topics/distributed-locks) |
+| [redisson/redisson](https://github.com/redisson/redisson) | Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache.. | [cache](https://github.com/topics/cache), [distributed](https://github.com/topics/distributed), [distributed-locks](https://github.com/topics/distributed-locks) |
 | [remkop/picocli](https://github.com/remkop/picocli) | Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.  | [annotations](https://github.com/topics/annotations), [ansi](https://github.com/topics/ansi), [ansi-colors](https://github.com/topics/ansi-colors) |
 | [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) | Resilience4j is a fault tolerance library designed for Java8 and functional programming | [bulkhead](https://github.com/topics/bulkhead), [circuitbreaker](https://github.com/topics/circuitbreaker), [metrics](https://github.com/topics/metrics) |
 | [rsocket/rsocket-java](https://github.com/rsocket/rsocket-java) | Java implementation of RSocket | [aeron](https://github.com/topics/aeron), [java](https://github.com/topics/java), [netty](https://github.com/topics/netty) |
