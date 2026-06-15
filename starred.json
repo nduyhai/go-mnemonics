@@ -188,7 +188,7 @@
   {
     "name": "Hmbown/CodeWhale",
     "url": "https://github.com/Hmbown/CodeWhale",
-    "description": "DeepSeek + MiMo coding agent in terminal",
+    "description": "Open-source, community-driven agent harness",
     "language": "Rust",
     "topics": [
       "cli",
@@ -437,7 +437,7 @@
   {
     "name": "ultraworkers/claw-code",
     "url": "https://github.com/ultraworkers/claw-code",
-    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
     "language": "Rust",
     "topics": []
   },
@@ -445,7 +445,7 @@
     "name": "leapmux/leapmux",
     "url": "https://github.com/leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
       "acp",
       "ai-agent",
@@ -622,7 +622,7 @@
     "name": "thedotmack/claude-mem",
     "url": "https://github.com/thedotmack/claude-mem",
     "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": [
       "ai",
       "ai-agents",
@@ -7969,7 +7969,6 @@
     "language": "Java",
     "topics": [
       "artificial-intelligence",
-      "hacktoberfest",
       "java",
       "spring-ai"
     ]
@@ -11485,18 +11484,25 @@
     "description": "Event Driven Orchestration \u0026 Scheduling Platform for Mission Critical Applications",
     "language": "Java",
     "topics": [
+      "ai-agents",
       "automation",
+      "control-plane",
+      "data-engineering",
       "data-orchestration",
+      "data-orchestrator",
       "devops",
+      "etl",
       "hacktoberfest",
       "high-availability",
+      "infra-automation",
+      "infra-ops",
       "infrastructure-as-code",
       "java",
       "low-code",
-      "lowcode",
       "orchestration",
       "pipeline",
       "pipeline-as-code",
+      "scheduler",
       "workflow"
     ]
   },
@@ -13100,7 +13106,9 @@
       "key-value-store",
       "nosql",
       "persistent-storage",
-      "search-engine"
+      "search-engine",
+      "semantic-search",
+      "vector-database"
     ]
   },
   {
@@ -19333,8 +19341,8 @@
     ]
   },
   {
-    "name": "facebook/react",
-    "url": "https://github.com/facebook/react",
+    "name": "react/react",
+    "url": "https://github.com/react/react",
     "description": "The library for web and native user interfaces.",
     "language": "JavaScript",
     "topics": [
@@ -21085,8 +21093,8 @@
     "topics": []
   },
   {
-    "name": "keon/bitkit",
-    "url": "https://github.com/keon/bitkit",
+    "name": "keon/browser-control",
+    "url": "https://github.com/keon/browser-control",
     "description": "High-performance, width-aware bit manipulation around a single Bits\u003cT\u003e newtype.",
     "language": "Rust",
     "topics": [

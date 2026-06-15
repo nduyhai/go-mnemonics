@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-06-08T03:23:06Z
+Auto-generated on 2026-06-15T03:23:50Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -206,7 +206,7 @@ Auto-generated on 2026-06-08T03:23:06Z
 | [jspecify/jspecify](https://github.com/jspecify/jspecify) | An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. | [android](https://github.com/topics/android), [annotations](https://github.com/topics/annotations), [bugfinding](https://github.com/topics/bugfinding) |
 | [junit-team/junit-framework](https://github.com/junit-team/junit-framework) | ✅ The programmer-friendly testing framework for Java and the JVM | [java](https://github.com/topics/java), [junit](https://github.com/topics/junit), [junit-jupiter](https://github.com/topics/junit-jupiter) |
 | [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. |  |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | [automation](https://github.com/topics/automation), [data-orchestration](https://github.com/topics/data-orchestration), [devops](https://github.com/topics/devops) |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | [ai-agents](https://github.com/topics/ai-agents), [automation](https://github.com/topics/automation), [control-plane](https://github.com/topics/control-plane) |
 | [keva-dev/keva-ioc](https://github.com/keva-dev/keva-ioc) | Fast, lightweight, Spring like, annotation driven IoC framework | [dependency-injection](https://github.com/topics/dependency-injection), [ioc-framework](https://github.com/topics/ioc-framework) |
 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applications and Services | [keycloak](https://github.com/topics/keycloak), [oidc](https://github.com/topics/oidc), [saml](https://github.com/topics/saml) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | Kroxylicious, the snappy open source proxy for Apache Kafka® | [apache-kafka](https://github.com/topics/apache-kafka), [java](https://github.com/topics/java), [kafka](https://github.com/topics/kafka) |
@@ -304,7 +304,7 @@ Auto-generated on 2026-06-08T03:23:06Z
 | [spring-io/initializr](https://github.com/spring-io/initializr) | A quickstart generator for Spring projects |  |
 | [spring-petclinic/spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices) | Distributed version of Spring Petclinic built with Spring Cloud | [chaos-monkey](https://github.com/topics/chaos-monkey), [docker](https://github.com/topics/docker), [eureka](https://github.com/topics/eureka) |
 | [spring-projects-experimental/spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) | Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot | [automation](https://github.com/topics/automation), [cli](https://github.com/topics/cli), [migration-tool](https://github.com/topics/migration-tool) |
-| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | An Application Framework for AI Engineering | [artificial-intelligence](https://github.com/topics/artificial-intelligence), [hacktoberfest](https://github.com/topics/hacktoberfest), [java](https://github.com/topics/java) |
+| [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | An Application Framework for AI Engineering | [artificial-intelligence](https://github.com/topics/artificial-intelligence), [java](https://github.com/topics/java), [spring-ai](https://github.com/topics/spring-ai) |
 | [spring-projects/spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) |  | [ai](https://github.com/topics/ai), [spring](https://github.com/topics/spring) |
 | [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) | Spring Authorization Server |  |
 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | [framework](https://github.com/topics/framework), [java](https://github.com/topics/java), [spring](https://github.com/topics/spring) |

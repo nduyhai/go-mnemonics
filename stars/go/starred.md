@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-06-08T03:23:06Z
+Auto-generated on 2026-06-15T03:23:50Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -274,6 +274,7 @@ Auto-generated on 2026-06-08T03:23:06Z
 | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization API and runtime in order to define and manage virtual machines. | [hacktoberfest](https://github.com/topics/hacktoberfest), [kubernetes](https://github.com/topics/kubernetes), [libvirt](https://github.com/topics/libvirt) |
 | [kumahq/kuma](https://github.com/kumahq/kuma) | 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project. | [apis](https://github.com/topics/apis), [cloud-native](https://github.com/topics/cloud-native), [cncf](https://github.com/topics/cncf) |
 | [labstack/echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework | [echo](https://github.com/topics/echo), [go](https://github.com/topics/go), [http2](https://github.com/topics/http2) |
+| [leapmux/leapmux](https://github.com/leapmux/leapmux) | AI Coding Agent Multiplexer | [acp](https://github.com/topics/acp), [ai-agent](https://github.com/topics/ai-agent), [ai-agent-tools](https://github.com/topics/ai-agent-tools) |
 | [leonhfr/transactioncheck](https://github.com/leonhfr/transactioncheck) | I shipped a transaction bug, so I built a linter | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [linter](https://github.com/topics/linter) |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers | [containerd](https://github.com/topics/containerd), [lima-vm](https://github.com/topics/lima-vm), [macos](https://github.com/topics/macos) |
 | [linkedin/Burrow](https://github.com/linkedin/Burrow) | Kafka Consumer Lag Checking |  |
