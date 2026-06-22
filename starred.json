@@ -244,7 +244,7 @@
   {
     "name": "abhigyanpatwari/GitNexus",
     "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
     "language": "TypeScript",
     "topics": []
   },
@@ -253,14 +253,44 @@
     "url": "https://github.com/tractorjuice/arc-kit",
     "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants",
     "language": "JavaScript",
-    "topics": []
+    "topics": [
+      "ai-agents",
+      "ai-governance",
+      "architecture-decision-records",
+      "architecture-governance",
+      "arckit",
+      "claude-code",
+      "codex-cli",
+      "compliance",
+      "enterprise-architecture",
+      "gemini-cli",
+      "github-copilot",
+      "govtech",
+      "mcp",
+      "model-context-protocol",
+      "opencode",
+      "procurement",
+      "public-sector",
+      "requirements-engineering",
+      "software-architecture",
+      "traceability"
+    ]
   },
   {
     "name": "obra/superpowers",
     "url": "https://github.com/obra/superpowers",
     "description": "An agentic skills framework \u0026 software development methodology that works.",
     "language": "Shell",
-    "topics": []
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
   },
   {
     "name": "jorgebmann/pyturboquant",
@@ -4795,6 +4825,7 @@
       "authentication",
       "authorization",
       "fido2",
+      "fips-140-3",
       "identity",
       "login",
       "mfa",
@@ -5167,15 +5198,17 @@
   {
     "name": "micro/go-micro",
     "url": "https://github.com/micro/go-micro",
-    "description": "A Go framework for services and agents",
+    "description": "A Go framework for agents and services",
     "language": "Go",
     "topics": [
+      "ai",
+      "ai-agents",
       "distributed-systems",
       "go",
       "golang",
+      "mcp",
       "micro",
-      "microservices",
-      "rpc"
+      "microservices"
     ]
   },
   {
@@ -6127,7 +6160,7 @@
   {
     "name": "littlehorse-enterprises/littlehorse",
     "url": "https://github.com/littlehorse-enterprises/littlehorse",
-    "description": "LittleHorse Server: the Workflow Engine for Microservice Orchestration \u0026 Business-as-Code",
+    "description": "LittleHorse Server: Workflow Engine for Microservice Orchestration \u0026 Business-as-Code, and the core of the Saddle Command Center",
     "language": "Java",
     "topics": [
       "apache-kafka",
@@ -10107,7 +10140,9 @@
     "url": "https://github.com/haunt98/bumper-go",
     "description": "",
     "language": "Go",
-    "topics": []
+    "topics": [
+      "go"
+    ]
   },
   {
     "name": "SigNoz/signoz",
@@ -11723,8 +11758,8 @@
     ]
   },
   {
-    "name": "bitnami-labs/sealed-secrets",
-    "url": "https://github.com/bitnami-labs/sealed-secrets",
+    "name": "bitnami/sealed-secrets",
+    "url": "https://github.com/bitnami/sealed-secrets",
     "description": "A Kubernetes controller and tool for one-way encrypted Secrets",
     "language": "Go",
     "topics": [
@@ -12615,7 +12650,7 @@
     "name": "owncast/owncast",
     "url": "https://github.com/owncast/owncast",
     "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
-    "language": "Go",
+    "language": "HTML",
     "topics": [
       "activitypub",
       "broadcasting",
@@ -16915,7 +16950,7 @@
     "name": "netdata/netdata",
     "url": "https://github.com/netdata/netdata",
     "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-    "language": "C",
+    "language": "Go",
     "topics": [
       "ai",
       "alerting",
@@ -21095,14 +21130,12 @@
   {
     "name": "keon/browser-control",
     "url": "https://github.com/keon/browser-control",
-    "description": "High-performance, width-aware bit manipulation around a single Bits\u003cT\u003e newtype.",
+    "description": "A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents.",
     "language": "Rust",
     "topics": [
-      "bit-manipulation",
-      "bmi2",
-      "morton",
-      "pdep",
-      "pext",
+      "agent",
+      "browser-automation",
+      "llm",
       "rust"
     ]
   },

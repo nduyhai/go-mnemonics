@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-06-15T03:23:50Z
+Auto-generated on 2026-06-22T03:23:19Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -39,7 +39,7 @@ Auto-generated on 2026-06-15T03:23:50Z
 | [juspay/decision-engine](https://github.com/juspay/decision-engine) | open-source routing system designed for payment processing | [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation | [adyen](https://github.com/topics/adyen), [beginner-friendly](https://github.com/topics/beginner-friendly), [featured](https://github.com/topics/featured) |
 | [juspay/hyperswitch-prism](https://github.com/juspay/hyperswitch-prism) | One library | Many payment processors | Scale to multiple processors with few lines of code. | [authorize-net](https://github.com/topics/authorize-net), [braintree](https://github.com/topics/braintree), [node](https://github.com/topics/node) |
-| [keon/browser-control](https://github.com/keon/browser-control) | High-performance, width-aware bit manipulation around a single Bits<T> newtype. | [bit-manipulation](https://github.com/topics/bit-manipulation), [bmi2](https://github.com/topics/bmi2), [morton](https://github.com/topics/morton) |
+| [keon/browser-control](https://github.com/keon/browser-control) | A tiny, fast Rust CLI that drives a real browser over the Chrome DevTools Protocol — built for coding agents. | [agent](https://github.com/topics/agent), [browser-automation](https://github.com/topics/browser-automation), [llm](https://github.com/topics/llm) |
 | [lapce/lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust | [code-editor](https://github.com/topics/code-editor), [developer-tools](https://github.com/topics/developer-tools), [rust](https://github.com/topics/rust) |
 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. | [ai](https://github.com/topics/ai), [api](https://github.com/topics/api), [app-search](https://github.com/topics/app-search) |
 | [memvid/memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | [ai](https://github.com/topics/ai), [context](https://github.com/topics/context), [embedded](https://github.com/topics/embedded) |
