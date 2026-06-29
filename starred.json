@@ -27,7 +27,7 @@
       "go",
       "latency",
       "redis-ha",
-      "singlefile"
+      "singleflight"
     ]
   },
   {
@@ -202,7 +202,7 @@
   {
     "name": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
-    "description": "🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -475,7 +475,7 @@
     "name": "leapmux/leapmux",
     "url": "https://github.com/leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "language": "Go",
+    "language": "TypeScript",
     "topics": [
       "acp",
       "ai-agent",
@@ -2099,10 +2099,7 @@
     "url": "https://github.com/microsoft/windows-rs",
     "description": "Rust for Windows",
     "language": "Rust",
-    "topics": [
-      "rust",
-      "windows"
-    ]
+    "topics": []
   },
   {
     "name": "arconia-io/arconia",
@@ -4608,7 +4605,7 @@
     "name": "infiniflow/ragflow",
     "url": "https://github.com/infiniflow/ragflow",
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-    "language": "Python",
+    "language": "Go",
     "topics": [
       "agentic-ai",
       "agentic-retrieval",
@@ -5198,7 +5195,7 @@
   {
     "name": "micro/go-micro",
     "url": "https://github.com/micro/go-micro",
-    "description": "A Go framework for agents and services",
+    "description": "A Go agent harness and service framework",
     "language": "Go",
     "topics": [
       "ai",
@@ -8841,6 +8838,8 @@
       "mcp-gateway",
       "openai",
       "openai-proxy",
+      "rust",
+      "rust-ai",
       "vertex-ai"
     ]
   },
@@ -18137,8 +18136,8 @@
     "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
     "language": "C++",
     "topics": [
+      "ai-driven",
       "audio",
-      "c",
       "c-plus-plus",
       "dash",
       "hevc",

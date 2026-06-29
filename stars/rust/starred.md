@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-06-22T03:23:19Z
+Auto-generated on 2026-06-29T03:22:41Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -45,7 +45,7 @@ Auto-generated on 2026-06-22T03:23:19Z
 | [memvid/memvid](https://github.com/memvid/memvid) | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. | [ai](https://github.com/topics/ai), [context](https://github.com/topics/context), [embedded](https://github.com/topics/embedded) |
 | [microsoft/RustTraining](https://github.com/microsoft/RustTraining) | Beginner, advanced, expert level Rust training material |  |
 | [microsoft/litebox](https://github.com/microsoft/litebox) | A security-focused library OS supporting kernel- and user-mode execution |  |
-| [microsoft/windows-rs](https://github.com/microsoft/windows-rs) | Rust for Windows | [rust](https://github.com/topics/rust), [windows](https://github.com/topics/windows) |
+| [microsoft/windows-rs](https://github.com/microsoft/windows-rs) | Rust for Windows |  |
 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions | [codegen](https://github.com/topics/codegen), [documentation](https://github.com/topics/documentation), [observability](https://github.com/topics/observability) |
 | [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal |  |
 | [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) | The Parity Polkadot Blockchain SDK | [blockchain](https://github.com/topics/blockchain), [cumulus](https://github.com/topics/cumulus), [polkadot](https://github.com/topics/polkadot) |
