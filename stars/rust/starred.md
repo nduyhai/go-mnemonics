@@ -1,10 +1,10 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-06-29T03:22:41Z
+Auto-generated on 2026-07-06T03:17:41Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Coding Agent Harness | [ai](https://github.com/topics/ai), [claude](https://github.com/topics/claude), [cli](https://github.com/topics/cli) |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Coding Agent Harness | [ai](https://github.com/topics/ai), [ai-agent](https://github.com/topics/ai-agent), [ai-coding-agent](https://github.com/topics/ai-coding-agent) |
 | [AzureMarker/shaku](https://github.com/AzureMarker/shaku) | Compile Time Dependency lnjection Library for Rust |  |
 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | [agent](https://github.com/topics/agent), [ai-agents](https://github.com/topics/ai-agents), [kanban](https://github.com/topics/kanban) |
 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [command-line-tool](https://github.com/topics/command-line-tool) |

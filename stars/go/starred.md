@@ -1,11 +1,11 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-06-29T03:22:41Z
+Auto-generated on 2026-07-06T03:17:41Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
 | [0x48core/go-latency](https://github.com/0x48core/go-latency) | Go experiments for learning latency and performance in platform and distributed systems. | [cache-stampede-protection](https://github.com/topics/cache-stampede-protection), [distributed-systems](https://github.com/topics/distributed-systems), [go](https://github.com/topics/go) |
-| [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | Yet another WebUI for Nginx | [chatgpt-app](https://github.com/topics/chatgpt-app), [code-completion](https://github.com/topics/code-completion), [copilot](https://github.com/topics/copilot) |
+| [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | Yet another WebUI for Nginx | [code-completion](https://github.com/topics/code-completion), [copilot](https://github.com/topics/copilot), [cron](https://github.com/topics/cron) |
 | [Azure/golua](https://github.com/Azure/golua) | A Lua 5.3 engine implemented in Go |  |
 | [BambooEngine/ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo) | Bộ gõ tiếng Việt cho Linux |  |
 | [Bearer/bearer](https://github.com/Bearer/bearer) | Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks. | [appsec](https://github.com/topics/appsec), [code-quality](https://github.com/topics/code-quality), [compliance](https://github.com/topics/compliance) |
@@ -160,7 +160,7 @@ Auto-generated on 2026-06-29T03:22:41Z
 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | Your ultimate Go microservices framework for the cloud-native era. | [ai](https://github.com/topics/ai), [architecture](https://github.com/topics/architecture), [cloud-native](https://github.com/topics/cloud-native) |
 | [go-logr/logr](https://github.com/go-logr/logr) | A simple logging interface for Go | [logger](https://github.com/topics/logger), [logging](https://github.com/topics/logging) |
 | [go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql) | a powerful mysql toolset with Go |  |
-| [go-pay/gopay](https://github.com/go-pay/gopay) | 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】 | [alipay](https://github.com/topics/alipay), [allinpay](https://github.com/topics/allinpay), [apple](https://github.com/topics/apple) |
+| [go-pay/gopay](https://github.com/go-pay/gopay) | 微信、支付宝、抖音、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】 | [alipay](https://github.com/topics/alipay), [allinpay](https://github.com/topics/allinpay), [apple](https://github.com/topics/apple) |
 | [go-playground/validator](https://github.com/go-playground/validator) | :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving | [error-handling](https://github.com/topics/error-handling), [translation](https://github.com/topics/translation), [validation](https://github.com/topics/validation) |
 | [go-redis/redis_rate](https://github.com/go-redis/redis_rate) | Rate limiting for go-redis | [gcra](https://github.com/topics/gcra), [leaky-bucket](https://github.com/topics/leaky-bucket), [rate-limiting](https://github.com/topics/rate-limiting) |
 | [go-redsync/redsync](https://github.com/go-redsync/redsync) | Distributed mutual exclusion lock using Redis for Go |  |
@@ -406,7 +406,7 @@ Auto-generated on 2026-06-29T03:22:41Z
 | [temporalio/temporal](https://github.com/temporalio/temporal) | Temporal service | [cronjob-scheduler](https://github.com/topics/cronjob-scheduler), [distributed-cron](https://github.com/topics/distributed-cron), [distributed-systems](https://github.com/topics/distributed-systems) |
 | [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) | Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. | [automation](https://github.com/topics/automation), [docker](https://github.com/topics/docker), [go](https://github.com/topics/go) |
 | [thanos-io/thanos](https://github.com/thanos-io/thanos) | Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. | [cncf](https://github.com/topics/cncf), [go](https://github.com/topics/go), [google-cloud-storage](https://github.com/topics/google-cloud-storage) |
-| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️ | [beginner-friendly](https://github.com/topics/beginner-friendly), [continuous-delivery](https://github.com/topics/continuous-delivery), [continuous-deployment](https://github.com/topics/continuous-deployment) |
+| [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) | GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️ | [beginner-friendly](https://github.com/topics/beginner-friendly), [continuous-delivery](https://github.com/topics/continuous-delivery), [continuous-deployment](https://github.com/topics/continuous-deployment) |
 | [throttled/throttled](https://github.com/throttled/throttled) | Package throttled implements rate limiting access to resources such as HTTP endpoints. |  |
 | [tidwall/gjson](https://github.com/tidwall/gjson) | Get JSON values quickly - JSON parser for Go | [golang](https://github.com/topics/golang), [json](https://github.com/topics/json), [json-parser](https://github.com/topics/json-parser) |
 | [tidwall/tile38](https://github.com/tidwall/tile38) | Real-time Geospatial and Geofencing | [database](https://github.com/topics/database), [geo](https://github.com/topics/geo), [geofences](https://github.com/topics/geofences) |

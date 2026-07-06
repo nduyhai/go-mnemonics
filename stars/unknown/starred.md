@@ -1,6 +1,6 @@
 # 🌟 Unknown Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-06-29T03:22:41Z
+Auto-generated on 2026-07-06T03:17:41Z
 
 | Name | Description | Language | Topics |
 |------|-------------|----------|-------|
@@ -517,6 +517,7 @@ Auto-generated on 2026-06-29T03:22:41Z
 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for building trusted data context and business semantics for humans, AI assistants, and agents. | TypeScript | [context](https://github.com/topics/context), [context-layer](https://github.com/topics/context-layer), [data-catalog](https://github.com/topics/data-catalog) |
 | [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) | 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋 | Unknown | [community](https://github.com/topics/community), [hacktoberfest](https://github.com/topics/hacktoberfest), [ideas](https://github.com/topics/ideas) |
 | [openai/baselines](https://github.com/openai/baselines) | OpenAI Baselines: high-quality implementations of reinforcement learning algorithms | Python |  |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks. | JavaScript |  |
 | [openai/gpt-2](https://github.com/openai/gpt-2) | Code for the paper "Language Models are Unsupervised Multitask Learners" | Python | [paper](https://github.com/topics/paper) |
 | [openai/skills](https://github.com/openai/skills) | Skills Catalog for Codex | Python |  |
 | [openai/spinningup](https://github.com/openai/spinningup) | An educational resource to help anyone learn deep reinforcement learning. | Python |  |
@@ -585,7 +586,7 @@ Auto-generated on 2026-06-29T03:22:41Z
 | [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala | Scala | [git](https://github.com/topics/git) |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | LlamaIndex is the leading document agent and OCR platform | Python | [agents](https://github.com/topics/agents), [application](https://github.com/topics/application), [data](https://github.com/topics/data) |
 | [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) | Minimal and clean examples of machine learning algorithms implementations | Python | [deep-learning](https://github.com/topics/deep-learning), [machine-learning](https://github.com/topics/machine-learning), [machine-learning-algorithms](https://github.com/topics/machine-learning-algorithms) |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration | TypeScript | [agentic-ai](https://github.com/topics/agentic-ai), [agentic-framework](https://github.com/topics/agentic-framework), [agentic-rag](https://github.com/topics/agentic-rag) |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated | TypeScript | [agentic-ai](https://github.com/topics/agentic-ai), [agentic-framework](https://github.com/topics/agentic-framework), [agentic-rag](https://github.com/topics/agentic-rag) |
 | [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) | A list of engineering manager resource links. | JavaScript |  |
 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean Code concepts adapted for JavaScript | JavaScript | [best-practices](https://github.com/topics/best-practices), [clean-architecture](https://github.com/topics/clean-architecture), [clean-code](https://github.com/topics/clean-code) |
 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | CSS | [font](https://github.com/topics/font), [font-awesome](https://github.com/topics/font-awesome), [fonts](https://github.com/topics/fonts) |

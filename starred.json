@@ -1,5 +1,12 @@
 [
   {
+    "name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "description": "Use Codex from Claude Code to review code or delegate tasks.",
+    "language": "JavaScript",
+    "topics": []
+  },
+  {
     "name": "namastack/namastack-outbox",
     "url": "https://github.com/namastack/namastack-outbox",
     "description": "Outbox Implementation for Spring Boot",
@@ -159,6 +166,8 @@
     "language": "Rust",
     "topics": [
       "ai",
+      "ai-agent",
+      "ai-coding-agent",
       "claude",
       "cli",
       "coding-agent",
@@ -202,7 +211,7 @@
   {
     "name": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
-    "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "language": "TypeScript",
     "topics": [
       "agentic-ai",
@@ -3107,7 +3116,7 @@
   {
     "name": "thomaspoignant/go-feature-flag",
     "url": "https://github.com/thomaspoignant/go-feature-flag",
-    "description": "GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️",
+    "description": "GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature 🎛️",
     "language": "Go",
     "topics": [
       "beginner-friendly",
@@ -4351,20 +4360,19 @@
   {
     "name": "go-pay/gopay",
     "url": "https://github.com/go-pay/gopay",
-    "description": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】",
+    "description": "微信、支付宝、抖音、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】",
     "language": "Go",
     "topics": [
       "alipay",
       "allinpay",
       "apple",
+      "douyin",
       "golang",
       "gopay",
       "lakala",
       "pay",
       "paypal",
-      "saobei",
-      "wechat",
-      "weixin"
+      "wechat"
     ]
   },
   {
@@ -7660,11 +7668,9 @@
     "description": "Yet another WebUI for Nginx",
     "language": "Go",
     "topics": [
-      "chatgpt-app",
       "code-completion",
       "copilot",
       "cron",
-      "deepseek-r1",
       "docker",
       "go",
       "letsencrypt",
