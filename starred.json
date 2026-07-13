@@ -216,7 +216,6 @@
     "topics": [
       "agentic-ai",
       "agentic-framework",
-      "agentic-rag",
       "agentic-workflow",
       "agents",
       "ai-agents",
@@ -226,6 +225,7 @@
       "autonomous-agents",
       "claude-code",
       "codex",
+      "harness",
       "mcp-server",
       "multi-agent",
       "multi-agent-systems",
@@ -402,14 +402,13 @@
   {
     "name": "apache/doris",
     "url": "https://github.com/apache/doris",
-    "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
     "language": "Java",
     "topics": [
       "agent",
       "ai",
       "bigquery",
       "database",
-      "dbt",
       "delta-lake",
       "hudi",
       "iceberg",
@@ -420,9 +419,10 @@
       "query-engine",
       "real-time",
       "redshift",
+      "search",
       "snowflake",
-      "spark",
-      "sql"
+      "sql",
+      "vector"
     ]
   },
   {
@@ -497,7 +497,6 @@
       "cursor",
       "cursor-ai",
       "cursor-cli",
-      "gemini-cli",
       "goose",
       "kilo",
       "kilo-code",
@@ -505,7 +504,8 @@
       "multi-agent",
       "opencode",
       "opencode-ai",
-      "pi-coding-agent"
+      "pi-coding-agent",
+      "reasonix"
     ]
   },
   {
@@ -623,13 +623,17 @@
   {
     "name": "agentscope-ai/agentscope-java",
     "url": "https://github.com/agentscope-ai/agentscope-java",
-    "description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
+    "description": "Build distributed, production-grade, long-running agents.",
     "language": "Java",
     "topics": [
+      "adk",
       "agent",
+      "agent-framework",
       "agentic",
       "agentic-ai",
+      "agentscope",
       "ai",
+      "harness",
       "llm"
     ]
   },
@@ -763,7 +767,7 @@
   {
     "name": "Ed1s0nZ/CyberStrikeAI",
     "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+    "description": "Agentic execution layer for modern cyber security, turning security intent into precise, governed, auditable action through AI agents, MCP-native tools, knowledge, approvals, and attack-chain context.",
     "language": "Go",
     "topics": [
       "ai",
@@ -1217,7 +1221,7 @@
     "name": "mem0ai/mem0",
     "url": "https://github.com/mem0ai/mem0",
     "description": "Universal memory layer for AI Agents",
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "agents",
       "ai",
@@ -12655,7 +12659,7 @@
     "name": "owncast/owncast",
     "url": "https://github.com/owncast/owncast",
     "description": "Take control over your live stream video by running it yourself.  Streaming + chat out of the box.",
-    "language": "HTML",
+    "language": "Go",
     "topics": [
       "activitypub",
       "broadcasting",
