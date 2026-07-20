@@ -1,5 +1,14 @@
 [
   {
+    "name": "pgbouncer/pgbouncer",
+    "url": "https://github.com/pgbouncer/pgbouncer",
+    "description": "lightweight connection pooler for PostgreSQL",
+    "language": "C",
+    "topics": [
+      "postgresql"
+    ]
+  },
+  {
     "name": "openai/codex-plugin-cc",
     "url": "https://github.com/openai/codex-plugin-cc",
     "description": "Use Codex from Claude Code to review code or delegate tasks.",
@@ -767,7 +776,7 @@
   {
     "name": "Ed1s0nZ/CyberStrikeAI",
     "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "description": "Agentic execution layer for modern cyber security, turning security intent into precise, governed, auditable action through AI agents, MCP-native tools, knowledge, approvals, and attack-chain context.",
+    "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
     "language": "Go",
     "topics": [
       "ai",
@@ -1744,24 +1753,28 @@
   {
     "name": "Agenta-AI/agenta",
     "url": "https://github.com/Agenta-AI/agenta",
-    "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.",
+    "description": "The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.",
     "language": "TypeScript",
     "topics": [
+      "agent-builder",
+      "agent-observability",
+      "agent-orchestration",
+      "agent-workspace",
+      "agentic-ai",
+      "agentic-workflow",
       "agents",
-      "evaluation",
-      "llm-as-a-judge",
+      "ai-agent",
+      "ai-agents",
+      "ai-automation",
+      "ai-workflow-builder",
+      "background-agents",
+      "harness",
+      "human-in-the-loop",
       "llm-evaluation",
-      "llm-framework",
-      "llm-monitoring",
       "llm-observability",
-      "llm-platform",
-      "llm-playground",
-      "llm-tools",
-      "llmops",
-      "observability",
-      "prompt-engineering",
-      "prompt-management",
-      "rag-evaluation"
+      "mcp",
+      "open-source",
+      "self-hosted"
     ]
   },
   {
@@ -4619,13 +4632,17 @@
     "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "language": "Go",
     "topics": [
+      "agent-harness",
       "agentic-ai",
       "agentic-retrieval",
       "agentic-search",
       "ai",
       "ai-agents",
       "context-engine",
+      "context-engineering",
       "context-management",
+      "harness-engineering",
+      "knowledge-compilation",
       "llm-apps",
       "rag",
       "retrieval-augmented-generation"
@@ -4893,7 +4910,7 @@
   {
     "name": "semantic-release/semantic-release",
     "url": "https://github.com/semantic-release/semantic-release",
-    "description": ":package::rocket: Fully automated version management and package publishing",
+    "description": "📦🚀 Fully automated version management and package publishing",
     "language": "JavaScript",
     "topics": [
       "automation",
@@ -8832,7 +8849,7 @@
   {
     "name": "BerriAI/litellm",
     "url": "https://github.com/BerriAI/litellm",
-    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
     "language": "Python",
     "topics": [
       "ai-gateway",
@@ -8998,7 +9015,7 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "topics": [
       "deepseek",
@@ -10156,7 +10173,7 @@
   {
     "name": "SigNoz/signoz",
     "url": "https://github.com/SigNoz/signoz",
-    "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) \u0026 Observability tool",
+    "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
     "language": "TypeScript",
     "topics": [
       "apm",
@@ -15140,10 +15157,10 @@
     "topics": []
   },
   {
-    "name": "square/retrofit",
-    "url": "https://github.com/square/retrofit",
+    "name": "lysine-dev/retrofit",
+    "url": "https://github.com/lysine-dev/retrofit",
     "description": "A type-safe HTTP client for Android and the JVM",
-    "language": "HTML",
+    "language": "Java",
     "topics": [
       "android",
       "java"
@@ -19440,7 +19457,7 @@
     "name": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-    "language": "TypeScript",
+    "language": "Python",
     "topics": [
       "analytics",
       "apache",
@@ -20834,9 +20851,9 @@
     "topics": []
   },
   {
-    "name": "square/okhttp",
-    "url": "https://github.com/square/okhttp",
-    "description": "Square’s meticulous HTTP client for the JVM, Android, and GraalVM.",
+    "name": "lysine-dev/okhttp",
+    "url": "https://github.com/lysine-dev/okhttp",
+    "description": "A meticulous HTTP client for the JVM, Android, and GraalVM.",
     "language": "Kotlin",
     "topics": [
       "android",
@@ -20897,7 +20914,7 @@
   {
     "name": "elixir-lang/elixir",
     "url": "https://github.com/elixir-lang/elixir",
-    "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+    "description": "Simple from zero to scale",
     "language": "Elixir",
     "topics": []
   },

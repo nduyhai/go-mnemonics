@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-07-13T05:45:45Z
+Auto-generated on 2026-07-20T05:47:45Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -223,6 +223,7 @@ Auto-generated on 2026-07-13T05:45:45Z
 | [littlehorse-enterprises/littlehorse](https://github.com/littlehorse-enterprises/littlehorse) | LittleHorse Server: Workflow Engine for Microservice Orchestration & Business-as-Code, and the core of the Saddle Command Center | [apache-kafka](https://github.com/topics/apache-kafka), [business-as-code](https://github.com/topics/business-as-code), [event-driven-architecture](https://github.com/topics/event-driven-architecture) |
 | [logfellow/logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder) | Logback JSON encoder and appenders | [json](https://github.com/topics/json), [logback](https://github.com/topics/logback), [logback-appender](https://github.com/topics/logback-appender) |
 | [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) | Distributed lock for your scheduled tasks |  |
+| [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) | A type-safe HTTP client for Android and the JVM | [android](https://github.com/topics/android), [java](https://github.com/topics/java) |
 | [maciejwalkowiak/implementing-ddd-with-spring-talk](https://github.com/maciejwalkowiak/implementing-ddd-with-spring-talk) |  |  |
 | [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) | An application observability facade for the most popular observability tools. Think SLF4J, but for observability. | [cloud-native](https://github.com/topics/cloud-native), [java](https://github.com/topics/java), [metrics](https://github.com/topics/metrics) |
 | [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) | Micronaut Application Framework | [cloudnative](https://github.com/topics/cloudnative), [groovy](https://github.com/topics/groovy), [java](https://github.com/topics/java) |
