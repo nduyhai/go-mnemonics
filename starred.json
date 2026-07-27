@@ -171,7 +171,7 @@
   {
     "name": "1jehuang/jcode",
     "url": "https://github.com/1jehuang/jcode",
-    "description": "Coding Agent Harness",
+    "description": "The most RAM effiecent harness",
     "language": "Rust",
     "topics": [
       "ai",
@@ -269,7 +269,7 @@
   {
     "name": "tractorjuice/arc-kit",
     "url": "https://github.com/tractorjuice/arc-kit",
-    "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance for AI coding assistants",
+    "description": "The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants",
     "language": "JavaScript",
     "topics": [
       "ai-agents",
@@ -493,7 +493,7 @@
     "name": "leapmux/leapmux",
     "url": "https://github.com/leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
       "acp",
       "ai-agent",
@@ -1468,7 +1468,7 @@
   {
     "name": "dragonflyoss/nydus",
     "url": "https://github.com/dragonflyoss/nydus",
-    "description": "Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.",
+    "description": "Nydus - a reliable, high-performance on-demand load filesytem framework for container image and data distribution.",
     "language": "Rust",
     "topics": [
       "accelerator",
@@ -2386,7 +2386,7 @@
   {
     "name": "toon-format/toon",
     "url": "https://github.com/toon-format/toon",
-    "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.",
+    "description": "🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.",
     "language": "TypeScript",
     "topics": [
       "data-format",
@@ -8383,7 +8383,7 @@
     "name": "lancedb/lancedb",
     "url": "https://github.com/lancedb/lancedb",
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "language": "HTML",
+    "language": "Rust",
     "topics": [
       "approximate-nearest-neighbor-search",
       "image-search",
@@ -8924,7 +8924,7 @@
     "name": "deepset-ai/haystack",
     "url": "https://github.com/deepset-ai/haystack",
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
-    "language": "MDX",
+    "language": "Python",
     "topics": [
       "agent",
       "agents",
