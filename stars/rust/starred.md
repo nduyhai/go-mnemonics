@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-08-03T05:50:01Z
+Auto-generated on 2026-08-10T04:02:44Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -66,7 +66,7 @@ Auto-generated on 2026-08-03T05:50:01Z
 | [slatedb/slatedb](https://github.com/slatedb/slatedb) | A cloud native embedded storage engine built on object storage. | [database](https://github.com/topics/database), [embedded-database](https://github.com/topics/embedded-database), [lsm-tree](https://github.com/topics/lsm-tree) |
 | [starship/starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | [bash](https://github.com/topics/bash), [fish](https://github.com/topics/fish), [fish-prompt](https://github.com/topics/fish-prompt) |
 | [summer-rs/summer-rs](https://github.com/summer-rs/summer-rs) | 🍃spring-rs is a application framework written in rust inspired by java's spring-boot | [axum](https://github.com/topics/axum), [cron-job](https://github.com/topics/cron-job), [kafka](https://github.com/topics/kafka) |
-| [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) | Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. | [example](https://github.com/topics/example), [examples](https://github.com/topics/examples), [exercise](https://github.com/topics/exercise) |
+| [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) | [DEPRECATED] This repo will move into gihub.com/sunface/rust-course | [example](https://github.com/topics/example), [examples](https://github.com/topics/examples), [exercise](https://github.com/topics/exercise) |
 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | [desktop-app](https://github.com/topics/desktop-app), [high-performance](https://github.com/topics/high-performance), [mobile-app](https://github.com/topics/mobile-app) |
 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. | [ai](https://github.com/topics/ai), [ai-engineering](https://github.com/topics/ai-engineering), [anthropic](https://github.com/topics/anthropic) |
 | [tikv/tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database, originally created to complement TiDB | [cncf](https://github.com/topics/cncf), [consensus](https://github.com/topics/consensus), [distributed-transactions](https://github.com/topics/distributed-transactions) |

@@ -1,5 +1,21 @@
 [
   {
+    "name": "cvxpy/cvxpy",
+    "url": "https://github.com/cvxpy/cvxpy",
+    "description": "A Python-embedded modeling language for convex optimization problems.",
+    "language": "C++",
+    "topics": [
+      "convex-optimization",
+      "cvxpy",
+      "mathematical-optimization",
+      "modeling-language",
+      "numerical-optimization",
+      "optimization",
+      "optimization-modeling",
+      "python"
+    ]
+  },
+  {
     "name": "github/gh-stack",
     "url": "https://github.com/github/gh-stack",
     "description": "GitHub Stacked PRs",
@@ -51,7 +67,7 @@
   {
     "name": "alibaba/open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
-    "description": "Open-source \u0026 free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
     "language": "Go",
     "topics": [
       "agent",
@@ -962,7 +978,7 @@
     "name": "chatfire-AI/huobao-drama",
     "url": "https://github.com/chatfire-AI/huobao-drama",
     "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
-    "language": "TypeScript",
+    "language": "Vue",
     "topics": []
   },
   {
@@ -1171,7 +1187,7 @@
   {
     "name": "iOfficeAI/AionUi",
     "url": "https://github.com/iOfficeAI/AionUi",
-    "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+    "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
     "language": "TypeScript",
     "topics": [
       "acp",
@@ -4088,7 +4104,7 @@
   {
     "name": "cloudnative-pg/cloudnative-pg",
     "url": "https://github.com/cloudnative-pg/cloudnative-pg",
-    "description": "CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",
+    "description": "The most popular Kubernetes Operator for PostgreSQL.",
     "language": "Go",
     "topics": [
       "automated-failover",
@@ -4367,7 +4383,7 @@
   {
     "name": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
-    "description": "Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",
+    "description": "[DEPRECATED] This repo will move into gihub.com/sunface/rust-course",
     "language": "Rust",
     "topics": [
       "example",
@@ -5127,7 +5143,12 @@
     "url": "https://github.com/modelcontextprotocol/java-sdk",
     "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
     "language": "Java",
-    "topics": []
+    "topics": [
+      "java",
+      "mcp",
+      "mcp-client",
+      "mcp-server"
+    ]
   },
   {
     "name": "rtyley/bfg-repo-cleaner",
@@ -5716,6 +5737,7 @@
       "mycli",
       "mysql",
       "python",
+      "sql",
       "syntax-highlighting"
     ]
   },
@@ -6490,7 +6512,7 @@
   {
     "name": "genkit-ai/genkit",
     "url": "https://github.com/genkit-ai/genkit",
-    "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -6537,7 +6559,11 @@
     "url": "https://github.com/modelcontextprotocol/inspector",
     "description": "Visual testing tool for MCP servers",
     "language": "TypeScript",
-    "topics": []
+    "topics": [
+      "debug",
+      "mcp",
+      "tool"
+    ]
   },
   {
     "name": "connectrpc/connect-go",
@@ -8241,12 +8267,11 @@
   {
     "name": "Homebrew/homebrew-core",
     "url": "https://github.com/Homebrew/homebrew-core",
-    "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
+    "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
     "language": "Ruby",
     "topics": [
       "core",
       "formulae",
-      "hacktoberfest",
       "homebrew",
       "ruby",
       "tap"
@@ -12321,7 +12346,7 @@
   {
     "name": "ipfs/kubo",
     "url": "https://github.com/ipfs/kubo",
-    "description": "An IPFS implementation in Go",
+    "description": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
     "language": "Go",
     "topics": [
       "ipfs"
@@ -21997,7 +22022,7 @@
     "name": "mas-bandwidth/yojimbo",
     "url": "https://github.com/mas-bandwidth/yojimbo",
     "description": "A network library for client/server games written in C++",
-    "language": "C",
+    "language": "C++",
     "topics": [
       "client-server",
       "game",

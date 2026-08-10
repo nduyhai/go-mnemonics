@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-08-03T05:50:01Z
+Auto-generated on 2026-08-10T04:02:44Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -232,7 +232,7 @@ Auto-generated on 2026-08-03T05:50:01Z
 | [microsoft/malmo](https://github.com/microsoft/malmo) | Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information: |  |
 | [mirage-sql/mirage](https://github.com/mirage-sql/mirage) | Mirage-SQL - the SQL Centric Database Access Library for Java | [java](https://github.com/topics/java), [jdbc](https://github.com/topics/jdbc), [mirage-sql](https://github.com/topics/mirage-sql) |
 | [mockito/mockito](https://github.com/mockito/mockito) | Most popular Mocking framework for unit tests written in Java | [java](https://github.com/topics/java), [java-library](https://github.com/topics/java-library), [mock](https://github.com/topics/mock) |
-| [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |  |
+| [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI | [java](https://github.com/topics/java), [mcp](https://github.com/topics/mcp), [mcp-client](https://github.com/topics/mcp-client) |
 | [modelmapper/modelmapper](https://github.com/modelmapper/modelmapper) | Intelligent object mapping |  |
 | [mojohaus/flatten-maven-plugin](https://github.com/mojohaus/flatten-maven-plugin) | Flatten Maven Plugin | [flatten-maven-plugin](https://github.com/topics/flatten-maven-plugin), [java](https://github.com/topics/java), [maven](https://github.com/topics/maven) |
 | [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) | MyBatis SQL mapper framework for Java | [java](https://github.com/topics/java), [mybatis](https://github.com/topics/mybatis), [sql](https://github.com/topics/sql) |
