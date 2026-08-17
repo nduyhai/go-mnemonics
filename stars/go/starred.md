@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-08-10T04:02:44Z
+Auto-generated on 2026-08-17T03:06:59Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -83,6 +83,7 @@ Auto-generated on 2026-08-10T04:02:44Z
 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | [acme](https://github.com/topics/acme), [automatic-https](https://github.com/topics/automatic-https), [caddy](https://github.com/topics/caddy) |
 | [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) | Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. | [cadence](https://github.com/topics/cadence), [distributed-systems](https://github.com/topics/distributed-systems), [golang](https://github.com/topics/golang) |
 | [casdoor/casdoor](https://github.com/casdoor/casdoor) | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD | [agent](https://github.com/topics/agent), [agentic-ai](https://github.com/topics/agentic-ai), [agi](https://github.com/topics/agi) |
+| [cel-expr/cel-go](https://github.com/cel-expr/cel-go) | Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) | [cel](https://github.com/topics/cel), [expression](https://github.com/topics/expression), [expression-evaluator](https://github.com/topics/expression-evaluator) |
 | [centralci/go-benchmarks](https://github.com/centralci/go-benchmarks) | Collection of Go benchmarks for evaluating and comparing the performance of various Go implementations and patterns used at CentralCI.  |  |
 | [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) | A Chaos Engineering Platform for Kubernetes. | [chaos](https://github.com/topics/chaos), [chaos-engineering](https://github.com/topics/chaos-engineering), [chaos-experiments](https://github.com/topics/chaos-experiments) |
 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 | [cli](https://github.com/topics/cli), [elm-architecture](https://github.com/topics/elm-architecture), [framework](https://github.com/topics/framework) |

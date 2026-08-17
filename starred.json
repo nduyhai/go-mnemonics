@@ -1,5 +1,43 @@
 [
   {
+    "name": "cel-expr/cel-go",
+    "url": "https://github.com/cel-expr/cel-go",
+    "description": "Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)",
+    "language": "Go",
+    "topics": [
+      "cel",
+      "expression",
+      "expression-evaluator",
+      "expression-language",
+      "expression-parser",
+      "go",
+      "golang"
+    ]
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ]
+  },
+  {
+    "name": "cordiverse/cordis",
+    "url": "https://github.com/cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "language": "TypeScript",
+    "topics": [
+      "effect",
+      "framework",
+      "nodejs",
+      "plugin"
+    ]
+  },
+  {
     "name": "cvxpy/cvxpy",
     "url": "https://github.com/cvxpy/cvxpy",
     "description": "A Python-embedded modeling language for convex optimization problems.",
@@ -306,9 +344,21 @@
     "description": "Open-source, community-driven agent harness",
     "language": "Rust",
     "topics": [
+      "ai",
+      "ai-agent",
+      "alibaba-cloud",
+      "anthropic",
       "cli",
+      "coding-agent",
       "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "grok",
+      "harness",
+      "kimi",
       "llm",
+      "openai",
+      "qwen",
       "rust",
       "terminal",
       "tui"
@@ -1653,7 +1703,7 @@
   {
     "name": "warp-tech/warpgate",
     "url": "https://github.com/warp-tech/warpgate",
-    "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
+    "description": "Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software",
     "language": "Rust",
     "topics": [
       "bastion",
@@ -1865,6 +1915,7 @@
       "ai-agent",
       "ai-agents",
       "ai-automation",
+      "ai-coworker",
       "ai-skills-manager",
       "ai-workflow-builder",
       "harness",
@@ -4001,8 +4052,8 @@
     "topics": []
   },
   {
-    "name": "gophercon/talks",
-    "url": "https://github.com/gophercon/talks",
+    "name": "gophercon/2025-talks",
+    "url": "https://github.com/gophercon/2025-talks",
     "description": "GopherCon Slides",
     "language": "Unknown",
     "topics": []
@@ -4383,7 +4434,7 @@
   {
     "name": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
-    "description": "[DEPRECATED] This repo will move into gihub.com/sunface/rust-course",
+    "description": "This book was designed for easily diving into and getting skilled with Rust It's very easy to use. All you need to do is to make each exercise compile without ERRORS and Panics!",
     "language": "Rust",
     "topics": [
       "example",
@@ -5728,7 +5779,7 @@
   {
     "name": "dbcli/mycli",
     "url": "https://github.com/dbcli/mycli",
-    "description": "Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.",
+    "description": "Rich MySQL Terminal Client with AutoCompletion, Syntax Highlighting, and Dataframes",
     "language": "Python",
     "topics": [
       "auto-completion",
@@ -6560,9 +6611,12 @@
     "description": "Visual testing tool for MCP servers",
     "language": "TypeScript",
     "topics": [
+      "cli",
       "debug",
       "mcp",
-      "tool"
+      "tool",
+      "tui",
+      "web"
     ]
   },
   {
@@ -6671,7 +6725,7 @@
     "name": "anderspitman/awesome-tunneling",
     "url": "https://github.com/anderspitman/awesome-tunneling",
     "description": "List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.",
-    "language": "Unknown",
+    "language": "Python",
     "topics": [
       "nebula",
       "ngrok",
@@ -7054,7 +7108,7 @@
   {
     "name": "GyulyVGC/sniffnet",
     "url": "https://github.com/GyulyVGC/sniffnet",
-    "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+    "description": "Comfortably monitor your network traffic 🕵️‍♂️",
     "language": "Rust",
     "topics": [
       "application",
@@ -10786,6 +10840,9 @@
       "luajit",
       "microservices",
       "nginx",
+      "openapi",
+      "openapi3",
+      "openapi31",
       "reverse-proxy",
       "serverless"
     ]
@@ -12239,14 +12296,14 @@
       "data-observability",
       "data-profiling",
       "data-quality",
-      "data-quality-checks",
       "datadiscovery",
-      "dataengineering",
       "dataquality",
       "mcp",
       "mcp-server",
       "metadata",
       "metadata-management",
+      "ontologies",
+      "ontologies-api",
       "semantics"
     ]
   },
@@ -14165,7 +14222,7 @@
       "analytics",
       "database",
       "financial-analysis",
-      "hacktoberfest",
+      "historian",
       "iot",
       "postgres",
       "postgresql",
@@ -18277,7 +18334,7 @@
   {
     "name": "ossrs/srs",
     "url": "https://github.com/ossrs/srs",
-    "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+    "description": "SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
     "language": "C++",
     "topics": [
       "ai-driven",
@@ -21951,7 +22008,7 @@
   {
     "name": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
-    "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+    "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
     "language": "Python",
     "topics": [
       "awesome",
