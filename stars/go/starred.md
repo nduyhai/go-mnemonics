@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-08-17T03:06:59Z
+Auto-generated on 2026-08-24T03:11:11Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -30,6 +30,7 @@ Auto-generated on 2026-08-17T03:06:59Z
 | [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) | Building event-driven applications the easy way in Go. | [cqrs](https://github.com/topics/cqrs), [event-driven](https://github.com/topics/event-driven), [event-sourcing](https://github.com/topics/event-sourcing) |
 | [TomWright/dasel](https://github.com/TomWright/dasel) | Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV. | [cli](https://github.com/topics/cli), [config](https://github.com/topics/config), [configuration](https://github.com/topics/configuration) |
 | [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) | Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols | [api](https://github.com/topics/api), [api-gateway](https://github.com/topics/api-gateway), [api-management](https://github.com/topics/api-management) |
+| [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) | Fast and easy to use database for logs, which can efficiently handle terabytes of logs | [elasticsearch](https://github.com/topics/elasticsearch), [grafana](https://github.com/topics/grafana), [kubernetes](https://github.com/topics/kubernetes) |
 | [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | VictoriaMetrics: fast, cost-effective monitoring solution and time series database | [database](https://github.com/topics/database), [grafana](https://github.com/topics/grafana), [graphite](https://github.com/topics/graphite) |
 | [a2aproject/a2a-go](https://github.com/a2aproject/a2a-go) | Golang SDK for A2A Protocol | [a2a](https://github.com/topics/a2a), [a2a-client](https://github.com/topics/a2a-client), [a2a-protocol](https://github.com/topics/a2a-protocol) |
 | [abice/go-enum](https://github.com/abice/go-enum) | An enum generator for go | [enum](https://github.com/topics/enum), [generated](https://github.com/topics/generated), [go](https://github.com/topics/go) |
@@ -55,7 +56,6 @@ Auto-generated on 2026-08-17T03:06:59Z
 | [arl/statsviz](https://github.com/arl/statsviz) | Visualise Go runtime metrics in real time | [garbage-collector](https://github.com/topics/garbage-collector), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [atlassian/escalator](https://github.com/atlassian/escalator) | Escalator is a batch or job optimized horizontal autoscaler for Kubernetes | [asg](https://github.com/topics/asg), [auto-scaling-group](https://github.com/topics/auto-scaling-group), [autoscaler](https://github.com/topics/autoscaler) |
 | [atomix/atomix](https://github.com/atomix/atomix) | A Kubernetes toolkit for building distributed applications using cloud native principles | [atomix](https://github.com/topics/atomix), [consensus](https://github.com/topics/consensus), [data-structures](https://github.com/topics/data-structures) |
-| [aupv9/stepper](https://github.com/aupv9/stepper) |  |  |
 | [authelia/authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ | [2fa](https://github.com/topics/2fa), [authentication](https://github.com/topics/authentication), [docker](https://github.com/topics/docker) |
 | [authzed/spicedb](https://github.com/authzed/spicedb) | Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data | [abac](https://github.com/topics/abac), [acl](https://github.com/topics/acl), [authorization](https://github.com/topics/authorization) |
 | [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) | Go implementation of an Avalanche node. |  |
@@ -97,6 +97,7 @@ Auto-generated on 2026-08-17T03:06:59Z
 | [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) | The most popular Kubernetes Operator for PostgreSQL. | [automated-failover](https://github.com/topics/automated-failover), [business-continuity](https://github.com/topics/business-continuity), [database](https://github.com/topics/database) |
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | Go error library with error portability over the network |  |
 | [codenotary/immudb](https://github.com/codenotary/immudb) | immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history | [auditable](https://github.com/topics/auditable), [compliance](https://github.com/topics/compliance), [cryptographic](https://github.com/topics/cryptographic) |
+| [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | Confluent's Apache Kafka Golang client | [confluent](https://github.com/topics/confluent), [consumer](https://github.com/topics/consumer), [golang](https://github.com/topics/golang) |
 | [connectrpc/connect-go](https://github.com/connectrpc/connect-go) | The Go implementation of Connect: Protobuf RPC that works. | [connectrpc](https://github.com/topics/connectrpc), [go](https://github.com/topics/go), [grpc](https://github.com/topics/grpc) |
 | [containerd/containerd](https://github.com/containerd/containerd) | An open and reliable container runtime | [cncf](https://github.com/topics/cncf), [containerd](https://github.com/topics/containerd), [containers](https://github.com/topics/containers) |
 | [containerd/nerdctl](https://github.com/containerd/nerdctl) | contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... | [containerd](https://github.com/topics/containerd) |
@@ -278,7 +279,6 @@ Auto-generated on 2026-08-17T03:06:59Z
 | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization API and runtime in order to define and manage virtual machines. | [hacktoberfest](https://github.com/topics/hacktoberfest), [kubernetes](https://github.com/topics/kubernetes), [libvirt](https://github.com/topics/libvirt) |
 | [kumahq/kuma](https://github.com/kumahq/kuma) | 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project. | [apis](https://github.com/topics/apis), [cloud-native](https://github.com/topics/cloud-native), [cncf](https://github.com/topics/cncf) |
 | [labstack/echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework | [echo](https://github.com/topics/echo), [go](https://github.com/topics/go), [http2](https://github.com/topics/http2) |
-| [leapmux/leapmux](https://github.com/leapmux/leapmux) | AI Coding Agent Multiplexer | [acp](https://github.com/topics/acp), [ai-agent](https://github.com/topics/ai-agent), [ai-agent-tools](https://github.com/topics/ai-agent-tools) |
 | [leonhfr/transactioncheck](https://github.com/leonhfr/transactioncheck) | I shipped a transaction bug, so I built a linter | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [linter](https://github.com/topics/linter) |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers | [containerd](https://github.com/topics/containerd), [lima-vm](https://github.com/topics/lima-vm), [macos](https://github.com/topics/macos) |
 | [linkedin/Burrow](https://github.com/linkedin/Burrow) | Kafka Consumer Lag Checking |  |
