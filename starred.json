@@ -1,5 +1,162 @@
 [
   {
+    "name": "hyperdxio/hyperdx",
+    "url": "https://github.com/hyperdxio/hyperdx",
+    "description": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.",
+    "language": "TypeScript",
+    "topics": [
+      "alerting",
+      "analytics",
+      "apm",
+      "application-monitoring",
+      "clickhouse",
+      "dashboard",
+      "frontend-monitoring",
+      "kubernetes",
+      "log-management",
+      "logs",
+      "metrics",
+      "monitoring",
+      "observability",
+      "opentelemetry",
+      "react",
+      "self-hosted",
+      "session-replay",
+      "traces",
+      "typescript"
+    ]
+  },
+  {
+    "name": "livekit/agents",
+    "url": "https://github.com/livekit/agents",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "openai",
+      "real-time",
+      "video",
+      "voice"
+    ]
+  },
+  {
+    "name": "encode/httpx",
+    "url": "https://github.com/encode/httpx",
+    "description": "A next generation HTTP client for Python. 🦋",
+    "language": "Python",
+    "topics": [
+      "asyncio",
+      "http",
+      "python",
+      "trio"
+    ]
+  },
+  {
+    "name": "open-telemetry/opentelemetry-python-contrib",
+    "url": "https://github.com/open-telemetry/opentelemetry-python-contrib",
+    "description": "OpenTelemetry instrumentation for Python modules",
+    "language": "Python",
+    "topics": []
+  },
+  {
+    "name": "MagicStack/asyncpg",
+    "url": "https://github.com/MagicStack/asyncpg",
+    "description": "A fast PostgreSQL Database Client Library for Python/asyncio.",
+    "language": "Python",
+    "topics": [
+      "async-programming",
+      "async-python",
+      "asyncio",
+      "database-driver",
+      "high-performance",
+      "postgresql",
+      "python",
+      "python-3"
+    ]
+  },
+  {
+    "name": "JetBrains/go-modern-guidelines",
+    "url": "https://github.com/JetBrains/go-modern-guidelines",
+    "description": "Help AI coding agents write modern Go",
+    "language": "Go",
+    "topics": [
+      "ai-agents",
+      "coding-agent",
+      "developer-tools",
+      "go",
+      "golang",
+      "guidelines"
+    ]
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "nous-research",
+      "openai"
+    ]
+  },
+  {
+    "name": "langfuse/langfuse",
+    "url": "https://github.com/langfuse/langfuse",
+    "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+    "language": "TypeScript",
+    "topics": [
+      "analytics",
+      "autogen",
+      "evaluation",
+      "langchain",
+      "large-language-models",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "monitoring",
+      "observability",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering",
+      "prompt-management",
+      "self-hosted",
+      "ycombinator"
+    ]
+  },
+  {
+    "name": "Cisco-Talos/clamav",
+    "url": "https://github.com/Cisco-Talos/clamav",
+    "description": "ClamAV - Documentation is here: https://docs.clamav.net",
+    "language": "C",
+    "topics": [
+      "antivirus",
+      "clamav",
+      "gplv2",
+      "open-source"
+    ]
+  },
+  {
+    "name": "google-agentic-commerce/AP2",
+    "url": "https://github.com/google-agentic-commerce/AP2",
+    "description": "Building a Secure and Interoperable Future for AI-Driven Payments.",
+    "language": "Python",
+    "topics": []
+  },
+  {
     "name": "jgraph/drawio-mcp",
     "url": "https://github.com/jgraph/drawio-mcp",
     "description": "",
@@ -71,6 +228,7 @@
       "agent-security",
       "ai-infra",
       "ai-red-teaming",
+      "ai-safety",
       "ai-security",
       "llm",
       "llm-evaluation",
@@ -592,6 +750,8 @@
     "topics": [
       "ai",
       "deepagents",
+      "harness",
+      "harness-engineering",
       "langchain",
       "langgraph",
       "python",
@@ -832,7 +992,7 @@
     "name": "leapmux/leapmux",
     "url": "https://github.com/leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
       "acp",
       "ai-agent",
@@ -1153,7 +1313,7 @@
     "name": "opensandbox-group/OpenSandbox",
     "url": "https://github.com/opensandbox-group/OpenSandbox",
     "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-    "language": "Python",
+    "language": "Go",
     "topics": [
       "ai",
       "ai-agent",
@@ -4188,7 +4348,7 @@
     "name": "github/awesome-copilot",
     "url": "https://github.com/github/awesome-copilot",
     "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-    "language": "Python",
+    "language": "JavaScript",
     "topics": [
       "agent-skills",
       "agents",
@@ -4623,8 +4783,8 @@
     ]
   },
   {
-    "name": "origin-bi/rust-by-practice",
-    "url": "https://github.com/origin-bi/rust-by-practice",
+    "name": "origin-brain/rust-by-practice",
+    "url": "https://github.com/origin-brain/rust-by-practice",
     "description": "Rust By Practice will evolve into Origin.",
     "language": "Rust",
     "topics": [
@@ -9109,9 +9269,9 @@
     "description": "Spring Framework",
     "language": "Java",
     "topics": [
-      "framework",
       "spring",
-      "spring-framework"
+      "spring-framework",
+      "spring-mvc"
     ]
   },
   {
@@ -11496,7 +11656,7 @@
   {
     "name": "oceanbase/oceanbase",
     "url": "https://github.com/oceanbase/oceanbase",
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
+    "description": "OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.",
     "language": "C++",
     "topics": [
       "analytics",
@@ -12526,8 +12686,8 @@
     ]
   },
   {
-    "name": "spring-projects/spring-authorization-server",
-    "url": "https://github.com/spring-projects/spring-authorization-server",
+    "name": "spring-attic/spring-authorization-server",
+    "url": "https://github.com/spring-attic/spring-authorization-server",
     "description": "Spring Authorization Server",
     "language": "Java",
     "topics": []
@@ -13484,7 +13644,7 @@
   {
     "name": "tomdesair/tus-java-server",
     "url": "https://github.com/tomdesair/tus-java-server",
-    "description": "Library to receive tus v1.0.0 file uploads in a Java server environment",
+    "description": "Library to receive file uploads via the tus v1.0.0 or IETF Resumable Uploads for HTTP (RUFH) protocols in a Java server environment",
     "language": "Java",
     "topics": [
       "file-upload",
@@ -13494,6 +13654,8 @@
       "library",
       "rest",
       "resumable-upload",
+      "resumable-uploads-for-http",
+      "rufh",
       "servlet",
       "tomcat",
       "tus",

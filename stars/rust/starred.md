@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-08-24T03:11:11Z
+Auto-generated on 2026-08-31T08:33:25Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -54,7 +54,7 @@ Auto-generated on 2026-08-24T03:11:11Z
 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with deterministic event-driven architecture | [algorithmic-trading-engine](https://github.com/topics/algorithmic-trading-engine), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [crypto-trading](https://github.com/topics/crypto-trading) |
 | [open-telemetry/weaver](https://github.com/open-telemetry/weaver) | OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions | [codegen](https://github.com/topics/codegen), [documentation](https://github.com/topics/documentation), [observability](https://github.com/topics/observability) |
 | [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal |  |
-| [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) | Rust By Practice will evolve into Origin. | [example](https://github.com/topics/example), [examples](https://github.com/topics/examples), [exercise](https://github.com/topics/exercise) |
+| [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) | Rust By Practice will evolve into Origin. | [example](https://github.com/topics/example), [examples](https://github.com/topics/examples), [exercise](https://github.com/topics/exercise) |
 | [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk) | The Parity Polkadot Blockchain SDK | [blockchain](https://github.com/topics/blockchain), [cumulus](https://github.com/topics/cumulus), [polkadot](https://github.com/topics/polkadot) |
 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ | [ai-search](https://github.com/topics/ai-search), [ai-search-engine](https://github.com/topics/ai-search-engine), [embeddings-similarity](https://github.com/topics/embeddings-similarity) |
 | [rathole-org/rathole](https://github.com/rathole-org/rathole) | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. | [firewall](https://github.com/topics/firewall), [frp](https://github.com/topics/frp), [http](https://github.com/topics/http) |
