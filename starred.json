@@ -1,5 +1,31 @@
 [
   {
+    "name": "blader/humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "language": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ]
+  },
+  {
+    "name": "aviggiano/redis-roaring",
+    "url": "https://github.com/aviggiano/redis-roaring",
+    "description": "Roaring Bitmaps for Redis",
+    "language": "C",
+    "topics": [
+      "redis",
+      "redis-module",
+      "roaring-bitmaps"
+    ]
+  },
+  {
     "name": "hyperdxio/hyperdx",
     "url": "https://github.com/hyperdxio/hyperdx",
     "description": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.",
@@ -173,7 +199,7 @@
   {
     "name": "apache/maka",
     "url": "https://github.com/apache/maka",
-    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
     "language": "TypeScript",
     "topics": [
       "agent-runtime",
@@ -226,6 +252,7 @@
     "topics": [
       "agent",
       "agent-security",
+      "agentic-ai",
       "ai-infra",
       "ai-red-teaming",
       "ai-safety",
@@ -242,7 +269,6 @@
       "security",
       "security-tools",
       "skill-scanner",
-      "skills-security",
       "vulnerability"
     ]
   },
@@ -615,7 +641,7 @@
     "name": "awslabs/aidlc-workflows",
     "url": "https://github.com/awslabs/aidlc-workflows",
     "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-    "language": "Python",
+    "language": "TypeScript",
     "topics": []
   },
   {
@@ -657,7 +683,7 @@
     "name": "bmad-code-org/BMAD-METHOD",
     "url": "https://github.com/bmad-code-org/BMAD-METHOD",
     "description": "Breakthrough Method for Agile Ai Driven Development",
-    "language": "JavaScript",
+    "language": "Python",
     "topics": []
   },
   {
@@ -696,8 +722,8 @@
     ]
   },
   {
-    "name": "Hmbown/CodeWhale",
-    "url": "https://github.com/Hmbown/CodeWhale",
+    "name": "Hmbown/Codewhale",
+    "url": "https://github.com/Hmbown/Codewhale",
     "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
     "language": "Rust",
     "topics": [
@@ -934,10 +960,10 @@
     ]
   },
   {
-    "name": "krillinai/KrillinAI",
-    "url": "https://github.com/krillinai/KrillinAI",
-    "description": "AI video translation \u0026 dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
-    "language": "Go",
+    "name": "krillinai/OpenCreator",
+    "url": "https://github.com/krillinai/OpenCreator",
+    "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.",
+    "language": "TypeScript",
     "topics": [
       "dubbing",
       "localization",
@@ -1000,20 +1026,16 @@
       "ai-agents",
       "claude-code",
       "codex",
-      "copilot",
-      "copilot-cli",
-      "cursor",
       "cursor-ai",
-      "cursor-cli",
+      "github-copilot",
       "goose",
       "kilo",
-      "kilo-code",
       "kilocode",
       "multi-agent",
       "opencode",
-      "opencode-ai",
       "pi-coding-agent",
-      "reasonix"
+      "reasonix",
+      "zcode"
     ]
   },
   {
@@ -1726,14 +1748,14 @@
   {
     "name": "mem0ai/mem0",
     "url": "https://github.com/mem0ai/mem0",
-    "description": "Universal memory layer for AI Agents",
+    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
     "language": "Python",
     "topics": [
+      "agentic-memory",
+      "agentic-memory-system",
       "agents",
       "ai",
       "ai-agents",
-      "application",
-      "chatbots",
       "chatgpt",
       "genai",
       "llm",
@@ -1911,7 +1933,7 @@
   {
     "name": "openclaw/openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -3413,7 +3435,7 @@
   {
     "name": "authelia/authelia",
     "url": "https://github.com/authelia/authelia",
-    "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+    "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
     "language": "Go",
     "topics": [
       "2fa",
@@ -3427,6 +3449,7 @@
       "oauth2",
       "openid-connect",
       "passkeys",
+      "pqc",
       "push-notifications",
       "security",
       "sso",
@@ -3434,8 +3457,7 @@
       "totp",
       "two-factor",
       "two-factor-authentication",
-      "webauthn",
-      "yubikey"
+      "webauthn"
     ]
   },
   {
@@ -4999,7 +5021,10 @@
     "topics": [
       "cloud-infrastructure",
       "hacktoberfest",
+      "oauth2",
       "oauth2-proxy",
+      "oidc",
+      "oidc-proxy",
       "ssl",
       "sso"
     ]
@@ -6753,7 +6778,7 @@
       "kubernetes",
       "microservice",
       "open-source",
-      "wiz-reliability-platform-release-engineering"
+      "wiz-foundations-release-engineering"
     ]
   },
   {
@@ -7114,7 +7139,7 @@
   {
     "name": "openobserve/openobserve",
     "url": "https://github.com/openobserve/openobserve",
-    "description": "Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+    "description": "Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
     "language": "TypeScript",
     "topics": [
       "analytics",
@@ -9175,10 +9200,12 @@
       "graphite",
       "influxdb",
       "kubernetes",
+      "metrics",
       "monitoring",
       "observability",
       "opentelemetry",
       "opentsdb",
+      "otlp",
       "prometheus",
       "promql",
       "thanos",
@@ -11451,16 +11478,17 @@
   {
     "name": "apache/streampark",
     "url": "https://github.com/apache/streampark",
-    "description": "Make stream processing easier! Easy-to-use streaming application development framework and operation platform.",
+    "description": "The Open Control Plane for Real-Time Data",
     "language": "Java",
     "topics": [
-      "apache",
-      "development-framework",
-      "easy-to-use",
-      "etl-pipeline",
-      "operation-platform",
-      "streaming",
-      "streampark"
+      "cloud-native",
+      "control-plane",
+      "data-computing",
+      "flink",
+      "kubernetes",
+      "lakehouse",
+      "spark",
+      "streaming"
     ]
   },
   {
@@ -18553,6 +18581,8 @@
       "java",
       "kotlin",
       "microservices",
+      "python",
+      "python3",
       "serverless"
     ]
   },

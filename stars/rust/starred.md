@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-08-31T08:33:25Z
+Auto-generated on 2026-09-07T07:15:15Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -10,7 +10,7 @@ Auto-generated on 2026-08-31T08:33:25Z
 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [command-line-tool](https://github.com/topics/command-line-tool) |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | [android](https://github.com/topics/android), [css](https://github.com/topics/css), [desktop](https://github.com/topics/desktop) |
 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your network traffic 🕵️‍♂️ | [application](https://github.com/topics/application), [gui](https://github.com/topics/gui), [iced](https://github.com/topics/iced) |
-| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
+| [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
 | [RedisGears/RedisGears](https://github.com/RedisGears/RedisGears) | Dynamic execution framework for your Redis data | [analytics](https://github.com/topics/analytics), [mapreduce](https://github.com/topics/mapreduce), [redis](https://github.com/topics/redis) |
 | [Schniz/fnm](https://github.com/Schniz/fnm) | 🚀 Fast and simple Node.js version manager, built in Rust | [hacktoberfest](https://github.com/topics/hacktoberfest), [javascript](https://github.com/topics/javascript), [nodejs](https://github.com/topics/nodejs) |
 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. | [ai-search](https://github.com/topics/ai-search), [bm25](https://github.com/topics/bm25), [dense-retrieval](https://github.com/topics/dense-retrieval) |

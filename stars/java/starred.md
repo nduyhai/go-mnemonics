@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-08-31T08:33:25Z
+Auto-generated on 2026-09-07T07:15:15Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -99,7 +99,7 @@ Auto-generated on 2026-08-31T08:33:25Z
 | [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) | Distributed scheduled job | [cron](https://github.com/topics/cron), [database](https://github.com/topics/database), [elasticjob](https://github.com/topics/elasticjob) |
 | [apache/shenyu](https://github.com/apache/shenyu) | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. | [api-gateway](https://github.com/topics/api-gateway), [dubbo-proxy](https://github.com/topics/dubbo-proxy), [grpc-proxy](https://github.com/topics/grpc-proxy) |
 | [apache/skywalking](https://github.com/apache/skywalking) | APM, Application Performance Monitoring System | [apm](https://github.com/topics/apm), [dapper](https://github.com/topics/dapper), [distributed-tracing](https://github.com/topics/distributed-tracing) |
-| [apache/streampark](https://github.com/apache/streampark) | Make stream processing easier! Easy-to-use streaming application development framework and operation platform. | [apache](https://github.com/topics/apache), [development-framework](https://github.com/topics/development-framework), [easy-to-use](https://github.com/topics/easy-to-use) |
+| [apache/streampark](https://github.com/apache/streampark) | The Open Control Plane for Real-Time Data | [cloud-native](https://github.com/topics/cloud-native), [control-plane](https://github.com/topics/control-plane), [data-computing](https://github.com/topics/data-computing) |
 | [apereo/cas](https://github.com/apereo/cas) | Apereo CAS - Identity & Single Sign On for all earthlings and beyond. | [authentication](https://github.com/topics/authentication), [authorization](https://github.com/topics/authorization), [aws](https://github.com/topics/aws) |
 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | [config-management](https://github.com/topics/config-management), [configuration-management](https://github.com/topics/configuration-management), [distributed-configuration](https://github.com/topics/distributed-configuration) |
 | [apollographql/federation-jvm](https://github.com/apollographql/federation-jvm) | JVM support for Apollo Federation | [federation](https://github.com/topics/federation), [graphql](https://github.com/topics/graphql), [java](https://github.com/topics/java) |
