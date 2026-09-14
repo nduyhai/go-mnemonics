@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-09-07T07:15:15Z
+Auto-generated on 2026-09-14T07:49:19Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -9,7 +9,7 @@ Auto-generated on 2026-09-07T07:15:15Z
 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | [agent](https://github.com/topics/agent), [ai-agents](https://github.com/topics/ai-agents), [kanban](https://github.com/topics/kanban) |
 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [command-line-tool](https://github.com/topics/command-line-tool) |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | [android](https://github.com/topics/android), [css](https://github.com/topics/css), [desktop](https://github.com/topics/desktop) |
-| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your network traffic 🕵️‍♂️ | [application](https://github.com/topics/application), [gui](https://github.com/topics/gui), [iced](https://github.com/topics/iced) |
+| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your network traffic 🕵️‍♂️ | [app](https://github.com/topics/app), [application](https://github.com/topics/application), [gui](https://github.com/topics/gui) |
 | [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
 | [RedisGears/RedisGears](https://github.com/RedisGears/RedisGears) | Dynamic execution framework for your Redis data | [analytics](https://github.com/topics/analytics), [mapreduce](https://github.com/topics/mapreduce), [redis](https://github.com/topics/redis) |
 | [Schniz/fnm](https://github.com/Schniz/fnm) | 🚀 Fast and simple Node.js version manager, built in Rust | [hacktoberfest](https://github.com/topics/hacktoberfest), [javascript](https://github.com/topics/javascript), [nodejs](https://github.com/topics/nodejs) |

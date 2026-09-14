@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-09-07T07:15:15Z
+Auto-generated on 2026-09-14T07:49:19Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -77,6 +77,7 @@ Auto-generated on 2026-09-07T07:15:15Z
 | [apache/causeway](https://github.com/apache/causeway) | Use Apache Causeway™ to rapidly develop domain-driven apps or modular monoliths in Java, on top of the Spring Boot platform. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp, GraphQL or RESTful API. For prototyping or production. | [ddd](https://github.com/topics/ddd), [domain-driven-design](https://github.com/topics/domain-driven-design), [java](https://github.com/topics/java) |
 | [apache/cloudstack](https://github.com/apache/cloudstack) | Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform | [cloud](https://github.com/topics/cloud), [cloudstack](https://github.com/topics/cloudstack), [iaas](https://github.com/topics/iaas) |
 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code | [airflow](https://github.com/topics/airflow), [azkaban](https://github.com/topics/azkaban), [cloud-native](https://github.com/topics/cloud-native) |
+| [apache/doris](https://github.com/apache/doris) | Apache Doris is a real-time analytics and hybrid search database for AI agents. | [agent](https://github.com/topics/agent), [ai](https://github.com/topics/ai), [bigquery](https://github.com/topics/bigquery) |
 | [apache/dubbo](https://github.com/apache/dubbo) | The java implementation of Apache Dubbo. An RPC and microservice framework. | [distributed-systems](https://github.com/topics/distributed-systems), [dubbo](https://github.com/topics/dubbo), [framework](https://github.com/topics/framework) |
 | [apache/fineract](https://github.com/apache/fineract) | Apache Fineract | [apache](https://github.com/topics/apache), [banking](https://github.com/topics/banking), [finance](https://github.com/topics/finance) |
 | [apache/fory](https://github.com/apache/fory) | A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange. | [compression](https://github.com/topics/compression), [cpp](https://github.com/topics/cpp), [cross-language](https://github.com/topics/cross-language) |
