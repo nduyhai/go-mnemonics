@@ -1,9 +1,31 @@
 [
   {
+    "name": "superdurable/dex",
+    "url": "https://github.com/superdurable/dex",
+    "description": "Durable Execution (D-EX) framework built on Temporal/Cadence",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "outline/outline",
+    "url": "https://github.com/outline/outline",
+    "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+    "language": "TypeScript",
+    "topics": [
+      "docker",
+      "javascript",
+      "mobx",
+      "nodejs",
+      "react",
+      "slack",
+      "wiki"
+    ]
+  },
+  {
     "name": "ag-ui-protocol/ag-ui",
     "url": "https://github.com/ag-ui-protocol/ag-ui",
     "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-    "language": "Python",
+    "language": "TypeScript",
     "topics": [
       "ag-ui-protocol",
       "agent-frontend",
@@ -15,7 +37,7 @@
   {
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -59,29 +81,29 @@
   {
     "name": "HelpCode-ai/anythingmcp",
     "url": "https://github.com/HelpCode-ai/anythingmcp",
-    "description": "Self-hosted, open-source AI-empowered MCP gateway: turn any API, database or MCP server into custom connectors for Claude, ChatGPT, Gemini, Copilot \u0026 Cursor — no code. Convert REST, SOAP, WSDL, GraphQL \u0026 SQL to MCP, with OAuth2, RBAC \u0026 audit log. 175+ pre-built adapters (Deutsche Bahn, weclapp, Etsy, DHL, Shopware…)",
+    "description": "#1 MCP Gateway on GitHub 🔌 200+ ready connectors + any REST/SOAP/GraphQL/SQL system as custom connectors for Claude, ChatGPT and Copilot. Self-hosted, no-code, open source (AGPL-3.0). Learns how your systems connect. SSO and governance",
     "language": "TypeScript",
     "topics": [
       "ai-agents",
+      "ai-gateway",
       "api-gateway",
       "chatgpt",
       "chatgpt-apps",
       "claude",
       "claude-connectors",
-      "database-mcp-server",
-      "gemini",
-      "graphql-to-mcp",
+      "docker",
       "hacktoberfest",
+      "knowledge-graph",
       "mcp",
       "mcp-gateway",
+      "mcp-server",
       "mcp-servers",
       "model-context-protocol",
       "no-code",
       "openapi-to-mcp",
       "rest-to-mcp",
       "self-hosted",
-      "soap-to-mcp",
-      "sql-to-mcp"
+      "soap-to-mcp"
     ]
   },
   {
@@ -602,7 +624,7 @@
   {
     "name": "alibaba/open-code-review",
     "url": "https://github.com/alibaba/open-code-review",
-    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
     "language": "Go",
     "topics": [
       "agent",
@@ -791,7 +813,13 @@
     "url": "https://github.com/bmad-code-org/BMAD-METHOD",
     "description": "Breakthrough Method for Agile Ai Driven Development",
     "language": "Python",
-    "topics": []
+    "topics": [
+      "agile",
+      "ai",
+      "context-engineering",
+      "sdlc",
+      "spec-driven-development"
+    ]
   },
   {
     "name": "1jehuang/jcode",
@@ -1069,7 +1097,7 @@
   {
     "name": "krillinai/OpenCreator",
     "url": "https://github.com/krillinai/OpenCreator",
-    "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.",
+    "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.",
     "language": "TypeScript",
     "topics": [
       "dubbing",
@@ -1530,7 +1558,7 @@
   {
     "name": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
-    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ",
     "language": "Python",
     "topics": [
       "ai",
@@ -2792,7 +2820,7 @@
     "name": "anthropics/claude-code",
     "url": "https://github.com/anthropics/claude-code",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "language": "Python",
+    "language": "TypeScript",
     "topics": []
   },
   {
@@ -3950,7 +3978,7 @@
   {
     "name": "twmb/franz-go",
     "url": "https://github.com/twmb/franz-go",
-    "description": "franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.2+. Producing, consuming, transacting, administrating, etc.",
+    "description": "franz-go is a feature complete, pure Go library for Kafka from 0.8.0 through 4.4+. Producing, consuming, transacting, administrating, etc.",
     "language": "Go",
     "topics": [
       "client",
@@ -5587,7 +5615,7 @@
   {
     "name": "rustfs/rustfs",
     "url": "https://github.com/rustfs/rustfs",
-    "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
     "language": "Rust",
     "topics": [
       "ai-native",
@@ -7770,7 +7798,7 @@
     "name": "janhq/jan",
     "url": "https://github.com/janhq/jan",
     "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": [
       "chatgpt",
       "gpt",
@@ -9672,7 +9700,7 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "topics": [
       "deepseek",
@@ -10085,7 +10113,7 @@
   {
     "name": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
-    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
     "language": "Shell",
     "topics": [
       "bash",
