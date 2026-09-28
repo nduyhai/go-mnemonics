@@ -1,5 +1,115 @@
 [
   {
+    "name": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "language": "C",
+    "topics": []
+  },
+  {
+    "name": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "topics": [
+      "ade",
+      "agent-ide",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "cursor-agent",
+      "devtools",
+      "ghostty",
+      "ide",
+      "mobile-app",
+      "opencode",
+      "orchestration",
+      "parallel-agents",
+      "pi",
+      "terminal",
+      "worktrees",
+      "yc-backed"
+    ]
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "anthropic",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "llm",
+      "mcp",
+      "multi-provider",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "typescript"
+    ]
+  },
+  {
+    "name": "open-telemetry/opentelemetry-proto",
+    "url": "https://github.com/open-telemetry/opentelemetry-proto",
+    "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
+    "language": "Makefile",
+    "topics": [
+      "opentelemetry"
+    ]
+  },
+  {
+    "name": "kagent-dev/kagent",
+    "url": "https://github.com/kagent-dev/kagent",
+    "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+    "language": "Go",
+    "topics": [
+      "agents",
+      "ai",
+      "cncf",
+      "devops",
+      "mcp"
+    ]
+  },
+  {
+    "name": "agent-substrate/substrate",
+    "url": "https://github.com/agent-substrate/substrate",
+    "description": "Agent Substrate: the core system",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "google/ax",
+    "url": "https://github.com/google/ax",
+    "description": "Google's open agentic orchestration runtime",
+    "language": "Go",
+    "topics": []
+  },
+  {
+    "name": "coder/coder",
+    "url": "https://github.com/coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "topics": [
+      "agents",
+      "dev-tools",
+      "development-environment",
+      "go",
+      "golang",
+      "ide",
+      "jetbrains",
+      "remote-development",
+      "terraform",
+      "vscode"
+    ]
+  },
+  {
     "name": "superdurable/dex",
     "url": "https://github.com/superdurable/dex",
     "description": "Durable Execution (D-EX) framework built on Temporal/Cadence",
@@ -75,35 +185,35 @@
     "name": "batnam/rochallor-engine",
     "url": "https://github.com/batnam/rochallor-engine",
     "description": "Rochallor is built from the ground up to provide a lightweight, language-agnostic way to orchestrate long-running business processes.",
-    "language": "Go",
+    "language": "TypeScript",
     "topics": []
   },
   {
     "name": "HelpCode-ai/anythingmcp",
     "url": "https://github.com/HelpCode-ai/anythingmcp",
-    "description": "#1 MCP Gateway on GitHub 🔌 200+ ready connectors + any REST/SOAP/GraphQL/SQL system as custom connectors for Claude, ChatGPT and Copilot. Self-hosted, no-code, open source (AGPL-3.0). Learns how your systems connect. SSO and governance",
+    "description": "Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude \u0026 ChatGPT. Self-hosted. 264 connectors: SAP S/4HANA \u0026 Business One, ERP, e-commerce.",
     "language": "TypeScript",
     "topics": [
       "ai-agents",
-      "ai-gateway",
-      "api-gateway",
       "chatgpt",
-      "chatgpt-apps",
       "claude",
       "claude-connectors",
-      "docker",
+      "ecommerce",
+      "erp",
+      "graphql-to-mcp",
       "hacktoberfest",
-      "knowledge-graph",
       "mcp",
       "mcp-gateway",
       "mcp-server",
-      "mcp-servers",
       "model-context-protocol",
       "no-code",
       "openapi-to-mcp",
       "rest-to-mcp",
+      "s4hana",
+      "sap",
       "self-hosted",
-      "soap-to-mcp"
+      "soap-to-mcp",
+      "sql-to-mcp"
     ]
   },
   {
@@ -135,10 +245,16 @@
     "language": "Python",
     "topics": [
       "agent-skills",
+      "ai-humanizer",
       "ai-writing",
+      "chatgpt",
+      "claude",
       "claude-code",
       "codex",
       "cursor",
+      "humanize-ai-text",
+      "humanizer",
+      "llm",
       "prompt-engineering",
       "writing-tools"
     ]
@@ -1100,9 +1216,16 @@
     "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.",
     "language": "TypeScript",
     "topics": [
+      "agent-skills",
+      "codex-cli",
+      "deskop-app",
       "dubbing",
+      "image-generation",
       "localization",
+      "skills",
       "tts",
+      "video-editing",
+      "video-generation",
       "video-transcription",
       "video-translation"
     ]
@@ -1558,7 +1681,7 @@
   {
     "name": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
-    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
     "language": "Python",
     "topics": [
       "ai",
@@ -4842,7 +4965,7 @@
   {
     "name": "github/spec-kit",
     "url": "https://github.com/github/spec-kit",
-    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "description": "💫 Toolkit to help you get started with SDD or any other process!",
     "language": "Python",
     "topics": [
       "ai",
@@ -6300,7 +6423,9 @@
       "database",
       "mycli",
       "mysql",
+      "polars",
       "python",
+      "repl",
       "sql",
       "syntax-highlighting"
     ]
@@ -6864,7 +6989,7 @@
   {
     "name": "littlehorse-enterprises/littlehorse",
     "url": "https://github.com/littlehorse-enterprises/littlehorse",
-    "description": "LittleHorse Server: Workflow Engine for Microservice Orchestration \u0026 Business-as-Code, and the core of the Saddle Command Center",
+    "description": "LittleHorse Server: Business-as-Code Platform for Microservices, Workflows, and Agents",
     "language": "Java",
     "topics": [
       "apache-kafka",
@@ -7276,7 +7401,7 @@
   {
     "name": "openobserve/openobserve",
     "url": "https://github.com/openobserve/openobserve",
-    "description": "Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+    "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
     "language": "TypeScript",
     "topics": [
       "analytics",
@@ -8411,7 +8536,9 @@
     "language": "Go",
     "topics": [
       "distributed-tracing",
-      "grafana"
+      "grafana",
+      "tempo",
+      "traces"
     ]
   },
   {
@@ -14384,7 +14511,7 @@
   {
     "name": "enaqx/awesome-pentest",
     "url": "https://github.com/enaqx/awesome-pentest",
-    "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+    "description": "A collection of awesome penetration testing resources and tools",
     "language": "Unknown",
     "topics": [
       "awesome",
@@ -15060,9 +15187,11 @@
   {
     "name": "TykTechnologies/tyk",
     "url": "https://github.com/TykTechnologies/tyk",
-    "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",
+    "description": "Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)",
     "language": "Go",
     "topics": [
+      "ai",
+      "ai-gateway",
       "api",
       "api-gateway",
       "api-management",
@@ -15072,7 +15201,13 @@
       "grpc",
       "k8s",
       "kubernetes",
+      "llm",
+      "llm-gateway",
+      "llm-ops",
+      "mcp",
+      "mcp-gateway",
       "microservices",
+      "model-context-protocol",
       "reverse-proxy",
       "tyk"
     ]
@@ -15953,12 +16088,19 @@
   {
     "name": "OWASP/owasp-java-encoder",
     "url": "https://github.com/OWASP/owasp-java-encoder",
-    "description": "The OWASP Java Encoder is a Java 1.5+ simple-to-use drop-in high-performance encoder class with no dependencies and little baggage. This project will help Java web developers defend against Cross Site Scripting!",
+    "description": "Contextual output encoding for Java 8+: HTML, JavaScript, CSS, XML and URI components. Zero-dependency core with optional JSP, Jakarta and ESAPI adapters.",
     "language": "Java",
     "topics": [
-      "defense",
-      "encoding",
+      "css",
+      "esapi",
+      "html",
+      "jakarta",
       "java",
+      "javascript",
+      "jsp",
+      "output-encoding",
+      "owasp",
+      "xml",
       "xss"
     ]
   },
@@ -19326,7 +19468,7 @@
   {
     "name": "redis/lettuce",
     "url": "https://github.com/redis/lettuce",
-    "description": "Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.",
+    "description": "Redis Java client",
     "language": "Java",
     "topics": [
       "asynchronous",
