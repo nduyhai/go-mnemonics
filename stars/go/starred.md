@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-09-28T08:34:53Z
+Auto-generated on 2026-10-05T08:49:27Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -293,7 +293,7 @@ Auto-generated on 2026-09-28T08:34:53Z
 | [matryer/moq](https://github.com/matryer/moq) | Interface mocking tool for go generate | [codegen](https://github.com/topics/codegen), [golang](https://github.com/topics/golang), [mocking](https://github.com/topics/mocking) |
 | [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) | ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use. | [accounting](https://github.com/topics/accounting), [app](https://github.com/topics/app), [bookkeeping](https://github.com/topics/bookkeeping) |
 | [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) | A curated list of awesome articles and resources for learning and practicing Go and its related technologies. | [awesome](https://github.com/topics/awesome), [awesome-list](https://github.com/topics/awesome-list), [clean-architecture](https://github.com/topics/clean-architecture) |
-| [micro/go-micro](https://github.com/micro/go-micro) | A Go agent harness and service framework | [ai](https://github.com/topics/ai), [ai-agents](https://github.com/topics/ai-agents), [distributed-systems](https://github.com/topics/distributed-systems) |
+| [micro/go-micro](https://github.com/micro/go-micro) | A framework for building agents and services | [ai](https://github.com/topics/ai), [ai-agents](https://github.com/topics/ai-agents), [distributed-systems](https://github.com/topics/distributed-systems) |
 | [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) | bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS | [allowlist](https://github.com/topics/allowlist), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [microsoft/go](https://github.com/microsoft/go) | The Microsoft build of Go is a modified version of Go that can build FIPS compliant applications that satisfy internal Microsoft policies. |  |
 | [miekg/dns](https://github.com/miekg/dns) | DNS library in Go | [dns](https://github.com/topics/dns), [dns-library](https://github.com/topics/dns-library), [dnssec](https://github.com/topics/dnssec) |
@@ -333,7 +333,7 @@ Auto-generated on 2026-09-28T08:34:53Z
 | [opencontainers/runc](https://github.com/opencontainers/runc) | CLI tool for spawning and running containers according to the OCI specification | [containers](https://github.com/topics/containers), [docker](https://github.com/topics/docker), [oci](https://github.com/topics/oci) |
 | [opencost/opencost](https://github.com/opencost/opencost) | Cost monitoring for Kubernetes workloads and cloud costs | [aws](https://github.com/topics/aws), [azure](https://github.com/topics/azure), [cncf](https://github.com/topics/cncf) |
 | [openfaas/faas](https://github.com/openfaas/faas) | OpenFaaS - Serverless Functions Made Simple | [docker](https://github.com/topics/docker), [faas](https://github.com/topics/faas), [functions](https://github.com/topics/functions) |
-| [openfga/openfga](https://github.com/openfga/openfga) | A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar | [abac](https://github.com/topics/abac), [authorization](https://github.com/topics/authorization), [entitlements](https://github.com/topics/entitlements) |
+| [openfga/openfga](https://github.com/openfga/openfga) | A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar. | [abac](https://github.com/topics/abac), [access-control](https://github.com/topics/access-control), [authorization](https://github.com/topics/authorization) |
 | [openpcc/openpcc](https://github.com/openpcc/openpcc) | An open-source framework for verifiably private AI inference |  |
 | [openshift/osin](https://github.com/openshift/osin) | Golang OAuth2 server library |  |
 | [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) | SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. | [kubernetes](https://github.com/topics/kubernetes), [operator](https://github.com/topics/operator), [sdk](https://github.com/topics/sdk) |
@@ -397,11 +397,11 @@ Auto-generated on 2026-09-28T08:34:53Z
 | [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) | Code AI platform with Code Search & Cody | [code-intelligence](https://github.com/topics/code-intelligence), [code-search](https://github.com/topics/code-search), [cody](https://github.com/topics/cody) |
 | [spf13/viper](https://github.com/spf13/viper) | Go configuration with fangs |  |
 | [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) | Generate type-safe code from SQL | [code-generator](https://github.com/topics/code-generator), [go](https://github.com/topics/go), [kotlin](https://github.com/topics/kotlin) |
-| [stern/stern](https://github.com/stern/stern) | ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern | [debugging](https://github.com/topics/debugging), [devops](https://github.com/topics/devops), [kubernetes](https://github.com/topics/kubernetes) |
+| [stern/stern](https://github.com/stern/stern) | ⎈ Multi pod and container log tailing for Kubernetes | [debugging](https://github.com/topics/debugging), [devops](https://github.com/topics/devops), [kubernetes](https://github.com/topics/kubernetes) |
 | [stianst/keycloak-operator](https://github.com/stianst/keycloak-operator) | A Kubernetes Operator based on the Operator SDK for syncing resources in Keycloak |  |
 | [streadway/handy](https://github.com/streadway/handy) | net/http handler filters |  |
 | [stretchr/testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library | [assertions](https://github.com/topics/assertions), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
-| [superdurable/dex](https://github.com/superdurable/dex) | Durable Execution (D-EX) framework built on Temporal/Cadence |  |
+| [superdurable/dex](https://github.com/superdurable/dex) | Durable Execution (D-EX) framework built on Temporal. Dex extends Temporal to be even more powerful and more area. Dex is a simple durable execution framework optimized for AI agents, human+AI processes, with high performance & scalability. It includes in-memory/best-effort streaming, attribute storage sync, autom offload&clean up, and connectors.  |  |
 | [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger) | gin middleware to automatically generate RESTful API documentation with Swagger 2.0. | [gin](https://github.com/topics/gin), [gin-middleware](https://github.com/topics/gin-middleware), [gin-swagger](https://github.com/topics/gin-swagger) |
 | [swaggo/swag](https://github.com/swaggo/swag) | Automatically generate RESTful API documentation with Swagger 2.0 for Go. | [annotations](https://github.com/topics/annotations), [golang](https://github.com/topics/golang), [openapi](https://github.com/topics/openapi) |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | Copygen generates code based on Go types. Generate type-based code to copy values from type to type and fields from struct to struct by default (copier without reflection). | [code-generation](https://github.com/topics/code-generation), [code-generator](https://github.com/topics/code-generator), [copy](https://github.com/topics/copy) |

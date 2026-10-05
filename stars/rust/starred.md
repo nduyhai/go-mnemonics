@@ -1,16 +1,15 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-09-28T08:34:53Z
+Auto-generated on 2026-10-05T08:49:27Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | The most RAM efficient harness | [ai](https://github.com/topics/ai), [ai-agent](https://github.com/topics/ai-agent), [ai-coding-agent](https://github.com/topics/ai-coding-agent) |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | High performance coding agent harness written in rust | [ai](https://github.com/topics/ai), [ai-agent](https://github.com/topics/ai-agent), [ai-coding-agent](https://github.com/topics/ai-coding-agent) |
 | [AzureMarker/shaku](https://github.com/AzureMarker/shaku) | Compile Time Dependency lnjection Library for Rust |  |
 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | [agent](https://github.com/topics/agent), [ai-agents](https://github.com/topics/ai-agents), [kanban](https://github.com/topics/kanban) |
 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [command-line-tool](https://github.com/topics/command-line-tool) |
 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, and mobile. | [android](https://github.com/topics/android), [css](https://github.com/topics/css), [desktop](https://github.com/topics/desktop) |
-| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your network traffic 🕵️‍♂️ | [app](https://github.com/topics/app), [application](https://github.com/topics/application), [gui](https://github.com/topics/gui) |
-| [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
+| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your network traffic 🕵️‍♂️ | [app](https://github.com/topics/app), [application](https://github.com/topics/application), [cybersecurity](https://github.com/topics/cybersecurity) |
 | [RedisGears/RedisGears](https://github.com/RedisGears/RedisGears) | Dynamic execution framework for your Redis data | [analytics](https://github.com/topics/analytics), [mapreduce](https://github.com/topics/mapreduce), [redis](https://github.com/topics/redis) |
 | [Schniz/fnm](https://github.com/Schniz/fnm) | 🚀 Fast and simple Node.js version manager, built in Rust | [hacktoberfest](https://github.com/topics/hacktoberfest), [javascript](https://github.com/topics/javascript), [nodejs](https://github.com/topics/nodejs) |
 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. | [ai-search](https://github.com/topics/ai-search), [bm25](https://github.com/topics/bm25), [dense-retrieval](https://github.com/topics/dense-retrieval) |
@@ -28,6 +27,7 @@ Auto-generated on 2026-09-28T08:34:53Z
 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |  |
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | [http3](https://github.com/topics/http3), [network-programming](https://github.com/topics/network-programming), [protocol](https://github.com/topics/protocol) |
 | [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) | Write Cloudflare Workers in 100% Rust via WebAssembly | [cloudflare](https://github.com/topics/cloudflare), [ffi](https://github.com/topics/ffi), [rust](https://github.com/topics/rust) |
+| [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
 | [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output | [color-themes](https://github.com/topics/color-themes), [delta](https://github.com/topics/delta), [diff](https://github.com/topics/diff) |
 | [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) | Nydus - a reliable, high-performance on-demand load filesytem framework for container image and data distribution. | [accelerator](https://github.com/topics/accelerator), [container](https://github.com/topics/container), [container-image](https://github.com/topics/container-image) |
 | [ekzhang/bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost | [cli](https://github.com/topics/cli), [localhost](https://github.com/topics/localhost), [networking](https://github.com/topics/networking) |

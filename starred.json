@@ -1,5 +1,53 @@
 [
   {
+    "name": "bentoml/BentoML",
+    "url": "https://github.com/bentoml/BentoML",
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+    "language": "Python",
+    "topics": [
+      "ai-inference",
+      "deep-learning",
+      "generative-ai",
+      "inference-platform",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "llmops",
+      "machine-learning",
+      "ml-engineering",
+      "mlops",
+      "model-inference-service",
+      "model-serving",
+      "multimodal",
+      "python"
+    ]
+  },
+  {
+    "name": "OpenPipe/OpenPipe",
+    "url": "https://github.com/OpenPipe/OpenPipe",
+    "description": "Turn expensive prompts into cheap fine-tuned models",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "llm",
+      "llmops",
+      "prompt-engineering"
+    ]
+  },
+  {
+    "name": "urchade/GLiNER",
+    "url": "https://github.com/urchade/GLiNER",
+    "description": "Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)",
+    "language": "Python",
+    "topics": [
+      "information-extraction",
+      "large-language-models",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "prompt-tuning"
+    ]
+  },
+  {
     "name": "colbymchenry/codegraph",
     "url": "https://github.com/colbymchenry/codegraph",
     "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
@@ -112,7 +160,7 @@
   {
     "name": "superdurable/dex",
     "url": "https://github.com/superdurable/dex",
-    "description": "Durable Execution (D-EX) framework built on Temporal/Cadence",
+    "description": "Durable Execution (D-EX) framework built on Temporal. Dex extends Temporal to be even more powerful and more area. Dex is a simple durable execution framework optimized for AI agents, human+AI processes, with high performance \u0026 scalability. It includes in-memory/best-effort streaming, attribute storage sync, autom offload\u0026clean up, and connectors. ",
     "language": "Go",
     "topics": []
   },
@@ -147,7 +195,7 @@
   {
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -191,7 +239,7 @@
   {
     "name": "HelpCode-ai/anythingmcp",
     "url": "https://github.com/HelpCode-ai/anythingmcp",
-    "description": "Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude \u0026 ChatGPT. Self-hosted. 264 connectors: SAP S/4HANA \u0026 Business One, ERP, e-commerce.",
+    "description": "Open-source, self-hosted MCP gateway: turn any REST/OpenAPI, SOAP, GraphQL, OData or SQL API into MCP tools for Claude, ChatGPT \u0026 Copilot. 262 connectors incl. SAP S/4HANA \u0026 Business One, ERP, e-commerce.",
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -206,7 +254,7 @@
       "mcp-gateway",
       "mcp-server",
       "model-context-protocol",
-      "no-code",
+      "odata",
       "openapi-to-mcp",
       "rest-to-mcp",
       "s4hana",
@@ -893,7 +941,7 @@
     "name": "AI-Unified-Process/marketplace",
     "url": "https://github.com/AI-Unified-Process/marketplace",
     "description": "",
-    "language": "Java",
+    "language": "Python",
     "topics": []
   },
   {
@@ -940,7 +988,7 @@
   {
     "name": "1jehuang/jcode",
     "url": "https://github.com/1jehuang/jcode",
-    "description": "The most RAM efficient harness",
+    "description": "High performance coding agent harness written in rust",
     "language": "Rust",
     "topics": [
       "ai",
@@ -973,8 +1021,8 @@
     ]
   },
   {
-    "name": "Hmbown/Codewhale",
-    "url": "https://github.com/Hmbown/Codewhale",
+    "name": "codewhale-hq/Codewhale",
+    "url": "https://github.com/codewhale-hq/Codewhale",
     "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
     "language": "Rust",
     "topics": [
@@ -1005,7 +1053,7 @@
       "ai-assistant",
       "ai-skills",
       "autonomous-agents",
-      "claude-code",
+      "claude",
       "codex",
       "dsh-plugin",
       "harness",
@@ -2855,8 +2903,8 @@
     ]
   },
   {
-    "name": "rocksdanister/lively",
-    "url": "https://github.com/rocksdanister/lively",
+    "name": "lively-community/lively",
+    "url": "https://github.com/lively-community/lively",
     "description": "Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.",
     "language": "C#",
     "topics": [
@@ -3140,10 +3188,11 @@
   {
     "name": "openfga/openfga",
     "url": "https://github.com/openfga/openfga",
-    "description": "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
+    "description": "A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.",
     "language": "Go",
     "topics": [
       "abac",
+      "access-control",
       "authorization",
       "entitlements",
       "fga",
@@ -6024,7 +6073,7 @@
   {
     "name": "micro/go-micro",
     "url": "https://github.com/micro/go-micro",
-    "description": "A Go agent harness and service framework",
+    "description": "A framework for building agents and services",
     "language": "Go",
     "topics": [
       "ai",
@@ -7751,6 +7800,7 @@
     "topics": [
       "app",
       "application",
+      "cybersecurity",
       "gui",
       "iced",
       "ip-geolocation",
@@ -7764,7 +7814,6 @@
       "packet-sniffer",
       "pcap",
       "rust",
-      "rust-crate",
       "security",
       "tool",
       "utility",
@@ -10420,7 +10469,7 @@
   {
     "name": "stern/stern",
     "url": "https://github.com/stern/stern",
-    "description": "⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern",
+    "description": "⎈ Multi pod and container log tailing for Kubernetes",
     "language": "Go",
     "topics": [
       "debugging",
@@ -14979,7 +15028,7 @@
     "name": "OWASP/CheatSheetSeries",
     "url": "https://github.com/OWASP/CheatSheetSeries",
     "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
-    "language": "Python",
+    "language": "JavaScript",
     "topics": [
       "application-security",
       "appsec",
@@ -16088,11 +16137,10 @@
   {
     "name": "OWASP/owasp-java-encoder",
     "url": "https://github.com/OWASP/owasp-java-encoder",
-    "description": "Contextual output encoding for Java 8+: HTML, JavaScript, CSS, XML and URI components. Zero-dependency core with optional JSP, Jakarta and ESAPI adapters.",
+    "description": "Contextual output encoding for Java 8+: HTML, JavaScript, CSS, XML and URI components. Zero-dependency core with optional JSP and Jakarta adapters.",
     "language": "Java",
     "topics": [
       "css",
-      "esapi",
       "html",
       "jakarta",
       "java",
@@ -18075,9 +18123,14 @@
   {
     "name": "kubeflow/kubeflow",
     "url": "https://github.com/kubeflow/kubeflow",
-    "description": "Machine Learning Toolkit for Kubernetes",
+    "description": "The Cloud Native AI Platform",
     "language": "Unknown",
     "topics": [
+      "agentic-ai",
+      "ai",
+      "data-science",
+      "distributed-ai",
+      "genai",
       "google-kubernetes-engine",
       "jupyter",
       "kubeflow",
@@ -18086,6 +18139,7 @@
       "minikube",
       "ml",
       "notebook",
+      "pytorch",
       "tensorflow"
     ]
   },
@@ -20023,6 +20077,7 @@
       "ribbon",
       "spring-boot-admin",
       "spring-cloud",
+      "vuejs",
       "zipkin"
     ]
   },

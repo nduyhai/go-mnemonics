@@ -1,10 +1,9 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-09-28T08:34:53Z
+Auto-generated on 2026-10-05T08:49:27Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
-| [AI-Unified-Process/marketplace](https://github.com/AI-Unified-Process/marketplace) |  |  |
 | [Albertoimpl/spring-cloud-gateway-grpc](https://github.com/Albertoimpl/spring-cloud-gateway-grpc) | Blog post describing how to enable gRPC support in the latest Spring Cloud Gateway | [grpc](https://github.com/topics/grpc), [java](https://github.com/topics/java), [spring](https://github.com/topics/spring) |
 | [Angel-ML/angel](https://github.com/Angel-ML/angel) | A Flexible and Powerful Parameter Server for large-scale machine learning | [high-dimensional](https://github.com/topics/high-dimensional), [machine-learning](https://github.com/topics/machine-learning), [model](https://github.com/topics/model) |
 | [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | An API/Schema registry - stores APIs and Schemas. |  |
@@ -38,7 +37,7 @@ Auto-generated on 2026-09-28T08:34:53Z
 | [Netflix/mantis](https://github.com/Netflix/mantis) | A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications |  |
 | [Netflix/spectator](https://github.com/Netflix/spectator) | Client library for collecting metrics. |  |
 | [Netflix/zuul](https://github.com/Netflix/zuul) | Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. |  |
-| [OWASP/owasp-java-encoder](https://github.com/OWASP/owasp-java-encoder) | Contextual output encoding for Java 8+: HTML, JavaScript, CSS, XML and URI components. Zero-dependency core with optional JSP, Jakarta and ESAPI adapters. | [css](https://github.com/topics/css), [esapi](https://github.com/topics/esapi), [html](https://github.com/topics/html) |
+| [OWASP/owasp-java-encoder](https://github.com/OWASP/owasp-java-encoder) | Contextual output encoding for Java 8+: HTML, JavaScript, CSS, XML and URI components. Zero-dependency core with optional JSP and Jakarta adapters. | [css](https://github.com/topics/css), [html](https://github.com/topics/html), [jakarta](https://github.com/topics/jakarta) |
 | [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) | [api](https://github.com/topics/api), [api-client](https://github.com/topics/api-client), [api-server](https://github.com/topics/api-server) |
 | [OpenFeign/feign](https://github.com/OpenFeign/feign) | Feign makes writing java http clients easier | [http-client](https://github.com/topics/http-client), [interface](https://github.com/topics/interface), [java](https://github.com/topics/java) |
 | [OpenHFT/Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) | Replicate your Key Value Store across your network, with consistency, persistance and performance. |  |
