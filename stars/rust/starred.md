@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-10-05T08:49:27Z
+Auto-generated on 2026-10-12T09:01:08Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -27,7 +27,7 @@ Auto-generated on 2026-10-05T08:49:27Z
 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |  |
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | [http3](https://github.com/topics/http3), [network-programming](https://github.com/topics/network-programming), [protocol](https://github.com/topics/protocol) |
 | [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) | Write Cloudflare Workers in 100% Rust via WebAssembly | [cloudflare](https://github.com/topics/cloudflare), [ffi](https://github.com/topics/ffi), [rust](https://github.com/topics/rust) |
-| [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
+| [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts. | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
 | [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output | [color-themes](https://github.com/topics/color-themes), [delta](https://github.com/topics/delta), [diff](https://github.com/topics/diff) |
 | [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) | Nydus - a reliable, high-performance on-demand load filesytem framework for container image and data distribution. | [accelerator](https://github.com/topics/accelerator), [container](https://github.com/topics/container), [container-image](https://github.com/topics/container-image) |
 | [ekzhang/bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost | [cli](https://github.com/topics/cli), [localhost](https://github.com/topics/localhost), [networking](https://github.com/topics/networking) |

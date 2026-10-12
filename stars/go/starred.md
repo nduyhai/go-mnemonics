@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-10-05T08:49:27Z
+Auto-generated on 2026-10-12T09:01:08Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -67,6 +67,7 @@ Auto-generated on 2026-10-05T08:49:27Z
 | [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. |  |
 | [awslabs/aws-go-multi-module-repository-tools](https://github.com/awslabs/aws-go-multi-module-repository-tools) |  |  |
 | [awslabs/diagram-as-code](https://github.com/awslabs/diagram-as-code) | Diagram-as-code for AWS architecture. | [aws](https://github.com/topics/aws), [diagram-as-code](https://github.com/topics/diagram-as-code) |
+| [batnam/rochallor-engine](https://github.com/batnam/rochallor-engine) | Rochallor is built from the ground up to provide a lightweight, language-agnostic way to orchestrate long-running business processes. |  |
 | [beego/beego](https://github.com/beego/beego) | beego is an open-source, high-performance web framework for the Go programming language. | [beego](https://github.com/topics/beego), [go](https://github.com/topics/go) |
 | [bettercap/bettercap](https://github.com/bettercap/bettercap) | The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks. | [ble](https://github.com/topics/ble), [deauthentication-attack](https://github.com/topics/deauthentication-attack), [dot11](https://github.com/topics/dot11) |
 | [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) | A Kubernetes controller and tool for one-way encrypted Secrets | [devops-workflow](https://github.com/topics/devops-workflow), [encrypt-secrets](https://github.com/topics/encrypt-secrets), [gitops](https://github.com/topics/gitops) |
@@ -100,7 +101,6 @@ Auto-generated on 2026-10-05T08:49:27Z
 | [cockroachdb/errors](https://github.com/cockroachdb/errors) | Go error library with error portability over the network |  |
 | [codenotary/immudb](https://github.com/codenotary/immudb) | immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history | [auditable](https://github.com/topics/auditable), [compliance](https://github.com/topics/compliance), [cryptographic](https://github.com/topics/cryptographic) |
 | [coder/coder](https://github.com/coder/coder) | Secure environments for developers and their agents | [agents](https://github.com/topics/agents), [dev-tools](https://github.com/topics/dev-tools), [development-environment](https://github.com/topics/development-environment) |
-| [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) | Confluent's Apache Kafka Golang client | [confluent](https://github.com/topics/confluent), [consumer](https://github.com/topics/consumer), [golang](https://github.com/topics/golang) |
 | [connectrpc/connect-go](https://github.com/connectrpc/connect-go) | The Go implementation of Connect: Protobuf RPC that works. | [connectrpc](https://github.com/topics/connectrpc), [go](https://github.com/topics/go), [grpc](https://github.com/topics/grpc) |
 | [containerd/containerd](https://github.com/containerd/containerd) | An open and reliable container runtime | [cncf](https://github.com/topics/cncf), [containerd](https://github.com/topics/containerd), [containers](https://github.com/topics/containers) |
 | [containerd/nerdctl](https://github.com/containerd/nerdctl) | contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ... | [containerd](https://github.com/topics/containerd) |
@@ -293,7 +293,7 @@ Auto-generated on 2026-10-05T08:49:27Z
 | [matryer/moq](https://github.com/matryer/moq) | Interface mocking tool for go generate | [codegen](https://github.com/topics/codegen), [golang](https://github.com/topics/golang), [mocking](https://github.com/topics/mocking) |
 | [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) | ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use. | [accounting](https://github.com/topics/accounting), [app](https://github.com/topics/app), [bookkeeping](https://github.com/topics/bookkeeping) |
 | [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) | A curated list of awesome articles and resources for learning and practicing Go and its related technologies. | [awesome](https://github.com/topics/awesome), [awesome-list](https://github.com/topics/awesome-list), [clean-architecture](https://github.com/topics/clean-architecture) |
-| [micro/go-micro](https://github.com/micro/go-micro) | A framework for building agents and services | [ai](https://github.com/topics/ai), [ai-agents](https://github.com/topics/ai-agents), [distributed-systems](https://github.com/topics/distributed-systems) |
+| [micro/go-micro](https://github.com/micro/go-micro) | A framework for agents, tools and services | [ai](https://github.com/topics/ai), [ai-agents](https://github.com/topics/ai-agents), [distributed-systems](https://github.com/topics/distributed-systems) |
 | [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) | bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS | [allowlist](https://github.com/topics/allowlist), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [microsoft/go](https://github.com/microsoft/go) | The Microsoft build of Go is a modified version of Go that can build FIPS compliant applications that satisfy internal Microsoft policies. |  |
 | [miekg/dns](https://github.com/miekg/dns) | DNS library in Go | [dns](https://github.com/topics/dns), [dns-library](https://github.com/topics/dns-library), [dnssec](https://github.com/topics/dnssec) |
@@ -401,7 +401,7 @@ Auto-generated on 2026-10-05T08:49:27Z
 | [stianst/keycloak-operator](https://github.com/stianst/keycloak-operator) | A Kubernetes Operator based on the Operator SDK for syncing resources in Keycloak |  |
 | [streadway/handy](https://github.com/streadway/handy) | net/http handler filters |  |
 | [stretchr/testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library | [assertions](https://github.com/topics/assertions), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
-| [superdurable/dex](https://github.com/superdurable/dex) | Durable Execution (D-EX) framework built on Temporal. Dex extends Temporal to be even more powerful and more area. Dex is a simple durable execution framework optimized for AI agents, human+AI processes, with high performance & scalability. It includes in-memory/best-effort streaming, attribute storage sync, autom offload&clean up, and connectors.  |  |
+| [superdurable/dex](https://github.com/superdurable/dex) | Durable Execution (D-EX) framework built on Temporal. Dex extends Temporal to be even more powerful and more area. Dex is a simple durable execution framework optimized for AI agents, human+AI processes, with high performance & scalability. It is forked from iWF of IndeedEng by the creator. |  |
 | [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger) | gin middleware to automatically generate RESTful API documentation with Swagger 2.0. | [gin](https://github.com/topics/gin), [gin-middleware](https://github.com/topics/gin-middleware), [gin-swagger](https://github.com/topics/gin-swagger) |
 | [swaggo/swag](https://github.com/swaggo/swag) | Automatically generate RESTful API documentation with Swagger 2.0 for Go. | [annotations](https://github.com/topics/annotations), [golang](https://github.com/topics/golang), [openapi](https://github.com/topics/openapi) |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | Copygen generates code based on Go types. Generate type-based code to copy values from type to type and fields from struct to struct by default (copier without reflection). | [code-generation](https://github.com/topics/code-generation), [code-generator](https://github.com/topics/code-generator), [copy](https://github.com/topics/copy) |

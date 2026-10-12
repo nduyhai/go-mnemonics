@@ -1,5 +1,30 @@
 [
   {
+    "name": "Egonex-AI/Understand-Anything",
+    "url": "https://github.com/Egonex-AI/Understand-Anything",
+    "description": "Graphs that teach \u003e graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "language": "TypeScript",
+    "topics": [
+      "antigravity-skills",
+      "business-knowledge",
+      "claude-code",
+      "claude-skills",
+      "codebase-analysis",
+      "codex",
+      "codex-skills",
+      "developer-tools-ai-agent",
+      "gemini-cli-skills",
+      "karpathy-llm-wiki",
+      "knowledge-base",
+      "knowledge-graph",
+      "memory",
+      "opencode-skills",
+      "pi-agent",
+      "understandcode",
+      "vibe-coding"
+    ]
+  },
+  {
     "name": "bentoml/BentoML",
     "url": "https://github.com/bentoml/BentoML",
     "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
@@ -160,7 +185,7 @@
   {
     "name": "superdurable/dex",
     "url": "https://github.com/superdurable/dex",
-    "description": "Durable Execution (D-EX) framework built on Temporal. Dex extends Temporal to be even more powerful and more area. Dex is a simple durable execution framework optimized for AI agents, human+AI processes, with high performance \u0026 scalability. It includes in-memory/best-effort streaming, attribute storage sync, autom offload\u0026clean up, and connectors. ",
+    "description": "Durable Execution (D-EX) framework built on Temporal. Dex extends Temporal to be even more powerful and more area. Dex is a simple durable execution framework optimized for AI agents, human+AI processes, with high performance \u0026 scalability. It is forked from iWF of IndeedEng by the creator.",
     "language": "Go",
     "topics": []
   },
@@ -195,7 +220,7 @@
   {
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -233,13 +258,13 @@
     "name": "batnam/rochallor-engine",
     "url": "https://github.com/batnam/rochallor-engine",
     "description": "Rochallor is built from the ground up to provide a lightweight, language-agnostic way to orchestrate long-running business processes.",
-    "language": "TypeScript",
+    "language": "Go",
     "topics": []
   },
   {
     "name": "HelpCode-ai/anythingmcp",
     "url": "https://github.com/HelpCode-ai/anythingmcp",
-    "description": "Open-source, self-hosted MCP gateway: turn any REST/OpenAPI, SOAP, GraphQL, OData or SQL API into MCP tools for Claude, ChatGPT \u0026 Copilot. 262 connectors incl. SAP S/4HANA \u0026 Business One, ERP, e-commerce.",
+    "description": "Open-source, self-hosted MCP gateway: turn any REST/OpenAPI, SOAP, GraphQL, OData or SQL API into MCP tools for Claude, ChatGPT \u0026 Copilot. 331 connectors incl. SAP S/4HANA \u0026 Business One, ERP, e-commerce.",
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -836,7 +861,7 @@
   {
     "name": "namastack/namastack-outbox",
     "url": "https://github.com/namastack/namastack-outbox",
-    "description": "Outbox Implementation for Spring Boot",
+    "description": "Transactional Outbox for reliable event delivery with Spring Boot",
     "language": "Kotlin",
     "topics": [
       "apache-kafka",
@@ -1023,19 +1048,22 @@
   {
     "name": "codewhale-hq/Codewhale",
     "url": "https://github.com/codewhale-hq/Codewhale",
-    "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+    "description": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
     "language": "Rust",
     "topics": [
       "agent-orchestration",
       "ai-agent",
       "cli",
+      "codewhale",
       "coding-agent",
+      "developer-tools",
       "local-first",
       "mcp",
       "multi-agent",
       "multi-model",
       "open-source",
       "rust",
+      "terminal",
       "tui"
     ]
   },
@@ -1261,7 +1289,7 @@
   {
     "name": "krillinai/OpenCreator",
     "url": "https://github.com/krillinai/OpenCreator",
-    "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.",
+    "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -2010,7 +2038,9 @@
       "claude-code",
       "claude-code-skills",
       "claude-skills",
+      "codex",
       "codex-skills",
+      "cursor",
       "cursor-skills",
       "gemini-skills",
       "opencode-skills",
@@ -2096,8 +2126,8 @@
   {
     "name": "menkesu/awesome-pm-skills",
     "url": "https://github.com/menkesu/awesome-pm-skills",
-    "description": "28 AI-powered PM skills from Lenny's Podcast. Transform Claude Code \u0026 Cursor into world-class product partners.",
-    "language": "Unknown",
+    "description": "Product management workflows grounded in Lenny's Podcast, for Claude Code, Codex, and Cursor.",
+    "language": "Python",
     "topics": [
       "ai",
       "awesome-list",
@@ -6073,7 +6103,7 @@
   {
     "name": "micro/go-micro",
     "url": "https://github.com/micro/go-micro",
-    "description": "A framework for building agents and services",
+    "description": "A framework for agents, tools and services",
     "language": "Go",
     "topics": [
       "ai",
@@ -6499,7 +6529,7 @@
     "name": "confluentinc/confluent-kafka-go",
     "url": "https://github.com/confluentinc/confluent-kafka-go",
     "description": "Confluent's Apache Kafka Golang client",
-    "language": "Go",
+    "language": "HTML",
     "topics": [
       "confluent",
       "consumer",
@@ -7176,7 +7206,7 @@
     "name": "modelcontextprotocol/servers",
     "url": "https://github.com/modelcontextprotocol/servers",
     "description": "Model Context Protocol Servers",
-    "language": "TypeScript",
+    "language": "JavaScript",
     "topics": []
   },
   {
@@ -10085,24 +10115,28 @@
   {
     "name": "gojue/ecapture",
     "url": "https://github.com/gojue/ecapture",
-    "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+    "description": "Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.",
     "language": "C",
     "topics": [
       "android",
-      "android-https-capture",
+      "boringssl",
       "ebpf",
-      "ebpf-go",
-      "ebpf-tc",
-      "ebpf-uprobe",
+      "gnutls",
       "golang",
-      "https",
       "linux",
-      "network-capture",
-      "security-audit",
+      "loong64",
+      "network-analysis",
+      "network-security",
+      "observability",
+      "openssl",
+      "packet-capture",
+      "pcapng",
+      "security-auditing",
       "ssl",
-      "ssldump",
-      "tcpdump",
-      "tls"
+      "tls",
+      "tls-decryptio",
+      "uprobe",
+      "wireshark"
     ]
   },
   {
