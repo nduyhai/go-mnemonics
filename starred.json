@@ -1,5 +1,23 @@
 [
   {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "language": "Go",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ]
+  },
+  {
     "name": "Egonex-AI/Understand-Anything",
     "url": "https://github.com/Egonex-AI/Understand-Anything",
     "description": "Graphs that teach \u003e graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
@@ -82,24 +100,26 @@
   {
     "name": "stablyai/orca",
     "url": "https://github.com/stablyai/orca",
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
     "language": "TypeScript",
     "topics": [
       "ade",
       "agent-ide",
       "ai-agents",
+      "automation",
+      "bot",
       "claude-code",
-      "cli",
       "codex",
-      "cursor-agent",
-      "devtools",
       "ghostty",
-      "ide",
+      "grok-bot",
+      "hermes-agent",
       "mobile-app",
+      "muse",
+      "openclaw",
       "opencode",
       "orchestration",
-      "parallel-agents",
       "pi",
+      "runtime",
       "terminal",
       "worktrees",
       "yc-backed"
@@ -160,7 +180,7 @@
   {
     "name": "google/ax",
     "url": "https://github.com/google/ax",
-    "description": "Google's open agentic orchestration runtime",
+    "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
     "language": "Go",
     "topics": []
   },
@@ -264,29 +284,29 @@
   {
     "name": "HelpCode-ai/anythingmcp",
     "url": "https://github.com/HelpCode-ai/anythingmcp",
-    "description": "Open-source, self-hosted MCP gateway: turn any REST/OpenAPI, SOAP, GraphQL, OData or SQL API into MCP tools for Claude, ChatGPT \u0026 Copilot. 331 connectors incl. SAP S/4HANA \u0026 Business One, ERP, e-commerce.",
+    "description": "MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 475 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.",
     "language": "TypeScript",
     "topics": [
+      "agents",
       "ai-agents",
+      "ai-gateway",
+      "api-gateway",
       "chatgpt",
       "claude",
-      "claude-connectors",
       "ecommerce",
       "erp",
-      "graphql-to-mcp",
+      "function-calling",
+      "graphql",
       "hacktoberfest",
+      "llm",
       "mcp",
       "mcp-gateway",
       "mcp-server",
+      "mcp-tools",
       "model-context-protocol",
-      "odata",
-      "openapi-to-mcp",
-      "rest-to-mcp",
-      "s4hana",
+      "openapi",
       "sap",
-      "self-hosted",
-      "soap-to-mcp",
-      "sql-to-mcp"
+      "self-hosted"
     ]
   },
   {
@@ -1013,7 +1033,7 @@
   {
     "name": "1jehuang/jcode",
     "url": "https://github.com/1jehuang/jcode",
-    "description": "High performance coding agent harness written in rust",
+    "description": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
     "language": "Rust",
     "topics": [
       "ai",
@@ -1289,7 +1309,7 @@
   {
     "name": "krillinai/OpenCreator",
     "url": "https://github.com/krillinai/OpenCreator",
-    "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
+    "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -1352,7 +1372,7 @@
     "name": "leapmux/leapmux",
     "url": "https://github.com/leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "language": "Go",
+    "language": "TypeScript",
     "topics": [
       "acp",
       "ai-agent",
@@ -1757,7 +1777,7 @@
   {
     "name": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
-    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "description": "🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
     "language": "Python",
     "topics": [
       "ai",
@@ -2625,6 +2645,8 @@
       "ai-automation",
       "ai-coworker",
       "ai-skills-manager",
+      "ai-workflow-automation",
+      "ai-workflow-automation-agent",
       "ai-workflow-builder",
       "harness",
       "mcp",
@@ -6106,14 +6128,9 @@
     "description": "A framework for agents, tools and services",
     "language": "Go",
     "topics": [
-      "ai",
-      "ai-agents",
-      "distributed-systems",
       "go",
       "golang",
-      "mcp",
-      "micro",
-      "microservices"
+      "micro"
     ]
   },
   {
@@ -7206,7 +7223,7 @@
     "name": "modelcontextprotocol/servers",
     "url": "https://github.com/modelcontextprotocol/servers",
     "description": "Model Context Protocol Servers",
-    "language": "JavaScript",
+    "language": "TypeScript",
     "topics": []
   },
   {
@@ -7634,16 +7651,26 @@
   {
     "name": "browser-use/browser-use",
     "url": "https://github.com/browser-use/browser-use",
-    "description": "Agents that use the browser.",
+    "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
     "language": "Python",
     "topics": [
       "ai-agents",
       "ai-tools",
+      "browser-agent",
       "browser-automation",
       "browser-use",
+      "cdp",
+      "cloud-browser",
+      "computer-use",
+      "headless-browser",
       "llm",
+      "mcp",
       "playwright",
-      "python"
+      "python",
+      "remote-browser",
+      "stealth-browser",
+      "web-automation",
+      "web-scraping"
     ]
   },
   {
@@ -10844,6 +10871,7 @@
     "topics": [
       "amazon-web-services",
       "aws",
+      "aws-certification",
       "aws-certified-cloud-practitioner",
       "aws-cloud-practitioner",
       "aws-cloud-practitioner-test",
@@ -12373,7 +12401,10 @@
     "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
     "language": "Go",
     "topics": [
+      "ai-agents",
       "containers",
+      "distributed-systems",
+      "durable-execution",
       "event-driven",
       "kubernetes",
       "microservice",
@@ -12381,7 +12412,9 @@
       "pubsub",
       "serverless",
       "sidecar",
-      "state-management"
+      "state-management",
+      "worflow-engine",
+      "workflows"
     ]
   },
   {
@@ -18878,18 +18911,18 @@
     "topics": [
       "consul",
       "docker",
-      "etcd",
+      "gateway",
+      "gatewayapi",
       "go",
       "golang",
+      "ingress-nginx",
       "kubernetes",
       "letsencrypt",
       "load-balancer",
-      "marathon",
-      "mesos",
       "microservice",
+      "opentelemetry",
       "reverse-proxy",
-      "traefik",
-      "zookeeper"
+      "traefik"
     ]
   },
   {
@@ -23220,7 +23253,7 @@
   {
     "name": "facebook/fbthrift",
     "url": "https://github.com/facebook/fbthrift",
-    "description": "Facebook's branch of Apache Thrift, including a new C++ server.",
+    "description": "Meta's Thrift implementation: cross-language serialization and high-performance async RPC",
     "language": "C++",
     "topics": []
   },
