@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-10-19T07:37:34Z
+Auto-generated on 2026-10-26T07:41:09Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -283,6 +283,7 @@ Auto-generated on 2026-10-19T07:37:34Z
 | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization API and runtime in order to define and manage virtual machines. | [hacktoberfest](https://github.com/topics/hacktoberfest), [kubernetes](https://github.com/topics/kubernetes), [libvirt](https://github.com/topics/libvirt) |
 | [kumahq/kuma](https://github.com/kumahq/kuma) | 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project. | [apis](https://github.com/topics/apis), [cloud-native](https://github.com/topics/cloud-native), [cncf](https://github.com/topics/cncf) |
 | [labstack/echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework | [echo](https://github.com/topics/echo), [go](https://github.com/topics/go), [http2](https://github.com/topics/http2) |
+| [leapmux/leapmux](https://github.com/leapmux/leapmux) | AI Coding Agent Multiplexer | [acp](https://github.com/topics/acp), [ai-agent](https://github.com/topics/ai-agent), [ai-agent-tools](https://github.com/topics/ai-agent-tools) |
 | [leonhfr/transactioncheck](https://github.com/leonhfr/transactioncheck) | I shipped a transaction bug, so I built a linter | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [linter](https://github.com/topics/linter) |
 | [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers | [containerd](https://github.com/topics/containerd), [lima-vm](https://github.com/topics/lima-vm), [macos](https://github.com/topics/macos) |
 | [linkedin/Burrow](https://github.com/linkedin/Burrow) | Kafka Consumer Lag Checking |  |
@@ -351,7 +352,7 @@ Auto-generated on 2026-10-19T07:37:34Z
 | [pingcap/tiflow](https://github.com/pingcap/tiflow) | This repo maintains DM (a data migration platform) and TiCDC (change data capture for TiDB) | [cdc](https://github.com/topics/cdc), [dm](https://github.com/topics/dm), [kafka](https://github.com/topics/kafka) |
 | [pion/webrtc](https://github.com/pion/webrtc) | Pure Go implementation of the WebRTC API | [audio](https://github.com/topics/audio), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [podman-container-tools/podman](https://github.com/podman-container-tools/podman) | Podman: A tool for managing OCI containers and pods. | [containers](https://github.com/topics/containers), [docker](https://github.com/topics/docker), [kubernetes](https://github.com/topics/kubernetes) |
-| [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) | DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated. | [branching](https://github.com/topics/branching), [ci](https://github.com/topics/ci), [ci-cd](https://github.com/topics/ci-cd) |
+| [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) | DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated. | [ai-agents](https://github.com/topics/ai-agents), [branching](https://github.com/topics/branching), [ci](https://github.com/topics/ci) |
 | [pquerna/otp](https://github.com/pquerna/otp) | TOTP library for Go |  |
 | [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) | A static analysis tool for securing Go code | [golang](https://github.com/topics/golang), [security](https://github.com/topics/security), [security-tools](https://github.com/topics/security-tools) |
 | [pressly/goose](https://github.com/pressly/goose) | A database migration tool. Supports SQL migrations and Go functions.  | [database](https://github.com/topics/database), [database-migrations](https://github.com/topics/database-migrations), [go](https://github.com/topics/go) |
@@ -401,7 +402,6 @@ Auto-generated on 2026-10-19T07:37:34Z
 | [stianst/keycloak-operator](https://github.com/stianst/keycloak-operator) | A Kubernetes Operator based on the Operator SDK for syncing resources in Keycloak |  |
 | [streadway/handy](https://github.com/streadway/handy) | net/http handler filters |  |
 | [stretchr/testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library | [assertions](https://github.com/topics/assertions), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
-| [superdurable/dex](https://github.com/superdurable/dex) | Durable Execution (D-EX) framework built on Temporal. Dex extends Temporal to be even more powerful and more area. Dex is a simple durable execution framework optimized for AI agents, human+AI processes, with high performance & scalability. It is forked from iWF of IndeedEng by the creator. |  |
 | [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger) | gin middleware to automatically generate RESTful API documentation with Swagger 2.0. | [gin](https://github.com/topics/gin), [gin-middleware](https://github.com/topics/gin-middleware), [gin-swagger](https://github.com/topics/gin-swagger) |
 | [swaggo/swag](https://github.com/swaggo/swag) | Automatically generate RESTful API documentation with Swagger 2.0 for Go. | [annotations](https://github.com/topics/annotations), [golang](https://github.com/topics/golang), [openapi](https://github.com/topics/openapi) |
 | [switchupcb/copygen](https://github.com/switchupcb/copygen) | Copygen generates code based on Go types. Generate type-based code to copy values from type to type and fields from struct to struct by default (copier without reflection). | [code-generation](https://github.com/topics/code-generation), [code-generator](https://github.com/topics/code-generator), [copy](https://github.com/topics/copy) |

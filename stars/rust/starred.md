@@ -1,6 +1,6 @@
 # 🌟 Rust Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-10-19T07:37:34Z
+Auto-generated on 2026-10-26T07:41:09Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -27,7 +27,7 @@ Auto-generated on 2026-10-19T07:37:34Z
 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |  |
 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 | [http3](https://github.com/topics/http3), [network-programming](https://github.com/topics/network-programming), [protocol](https://github.com/topics/protocol) |
 | [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) | Write Cloudflare Workers in 100% Rust via WebAssembly | [cloudflare](https://github.com/topics/cloudflare), [ffi](https://github.com/topics/ffi), [rust](https://github.com/topics/rust) |
-| [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts. | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
+| [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome | [agent-orchestration](https://github.com/topics/agent-orchestration), [ai-agent](https://github.com/topics/ai-agent), [cli](https://github.com/topics/cli) |
 | [dandavison/delta](https://github.com/dandavison/delta) | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output | [color-themes](https://github.com/topics/color-themes), [delta](https://github.com/topics/delta), [diff](https://github.com/topics/diff) |
 | [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) | Nydus - a reliable, high-performance on-demand load filesytem framework for container image and data distribution. | [accelerator](https://github.com/topics/accelerator), [container](https://github.com/topics/container), [container-image](https://github.com/topics/container-image) |
 | [ekzhang/bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost | [cli](https://github.com/topics/cli), [localhost](https://github.com/topics/localhost), [networking](https://github.com/topics/networking) |
@@ -72,7 +72,8 @@ Auto-generated on 2026-10-19T07:37:34Z
 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | [cli](https://github.com/topics/cli), [command-line](https://github.com/topics/command-line), [git](https://github.com/topics/git) |
 | [slatedb/slatedb](https://github.com/slatedb/slatedb) | A cloud native embedded storage engine built on object storage. | [database](https://github.com/topics/database), [embedded-database](https://github.com/topics/embedded-database), [lsm-tree](https://github.com/topics/lsm-tree) |
 | [starship/starship](https://github.com/starship/starship) | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | [bash](https://github.com/topics/bash), [fish](https://github.com/topics/fish), [fish-prompt](https://github.com/topics/fish-prompt) |
-| [summer-rs/summer-rs](https://github.com/summer-rs/summer-rs) | 🍃spring-rs is a application framework written in rust inspired by java's spring-boot | [axum](https://github.com/topics/axum), [cron-job](https://github.com/topics/cron-job), [kafka](https://github.com/topics/kafka) |
+| [summer-rs/summer-rs](https://github.com/summer-rs/summer-rs) | 🍃summer-rs is a application framework written in rust inspired by java's spring-boot | [axum](https://github.com/topics/axum), [cron-job](https://github.com/topics/cron-job), [kafka](https://github.com/topics/kafka) |
+| [superdurable/dex](https://github.com/superdurable/dex) | Durable Execution (D-EX) framework forked from iWF of IndeedEng by the creator. Dex is No Replay, Zero Dependencies. |  |
 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. | [desktop-app](https://github.com/topics/desktop-app), [high-performance](https://github.com/topics/high-performance), [mobile-app](https://github.com/topics/mobile-app) |
 | [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. | [ai](https://github.com/topics/ai), [ai-engineering](https://github.com/topics/ai-engineering), [anthropic](https://github.com/topics/anthropic) |
 | [tikv/tikv](https://github.com/tikv/tikv) | Distributed transactional key-value database, originally created to complement TiDB | [cncf](https://github.com/topics/cncf), [consensus](https://github.com/topics/consensus), [distributed-transactions](https://github.com/topics/distributed-transactions) |

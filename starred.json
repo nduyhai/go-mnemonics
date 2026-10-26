@@ -1,5 +1,27 @@
 [
   {
+    "name": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "topics": [
+      "canvas",
+      "collaboration",
+      "diagrams",
+      "drawing",
+      "hacktoberfest",
+      "productivity",
+      "whiteboard"
+    ]
+  },
+  {
+    "name": "google-research/harness2",
+    "url": "https://github.com/google-research/harness2",
+    "description": "",
+    "language": "Python",
+    "topics": []
+  },
+  {
     "name": "JuliusBrussee/caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
     "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
@@ -205,8 +227,8 @@
   {
     "name": "superdurable/dex",
     "url": "https://github.com/superdurable/dex",
-    "description": "Durable Execution (D-EX) framework built on Temporal. Dex extends Temporal to be even more powerful and more area. Dex is a simple durable execution framework optimized for AI agents, human+AI processes, with high performance \u0026 scalability. It is forked from iWF of IndeedEng by the creator.",
-    "language": "Go",
+    "description": "Durable Execution (D-EX) framework forked from iWF of IndeedEng by the creator. Dex is No Replay, Zero Dependencies.",
+    "language": "Rust",
     "topics": []
   },
   {
@@ -240,7 +262,7 @@
   {
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "language": "HTML",
     "topics": [
       "agent-skills",
@@ -284,7 +306,7 @@
   {
     "name": "HelpCode-ai/anythingmcp",
     "url": "https://github.com/HelpCode-ai/anythingmcp",
-    "description": "MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 475 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.",
+    "description": "MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 547 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.",
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -986,7 +1008,7 @@
     "name": "AI-Unified-Process/marketplace",
     "url": "https://github.com/AI-Unified-Process/marketplace",
     "description": "",
-    "language": "Python",
+    "language": "Java",
     "topics": []
   },
   {
@@ -1068,7 +1090,7 @@
   {
     "name": "codewhale-hq/Codewhale",
     "url": "https://github.com/codewhale-hq/Codewhale",
-    "description": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
+    "description": "Open-source agent for the terminal written in Rust. Use any provider or model. Issues \u0026 PRs always welcome",
     "language": "Rust",
     "topics": [
       "agent-orchestration",
@@ -1372,7 +1394,7 @@
     "name": "leapmux/leapmux",
     "url": "https://github.com/leapmux/leapmux",
     "description": "AI Coding Agent Multiplexer",
-    "language": "TypeScript",
+    "language": "Go",
     "topics": [
       "acp",
       "ai-agent",
@@ -1691,6 +1713,7 @@
     "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
     "language": "Python",
     "topics": [
+      "aaif",
       "ai",
       "ai-agent",
       "ai-infra",
@@ -2643,13 +2666,15 @@
       "ai-agent",
       "ai-agents",
       "ai-automation",
+      "ai-company-os",
       "ai-coworker",
       "ai-skills-manager",
       "ai-workflow-automation",
       "ai-workflow-automation-agent",
       "ai-workflow-builder",
+      "company-brain",
+      "company-os",
       "harness",
-      "mcp",
       "open-source",
       "self-hosted",
       "workflow-automation"
@@ -9490,7 +9515,7 @@
   {
     "name": "duckdb/duckdb",
     "url": "https://github.com/duckdb/duckdb",
-    "description": "DuckDB is an analytical in-process SQL database management system",
+    "description": "DuckDB is a high-performance analytical database system",
     "language": "C++",
     "topics": [
       "analytics",
@@ -9703,7 +9728,7 @@
   {
     "name": "summer-rs/summer-rs",
     "url": "https://github.com/summer-rs/summer-rs",
-    "description": "🍃spring-rs is a application framework written in rust inspired by java's spring-boot",
+    "description": "🍃summer-rs is a application framework written in rust inspired by java's spring-boot",
     "language": "Rust",
     "topics": [
       "axum",
@@ -12413,7 +12438,7 @@
       "serverless",
       "sidecar",
       "state-management",
-      "worflow-engine",
+      "workflow-engine",
       "workflows"
     ]
   },
@@ -12474,7 +12499,7 @@
   {
     "name": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
-    "description": "Event Driven Orchestration \u0026 Scheduling Platform for Mission Critical Applications",
+    "description": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
     "language": "Java",
     "topics": [
       "ai-agents",
@@ -12696,6 +12721,7 @@
     "description": "DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated.",
     "language": "Go",
     "topics": [
+      "ai-agents",
       "branching",
       "ci",
       "ci-cd",
@@ -12708,10 +12734,13 @@
       "database-schema",
       "database-schema-evolutions",
       "database-schema-migration",
+      "dblab",
+      "llm",
       "pgsql",
       "postgres",
       "postgresql",
-      "sql"
+      "sql",
+      "thin-clones"
     ]
   },
   {

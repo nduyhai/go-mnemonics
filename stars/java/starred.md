@@ -1,9 +1,10 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-10-19T07:37:34Z
+Auto-generated on 2026-10-26T07:41:09Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
+| [AI-Unified-Process/marketplace](https://github.com/AI-Unified-Process/marketplace) |  |  |
 | [Albertoimpl/spring-cloud-gateway-grpc](https://github.com/Albertoimpl/spring-cloud-gateway-grpc) | Blog post describing how to enable gRPC support in the latest Spring Cloud Gateway | [grpc](https://github.com/topics/grpc), [java](https://github.com/topics/java), [spring](https://github.com/topics/spring) |
 | [Angel-ML/angel](https://github.com/Angel-ML/angel) | A Flexible and Powerful Parameter Server for large-scale machine learning | [high-dimensional](https://github.com/topics/high-dimensional), [machine-learning](https://github.com/topics/machine-learning), [model](https://github.com/topics/model) |
 | [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | An API/Schema registry - stores APIs and Schemas. |  |
@@ -205,7 +206,7 @@ Auto-generated on 2026-10-19T07:37:34Z
 | [jspecify/jspecify](https://github.com/jspecify/jspecify) | An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. | [android](https://github.com/topics/android), [annotations](https://github.com/topics/annotations), [bugfinding](https://github.com/topics/bugfinding) |
 | [junit-team/junit-framework](https://github.com/junit-team/junit-framework) | ✅ The programmer-friendly testing framework for Java and the JVM | [java](https://github.com/topics/java), [junit](https://github.com/topics/junit), [junit-jupiter](https://github.com/topics/junit-jupiter) |
 | [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. |  |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | [ai-agents](https://github.com/topics/ai-agents), [automation](https://github.com/topics/automation), [control-plane](https://github.com/topics/control-plane) |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions. | [ai-agents](https://github.com/topics/ai-agents), [automation](https://github.com/topics/automation), [control-plane](https://github.com/topics/control-plane) |
 | [keva-dev/keva-ioc](https://github.com/keva-dev/keva-ioc) | Fast, lightweight, Spring like, annotation driven IoC framework | [dependency-injection](https://github.com/topics/dependency-injection), [ioc-framework](https://github.com/topics/ioc-framework) |
 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | Open Source Identity and Access Management For Modern Applications and Services | [keycloak](https://github.com/topics/keycloak), [oidc](https://github.com/topics/oidc), [saml](https://github.com/topics/saml) |
 | [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) | Kroxylicious, the snappy open source proxy for Apache Kafka® | [apache-kafka](https://github.com/topics/apache-kafka), [java](https://github.com/topics/java), [kafka](https://github.com/topics/kafka) |
