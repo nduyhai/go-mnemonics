@@ -1,5 +1,26 @@
 [
   {
+    "name": "JetBrains/thinkrail",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-coding",
+      "ai-tools",
+      "pi-agent",
+      "pi-agent-extension",
+      "spec-driven",
+      "spec-driven-coding",
+      "spec-driven-development",
+      "vibe-coding",
+      "vibecoding"
+    ]
+  },
+  {
     "name": "excalidraw/excalidraw",
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
@@ -116,7 +137,7 @@
     "name": "colbymchenry/codegraph",
     "url": "https://github.com/colbymchenry/codegraph",
     "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-    "language": "C",
+    "language": "TypeScript",
     "topics": []
   },
   {
@@ -197,7 +218,11 @@
     "url": "https://github.com/agent-substrate/substrate",
     "description": "Agent Substrate: the core system",
     "language": "Go",
-    "topics": []
+    "topics": [
+      "agents",
+      "cncf",
+      "sandboxing"
+    ]
   },
   {
     "name": "google/ax",
@@ -306,29 +331,29 @@
   {
     "name": "HelpCode-ai/anythingmcp",
     "url": "https://github.com/HelpCode-ai/anythingmcp",
-    "description": "MCP gateway for AI agents: turn any REST/OpenAPI, GraphQL, SOAP or SQL API into MCP tools. 547 ready-made connectors (SAP, ERP, e-commerce) with RBAC, SSO, audit logs and a knowledge graph.",
+    "description": "Self-hosted MCP gateway and company brain for AI agents: connect Claude, ChatGPT and Copilot to your ERP, APIs, databases and file servers, with company memory, skills, knowledge graph, SSO/RBAC and audit. 691 connectors (SAP, Odoo, SQL…). Open source, EU cloud.",
     "language": "TypeScript",
     "topics": [
-      "agents",
-      "ai-agents",
-      "ai-gateway",
-      "api-gateway",
-      "chatgpt",
+      "ai-memory",
       "claude",
-      "ecommerce",
+      "code-execution",
+      "company-brain",
+      "enterprise-ai",
+      "enterprise-search",
       "erp",
-      "function-calling",
-      "graphql",
-      "hacktoberfest",
-      "llm",
+      "file-search",
       "mcp",
       "mcp-gateway",
+      "mcp-proxy",
       "mcp-server",
-      "mcp-tools",
       "model-context-protocol",
-      "openapi",
+      "odata",
+      "odoo",
+      "openapi-to-mcp",
       "sap",
-      "self-hosted"
+      "scim",
+      "self-hosted",
+      "soap"
     ]
   },
   {
@@ -1331,7 +1356,7 @@
   {
     "name": "krillinai/OpenCreator",
     "url": "https://github.com/krillinai/OpenCreator",
-    "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
+    "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool for 120+ Languages. Open-source AI workspace for creators, powered by Codex. Video downloader, video translation, create videos, images, audios, and edits with Agents in one place. For your Social Media like YouTube, TikTok, Instagram, etc.",
     "language": "TypeScript",
     "topics": [
       "agent-skills",
@@ -1561,8 +1586,8 @@
     ]
   },
   {
-    "name": "facebook/sapling",
-    "url": "https://github.com/facebook/sapling",
+    "name": "meta/sapling",
+    "url": "https://github.com/meta/sapling",
     "description": "A Scalable, User-Friendly Source Control System.",
     "language": "Rust",
     "topics": []
@@ -1779,7 +1804,7 @@
     "name": "chatfire-AI/huobao-drama",
     "url": "https://github.com/chatfire-AI/huobao-drama",
     "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
-    "language": "Vue",
+    "language": "TypeScript",
     "topics": []
   },
   {
@@ -1800,7 +1825,7 @@
   {
     "name": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
-    "description": "🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
     "language": "Python",
     "topics": [
       "ai",
@@ -5549,12 +5574,12 @@
   {
     "name": "infiniflow/ragflow",
     "url": "https://github.com/infiniflow/ragflow",
-    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
     "language": "Go",
     "topics": [
       "agent-harness",
+      "agent-native-database",
       "agentic-ai",
-      "agentic-nagive",
       "agentic-retrieval",
       "agentic-search",
       "ai",
@@ -7367,7 +7392,7 @@
   {
     "name": "modelcontextprotocol/inspector",
     "url": "https://github.com/modelcontextprotocol/inspector",
-    "description": "Visual testing tool for MCP servers",
+    "description": "Deterministic testing tools for MCP servers",
     "language": "TypeScript",
     "topics": [
       "cli",
@@ -8778,7 +8803,7 @@
   {
     "name": "redisson/redisson",
     "url": "https://github.com/redisson/redisson",
-    "description": "Redisson: Valkey \u0026 Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+    "description": "Redisson: Valkey \u0026 Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Extends Valkey and Redis with over 60 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
     "language": "Java",
     "topics": [
       "cache",
@@ -9178,11 +9203,11 @@
   {
     "name": "camunda/camunda",
     "url": "https://github.com/camunda/camunda",
-    "description": "Process Orchestration Framework",
+    "description": "Agentic Orchestration Platform",
     "language": "Java",
     "topics": [
+      "agentic-orchestration",
       "bpmn",
-      "grpc",
       "java",
       "microservices",
       "orchestration-framework",
@@ -9963,17 +9988,16 @@
     "topics": [
       "deepseek",
       "gemma",
-      "gemma3",
       "glm",
       "go",
       "golang",
       "gpt-oss",
       "llama",
-      "llama3",
       "llm",
       "llms",
       "minimax",
       "mistral",
+      "muse",
       "ollama",
       "qwen"
     ]
@@ -10043,8 +10067,8 @@
     "topics": []
   },
   {
-    "name": "facebook/docusaurus",
-    "url": "https://github.com/facebook/docusaurus",
+    "name": "meta/docusaurus",
+    "url": "https://github.com/meta/docusaurus",
     "description": "Easy to maintain open source documentation websites.",
     "language": "TypeScript",
     "topics": [
@@ -10733,7 +10757,7 @@
     "name": "f/prompts.chat",
     "url": "https://github.com/f/prompts.chat",
     "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "language": "HTML",
+    "language": "MDX",
     "topics": [
       "ai",
       "artificial-intelligence",
@@ -11849,7 +11873,7 @@
   {
     "name": "gammazero/workerpool",
     "url": "https://github.com/gammazero/workerpool",
-    "description": "Concurrency limiting goroutine pool",
+    "description": "non-blocking concurrency-limiting goroutine pool",
     "language": "Go",
     "topics": [
       "concurrency",
@@ -17053,8 +17077,8 @@
     ]
   },
   {
-    "name": "facebook/zstd",
-    "url": "https://github.com/facebook/zstd",
+    "name": "meta/zstd",
+    "url": "https://github.com/meta/zstd",
     "description": "Zstandard - Fast real-time compression algorithm",
     "language": "C",
     "topics": []
@@ -20210,7 +20234,7 @@
     "name": "google/styleguide",
     "url": "https://github.com/google/styleguide",
     "description": "Style guides for Google-originated open-source projects",
-    "language": "HTML",
+    "language": "Emacs Lisp",
     "topics": [
       "cpplint",
       "style-guide",
@@ -21377,8 +21401,8 @@
     ]
   },
   {
-    "name": "facebook/prophet",
-    "url": "https://github.com/facebook/prophet",
+    "name": "meta/prophet",
+    "url": "https://github.com/meta/prophet",
     "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
     "language": "Python",
     "topics": [
@@ -21806,8 +21830,8 @@
     ]
   },
   {
-    "name": "facebook/rocksdb",
-    "url": "https://github.com/facebook/rocksdb",
+    "name": "meta/rocksdb",
+    "url": "https://github.com/meta/rocksdb",
     "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
     "language": "C++",
     "topics": [
@@ -23266,22 +23290,22 @@
     "topics": []
   },
   {
-    "name": "facebook/squangle",
-    "url": "https://github.com/facebook/squangle",
+    "name": "meta/squangle",
+    "url": "https://github.com/meta/squangle",
     "description": "SQuangLe is a C++ API for accessing MySQL servers",
     "language": "C++",
     "topics": []
   },
   {
-    "name": "facebook/wangle",
-    "url": "https://github.com/facebook/wangle",
+    "name": "meta/wangle",
+    "url": "https://github.com/meta/wangle",
     "description": "Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.",
     "language": "C++",
     "topics": []
   },
   {
-    "name": "facebook/fbthrift",
-    "url": "https://github.com/facebook/fbthrift",
+    "name": "meta/fbthrift",
+    "url": "https://github.com/meta/fbthrift",
     "description": "Meta's Thrift implementation: cross-language serialization and high-performance async RPC",
     "language": "C++",
     "topics": []
@@ -23297,15 +23321,15 @@
     ]
   },
   {
-    "name": "facebook/proxygen",
-    "url": "https://github.com/facebook/proxygen",
+    "name": "meta/proxygen",
+    "url": "https://github.com/meta/proxygen",
     "description": "A collection of C++ HTTP libraries including an easy to use HTTP server.",
     "language": "C++",
     "topics": []
   },
   {
-    "name": "facebook/folly",
-    "url": "https://github.com/facebook/folly",
+    "name": "meta/folly",
+    "url": "https://github.com/meta/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
     "topics": []
