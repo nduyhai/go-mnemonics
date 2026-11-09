@@ -1,6 +1,6 @@
 # 🌟 Java Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-11-02T09:15:38Z
+Auto-generated on 2026-11-09T09:34:56Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -92,7 +92,7 @@ Auto-generated on 2026-11-02T09:15:38Z
 | [apache/nutch](https://github.com/apache/nutch) | Apache Nutch is an extensible and scalable web crawler | [apache](https://github.com/topics/apache), [crawling](https://github.com/topics/crawling), [hadoop](https://github.com/topics/hadoop) |
 | [apache/openwebbeans-meecrowave](https://github.com/apache/openwebbeans-meecrowave) | Apache OpenWebBeans meecrowave | [meecrowave](https://github.com/topics/meecrowave) |
 | [apache/ozone](https://github.com/apache/ozone) | Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. | [big-data](https://github.com/topics/big-data), [hadoop](https://github.com/topics/hadoop), [kubernetes](https://github.com/topics/kubernetes) |
-| [apache/pinot](https://github.com/apache/pinot) | Apache Pinot - A realtime distributed OLAP datastore | [java](https://github.com/topics/java) |
+| [apache/pinot](https://github.com/apache/pinot) | Apache Pinot: a real-time analytics database for low-latency SQL and vector search, serving user-facing and agent-facing applications | [ai-agents](https://github.com/topics/ai-agents), [analytics](https://github.com/topics/analytics), [database](https://github.com/topics/database) |
 | [apache/ratis](https://github.com/apache/ratis) | Open source Java implementation for Raft consensus protocol. | [consensus](https://github.com/topics/consensus), [consensus-protocol](https://github.com/topics/consensus-protocol), [java](https://github.com/topics/java) |
 | [apache/rocketmq](https://github.com/apache/rocketmq) | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. | [cloud-native](https://github.com/topics/cloud-native), [eventing](https://github.com/topics/eventing), [hacktoberfest](https://github.com/topics/hacktoberfest) |
 | [apache/roller](https://github.com/apache/roller) | Mirror of Apache Roller | [content](https://github.com/topics/content), [java](https://github.com/topics/java), [roller](https://github.com/topics/roller) |

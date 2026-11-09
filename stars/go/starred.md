@@ -1,6 +1,6 @@
 # 🌟 Go Repositories Starred by [@nduyhai](https://github.com/nduyhai)
 
-Auto-generated on 2026-11-02T09:15:38Z
+Auto-generated on 2026-11-09T09:34:56Z
 
 | Name | Description | Topics |
 |------|-------------|-------|
@@ -64,7 +64,7 @@ Auto-generated on 2026-11-02T09:15:38Z
 | [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) | Go implementation of an Avalanche node. |  |
 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | [awesome](https://github.com/topics/awesome), [awesome-list](https://github.com/topics/awesome-list), [go](https://github.com/topics/go) |
 | [avito-tech/go-transaction-manager](https://github.com/avito-tech/go-transaction-manager) | Transaction manager for GoLang | [database](https://github.com/topics/database), [go](https://github.com/topics/go), [go-trm](https://github.com/topics/go-trm) |
-| [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | Derives and generates mundane golang functions that you do not want to maintain yourself | [deriving](https://github.com/topics/deriving), [functional-programming](https://github.com/topics/functional-programming), [generator](https://github.com/topics/generator) |
+| [awalterschulze/goderive](https://github.com/awalterschulze/goderive) | Moved to https://git.awalterschulze.org/goderive | [deriving](https://github.com/topics/deriving), [functional-programming](https://github.com/topics/functional-programming), [generator](https://github.com/topics/generator) |
 | [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity. |  |
 | [awslabs/aws-go-multi-module-repository-tools](https://github.com/awslabs/aws-go-multi-module-repository-tools) |  |  |
 | [awslabs/diagram-as-code](https://github.com/awslabs/diagram-as-code) | Diagram-as-code for AWS architecture. | [aws](https://github.com/topics/aws), [diagram-as-code](https://github.com/topics/diagram-as-code) |
@@ -384,7 +384,7 @@ Auto-generated on 2026-11-02T09:15:38Z
 | [samber/slog-multi](https://github.com/samber/slog-multi) | 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing... | [attribute](https://github.com/topics/attribute), [error](https://github.com/topics/error), [errors](https://github.com/topics/errors) |
 | [samber/slog-sampling](https://github.com/samber/slog-sampling) | 🚨 slog sampling: drop repetitive log records | [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [handler](https://github.com/topics/handler) |
 | [samber/slog-zap](https://github.com/samber/slog-zap) | 🚨 slog: Zap handler | [adapter](https://github.com/topics/adapter), [attribute](https://github.com/topics/attribute), [error](https://github.com/topics/error) |
-| [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. | [blob-storage](https://github.com/topics/blob-storage), [cloud-drive](https://github.com/topics/cloud-drive), [distributed-file-system](https://github.com/topics/distributed-file-system) |
+| [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. | [blob-storage](https://github.com/topics/blob-storage), [cloud-drive](https://github.com/topics/cloud-drive), [distributed-file-system](https://github.com/topics/distributed-file-system) |
 | [securego/gosec](https://github.com/securego/gosec) | Go security checker | [golang](https://github.com/topics/golang), [security](https://github.com/topics/security), [security-automation](https://github.com/topics/security-automation) |
 | [segmentio/kafka-go](https://github.com/segmentio/kafka-go) | Kafka library in Go | [consumer](https://github.com/topics/consumer), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang) |
 | [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) | Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. | [ansible](https://github.com/topics/ansible), [awx](https://github.com/topics/awx), [ci](https://github.com/topics/ci) |

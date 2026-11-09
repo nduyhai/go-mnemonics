@@ -1,8 +1,49 @@
 [
   {
+    "name": "vercel-labs/agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "topics": []
+  },
+  {
+    "name": "vercel-labs/agent-desktop",
+    "url": "https://github.com/vercel-labs/agent-desktop",
+    "description": "Computer use CLI for AI agents",
+    "language": "Rust",
+    "topics": [
+      "accessibility",
+      "accessibility-api",
+      "ai-agents",
+      "automation",
+      "cli",
+      "computer-use",
+      "computer-use-agent",
+      "computer-use-agents",
+      "desktop-automation",
+      "macos",
+      "mcp",
+      "rust"
+    ]
+  },
+  {
+    "name": "max-sixty/worktrunk",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "language": "Rust",
+    "topics": [
+      "agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "git",
+      "worktrees"
+    ]
+  },
+  {
     "name": "JetBrains/thinkrail",
     "url": "https://github.com/JetBrains/thinkrail",
-    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "description": "ThinkRail is the agentic IDE that gets better every time you use it",
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -143,10 +184,9 @@
   {
     "name": "stablyai/orca",
     "url": "https://github.com/stablyai/orca",
-    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
     "language": "TypeScript",
     "topics": [
-      "ade",
       "agent-ide",
       "ai-agents",
       "automation",
@@ -163,6 +203,7 @@
       "orchestration",
       "pi",
       "runtime",
+      "swarm",
       "terminal",
       "worktrees",
       "yc-backed"
@@ -252,7 +293,7 @@
   {
     "name": "superdurable/dex",
     "url": "https://github.com/superdurable/dex",
-    "description": "Durable Execution (D-EX) framework forked from iWF of IndeedEng by the creator. Dex is No Replay, Zero Dependencies.",
+    "description": "Durable Execution(D-EX). No Replay, Zero Dependencies. Forked from iWF of IndeedEng by the creator. ",
     "language": "Rust",
     "topics": []
   },
@@ -331,28 +372,28 @@
   {
     "name": "HelpCode-ai/anythingmcp",
     "url": "https://github.com/HelpCode-ai/anythingmcp",
-    "description": "Self-hosted MCP gateway and company brain for AI agents: connect Claude, ChatGPT and Copilot to your ERP, APIs, databases and file servers, with company memory, skills, knowledge graph, SSO/RBAC and audit. 691 connectors (SAP, Odoo, SQL…). Open source, EU cloud.",
+    "description": "Enterprise Agent Harness \u0026 MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy…) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge graph, SSO/RBAC, audit log and governance built in. Your AI company brain.",
     "language": "TypeScript",
     "topics": [
-      "ai-memory",
-      "claude",
+      "agent-governance",
+      "agent-harness",
+      "ai-governance",
+      "audit-log",
       "code-execution",
       "company-brain",
       "enterprise-ai",
       "enterprise-search",
-      "erp",
       "file-search",
-      "mcp",
+      "harness-engineering",
       "mcp-gateway",
       "mcp-proxy",
-      "mcp-server",
+      "mcp-security",
       "model-context-protocol",
       "odata",
       "odoo",
       "openapi-to-mcp",
       "sap",
       "scim",
-      "self-hosted",
       "soap"
     ]
   },
@@ -411,8 +452,8 @@
     ]
   },
   {
-    "name": "hyperdxio/hyperdx",
-    "url": "https://github.com/hyperdxio/hyperdx",
+    "name": "ClickHouse/ClickStack",
+    "url": "https://github.com/ClickHouse/ClickStack",
     "description": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.",
     "language": "TypeScript",
     "topics": [
@@ -1140,26 +1181,26 @@
     "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "language": "TypeScript",
     "topics": [
+      "agent-memory",
+      "agent-orchestration",
       "agentic-ai",
-      "agentic-framework",
       "agentic-workflow",
-      "agents",
       "ai-agents",
-      "ai-assistant",
-      "ai-skills",
       "autonomous-agents",
       "claude",
+      "claude-code",
       "codex",
-      "dsh-plugin",
-      "harness",
+      "hnsw",
+      "mcp",
       "mcp-server",
       "multi-agent",
       "multi-agent-systems",
-      "npm",
-      "skills",
+      "plugins",
+      "rvf",
       "swarm",
       "swarm-intelligence",
-      "typescript"
+      "typescript",
+      "vector-search"
     ]
   },
   {
@@ -1765,24 +1806,23 @@
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "language": "Rust",
     "topics": [
-      "awesome",
       "claude",
-      "densepose",
+      "claude-code",
       "esp32",
       "firmware",
       "home-assistant",
       "home-automation",
       "iot",
+      "mcp",
       "monitoring",
       "networking",
-      "npm",
       "pose-estimation",
       "react",
       "rf",
       "self-learning",
-      "skills",
       "spatial-intelligence",
       "typescript",
+      "webassembly",
       "wifi",
       "wifi-security"
     ]
@@ -2062,8 +2102,8 @@
     "topics": []
   },
   {
-    "name": "temporalio/dashboards",
-    "url": "https://github.com/temporalio/dashboards",
+    "name": "temporalio/observability-examples",
+    "url": "https://github.com/temporalio/observability-examples",
     "description": "Temporal Dashboards",
     "language": "Unknown",
     "topics": []
@@ -2101,7 +2141,6 @@
     "topics": [
       "agent-skills",
       "ai-agents",
-      "awesome",
       "awesome-list",
       "claude-code",
       "claude-code-skills",
@@ -2111,7 +2150,6 @@
       "cursor",
       "cursor-skills",
       "gemini-skills",
-      "opencode-skills",
       "skills"
     ]
   },
@@ -2909,9 +2947,22 @@
   {
     "name": "a2ui-project/a2ui",
     "url": "https://github.com/a2ui-project/a2ui",
-    "description": "",
+    "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
     "language": "TypeScript",
-    "topics": []
+    "topics": [
+      "a2a",
+      "a2ui",
+      "agent",
+      "angular",
+      "flutter",
+      "generative-ui",
+      "jetpack-compose",
+      "lit",
+      "llm",
+      "mcp",
+      "react",
+      "swiftui"
+    ]
   },
   {
     "name": "OpenTSDB/opentsdb",
@@ -4281,7 +4332,7 @@
     "name": "mountain-loop/yaak",
     "url": "https://github.com/mountain-loop/yaak",
     "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
-    "language": "TypeScript",
+    "language": "Rust",
     "topics": [
       "bruno-alternative",
       "graphql",
@@ -5591,6 +5642,7 @@
       "knowledge-compilation",
       "rag",
       "retrieval-augmented-generation",
+      "retrieval-harness",
       "search-harness"
     ]
   },
@@ -6217,7 +6269,7 @@
   {
     "name": "awalterschulze/goderive",
     "url": "https://github.com/awalterschulze/goderive",
-    "description": "Derives and generates mundane golang functions that you do not want to maintain yourself",
+    "description": "Moved to https://git.awalterschulze.org/goderive",
     "language": "Go",
     "topics": [
       "deriving",
@@ -7272,7 +7324,7 @@
   {
     "name": "modelcontextprotocol/servers",
     "url": "https://github.com/modelcontextprotocol/servers",
-    "description": "Model Context Protocol Servers",
+    "description": "Model Context Protocol Reference Servers",
     "language": "TypeScript",
     "topics": []
   },
@@ -7419,10 +7471,20 @@
   {
     "name": "apache/pinot",
     "url": "https://github.com/apache/pinot",
-    "description": "Apache Pinot - A realtime distributed OLAP datastore",
+    "description": "Apache Pinot: a real-time analytics database for low-latency SQL and vector search, serving user-facing and agent-facing applications",
     "language": "Java",
     "topics": [
-      "java"
+      "ai-agents",
+      "analytics",
+      "database",
+      "distributed-database",
+      "java",
+      "kafka",
+      "olap",
+      "real-time-analytics",
+      "sql",
+      "vector-database",
+      "vector-search"
     ]
   },
   {
@@ -10191,7 +10253,7 @@
   {
     "name": "gojue/ecapture",
     "url": "https://github.com/gojue/ecapture",
-    "description": "Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.",
+    "description": "Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64\\arm64 and loong64.",
     "language": "C",
     "topics": [
       "android",
@@ -22006,26 +22068,27 @@
   {
     "name": "seaweedfs/seaweedfs",
     "url": "https://github.com/seaweedfs/seaweedfs",
-    "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+    "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
     "language": "Go",
     "topics": [
       "blob-storage",
       "cloud-drive",
       "distributed-file-system",
       "distributed-storage",
-      "distributed-systems",
       "erasure-coding",
       "fuse",
       "hadoop-hdfs",
       "hdfs",
       "kubernetes",
+      "lance",
+      "lancedb",
       "object-storage",
       "posix",
-      "replication",
       "s3",
       "s3-storage",
       "seaweedfs",
-      "tiered-file-system"
+      "tiered-file-system",
+      "vector-search"
     ]
   },
   {
